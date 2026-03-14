@@ -97,6 +97,9 @@
 
   /* Content */
   .chart-card { background: var(--surface); border: 1px solid var(--border); border-radius: 12px; padding: 24px 20px 20px; box-shadow: 0 2px 12px rgba(30,58,110,0.06); }
+  .chart-footer { display: flex; justify-content: space-between; align-items: center; margin-top: 12px; padding-top: 10px; border-top: 1px solid var(--border); }
+  .chart-source { font-size: 10px; color: var(--muted); letter-spacing: 0.08em; }
+  .chart-footer-logo { height: 28px; width: auto; opacity: 0.7; }
   .chart-title { font-family: 'Syne', sans-serif; font-size: 16px; font-weight: 700; color: var(--text); margin-bottom: 4px; }
   .chart-subtitle { font-size: 11px; color: var(--subtle); margin-bottom: 20px; }
   .chart-wrap { position: relative; height: 300px; }
@@ -722,6 +725,10 @@ function renderContent() {
         '<div><div class="stat-label">MIN</div><div class="stat-value">'+formatValue(minVal,selectedMetric.format)+'</div></div>' +
         '<div><div class="stat-label">MAX</div><div class="stat-value">'+formatValue(maxVal,selectedMetric.format)+'</div></div>' +
         '<div><div class="stat-label">AVG</div><div class="stat-value">'+formatValue(avgVal,selectedMetric.format)+'</div></div>' +
+      '</div>' +
+      '<div class="chart-footer">' +
+        '<div class="chart-source">Source: '+(isRentMode() ? 'Zillow Observed Rent Index (ZORI)' : 'Realtor.com Research Data')+'</div>' +
+        '<img class="chart-footer-logo" src="'+document.querySelector('.header-logo').src+'" />' +
       '</div>' +
     '</div>';
 
