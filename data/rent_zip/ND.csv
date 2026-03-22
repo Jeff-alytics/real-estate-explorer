@@ -1,567 +1,585 @@
 RegionID,RegionName,State,month_date_yyyymm,zori,zori_mm,zori_yy,City,Metro,CountyName
-83512,58075,ND,202511,852.51,,,Wahpeton,"Wahpeton, ND-MN",Richland County
-83512,58075,ND,202512,864.63,0.0142,,Wahpeton,"Wahpeton, ND-MN",Richland County
-83512,58075,ND,202601,886.33,0.0251,,Wahpeton,"Wahpeton, ND-MN",Richland County
-83515,58078,ND,202208,1180.26,,,West Fargo,"Fargo, ND-MN",Cass County
-83515,58078,ND,202209,1196.98,0.0142,,West Fargo,"Fargo, ND-MN",Cass County
-83515,58078,ND,202210,1188.5,-0.0071,,West Fargo,"Fargo, ND-MN",Cass County
-83515,58078,ND,202211,1209.74,0.0179,,West Fargo,"Fargo, ND-MN",Cass County
-83515,58078,ND,202212,1226.31,0.0137,,West Fargo,"Fargo, ND-MN",Cass County
-83515,58078,ND,202301,1239.09,0.0104,,West Fargo,"Fargo, ND-MN",Cass County
-83515,58078,ND,202302,1243.04,0.0032,,West Fargo,"Fargo, ND-MN",Cass County
-83515,58078,ND,202303,1224.83,-0.0146,,West Fargo,"Fargo, ND-MN",Cass County
-83515,58078,ND,202304,1213.66,-0.0091,,West Fargo,"Fargo, ND-MN",Cass County
-83515,58078,ND,202305,1218.93,0.0043,,West Fargo,"Fargo, ND-MN",Cass County
-83515,58078,ND,202306,1229.67,0.0088,,West Fargo,"Fargo, ND-MN",Cass County
-83515,58078,ND,202308,1255.75,0.0212,,West Fargo,"Fargo, ND-MN",Cass County
-83515,58078,ND,202309,1272.9,0.0137,0.0785,West Fargo,"Fargo, ND-MN",Cass County
-83515,58078,ND,202310,1283.02,0.008,0.0719,West Fargo,"Fargo, ND-MN",Cass County
-83515,58078,ND,202311,1310.88,0.0217,0.103,West Fargo,"Fargo, ND-MN",Cass County
-83515,58078,ND,202312,1313.1,0.0017,0.0854,West Fargo,"Fargo, ND-MN",Cass County
-83515,58078,ND,202401,1321.0,0.006,0.0772,West Fargo,"Fargo, ND-MN",Cass County
-83515,58078,ND,202402,1294.08,-0.0204,0.0444,West Fargo,"Fargo, ND-MN",Cass County
-83515,58078,ND,202403,1289.03,-0.0039,0.037,West Fargo,"Fargo, ND-MN",Cass County
-83515,58078,ND,202404,1286.89,-0.0017,0.0507,West Fargo,"Fargo, ND-MN",Cass County
-83515,58078,ND,202405,1293.35,0.005,0.0657,West Fargo,"Fargo, ND-MN",Cass County
-83515,58078,ND,202406,1306.13,0.0099,0.0715,West Fargo,"Fargo, ND-MN",Cass County
-83515,58078,ND,202407,1311.48,0.0041,0.0665,West Fargo,"Fargo, ND-MN",Cass County
-83515,58078,ND,202408,1323.12,0.0089,0.0537,West Fargo,"Fargo, ND-MN",Cass County
-83515,58078,ND,202409,1339.98,0.0127,0.0527,West Fargo,"Fargo, ND-MN",Cass County
-83515,58078,ND,202410,1355.78,0.0118,0.0567,West Fargo,"Fargo, ND-MN",Cass County
-83515,58078,ND,202411,1362.04,0.0046,0.039,West Fargo,"Fargo, ND-MN",Cass County
-83515,58078,ND,202412,1349.57,-0.0092,0.0278,West Fargo,"Fargo, ND-MN",Cass County
-83515,58078,ND,202501,1330.7,-0.014,0.0073,West Fargo,"Fargo, ND-MN",Cass County
-83515,58078,ND,202502,1343.75,0.0098,0.0384,West Fargo,"Fargo, ND-MN",Cass County
-83515,58078,ND,202503,1341.31,-0.0018,0.0406,West Fargo,"Fargo, ND-MN",Cass County
-83515,58078,ND,202504,1351.35,0.0075,0.0501,West Fargo,"Fargo, ND-MN",Cass County
-83515,58078,ND,202505,1339.92,-0.0085,0.036,West Fargo,"Fargo, ND-MN",Cass County
-83515,58078,ND,202506,1348.33,0.0063,0.0323,West Fargo,"Fargo, ND-MN",Cass County
-83515,58078,ND,202507,1348.18,-0.0001,0.028,West Fargo,"Fargo, ND-MN",Cass County
-83515,58078,ND,202508,1351.18,0.0022,0.0212,West Fargo,"Fargo, ND-MN",Cass County
-83515,58078,ND,202509,1371.95,0.0154,0.0239,West Fargo,"Fargo, ND-MN",Cass County
-83515,58078,ND,202510,1385.11,0.0096,0.0216,West Fargo,"Fargo, ND-MN",Cass County
-83515,58078,ND,202511,1386.28,0.0008,0.0178,West Fargo,"Fargo, ND-MN",Cass County
-83515,58078,ND,202512,1381.63,-0.0034,0.0238,West Fargo,"Fargo, ND-MN",Cass County
-83515,58078,ND,202601,1390.15,0.0062,0.0447,West Fargo,"Fargo, ND-MN",Cass County
-83518,58102,ND,202201,874.72,,,Fargo,"Fargo, ND-MN",Cass County
-83518,58102,ND,202202,880.17,0.0062,,Fargo,"Fargo, ND-MN",Cass County
-83518,58102,ND,202203,927.96,0.0543,,Fargo,"Fargo, ND-MN",Cass County
-83518,58102,ND,202204,941.65,0.0148,,Fargo,"Fargo, ND-MN",Cass County
-83518,58102,ND,202205,958.49,0.0179,,Fargo,"Fargo, ND-MN",Cass County
-83518,58102,ND,202206,954.64,-0.004,,Fargo,"Fargo, ND-MN",Cass County
-83518,58102,ND,202207,955.72,0.0011,,Fargo,"Fargo, ND-MN",Cass County
-83518,58102,ND,202208,942.78,-0.0135,,Fargo,"Fargo, ND-MN",Cass County
-83518,58102,ND,202209,939.88,-0.0031,,Fargo,"Fargo, ND-MN",Cass County
-83518,58102,ND,202210,942.07,0.0023,,Fargo,"Fargo, ND-MN",Cass County
-83518,58102,ND,202211,959.4,0.0184,,Fargo,"Fargo, ND-MN",Cass County
-83518,58102,ND,202301,961.15,0.0018,,Fargo,"Fargo, ND-MN",Cass County
-83518,58102,ND,202302,956.05,-0.0053,0.093,Fargo,"Fargo, ND-MN",Cass County
-83518,58102,ND,202303,968.45,0.013,0.1003,Fargo,"Fargo, ND-MN",Cass County
-83518,58102,ND,202304,975.45,0.0072,0.0512,Fargo,"Fargo, ND-MN",Cass County
-83518,58102,ND,202305,985.55,0.0104,0.0466,Fargo,"Fargo, ND-MN",Cass County
-83518,58102,ND,202306,990.45,0.005,0.0333,Fargo,"Fargo, ND-MN",Cass County
-83518,58102,ND,202307,997.78,0.0074,0.0452,Fargo,"Fargo, ND-MN",Cass County
-83518,58102,ND,202308,1001.97,0.0042,0.0484,Fargo,"Fargo, ND-MN",Cass County
-83518,58102,ND,202309,999.0,-0.003,0.0596,Fargo,"Fargo, ND-MN",Cass County
-83518,58102,ND,202310,989.28,-0.0097,0.0526,Fargo,"Fargo, ND-MN",Cass County
-83518,58102,ND,202311,988.89,-0.0004,0.0497,Fargo,"Fargo, ND-MN",Cass County
-83518,58102,ND,202312,989.55,0.0007,0.0314,Fargo,"Fargo, ND-MN",Cass County
-83518,58102,ND,202401,997.36,0.0079,0.0377,Fargo,"Fargo, ND-MN",Cass County
-83518,58102,ND,202402,1000.18,0.0028,0.0462,Fargo,"Fargo, ND-MN",Cass County
-83518,58102,ND,202403,1020.26,0.0201,0.0535,Fargo,"Fargo, ND-MN",Cass County
-83518,58102,ND,202404,1026.93,0.0065,0.0528,Fargo,"Fargo, ND-MN",Cass County
-83518,58102,ND,202405,1034.88,0.0077,0.0501,Fargo,"Fargo, ND-MN",Cass County
-83518,58102,ND,202406,1040.99,0.0059,0.051,Fargo,"Fargo, ND-MN",Cass County
-83518,58102,ND,202407,1049.95,0.0086,0.0523,Fargo,"Fargo, ND-MN",Cass County
-83518,58102,ND,202408,1053.4,0.0033,0.0513,Fargo,"Fargo, ND-MN",Cass County
-83518,58102,ND,202409,1054.07,0.0006,0.0551,Fargo,"Fargo, ND-MN",Cass County
-83518,58102,ND,202410,1074.07,0.019,0.0857,Fargo,"Fargo, ND-MN",Cass County
-83518,58102,ND,202411,1077.8,0.0035,0.0899,Fargo,"Fargo, ND-MN",Cass County
-83518,58102,ND,202412,1093.19,0.0143,0.1047,Fargo,"Fargo, ND-MN",Cass County
-83518,58102,ND,202501,1062.37,-0.0282,0.0652,Fargo,"Fargo, ND-MN",Cass County
-83518,58102,ND,202502,1067.06,0.0044,0.0669,Fargo,"Fargo, ND-MN",Cass County
-83518,58102,ND,202503,1046.06,-0.0197,0.0253,Fargo,"Fargo, ND-MN",Cass County
-83518,58102,ND,202504,1056.64,0.0101,0.0289,Fargo,"Fargo, ND-MN",Cass County
-83518,58102,ND,202505,1055.34,-0.0012,0.0198,Fargo,"Fargo, ND-MN",Cass County
-83518,58102,ND,202506,1065.85,0.01,0.0239,Fargo,"Fargo, ND-MN",Cass County
-83518,58102,ND,202507,1076.42,0.0099,0.0252,Fargo,"Fargo, ND-MN",Cass County
-83518,58102,ND,202508,1085.35,0.0083,0.0303,Fargo,"Fargo, ND-MN",Cass County
-83518,58102,ND,202509,1082.15,-0.0029,0.0266,Fargo,"Fargo, ND-MN",Cass County
-83518,58102,ND,202510,1059.71,-0.0207,-0.0134,Fargo,"Fargo, ND-MN",Cass County
-83518,58102,ND,202511,1054.82,-0.0046,-0.0213,Fargo,"Fargo, ND-MN",Cass County
-83518,58102,ND,202512,1065.51,0.0101,-0.0253,Fargo,"Fargo, ND-MN",Cass County
-83518,58102,ND,202601,1092.48,0.0253,0.0283,Fargo,"Fargo, ND-MN",Cass County
-83519,58103,ND,202301,682.23,,,Fargo,"Fargo, ND-MN",Cass County
-83519,58103,ND,202302,692.8,0.0155,,Fargo,"Fargo, ND-MN",Cass County
-83519,58103,ND,202303,695.36,0.0037,,Fargo,"Fargo, ND-MN",Cass County
-83519,58103,ND,202304,699.71,0.0063,,Fargo,"Fargo, ND-MN",Cass County
-83519,58103,ND,202305,700.12,0.0006,,Fargo,"Fargo, ND-MN",Cass County
-83519,58103,ND,202306,710.29,0.0145,,Fargo,"Fargo, ND-MN",Cass County
-83519,58103,ND,202307,709.87,-0.0006,,Fargo,"Fargo, ND-MN",Cass County
-83519,58103,ND,202308,715.25,0.0076,,Fargo,"Fargo, ND-MN",Cass County
-83519,58103,ND,202309,717.98,0.0038,,Fargo,"Fargo, ND-MN",Cass County
-83519,58103,ND,202310,725.14,0.01,,Fargo,"Fargo, ND-MN",Cass County
-83519,58103,ND,202311,725.36,0.0003,,Fargo,"Fargo, ND-MN",Cass County
-83519,58103,ND,202312,732.77,0.0102,,Fargo,"Fargo, ND-MN",Cass County
-83519,58103,ND,202401,733.28,0.0007,0.0748,Fargo,"Fargo, ND-MN",Cass County
-83519,58103,ND,202402,737.18,0.0053,0.0641,Fargo,"Fargo, ND-MN",Cass County
-83519,58103,ND,202403,741.25,0.0055,0.066,Fargo,"Fargo, ND-MN",Cass County
-83519,58103,ND,202404,749.33,0.0109,0.0709,Fargo,"Fargo, ND-MN",Cass County
-83519,58103,ND,202405,755.2,0.0078,0.0787,Fargo,"Fargo, ND-MN",Cass County
-83519,58103,ND,202406,755.95,0.001,0.0643,Fargo,"Fargo, ND-MN",Cass County
-83519,58103,ND,202407,757.83,0.0025,0.0676,Fargo,"Fargo, ND-MN",Cass County
-83519,58103,ND,202408,754.97,-0.0038,0.0555,Fargo,"Fargo, ND-MN",Cass County
-83519,58103,ND,202409,754.78,-0.0003,0.0513,Fargo,"Fargo, ND-MN",Cass County
-83519,58103,ND,202410,751.79,-0.004,0.0368,Fargo,"Fargo, ND-MN",Cass County
-83519,58103,ND,202411,756.66,0.0065,0.0432,Fargo,"Fargo, ND-MN",Cass County
-83519,58103,ND,202412,756.07,-0.0008,0.0318,Fargo,"Fargo, ND-MN",Cass County
-83519,58103,ND,202501,759.73,0.0048,0.0361,Fargo,"Fargo, ND-MN",Cass County
-83519,58103,ND,202502,760.03,0.0004,0.031,Fargo,"Fargo, ND-MN",Cass County
-83519,58103,ND,202503,763.32,0.0043,0.0298,Fargo,"Fargo, ND-MN",Cass County
-83519,58103,ND,202504,765.3,0.0026,0.0213,Fargo,"Fargo, ND-MN",Cass County
-83519,58103,ND,202505,761.39,-0.0051,0.0082,Fargo,"Fargo, ND-MN",Cass County
-83519,58103,ND,202506,771.42,0.0132,0.0205,Fargo,"Fargo, ND-MN",Cass County
-83519,58103,ND,202507,778.01,0.0085,0.0266,Fargo,"Fargo, ND-MN",Cass County
-83519,58103,ND,202508,794.09,0.0207,0.0518,Fargo,"Fargo, ND-MN",Cass County
-83519,58103,ND,202509,786.94,-0.009,0.0426,Fargo,"Fargo, ND-MN",Cass County
-83519,58103,ND,202510,793.24,0.008,0.0551,Fargo,"Fargo, ND-MN",Cass County
-83519,58103,ND,202511,789.36,-0.0049,0.0432,Fargo,"Fargo, ND-MN",Cass County
-83519,58103,ND,202512,800.26,0.0138,0.0585,Fargo,"Fargo, ND-MN",Cass County
-83519,58103,ND,202601,801.22,0.0012,0.0546,Fargo,"Fargo, ND-MN",Cass County
-83520,58104,ND,202302,1081.68,,,Fargo,"Fargo, ND-MN",Cass County
-83520,58104,ND,202303,1086.08,0.0041,,Fargo,"Fargo, ND-MN",Cass County
-83520,58104,ND,202304,1106.42,0.0187,,Fargo,"Fargo, ND-MN",Cass County
-83520,58104,ND,202305,1097.31,-0.0082,,Fargo,"Fargo, ND-MN",Cass County
-83520,58104,ND,202306,1106.7,0.0086,,Fargo,"Fargo, ND-MN",Cass County
-83520,58104,ND,202307,1118.4,0.0106,,Fargo,"Fargo, ND-MN",Cass County
-83520,58104,ND,202308,1140.47,0.0197,,Fargo,"Fargo, ND-MN",Cass County
-83520,58104,ND,202309,1150.94,0.0092,,Fargo,"Fargo, ND-MN",Cass County
-83520,58104,ND,202310,1160.87,0.0086,,Fargo,"Fargo, ND-MN",Cass County
-83520,58104,ND,202311,1179.71,0.0162,,Fargo,"Fargo, ND-MN",Cass County
-83520,58104,ND,202312,1176.29,-0.0029,,Fargo,"Fargo, ND-MN",Cass County
-83520,58104,ND,202401,1194.23,0.0152,,Fargo,"Fargo, ND-MN",Cass County
-83520,58104,ND,202402,1187.09,-0.006,0.0975,Fargo,"Fargo, ND-MN",Cass County
-83520,58104,ND,202403,1190.1,0.0025,0.0958,Fargo,"Fargo, ND-MN",Cass County
-83520,58104,ND,202404,1175.84,-0.012,0.0627,Fargo,"Fargo, ND-MN",Cass County
-83520,58104,ND,202405,1184.86,0.0077,0.0798,Fargo,"Fargo, ND-MN",Cass County
-83520,58104,ND,202406,1193.51,0.0073,0.0784,Fargo,"Fargo, ND-MN",Cass County
-83520,58104,ND,202407,1198.41,0.0041,0.0715,Fargo,"Fargo, ND-MN",Cass County
-83520,58104,ND,202408,1197.51,-0.0007,0.05,Fargo,"Fargo, ND-MN",Cass County
-83520,58104,ND,202409,1204.27,0.0056,0.0463,Fargo,"Fargo, ND-MN",Cass County
-83520,58104,ND,202410,1213.19,0.0074,0.0451,Fargo,"Fargo, ND-MN",Cass County
-83520,58104,ND,202411,1215.36,0.0018,0.0302,Fargo,"Fargo, ND-MN",Cass County
-83520,58104,ND,202412,1217.14,0.0015,0.0347,Fargo,"Fargo, ND-MN",Cass County
-83520,58104,ND,202501,1197.8,-0.0159,0.003,Fargo,"Fargo, ND-MN",Cass County
-83520,58104,ND,202502,1187.71,-0.0084,0.0005,Fargo,"Fargo, ND-MN",Cass County
-83520,58104,ND,202503,1191.96,0.0036,0.0016,Fargo,"Fargo, ND-MN",Cass County
-83520,58104,ND,202504,1211.72,0.0166,0.0305,Fargo,"Fargo, ND-MN",Cass County
-83520,58104,ND,202505,1232.31,0.017,0.04,Fargo,"Fargo, ND-MN",Cass County
-83520,58104,ND,202506,1236.22,0.0032,0.0358,Fargo,"Fargo, ND-MN",Cass County
-83520,58104,ND,202507,1245.6,0.0076,0.0394,Fargo,"Fargo, ND-MN",Cass County
-83520,58104,ND,202508,1257.37,0.0095,0.05,Fargo,"Fargo, ND-MN",Cass County
-83520,58104,ND,202509,1253.18,-0.0033,0.0406,Fargo,"Fargo, ND-MN",Cass County
-83520,58104,ND,202510,1255.63,0.002,0.035,Fargo,"Fargo, ND-MN",Cass County
-83520,58104,ND,202511,1250.01,-0.0045,0.0285,Fargo,"Fargo, ND-MN",Cass County
-83520,58104,ND,202512,1244.02,-0.0048,0.0221,Fargo,"Fargo, ND-MN",Cass County
-83520,58104,ND,202601,1244.94,0.0007,0.0394,Fargo,"Fargo, ND-MN",Cass County
-83532,58201,ND,202101,914.45,,,Grand Forks,"Grand Forks, ND-MN",Grand Forks County
-83532,58201,ND,202102,925.36,0.0119,,Grand Forks,"Grand Forks, ND-MN",Grand Forks County
-83532,58201,ND,202103,933.65,0.009,,Grand Forks,"Grand Forks, ND-MN",Grand Forks County
-83532,58201,ND,202104,933.21,-0.0005,,Grand Forks,"Grand Forks, ND-MN",Grand Forks County
-83532,58201,ND,202105,945.57,0.0132,,Grand Forks,"Grand Forks, ND-MN",Grand Forks County
-83532,58201,ND,202106,947.56,0.0021,,Grand Forks,"Grand Forks, ND-MN",Grand Forks County
-83532,58201,ND,202107,946.94,-0.0007,,Grand Forks,"Grand Forks, ND-MN",Grand Forks County
-83532,58201,ND,202108,951.62,0.0049,,Grand Forks,"Grand Forks, ND-MN",Grand Forks County
-83532,58201,ND,202109,948.18,-0.0036,,Grand Forks,"Grand Forks, ND-MN",Grand Forks County
-83532,58201,ND,202110,950.99,0.003,,Grand Forks,"Grand Forks, ND-MN",Grand Forks County
-83532,58201,ND,202111,955.05,0.0043,,Grand Forks,"Grand Forks, ND-MN",Grand Forks County
-83532,58201,ND,202112,964.96,0.0104,,Grand Forks,"Grand Forks, ND-MN",Grand Forks County
-83532,58201,ND,202201,960.98,-0.0041,0.0509,Grand Forks,"Grand Forks, ND-MN",Grand Forks County
-83532,58201,ND,202202,958.63,-0.0024,0.036,Grand Forks,"Grand Forks, ND-MN",Grand Forks County
-83532,58201,ND,202203,955.2,-0.0036,0.0231,Grand Forks,"Grand Forks, ND-MN",Grand Forks County
-83532,58201,ND,202204,968.83,0.0143,0.0382,Grand Forks,"Grand Forks, ND-MN",Grand Forks County
-83532,58201,ND,202205,976.93,0.0084,0.0332,Grand Forks,"Grand Forks, ND-MN",Grand Forks County
-83532,58201,ND,202206,989.74,0.0131,0.0445,Grand Forks,"Grand Forks, ND-MN",Grand Forks County
-83532,58201,ND,202207,1002.88,0.0133,0.0591,Grand Forks,"Grand Forks, ND-MN",Grand Forks County
-83532,58201,ND,202208,1009.59,0.0067,0.0609,Grand Forks,"Grand Forks, ND-MN",Grand Forks County
-83532,58201,ND,202209,1012.61,0.003,0.068,Grand Forks,"Grand Forks, ND-MN",Grand Forks County
-83532,58201,ND,202210,1008.46,-0.0041,0.0604,Grand Forks,"Grand Forks, ND-MN",Grand Forks County
-83532,58201,ND,202211,1005.53,-0.0029,0.0529,Grand Forks,"Grand Forks, ND-MN",Grand Forks County
-83532,58201,ND,202212,1000.05,-0.0055,0.0364,Grand Forks,"Grand Forks, ND-MN",Grand Forks County
-83532,58201,ND,202301,997.35,-0.0027,0.0379,Grand Forks,"Grand Forks, ND-MN",Grand Forks County
-83532,58201,ND,202302,999.04,0.0017,0.0422,Grand Forks,"Grand Forks, ND-MN",Grand Forks County
-83532,58201,ND,202303,1008.08,0.009,0.0554,Grand Forks,"Grand Forks, ND-MN",Grand Forks County
-83532,58201,ND,202304,1014.65,0.0065,0.0473,Grand Forks,"Grand Forks, ND-MN",Grand Forks County
-83532,58201,ND,202305,1020.74,0.006,0.0449,Grand Forks,"Grand Forks, ND-MN",Grand Forks County
-83532,58201,ND,202306,1028.99,0.0081,0.0397,Grand Forks,"Grand Forks, ND-MN",Grand Forks County
-83532,58201,ND,202307,1037.75,0.0085,0.0348,Grand Forks,"Grand Forks, ND-MN",Grand Forks County
-83532,58201,ND,202308,1042.8,0.0049,0.0329,Grand Forks,"Grand Forks, ND-MN",Grand Forks County
-83532,58201,ND,202309,1036.87,-0.0057,0.024,Grand Forks,"Grand Forks, ND-MN",Grand Forks County
-83532,58201,ND,202310,1034.0,-0.0028,0.0253,Grand Forks,"Grand Forks, ND-MN",Grand Forks County
-83532,58201,ND,202311,1034.54,0.0005,0.0288,Grand Forks,"Grand Forks, ND-MN",Grand Forks County
-83532,58201,ND,202312,1034.92,0.0004,0.0349,Grand Forks,"Grand Forks, ND-MN",Grand Forks County
-83532,58201,ND,202401,1035.43,0.0005,0.0382,Grand Forks,"Grand Forks, ND-MN",Grand Forks County
-83532,58201,ND,202402,1040.04,0.0045,0.041,Grand Forks,"Grand Forks, ND-MN",Grand Forks County
-83532,58201,ND,202403,1058.93,0.0182,0.0505,Grand Forks,"Grand Forks, ND-MN",Grand Forks County
-83532,58201,ND,202404,1075.11,0.0153,0.0596,Grand Forks,"Grand Forks, ND-MN",Grand Forks County
-83532,58201,ND,202405,1088.73,0.0127,0.0666,Grand Forks,"Grand Forks, ND-MN",Grand Forks County
-83532,58201,ND,202406,1101.43,0.0117,0.0704,Grand Forks,"Grand Forks, ND-MN",Grand Forks County
-83532,58201,ND,202407,1110.81,0.0085,0.0704,Grand Forks,"Grand Forks, ND-MN",Grand Forks County
-83532,58201,ND,202408,1121.37,0.0095,0.0753,Grand Forks,"Grand Forks, ND-MN",Grand Forks County
-83532,58201,ND,202409,1116.12,-0.0047,0.0764,Grand Forks,"Grand Forks, ND-MN",Grand Forks County
-83532,58201,ND,202410,1111.41,-0.0042,0.0749,Grand Forks,"Grand Forks, ND-MN",Grand Forks County
-83532,58201,ND,202411,1106.26,-0.0046,0.0693,Grand Forks,"Grand Forks, ND-MN",Grand Forks County
-83532,58201,ND,202412,1117.4,0.0101,0.0797,Grand Forks,"Grand Forks, ND-MN",Grand Forks County
-83532,58201,ND,202501,1126.77,0.0084,0.0882,Grand Forks,"Grand Forks, ND-MN",Grand Forks County
-83532,58201,ND,202502,1139.64,0.0114,0.0958,Grand Forks,"Grand Forks, ND-MN",Grand Forks County
-83532,58201,ND,202503,1147.01,0.0065,0.0832,Grand Forks,"Grand Forks, ND-MN",Grand Forks County
-83532,58201,ND,202504,1159.56,0.0109,0.0785,Grand Forks,"Grand Forks, ND-MN",Grand Forks County
-83532,58201,ND,202505,1174.02,0.0125,0.0783,Grand Forks,"Grand Forks, ND-MN",Grand Forks County
-83532,58201,ND,202506,1184.17,0.0086,0.0751,Grand Forks,"Grand Forks, ND-MN",Grand Forks County
-83532,58201,ND,202507,1194.41,0.0086,0.0753,Grand Forks,"Grand Forks, ND-MN",Grand Forks County
-83532,58201,ND,202508,1201.28,0.0057,0.0713,Grand Forks,"Grand Forks, ND-MN",Grand Forks County
-83532,58201,ND,202509,1214.83,0.0113,0.0884,Grand Forks,"Grand Forks, ND-MN",Grand Forks County
-83532,58201,ND,202510,1213.97,-0.0007,0.0923,Grand Forks,"Grand Forks, ND-MN",Grand Forks County
-83532,58201,ND,202511,1200.17,-0.0114,0.0849,Grand Forks,"Grand Forks, ND-MN",Grand Forks County
-83532,58201,ND,202512,1195.11,-0.0042,0.0695,Grand Forks,"Grand Forks, ND-MN",Grand Forks County
-83532,58201,ND,202601,1209.25,0.0118,0.0732,Grand Forks,"Grand Forks, ND-MN",Grand Forks County
-83534,58203,ND,202101,934.23,,,Grand Forks,"Grand Forks, ND-MN",Grand Forks County
-83534,58203,ND,202102,962.77,0.0306,,Grand Forks,"Grand Forks, ND-MN",Grand Forks County
-83534,58203,ND,202103,974.23,0.0119,,Grand Forks,"Grand Forks, ND-MN",Grand Forks County
-83534,58203,ND,202104,975.58,0.0014,,Grand Forks,"Grand Forks, ND-MN",Grand Forks County
-83534,58203,ND,202105,967.79,-0.008,,Grand Forks,"Grand Forks, ND-MN",Grand Forks County
-83534,58203,ND,202106,972.71,0.0051,,Grand Forks,"Grand Forks, ND-MN",Grand Forks County
-83534,58203,ND,202107,978.6,0.0061,,Grand Forks,"Grand Forks, ND-MN",Grand Forks County
-83534,58203,ND,202108,985.61,0.0072,,Grand Forks,"Grand Forks, ND-MN",Grand Forks County
-83534,58203,ND,202109,989.78,0.0042,,Grand Forks,"Grand Forks, ND-MN",Grand Forks County
-83534,58203,ND,202110,983.53,-0.0063,,Grand Forks,"Grand Forks, ND-MN",Grand Forks County
-83534,58203,ND,202111,982.06,-0.0015,,Grand Forks,"Grand Forks, ND-MN",Grand Forks County
-83534,58203,ND,202112,965.95,-0.0164,,Grand Forks,"Grand Forks, ND-MN",Grand Forks County
-83534,58203,ND,202201,969.06,0.0032,0.0373,Grand Forks,"Grand Forks, ND-MN",Grand Forks County
-83534,58203,ND,202202,976.65,0.0078,0.0144,Grand Forks,"Grand Forks, ND-MN",Grand Forks County
-83534,58203,ND,202203,1001.69,0.0256,0.0282,Grand Forks,"Grand Forks, ND-MN",Grand Forks County
-83534,58203,ND,202204,1011.07,0.0094,0.0364,Grand Forks,"Grand Forks, ND-MN",Grand Forks County
-83534,58203,ND,202205,1016.74,0.0056,0.0506,Grand Forks,"Grand Forks, ND-MN",Grand Forks County
-83534,58203,ND,202206,1015.02,-0.0017,0.0435,Grand Forks,"Grand Forks, ND-MN",Grand Forks County
-83534,58203,ND,202207,1014.81,-0.0002,0.037,Grand Forks,"Grand Forks, ND-MN",Grand Forks County
-83534,58203,ND,202208,1027.57,0.0126,0.0426,Grand Forks,"Grand Forks, ND-MN",Grand Forks County
-83534,58203,ND,202209,1027.52,-0.0,0.0381,Grand Forks,"Grand Forks, ND-MN",Grand Forks County
-83534,58203,ND,202210,1036.41,0.0087,0.0538,Grand Forks,"Grand Forks, ND-MN",Grand Forks County
-83534,58203,ND,202211,1015.9,-0.0198,0.0345,Grand Forks,"Grand Forks, ND-MN",Grand Forks County
-83534,58203,ND,202212,1037.14,0.0209,0.0737,Grand Forks,"Grand Forks, ND-MN",Grand Forks County
-83534,58203,ND,202301,1036.63,-0.0005,0.0697,Grand Forks,"Grand Forks, ND-MN",Grand Forks County
-83534,58203,ND,202302,1054.63,0.0174,0.0798,Grand Forks,"Grand Forks, ND-MN",Grand Forks County
-83534,58203,ND,202303,1049.49,-0.0049,0.0477,Grand Forks,"Grand Forks, ND-MN",Grand Forks County
-83534,58203,ND,202304,1054.72,0.005,0.0432,Grand Forks,"Grand Forks, ND-MN",Grand Forks County
-83534,58203,ND,202305,1065.97,0.0107,0.0484,Grand Forks,"Grand Forks, ND-MN",Grand Forks County
-83534,58203,ND,202306,1069.12,0.003,0.0533,Grand Forks,"Grand Forks, ND-MN",Grand Forks County
-83534,58203,ND,202307,1098.45,0.0274,0.0824,Grand Forks,"Grand Forks, ND-MN",Grand Forks County
-83534,58203,ND,202308,1104.32,0.0053,0.0747,Grand Forks,"Grand Forks, ND-MN",Grand Forks County
-83534,58203,ND,202309,1120.89,0.015,0.0909,Grand Forks,"Grand Forks, ND-MN",Grand Forks County
-83534,58203,ND,202310,1102.53,-0.0164,0.0638,Grand Forks,"Grand Forks, ND-MN",Grand Forks County
-83534,58203,ND,202311,1099.39,-0.0028,0.0822,Grand Forks,"Grand Forks, ND-MN",Grand Forks County
-83534,58203,ND,202312,1069.1,-0.0276,0.0308,Grand Forks,"Grand Forks, ND-MN",Grand Forks County
-83534,58203,ND,202401,1091.26,0.0207,0.0527,Grand Forks,"Grand Forks, ND-MN",Grand Forks County
-83534,58203,ND,202402,1109.27,0.0165,0.0518,Grand Forks,"Grand Forks, ND-MN",Grand Forks County
-83534,58203,ND,202403,1149.05,0.0359,0.0949,Grand Forks,"Grand Forks, ND-MN",Grand Forks County
-83534,58203,ND,202404,1141.46,-0.0066,0.0822,Grand Forks,"Grand Forks, ND-MN",Grand Forks County
-83534,58203,ND,202405,1128.21,-0.0116,0.0584,Grand Forks,"Grand Forks, ND-MN",Grand Forks County
-83534,58203,ND,202406,1121.65,-0.0058,0.0491,Grand Forks,"Grand Forks, ND-MN",Grand Forks County
-83534,58203,ND,202407,1129.72,0.0072,0.0285,Grand Forks,"Grand Forks, ND-MN",Grand Forks County
-83534,58203,ND,202408,1157.64,0.0247,0.0483,Grand Forks,"Grand Forks, ND-MN",Grand Forks County
-83534,58203,ND,202409,1165.87,0.0071,0.0401,Grand Forks,"Grand Forks, ND-MN",Grand Forks County
-83534,58203,ND,202410,1169.23,0.0029,0.0605,Grand Forks,"Grand Forks, ND-MN",Grand Forks County
-83534,58203,ND,202411,1163.93,-0.0045,0.0587,Grand Forks,"Grand Forks, ND-MN",Grand Forks County
-83534,58203,ND,202412,1164.17,0.0002,0.0889,Grand Forks,"Grand Forks, ND-MN",Grand Forks County
-83534,58203,ND,202501,1170.43,0.0054,0.0726,Grand Forks,"Grand Forks, ND-MN",Grand Forks County
-83534,58203,ND,202502,1186.25,0.0135,0.0694,Grand Forks,"Grand Forks, ND-MN",Grand Forks County
-83534,58203,ND,202503,1230.27,0.0371,0.0707,Grand Forks,"Grand Forks, ND-MN",Grand Forks County
-83534,58203,ND,202504,1237.84,0.0062,0.0844,Grand Forks,"Grand Forks, ND-MN",Grand Forks County
-83534,58203,ND,202505,1220.1,-0.0143,0.0814,Grand Forks,"Grand Forks, ND-MN",Grand Forks County
-83534,58203,ND,202506,1187.31,-0.0269,0.0585,Grand Forks,"Grand Forks, ND-MN",Grand Forks County
-83534,58203,ND,202507,1195.46,0.0069,0.0582,Grand Forks,"Grand Forks, ND-MN",Grand Forks County
-83534,58203,ND,202508,1232.34,0.0309,0.0645,Grand Forks,"Grand Forks, ND-MN",Grand Forks County
-83534,58203,ND,202509,1247.47,0.0123,0.07,Grand Forks,"Grand Forks, ND-MN",Grand Forks County
-83534,58203,ND,202510,1228.25,-0.0154,0.0505,Grand Forks,"Grand Forks, ND-MN",Grand Forks County
-83534,58203,ND,202511,1216.61,-0.0095,0.0453,Grand Forks,"Grand Forks, ND-MN",Grand Forks County
-83534,58203,ND,202512,1222.61,0.0049,0.0502,Grand Forks,"Grand Forks, ND-MN",Grand Forks County
-83534,58203,ND,202601,1256.25,0.0275,0.0733,Grand Forks,"Grand Forks, ND-MN",Grand Forks County
-83644,58401,ND,202211,952.87,,,Jamestown,"Jamestown, ND",Stutsman County
-83644,58401,ND,202212,965.77,0.0135,,Jamestown,"Jamestown, ND",Stutsman County
-83644,58401,ND,202301,970.97,0.0054,,Jamestown,"Jamestown, ND",Stutsman County
-83644,58401,ND,202302,976.06,0.0052,,Jamestown,"Jamestown, ND",Stutsman County
-83644,58401,ND,202303,985.59,0.0098,,Jamestown,"Jamestown, ND",Stutsman County
-83644,58401,ND,202304,1005.31,0.02,,Jamestown,"Jamestown, ND",Stutsman County
-83644,58401,ND,202305,1026.74,0.0213,,Jamestown,"Jamestown, ND",Stutsman County
-83644,58401,ND,202306,1035.79,0.0088,,Jamestown,"Jamestown, ND",Stutsman County
-83644,58401,ND,202307,1044.56,0.0085,,Jamestown,"Jamestown, ND",Stutsman County
-83644,58401,ND,202308,1037.19,-0.0071,,Jamestown,"Jamestown, ND",Stutsman County
-83644,58401,ND,202309,1053.98,0.0162,,Jamestown,"Jamestown, ND",Stutsman County
-83644,58401,ND,202310,1051.69,-0.0022,,Jamestown,"Jamestown, ND",Stutsman County
-83644,58401,ND,202311,1055.36,0.0035,0.1076,Jamestown,"Jamestown, ND",Stutsman County
-83644,58401,ND,202312,1049.37,-0.0057,0.0866,Jamestown,"Jamestown, ND",Stutsman County
-83644,58401,ND,202401,1046.85,-0.0024,0.0781,Jamestown,"Jamestown, ND",Stutsman County
-83644,58401,ND,202402,1042.58,-0.0041,0.0682,Jamestown,"Jamestown, ND",Stutsman County
-83644,58401,ND,202403,1049.7,0.0068,0.065,Jamestown,"Jamestown, ND",Stutsman County
-83644,58401,ND,202404,1057.3,0.0072,0.0517,Jamestown,"Jamestown, ND",Stutsman County
-83644,58401,ND,202405,1068.39,0.0105,0.0406,Jamestown,"Jamestown, ND",Stutsman County
-83644,58401,ND,202406,1072.95,0.0043,0.0359,Jamestown,"Jamestown, ND",Stutsman County
-83644,58401,ND,202407,1093.5,0.0191,0.0468,Jamestown,"Jamestown, ND",Stutsman County
-83644,58401,ND,202408,1093.45,-0.0,0.0542,Jamestown,"Jamestown, ND",Stutsman County
-83644,58401,ND,202409,1111.6,0.0166,0.0547,Jamestown,"Jamestown, ND",Stutsman County
-83644,58401,ND,202410,1098.55,-0.0117,0.0446,Jamestown,"Jamestown, ND",Stutsman County
-83644,58401,ND,202411,1096.33,-0.002,0.0388,Jamestown,"Jamestown, ND",Stutsman County
-83644,58401,ND,202412,1089.17,-0.0065,0.0379,Jamestown,"Jamestown, ND",Stutsman County
-83644,58401,ND,202501,1077.75,-0.0105,0.0295,Jamestown,"Jamestown, ND",Stutsman County
-83644,58401,ND,202502,1073.82,-0.0036,0.03,Jamestown,"Jamestown, ND",Stutsman County
-83644,58401,ND,202503,1070.42,-0.0032,0.0197,Jamestown,"Jamestown, ND",Stutsman County
-83644,58401,ND,202504,1099.78,0.0274,0.0402,Jamestown,"Jamestown, ND",Stutsman County
-83644,58401,ND,202505,1125.85,0.0237,0.0538,Jamestown,"Jamestown, ND",Stutsman County
-83644,58401,ND,202506,1132.16,0.0056,0.0552,Jamestown,"Jamestown, ND",Stutsman County
-83644,58401,ND,202507,1129.96,-0.0019,0.0333,Jamestown,"Jamestown, ND",Stutsman County
-83644,58401,ND,202508,1119.76,-0.009,0.0241,Jamestown,"Jamestown, ND",Stutsman County
-83644,58401,ND,202509,1121.92,0.0019,0.0093,Jamestown,"Jamestown, ND",Stutsman County
-83644,58401,ND,202510,1118.74,-0.0028,0.0184,Jamestown,"Jamestown, ND",Stutsman County
-83644,58401,ND,202511,1125.3,0.0059,0.0264,Jamestown,"Jamestown, ND",Stutsman County
-83644,58401,ND,202601,1125.56,0.0002,0.0334,Jamestown,"Jamestown, ND",Stutsman County
-83706,58501,ND,202402,904.2,,,Bismarck,"Bismarck, ND",Burleigh County
-83706,58501,ND,202403,930.38,0.029,,Bismarck,"Bismarck, ND",Burleigh County
-83706,58501,ND,202404,950.55,0.0217,,Bismarck,"Bismarck, ND",Burleigh County
-83706,58501,ND,202405,969.56,0.02,,Bismarck,"Bismarck, ND",Burleigh County
-83706,58501,ND,202406,986.77,0.0177,,Bismarck,"Bismarck, ND",Burleigh County
-83706,58501,ND,202407,1000.72,0.0141,,Bismarck,"Bismarck, ND",Burleigh County
-83706,58501,ND,202408,1000.2,-0.0005,,Bismarck,"Bismarck, ND",Burleigh County
-83706,58501,ND,202409,1008.84,0.0086,,Bismarck,"Bismarck, ND",Burleigh County
-83706,58501,ND,202410,1010.09,0.0012,,Bismarck,"Bismarck, ND",Burleigh County
-83706,58501,ND,202411,1006.94,-0.0031,,Bismarck,"Bismarck, ND",Burleigh County
-83706,58501,ND,202412,989.67,-0.0172,,Bismarck,"Bismarck, ND",Burleigh County
-83706,58501,ND,202501,978.16,-0.0116,,Bismarck,"Bismarck, ND",Burleigh County
-83706,58501,ND,202502,960.33,-0.0182,0.0621,Bismarck,"Bismarck, ND",Burleigh County
-83706,58501,ND,202503,972.02,0.0122,0.0448,Bismarck,"Bismarck, ND",Burleigh County
-83706,58501,ND,202504,984.76,0.0131,0.036,Bismarck,"Bismarck, ND",Burleigh County
-83706,58501,ND,202505,1030.52,0.0465,0.0629,Bismarck,"Bismarck, ND",Burleigh County
-83706,58501,ND,202506,1049.95,0.0189,0.064,Bismarck,"Bismarck, ND",Burleigh County
-83706,58501,ND,202507,1089.36,0.0375,0.0886,Bismarck,"Bismarck, ND",Burleigh County
-83706,58501,ND,202508,1106.15,0.0154,0.1059,Bismarck,"Bismarck, ND",Burleigh County
-83706,58501,ND,202509,1121.1,0.0135,0.1113,Bismarck,"Bismarck, ND",Burleigh County
-83706,58501,ND,202510,1119.65,-0.0013,0.1085,Bismarck,"Bismarck, ND",Burleigh County
-83706,58501,ND,202511,1086.22,-0.0299,0.0787,Bismarck,"Bismarck, ND",Burleigh County
-83706,58501,ND,202512,1066.37,-0.0183,0.0775,Bismarck,"Bismarck, ND",Burleigh County
-83706,58501,ND,202601,1024.98,-0.0388,0.0479,Bismarck,"Bismarck, ND",Burleigh County
-83708,58503,ND,202502,1422.39,,,Bismarck,"Bismarck, ND",Burleigh County
-83708,58503,ND,202503,1445.11,0.016,,Bismarck,"Bismarck, ND",Burleigh County
-83708,58503,ND,202504,1478.32,0.023,,Bismarck,"Bismarck, ND",Burleigh County
-83708,58503,ND,202505,1514.1,0.0242,,Bismarck,"Bismarck, ND",Burleigh County
-83708,58503,ND,202506,1534.78,0.0137,,Bismarck,"Bismarck, ND",Burleigh County
-83708,58503,ND,202507,1546.57,0.0077,,Bismarck,"Bismarck, ND",Burleigh County
-83708,58503,ND,202508,1515.26,-0.0202,,Bismarck,"Bismarck, ND",Burleigh County
-83708,58503,ND,202509,1512.19,-0.002,,Bismarck,"Bismarck, ND",Burleigh County
-83708,58503,ND,202510,1512.07,-0.0001,,Bismarck,"Bismarck, ND",Burleigh County
-83708,58503,ND,202511,1530.17,0.012,,Bismarck,"Bismarck, ND",Burleigh County
-83708,58503,ND,202512,1560.79,0.02,,Bismarck,"Bismarck, ND",Burleigh County
-83708,58503,ND,202601,1582.4,0.0138,,Bismarck,"Bismarck, ND",Burleigh County
-83709,58504,ND,202312,1360.93,,,Bismarck,"Bismarck, ND",Burleigh County
-83709,58504,ND,202401,1345.53,-0.0113,,Bismarck,"Bismarck, ND",Burleigh County
-83709,58504,ND,202402,1331.95,-0.0101,,Bismarck,"Bismarck, ND",Burleigh County
-83709,58504,ND,202403,1332.47,0.0004,,Bismarck,"Bismarck, ND",Burleigh County
-83709,58504,ND,202404,1359.29,0.0201,,Bismarck,"Bismarck, ND",Burleigh County
-83709,58504,ND,202405,1383.99,0.0182,,Bismarck,"Bismarck, ND",Burleigh County
-83709,58504,ND,202406,1420.7,0.0265,,Bismarck,"Bismarck, ND",Burleigh County
-83709,58504,ND,202407,1412.43,-0.0058,,Bismarck,"Bismarck, ND",Burleigh County
-83709,58504,ND,202408,1427.64,0.0108,,Bismarck,"Bismarck, ND",Burleigh County
-83709,58504,ND,202409,1436.07,0.0059,,Bismarck,"Bismarck, ND",Burleigh County
-83709,58504,ND,202410,1438.8,0.0019,,Bismarck,"Bismarck, ND",Burleigh County
-83709,58504,ND,202411,1430.47,-0.0058,,Bismarck,"Bismarck, ND",Burleigh County
-83709,58504,ND,202412,1418.58,-0.0083,0.0424,Bismarck,"Bismarck, ND",Burleigh County
-83709,58504,ND,202501,1430.73,0.0086,0.0633,Bismarck,"Bismarck, ND",Burleigh County
-83709,58504,ND,202502,1448.5,0.0124,0.0875,Bismarck,"Bismarck, ND",Burleigh County
-83709,58504,ND,202503,1453.19,0.0032,0.0906,Bismarck,"Bismarck, ND",Burleigh County
-83709,58504,ND,202504,1465.27,0.0083,0.078,Bismarck,"Bismarck, ND",Burleigh County
-83709,58504,ND,202505,1471.69,0.0044,0.0634,Bismarck,"Bismarck, ND",Burleigh County
-83709,58504,ND,202506,1491.8,0.0137,0.05,Bismarck,"Bismarck, ND",Burleigh County
-83709,58504,ND,202507,1486.87,-0.0033,0.0527,Bismarck,"Bismarck, ND",Burleigh County
-83709,58504,ND,202508,1470.13,-0.0113,0.0298,Bismarck,"Bismarck, ND",Burleigh County
-83709,58504,ND,202509,1472.74,0.0018,0.0255,Bismarck,"Bismarck, ND",Burleigh County
-83709,58504,ND,202510,1490.27,0.0119,0.0358,Bismarck,"Bismarck, ND",Burleigh County
-83709,58504,ND,202511,1502.1,0.0079,0.0501,Bismarck,"Bismarck, ND",Burleigh County
-83709,58504,ND,202512,1481.96,-0.0134,0.0447,Bismarck,"Bismarck, ND",Burleigh County
-83709,58504,ND,202601,1465.44,-0.0111,0.0243,Bismarck,"Bismarck, ND",Burleigh County
-83732,58554,ND,202406,940.5,,,Mandan,"Bismarck, ND",Morton County
-83732,58554,ND,202407,950.34,0.0105,,Mandan,"Bismarck, ND",Morton County
-83732,58554,ND,202408,946.25,-0.0043,,Mandan,"Bismarck, ND",Morton County
-83732,58554,ND,202409,1002.12,0.059,,Mandan,"Bismarck, ND",Morton County
-83732,58554,ND,202410,1000.58,-0.0015,,Mandan,"Bismarck, ND",Morton County
-83732,58554,ND,202411,1028.0,0.0274,,Mandan,"Bismarck, ND",Morton County
-83732,58554,ND,202412,974.15,-0.0524,,Mandan,"Bismarck, ND",Morton County
-83732,58554,ND,202501,1011.37,0.0382,,Mandan,"Bismarck, ND",Morton County
-83732,58554,ND,202502,985.26,-0.0258,,Mandan,"Bismarck, ND",Morton County
-83732,58554,ND,202503,1006.87,0.0219,,Mandan,"Bismarck, ND",Morton County
-83732,58554,ND,202504,1013.35,0.0064,,Mandan,"Bismarck, ND",Morton County
-83732,58554,ND,202505,1037.66,0.024,,Mandan,"Bismarck, ND",Morton County
-83732,58554,ND,202506,1065.75,0.0271,0.1332,Mandan,"Bismarck, ND",Morton County
-83732,58554,ND,202507,1054.11,-0.0109,0.1092,Mandan,"Bismarck, ND",Morton County
-83732,58554,ND,202508,1096.52,0.0402,0.1588,Mandan,"Bismarck, ND",Morton County
-83732,58554,ND,202509,1087.41,-0.0083,0.0851,Mandan,"Bismarck, ND",Morton County
-83732,58554,ND,202510,1120.0,0.03,0.1193,Mandan,"Bismarck, ND",Morton County
-83732,58554,ND,202512,1126.3,0.0056,0.0956,Mandan,"Bismarck, ND",Morton County
-83732,58554,ND,202601,1145.67,0.0172,0.1761,Mandan,"Bismarck, ND",Morton County
-83754,58601,ND,202502,1168.7,,,Dickinson,"Dickinson, ND",Stark County
-83754,58601,ND,202503,1210.76,0.036,,Dickinson,"Dickinson, ND",Stark County
-83754,58601,ND,202504,1262.4,0.0426,,Dickinson,"Dickinson, ND",Stark County
-83754,58601,ND,202505,1238.1,-0.0192,,Dickinson,"Dickinson, ND",Stark County
-83754,58601,ND,202506,1227.76,-0.0083,,Dickinson,"Dickinson, ND",Stark County
-83754,58601,ND,202507,1220.53,-0.0059,,Dickinson,"Dickinson, ND",Stark County
-83754,58601,ND,202508,1215.36,-0.0042,,Dickinson,"Dickinson, ND",Stark County
-83754,58601,ND,202509,1213.24,-0.0017,,Dickinson,"Dickinson, ND",Stark County
-83754,58601,ND,202510,1235.03,0.018,,Dickinson,"Dickinson, ND",Stark County
-83754,58601,ND,202511,1237.37,0.0019,,Dickinson,"Dickinson, ND",Stark County
-83754,58601,ND,202512,1223.73,-0.011,,Dickinson,"Dickinson, ND",Stark County
-83754,58601,ND,202601,1207.6,-0.0132,,Dickinson,"Dickinson, ND",Stark County
-83786,58701,ND,202401,888.03,,,Minot,"Minot, ND",Ward County
-83786,58701,ND,202402,891.75,0.0042,,Minot,"Minot, ND",Ward County
-83786,58701,ND,202403,903.03,0.0126,,Minot,"Minot, ND",Ward County
-83786,58701,ND,202404,910.45,0.0082,,Minot,"Minot, ND",Ward County
-83786,58701,ND,202405,921.94,0.0126,,Minot,"Minot, ND",Ward County
-83786,58701,ND,202406,925.0,0.0033,,Minot,"Minot, ND",Ward County
-83786,58701,ND,202407,930.85,0.0063,,Minot,"Minot, ND",Ward County
-83786,58701,ND,202408,930.94,0.0001,,Minot,"Minot, ND",Ward County
-83786,58701,ND,202409,935.52,0.0049,,Minot,"Minot, ND",Ward County
-83786,58701,ND,202410,939.04,0.0038,,Minot,"Minot, ND",Ward County
-83786,58701,ND,202411,939.96,0.001,,Minot,"Minot, ND",Ward County
-83786,58701,ND,202412,939.4,-0.0006,,Minot,"Minot, ND",Ward County
-83786,58701,ND,202501,942.06,0.0028,0.0608,Minot,"Minot, ND",Ward County
-83786,58701,ND,202502,940.58,-0.0016,0.0548,Minot,"Minot, ND",Ward County
-83786,58701,ND,202503,951.55,0.0117,0.0537,Minot,"Minot, ND",Ward County
-83786,58701,ND,202504,946.76,-0.005,0.0399,Minot,"Minot, ND",Ward County
-83786,58701,ND,202505,962.43,0.0165,0.0439,Minot,"Minot, ND",Ward County
-83786,58701,ND,202506,972.38,0.0103,0.0512,Minot,"Minot, ND",Ward County
-83786,58701,ND,202507,980.91,0.0088,0.0538,Minot,"Minot, ND",Ward County
-83786,58701,ND,202508,991.89,0.0112,0.0655,Minot,"Minot, ND",Ward County
-83786,58701,ND,202509,993.72,0.0018,0.0622,Minot,"Minot, ND",Ward County
-83786,58701,ND,202510,996.34,0.0026,0.061,Minot,"Minot, ND",Ward County
-83786,58701,ND,202511,993.23,-0.0031,0.0567,Minot,"Minot, ND",Ward County
-83786,58701,ND,202512,983.87,-0.0094,0.0473,Minot,"Minot, ND",Ward County
-83786,58701,ND,202601,985.95,0.0021,0.0466,Minot,"Minot, ND",Ward County
-83788,58703,ND,202103,812.96,,,Minot,"Minot, ND",Ward County
-83788,58703,ND,202105,822.93,0.0123,,Minot,"Minot, ND",Ward County
-83788,58703,ND,202106,833.81,0.0132,,Minot,"Minot, ND",Ward County
-83788,58703,ND,202107,831.78,-0.0024,,Minot,"Minot, ND",Ward County
-83788,58703,ND,202108,827.12,-0.0056,,Minot,"Minot, ND",Ward County
-83788,58703,ND,202109,822.04,-0.0061,,Minot,"Minot, ND",Ward County
-83788,58703,ND,202110,815.79,-0.0076,,Minot,"Minot, ND",Ward County
-83788,58703,ND,202111,816.08,0.0004,,Minot,"Minot, ND",Ward County
-83788,58703,ND,202112,814.16,-0.0024,,Minot,"Minot, ND",Ward County
-83788,58703,ND,202201,814.09,-0.0001,,Minot,"Minot, ND",Ward County
-83788,58703,ND,202202,813.13,-0.0012,,Minot,"Minot, ND",Ward County
-83788,58703,ND,202203,816.02,0.0036,,Minot,"Minot, ND",Ward County
-83788,58703,ND,202204,829.63,0.0167,0.0205,Minot,"Minot, ND",Ward County
-83788,58703,ND,202205,839.22,0.0116,0.0198,Minot,"Minot, ND",Ward County
-83788,58703,ND,202206,857.21,0.0214,0.0281,Minot,"Minot, ND",Ward County
-83788,58703,ND,202207,865.75,0.01,0.0408,Minot,"Minot, ND",Ward County
-83788,58703,ND,202208,869.05,0.0038,0.0507,Minot,"Minot, ND",Ward County
-83788,58703,ND,202209,877.34,0.0095,0.0673,Minot,"Minot, ND",Ward County
-83788,58703,ND,202210,876.97,-0.0004,0.075,Minot,"Minot, ND",Ward County
-83788,58703,ND,202211,885.65,0.0099,0.0853,Minot,"Minot, ND",Ward County
-83788,58703,ND,202212,880.74,-0.0055,0.0818,Minot,"Minot, ND",Ward County
-83788,58703,ND,202301,884.14,0.0039,0.086,Minot,"Minot, ND",Ward County
-83788,58703,ND,202302,882.64,-0.0017,0.0855,Minot,"Minot, ND",Ward County
-83788,58703,ND,202303,888.79,0.007,0.0892,Minot,"Minot, ND",Ward County
-83788,58703,ND,202304,897.37,0.0097,0.0817,Minot,"Minot, ND",Ward County
-83788,58703,ND,202305,910.85,0.015,0.0854,Minot,"Minot, ND",Ward County
-83788,58703,ND,202306,911.94,0.0012,0.0638,Minot,"Minot, ND",Ward County
-83788,58703,ND,202307,917.38,0.006,0.0596,Minot,"Minot, ND",Ward County
-83788,58703,ND,202308,920.76,0.0037,0.0595,Minot,"Minot, ND",Ward County
-83788,58703,ND,202309,930.22,0.0103,0.0603,Minot,"Minot, ND",Ward County
-83788,58703,ND,202310,924.13,-0.0065,0.0538,Minot,"Minot, ND",Ward County
-83788,58703,ND,202311,921.67,-0.0027,0.0407,Minot,"Minot, ND",Ward County
-83788,58703,ND,202312,918.04,-0.0039,0.0423,Minot,"Minot, ND",Ward County
-83788,58703,ND,202401,924.54,0.0071,0.0457,Minot,"Minot, ND",Ward County
-83788,58703,ND,202402,929.92,0.0058,0.0536,Minot,"Minot, ND",Ward County
-83788,58703,ND,202403,938.35,0.0091,0.0558,Minot,"Minot, ND",Ward County
-83788,58703,ND,202404,945.53,0.0076,0.0537,Minot,"Minot, ND",Ward County
-83788,58703,ND,202405,954.56,0.0096,0.048,Minot,"Minot, ND",Ward County
-83788,58703,ND,202406,955.98,0.0015,0.0483,Minot,"Minot, ND",Ward County
-83788,58703,ND,202407,959.01,0.0032,0.0454,Minot,"Minot, ND",Ward County
-83788,58703,ND,202408,954.5,-0.0047,0.0366,Minot,"Minot, ND",Ward County
-83788,58703,ND,202409,958.12,0.0038,0.03,Minot,"Minot, ND",Ward County
-83788,58703,ND,202410,959.32,0.0013,0.0381,Minot,"Minot, ND",Ward County
-83788,58703,ND,202411,957.73,-0.0017,0.0391,Minot,"Minot, ND",Ward County
-83788,58703,ND,202412,954.74,-0.0031,0.04,Minot,"Minot, ND",Ward County
-83788,58703,ND,202501,965.23,0.011,0.044,Minot,"Minot, ND",Ward County
-83788,58703,ND,202502,980.64,0.016,0.0545,Minot,"Minot, ND",Ward County
-83788,58703,ND,202503,983.85,0.0033,0.0485,Minot,"Minot, ND",Ward County
-83788,58703,ND,202504,988.14,0.0044,0.0451,Minot,"Minot, ND",Ward County
-83788,58703,ND,202505,1001.31,0.0133,0.049,Minot,"Minot, ND",Ward County
-83788,58703,ND,202506,1017.3,0.016,0.0641,Minot,"Minot, ND",Ward County
-83788,58703,ND,202507,1027.3,0.0098,0.0712,Minot,"Minot, ND",Ward County
-83788,58703,ND,202508,1028.59,0.0013,0.0776,Minot,"Minot, ND",Ward County
-83788,58703,ND,202509,1038.41,0.0095,0.0838,Minot,"Minot, ND",Ward County
-83788,58703,ND,202510,1031.56,-0.0066,0.0753,Minot,"Minot, ND",Ward County
-83788,58703,ND,202511,1028.01,-0.0034,0.0734,Minot,"Minot, ND",Ward County
-83788,58703,ND,202512,1016.72,-0.011,0.0649,Minot,"Minot, ND",Ward County
-83788,58703,ND,202601,1021.58,0.0048,0.0584,Minot,"Minot, ND",Ward County
-83850,58801,ND,202011,845.14,,,Williston,"Williston, ND",Williams County
-83850,58801,ND,202012,834.72,-0.0123,,Williston,"Williston, ND",Williams County
-83850,58801,ND,202101,840.92,0.0074,,Williston,"Williston, ND",Williams County
-83850,58801,ND,202102,856.14,0.0181,,Williston,"Williston, ND",Williams County
-83850,58801,ND,202103,863.2,0.0082,,Williston,"Williston, ND",Williams County
-83850,58801,ND,202104,865.58,0.0028,,Williston,"Williston, ND",Williams County
-83850,58801,ND,202105,860.97,-0.0053,,Williston,"Williston, ND",Williams County
-83850,58801,ND,202106,879.74,0.0218,,Williston,"Williston, ND",Williams County
-83850,58801,ND,202107,880.58,0.001,,Williston,"Williston, ND",Williams County
-83850,58801,ND,202108,888.0,0.0084,,Williston,"Williston, ND",Williams County
-83850,58801,ND,202109,884.07,-0.0044,,Williston,"Williston, ND",Williams County
-83850,58801,ND,202110,881.76,-0.0026,,Williston,"Williston, ND",Williams County
-83850,58801,ND,202111,895.28,0.0153,0.0593,Williston,"Williston, ND",Williams County
-83850,58801,ND,202112,902.58,0.0082,0.0813,Williston,"Williston, ND",Williams County
-83850,58801,ND,202201,924.72,0.0245,0.0997,Williston,"Williston, ND",Williams County
-83850,58801,ND,202202,920.28,-0.0048,0.0749,Williston,"Williston, ND",Williams County
-83850,58801,ND,202203,910.68,-0.0104,0.055,Williston,"Williston, ND",Williams County
-83850,58801,ND,202204,897.71,-0.0142,0.0371,Williston,"Williston, ND",Williams County
-83850,58801,ND,202205,911.36,0.0152,0.0585,Williston,"Williston, ND",Williams County
-83850,58801,ND,202206,920.44,0.01,0.0463,Williston,"Williston, ND",Williams County
-83850,58801,ND,202207,939.63,0.0208,0.0671,Williston,"Williston, ND",Williams County
-83850,58801,ND,202208,932.51,-0.0076,0.0501,Williston,"Williston, ND",Williams County
-83850,58801,ND,202209,959.93,0.0294,0.0858,Williston,"Williston, ND",Williams County
-83850,58801,ND,202210,968.05,0.0085,0.0979,Williston,"Williston, ND",Williams County
-83850,58801,ND,202211,989.02,0.0217,0.1047,Williston,"Williston, ND",Williams County
-83850,58801,ND,202212,980.09,-0.009,0.0859,Williston,"Williston, ND",Williams County
-83850,58801,ND,202301,990.36,0.0105,0.071,Williston,"Williston, ND",Williams County
-83850,58801,ND,202302,1002.11,0.0119,0.0889,Williston,"Williston, ND",Williams County
-83850,58801,ND,202303,1012.87,0.0107,0.1122,Williston,"Williston, ND",Williams County
-83850,58801,ND,202304,1033.79,0.0207,0.1516,Williston,"Williston, ND",Williams County
-83850,58801,ND,202305,1062.66,0.0279,0.166,Williston,"Williston, ND",Williams County
-83850,58801,ND,202306,1099.69,0.0348,0.1947,Williston,"Williston, ND",Williams County
-83850,58801,ND,202307,1129.81,0.0274,0.2024,Williston,"Williston, ND",Williams County
-83850,58801,ND,202308,1148.82,0.0168,0.232,Williston,"Williston, ND",Williams County
-83850,58801,ND,202309,1168.57,0.0172,0.2173,Williston,"Williston, ND",Williams County
-83850,58801,ND,202310,1184.73,0.0138,0.2238,Williston,"Williston, ND",Williams County
-83850,58801,ND,202311,1189.34,0.0039,0.2025,Williston,"Williston, ND",Williams County
-83850,58801,ND,202312,1207.72,0.0155,0.2323,Williston,"Williston, ND",Williams County
-83850,58801,ND,202401,1214.31,0.0055,0.2261,Williston,"Williston, ND",Williams County
-83850,58801,ND,202402,1239.68,0.0209,0.2371,Williston,"Williston, ND",Williams County
-83850,58801,ND,202403,1248.42,0.007,0.2326,Williston,"Williston, ND",Williams County
-83850,58801,ND,202404,1258.21,0.0078,0.2171,Williston,"Williston, ND",Williams County
-83850,58801,ND,202405,1262.8,0.0036,0.1883,Williston,"Williston, ND",Williams County
-83850,58801,ND,202406,1269.03,0.0049,0.154,Williston,"Williston, ND",Williams County
-83850,58801,ND,202407,1275.62,0.0052,0.1291,Williston,"Williston, ND",Williams County
-83850,58801,ND,202408,1278.06,0.0019,0.1125,Williston,"Williston, ND",Williams County
-83850,58801,ND,202409,1282.09,0.0032,0.0971,Williston,"Williston, ND",Williams County
-83850,58801,ND,202410,1275.93,-0.0048,0.077,Williston,"Williston, ND",Williams County
-83850,58801,ND,202411,1285.31,0.0074,0.0807,Williston,"Williston, ND",Williams County
-83850,58801,ND,202412,1280.51,-0.0037,0.0603,Williston,"Williston, ND",Williams County
-83850,58801,ND,202501,1298.4,0.014,0.0692,Williston,"Williston, ND",Williams County
-83850,58801,ND,202502,1303.68,0.0041,0.0516,Williston,"Williston, ND",Williams County
-83850,58801,ND,202503,1314.33,0.0082,0.0528,Williston,"Williston, ND",Williams County
-83850,58801,ND,202504,1321.89,0.0058,0.0506,Williston,"Williston, ND",Williams County
-83850,58801,ND,202505,1325.7,0.0029,0.0498,Williston,"Williston, ND",Williams County
-83850,58801,ND,202506,1348.29,0.017,0.0625,Williston,"Williston, ND",Williams County
-83850,58801,ND,202507,1361.39,0.0097,0.0672,Williston,"Williston, ND",Williams County
-83850,58801,ND,202508,1369.17,0.0057,0.0713,Williston,"Williston, ND",Williams County
-83850,58801,ND,202509,1367.56,-0.0012,0.0667,Williston,"Williston, ND",Williams County
-83850,58801,ND,202510,1367.16,-0.0003,0.0715,Williston,"Williston, ND",Williams County
-83850,58801,ND,202511,1360.69,-0.0047,0.0586,Williston,"Williston, ND",Williams County
-83850,58801,ND,202512,1362.82,0.0016,0.0643,Williston,"Williston, ND",Williams County
-83850,58801,ND,202601,1353.27,-0.007,0.0423,Williston,"Williston, ND",Williams County
-83864,58854,ND,202512,1174.51,,,Watford City,,McKenzie County
-83864,58854,ND,202601,1209.5,0.0298,,Watford City,,McKenzie County
+83510,58072,ND,202602,763.33,,,Valley City,,Barnes County
+83512,58075,ND,202511,816.02,,,Wahpeton,"Wahpeton, ND-MN",Richland County
+83512,58075,ND,202512,827.99,0.0147,,Wahpeton,"Wahpeton, ND-MN",Richland County
+83512,58075,ND,202601,847.39,0.0234,,Wahpeton,"Wahpeton, ND-MN",Richland County
+83512,58075,ND,202602,838.33,-0.0107,,Wahpeton,"Wahpeton, ND-MN",Richland County
+83515,58078,ND,202208,1137.23,,,West Fargo,"Fargo, ND-MN",Cass County
+83515,58078,ND,202209,1153.37,0.0142,,West Fargo,"Fargo, ND-MN",Cass County
+83515,58078,ND,202210,1144.86,-0.0074,,West Fargo,"Fargo, ND-MN",Cass County
+83515,58078,ND,202211,1164.82,0.0174,,West Fargo,"Fargo, ND-MN",Cass County
+83515,58078,ND,202212,1180.87,0.0138,,West Fargo,"Fargo, ND-MN",Cass County
+83515,58078,ND,202301,1193.31,0.0105,,West Fargo,"Fargo, ND-MN",Cass County
+83515,58078,ND,202302,1196.47,0.0026,,West Fargo,"Fargo, ND-MN",Cass County
+83515,58078,ND,202303,1179.05,-0.0146,,West Fargo,"Fargo, ND-MN",Cass County
+83515,58078,ND,202304,1168.36,-0.0091,,West Fargo,"Fargo, ND-MN",Cass County
+83515,58078,ND,202305,1174.82,0.0055,,West Fargo,"Fargo, ND-MN",Cass County
+83515,58078,ND,202306,1185.19,0.0088,,West Fargo,"Fargo, ND-MN",Cass County
+83515,58078,ND,202308,1210.01,0.0209,,West Fargo,"Fargo, ND-MN",Cass County
+83515,58078,ND,202309,1226.03,0.0132,0.0781,West Fargo,"Fargo, ND-MN",Cass County
+83515,58078,ND,202310,1234.76,0.0071,0.0706,West Fargo,"Fargo, ND-MN",Cass County
+83515,58078,ND,202311,1260.69,0.021,0.1012,West Fargo,"Fargo, ND-MN",Cass County
+83515,58078,ND,202312,1262.71,0.0016,0.084,West Fargo,"Fargo, ND-MN",Cass County
+83515,58078,ND,202401,1269.42,0.0053,0.075,West Fargo,"Fargo, ND-MN",Cass County
+83515,58078,ND,202402,1245.81,-0.0186,0.044,West Fargo,"Fargo, ND-MN",Cass County
+83515,58078,ND,202403,1241.72,-0.0033,0.0378,West Fargo,"Fargo, ND-MN",Cass County
+83515,58078,ND,202404,1240.09,-0.0013,0.0518,West Fargo,"Fargo, ND-MN",Cass County
+83515,58078,ND,202405,1245.71,0.0045,0.0662,West Fargo,"Fargo, ND-MN",Cass County
+83515,58078,ND,202406,1257.36,0.0094,0.0703,West Fargo,"Fargo, ND-MN",Cass County
+83515,58078,ND,202407,1262.77,0.0043,0.0655,West Fargo,"Fargo, ND-MN",Cass County
+83515,58078,ND,202408,1274.76,0.0095,0.0535,West Fargo,"Fargo, ND-MN",Cass County
+83515,58078,ND,202409,1291.37,0.013,0.0533,West Fargo,"Fargo, ND-MN",Cass County
+83515,58078,ND,202410,1306.12,0.0114,0.0578,West Fargo,"Fargo, ND-MN",Cass County
+83515,58078,ND,202411,1311.35,0.004,0.0402,West Fargo,"Fargo, ND-MN",Cass County
+83515,58078,ND,202412,1298.35,-0.0099,0.0282,West Fargo,"Fargo, ND-MN",Cass County
+83515,58078,ND,202501,1280.17,-0.014,0.0085,West Fargo,"Fargo, ND-MN",Cass County
+83515,58078,ND,202502,1289.79,0.0075,0.0353,West Fargo,"Fargo, ND-MN",Cass County
+83515,58078,ND,202503,1287.21,-0.002,0.0366,West Fargo,"Fargo, ND-MN",Cass County
+83515,58078,ND,202504,1297.02,0.0076,0.0459,West Fargo,"Fargo, ND-MN",Cass County
+83515,58078,ND,202505,1289.02,-0.0062,0.0348,West Fargo,"Fargo, ND-MN",Cass County
+83515,58078,ND,202506,1297.6,0.0067,0.032,West Fargo,"Fargo, ND-MN",Cass County
+83515,58078,ND,202507,1296.97,-0.0005,0.0271,West Fargo,"Fargo, ND-MN",Cass County
+83515,58078,ND,202508,1299.49,0.0019,0.0194,West Fargo,"Fargo, ND-MN",Cass County
+83515,58078,ND,202509,1319.59,0.0155,0.0219,West Fargo,"Fargo, ND-MN",Cass County
+83515,58078,ND,202510,1332.4,0.0097,0.0201,West Fargo,"Fargo, ND-MN",Cass County
+83515,58078,ND,202511,1333.22,0.0006,0.0167,West Fargo,"Fargo, ND-MN",Cass County
+83515,58078,ND,202512,1328.1,-0.0038,0.0229,West Fargo,"Fargo, ND-MN",Cass County
+83515,58078,ND,202601,1336.88,0.0066,0.0443,West Fargo,"Fargo, ND-MN",Cass County
+83515,58078,ND,202602,1347.29,0.0078,0.0446,West Fargo,"Fargo, ND-MN",Cass County
+83518,58102,ND,202201,893.34,,,Fargo,"Fargo, ND-MN",Cass County
+83518,58102,ND,202202,897.95,0.0052,,Fargo,"Fargo, ND-MN",Cass County
+83518,58102,ND,202203,946.76,0.0544,,Fargo,"Fargo, ND-MN",Cass County
+83518,58102,ND,202204,960.61,0.0146,,Fargo,"Fargo, ND-MN",Cass County
+83518,58102,ND,202205,978.45,0.0186,,Fargo,"Fargo, ND-MN",Cass County
+83518,58102,ND,202206,974.7,-0.0038,,Fargo,"Fargo, ND-MN",Cass County
+83518,58102,ND,202207,976.0,0.0013,,Fargo,"Fargo, ND-MN",Cass County
+83518,58102,ND,202208,962.8,-0.0135,,Fargo,"Fargo, ND-MN",Cass County
+83518,58102,ND,202209,959.55,-0.0034,,Fargo,"Fargo, ND-MN",Cass County
+83518,58102,ND,202210,961.88,0.0024,,Fargo,"Fargo, ND-MN",Cass County
+83518,58102,ND,202211,979.43,0.0183,,Fargo,"Fargo, ND-MN",Cass County
+83518,58102,ND,202301,981.46,0.0021,,Fargo,"Fargo, ND-MN",Cass County
+83518,58102,ND,202302,976.43,-0.0051,0.093,Fargo,"Fargo, ND-MN",Cass County
+83518,58102,ND,202303,989.08,0.0129,0.1015,Fargo,"Fargo, ND-MN",Cass County
+83518,58102,ND,202304,996.08,0.0071,0.0521,Fargo,"Fargo, ND-MN",Cass County
+83518,58102,ND,202305,1006.16,0.0101,0.0474,Fargo,"Fargo, ND-MN",Cass County
+83518,58102,ND,202306,1011.13,0.0049,0.0334,Fargo,"Fargo, ND-MN",Cass County
+83518,58102,ND,202307,1018.63,0.0074,0.0451,Fargo,"Fargo, ND-MN",Cass County
+83518,58102,ND,202308,1023.07,0.0044,0.0482,Fargo,"Fargo, ND-MN",Cass County
+83518,58102,ND,202309,1019.83,-0.0032,0.0592,Fargo,"Fargo, ND-MN",Cass County
+83518,58102,ND,202310,1009.66,-0.01,0.0522,Fargo,"Fargo, ND-MN",Cass County
+83518,58102,ND,202311,1009.48,-0.0002,0.0495,Fargo,"Fargo, ND-MN",Cass County
+83518,58102,ND,202312,1009.76,0.0003,0.031,Fargo,"Fargo, ND-MN",Cass County
+83518,58102,ND,202401,1018.26,0.0084,0.0375,Fargo,"Fargo, ND-MN",Cass County
+83518,58102,ND,202402,1020.98,0.0027,0.0456,Fargo,"Fargo, ND-MN",Cass County
+83518,58102,ND,202403,1042.62,0.0212,0.0541,Fargo,"Fargo, ND-MN",Cass County
+83518,58102,ND,202404,1049.46,0.0066,0.0536,Fargo,"Fargo, ND-MN",Cass County
+83518,58102,ND,202405,1057.64,0.0078,0.0512,Fargo,"Fargo, ND-MN",Cass County
+83518,58102,ND,202406,1063.31,0.0054,0.0516,Fargo,"Fargo, ND-MN",Cass County
+83518,58102,ND,202407,1072.13,0.0083,0.0525,Fargo,"Fargo, ND-MN",Cass County
+83518,58102,ND,202408,1074.89,0.0026,0.0506,Fargo,"Fargo, ND-MN",Cass County
+83518,58102,ND,202409,1075.64,0.0007,0.0547,Fargo,"Fargo, ND-MN",Cass County
+83518,58102,ND,202410,1095.62,0.0186,0.0851,Fargo,"Fargo, ND-MN",Cass County
+83518,58102,ND,202411,1099.58,0.0036,0.0892,Fargo,"Fargo, ND-MN",Cass County
+83518,58102,ND,202412,1114.66,0.0137,0.1039,Fargo,"Fargo, ND-MN",Cass County
+83518,58102,ND,202501,1084.31,-0.0272,0.0649,Fargo,"Fargo, ND-MN",Cass County
+83518,58102,ND,202502,1089.39,0.0047,0.067,Fargo,"Fargo, ND-MN",Cass County
+83518,58102,ND,202503,1067.75,-0.0199,0.0241,Fargo,"Fargo, ND-MN",Cass County
+83518,58102,ND,202504,1078.48,0.01,0.0277,Fargo,"Fargo, ND-MN",Cass County
+83518,58102,ND,202505,1076.47,-0.0019,0.0178,Fargo,"Fargo, ND-MN",Cass County
+83518,58102,ND,202506,1087.83,0.0106,0.0231,Fargo,"Fargo, ND-MN",Cass County
+83518,58102,ND,202507,1097.9,0.0093,0.024,Fargo,"Fargo, ND-MN",Cass County
+83518,58102,ND,202508,1107.76,0.009,0.0306,Fargo,"Fargo, ND-MN",Cass County
+83518,58102,ND,202509,1105.11,-0.0024,0.0274,Fargo,"Fargo, ND-MN",Cass County
+83518,58102,ND,202510,1082.35,-0.0206,-0.0121,Fargo,"Fargo, ND-MN",Cass County
+83518,58102,ND,202511,1077.29,-0.0047,-0.0203,Fargo,"Fargo, ND-MN",Cass County
+83518,58102,ND,202512,1087.35,0.0093,-0.0245,Fargo,"Fargo, ND-MN",Cass County
+83518,58102,ND,202601,1115.05,0.0255,0.0284,Fargo,"Fargo, ND-MN",Cass County
+83518,58102,ND,202602,1118.3,0.0029,0.0265,Fargo,"Fargo, ND-MN",Cass County
+83519,58103,ND,202301,713.65,,,Fargo,"Fargo, ND-MN",Cass County
+83519,58103,ND,202302,723.8,0.0142,,Fargo,"Fargo, ND-MN",Cass County
+83519,58103,ND,202303,724.55,0.001,,Fargo,"Fargo, ND-MN",Cass County
+83519,58103,ND,202304,729.86,0.0073,,Fargo,"Fargo, ND-MN",Cass County
+83519,58103,ND,202305,731.28,0.0019,,Fargo,"Fargo, ND-MN",Cass County
+83519,58103,ND,202306,742.13,0.0148,,Fargo,"Fargo, ND-MN",Cass County
+83519,58103,ND,202307,742.17,0.0,,Fargo,"Fargo, ND-MN",Cass County
+83519,58103,ND,202308,748.14,0.0081,,Fargo,"Fargo, ND-MN",Cass County
+83519,58103,ND,202309,751.15,0.004,,Fargo,"Fargo, ND-MN",Cass County
+83519,58103,ND,202310,758.61,0.0099,,Fargo,"Fargo, ND-MN",Cass County
+83519,58103,ND,202311,757.26,-0.0018,,Fargo,"Fargo, ND-MN",Cass County
+83519,58103,ND,202312,764.76,0.0099,,Fargo,"Fargo, ND-MN",Cass County
+83519,58103,ND,202401,765.08,0.0004,0.0721,Fargo,"Fargo, ND-MN",Cass County
+83519,58103,ND,202402,769.65,0.006,0.0633,Fargo,"Fargo, ND-MN",Cass County
+83519,58103,ND,202403,773.66,0.0052,0.0678,Fargo,"Fargo, ND-MN",Cass County
+83519,58103,ND,202404,782.58,0.0115,0.0722,Fargo,"Fargo, ND-MN",Cass County
+83519,58103,ND,202405,789.45,0.0088,0.0796,Fargo,"Fargo, ND-MN",Cass County
+83519,58103,ND,202406,790.86,0.0018,0.0657,Fargo,"Fargo, ND-MN",Cass County
+83519,58103,ND,202407,794.95,0.0052,0.0711,Fargo,"Fargo, ND-MN",Cass County
+83519,58103,ND,202408,792.09,-0.0036,0.0587,Fargo,"Fargo, ND-MN",Cass County
+83519,58103,ND,202409,792.13,0.0001,0.0546,Fargo,"Fargo, ND-MN",Cass County
+83519,58103,ND,202410,787.26,-0.0062,0.0378,Fargo,"Fargo, ND-MN",Cass County
+83519,58103,ND,202411,792.24,0.0063,0.0462,Fargo,"Fargo, ND-MN",Cass County
+83519,58103,ND,202412,790.25,-0.0025,0.0333,Fargo,"Fargo, ND-MN",Cass County
+83519,58103,ND,202501,792.77,0.0032,0.0362,Fargo,"Fargo, ND-MN",Cass County
+83519,58103,ND,202502,791.73,-0.0013,0.0287,Fargo,"Fargo, ND-MN",Cass County
+83519,58103,ND,202503,796.44,0.0059,0.0294,Fargo,"Fargo, ND-MN",Cass County
+83519,58103,ND,202504,796.3,-0.0002,0.0175,Fargo,"Fargo, ND-MN",Cass County
+83519,58103,ND,202505,795.57,-0.0009,0.0078,Fargo,"Fargo, ND-MN",Cass County
+83519,58103,ND,202506,805.79,0.0128,0.0189,Fargo,"Fargo, ND-MN",Cass County
+83519,58103,ND,202507,815.94,0.0126,0.0264,Fargo,"Fargo, ND-MN",Cass County
+83519,58103,ND,202508,831.31,0.0188,0.0495,Fargo,"Fargo, ND-MN",Cass County
+83519,58103,ND,202509,823.79,-0.009,0.04,Fargo,"Fargo, ND-MN",Cass County
+83519,58103,ND,202510,830.3,0.0079,0.0547,Fargo,"Fargo, ND-MN",Cass County
+83519,58103,ND,202511,825.35,-0.006,0.0418,Fargo,"Fargo, ND-MN",Cass County
+83519,58103,ND,202512,836.3,0.0133,0.0583,Fargo,"Fargo, ND-MN",Cass County
+83519,58103,ND,202601,838.5,0.0026,0.0577,Fargo,"Fargo, ND-MN",Cass County
+83519,58103,ND,202602,839.73,0.0015,0.0606,Fargo,"Fargo, ND-MN",Cass County
+83520,58104,ND,202302,1083.05,,,Fargo,"Fargo, ND-MN",Cass County
+83520,58104,ND,202303,1087.87,0.0045,,Fargo,"Fargo, ND-MN",Cass County
+83520,58104,ND,202304,1107.38,0.0179,,Fargo,"Fargo, ND-MN",Cass County
+83520,58104,ND,202305,1099.45,-0.0072,,Fargo,"Fargo, ND-MN",Cass County
+83520,58104,ND,202306,1108.33,0.0081,,Fargo,"Fargo, ND-MN",Cass County
+83520,58104,ND,202307,1119.2,0.0098,,Fargo,"Fargo, ND-MN",Cass County
+83520,58104,ND,202308,1139.68,0.0183,,Fargo,"Fargo, ND-MN",Cass County
+83520,58104,ND,202309,1149.3,0.0084,,Fargo,"Fargo, ND-MN",Cass County
+83520,58104,ND,202310,1159.34,0.0087,,Fargo,"Fargo, ND-MN",Cass County
+83520,58104,ND,202311,1178.56,0.0166,,Fargo,"Fargo, ND-MN",Cass County
+83520,58104,ND,202312,1176.06,-0.0021,,Fargo,"Fargo, ND-MN",Cass County
+83520,58104,ND,202401,1194.45,0.0156,,Fargo,"Fargo, ND-MN",Cass County
+83520,58104,ND,202402,1186.85,-0.0064,0.0958,Fargo,"Fargo, ND-MN",Cass County
+83520,58104,ND,202403,1190.16,0.0028,0.094,Fargo,"Fargo, ND-MN",Cass County
+83520,58104,ND,202404,1175.89,-0.012,0.0619,Fargo,"Fargo, ND-MN",Cass County
+83520,58104,ND,202405,1185.03,0.0078,0.0778,Fargo,"Fargo, ND-MN",Cass County
+83520,58104,ND,202406,1193.02,0.0067,0.0764,Fargo,"Fargo, ND-MN",Cass County
+83520,58104,ND,202407,1197.97,0.0042,0.0704,Fargo,"Fargo, ND-MN",Cass County
+83520,58104,ND,202408,1196.83,-0.001,0.0501,Fargo,"Fargo, ND-MN",Cass County
+83520,58104,ND,202409,1203.13,0.0053,0.0468,Fargo,"Fargo, ND-MN",Cass County
+83520,58104,ND,202410,1211.54,0.007,0.045,Fargo,"Fargo, ND-MN",Cass County
+83520,58104,ND,202411,1213.89,0.0019,0.03,Fargo,"Fargo, ND-MN",Cass County
+83520,58104,ND,202412,1214.68,0.0006,0.0328,Fargo,"Fargo, ND-MN",Cass County
+83520,58104,ND,202501,1196.01,-0.0154,0.0013,Fargo,"Fargo, ND-MN",Cass County
+83520,58104,ND,202502,1186.84,-0.0077,-0.0,Fargo,"Fargo, ND-MN",Cass County
+83520,58104,ND,202503,1189.84,0.0025,-0.0003,Fargo,"Fargo, ND-MN",Cass County
+83520,58104,ND,202504,1209.76,0.0167,0.0288,Fargo,"Fargo, ND-MN",Cass County
+83520,58104,ND,202505,1228.61,0.0156,0.0368,Fargo,"Fargo, ND-MN",Cass County
+83520,58104,ND,202506,1234.73,0.005,0.035,Fargo,"Fargo, ND-MN",Cass County
+83520,58104,ND,202507,1242.92,0.0066,0.0375,Fargo,"Fargo, ND-MN",Cass County
+83520,58104,ND,202508,1254.94,0.0097,0.0486,Fargo,"Fargo, ND-MN",Cass County
+83520,58104,ND,202509,1250.47,-0.0036,0.0393,Fargo,"Fargo, ND-MN",Cass County
+83520,58104,ND,202510,1253.1,0.0021,0.0343,Fargo,"Fargo, ND-MN",Cass County
+83520,58104,ND,202511,1248.01,-0.0041,0.0281,Fargo,"Fargo, ND-MN",Cass County
+83520,58104,ND,202512,1242.28,-0.0046,0.0227,Fargo,"Fargo, ND-MN",Cass County
+83520,58104,ND,202601,1241.86,-0.0003,0.0383,Fargo,"Fargo, ND-MN",Cass County
+83520,58104,ND,202602,1235.93,-0.0048,0.0414,Fargo,"Fargo, ND-MN",Cass County
+83532,58201,ND,202101,884.77,,,Grand Forks,"Grand Forks, ND-MN",Grand Forks County
+83532,58201,ND,202102,895.12,0.0117,,Grand Forks,"Grand Forks, ND-MN",Grand Forks County
+83532,58201,ND,202103,903.1,0.0089,,Grand Forks,"Grand Forks, ND-MN",Grand Forks County
+83532,58201,ND,202104,900.49,-0.0029,,Grand Forks,"Grand Forks, ND-MN",Grand Forks County
+83532,58201,ND,202105,912.86,0.0137,,Grand Forks,"Grand Forks, ND-MN",Grand Forks County
+83532,58201,ND,202106,915.02,0.0024,,Grand Forks,"Grand Forks, ND-MN",Grand Forks County
+83532,58201,ND,202107,916.73,0.0019,,Grand Forks,"Grand Forks, ND-MN",Grand Forks County
+83532,58201,ND,202108,921.19,0.0049,,Grand Forks,"Grand Forks, ND-MN",Grand Forks County
+83532,58201,ND,202109,917.85,-0.0036,,Grand Forks,"Grand Forks, ND-MN",Grand Forks County
+83532,58201,ND,202110,920.91,0.0033,,Grand Forks,"Grand Forks, ND-MN",Grand Forks County
+83532,58201,ND,202111,925.03,0.0045,,Grand Forks,"Grand Forks, ND-MN",Grand Forks County
+83532,58201,ND,202112,934.71,0.0105,,Grand Forks,"Grand Forks, ND-MN",Grand Forks County
+83532,58201,ND,202201,930.6,-0.0044,0.0518,Grand Forks,"Grand Forks, ND-MN",Grand Forks County
+83532,58201,ND,202202,928.04,-0.0027,0.0368,Grand Forks,"Grand Forks, ND-MN",Grand Forks County
+83532,58201,ND,202203,924.61,-0.0037,0.0238,Grand Forks,"Grand Forks, ND-MN",Grand Forks County
+83532,58201,ND,202204,937.64,0.0141,0.0413,Grand Forks,"Grand Forks, ND-MN",Grand Forks County
+83532,58201,ND,202205,945.64,0.0085,0.0359,Grand Forks,"Grand Forks, ND-MN",Grand Forks County
+83532,58201,ND,202206,958.35,0.0134,0.0474,Grand Forks,"Grand Forks, ND-MN",Grand Forks County
+83532,58201,ND,202207,971.47,0.0137,0.0597,Grand Forks,"Grand Forks, ND-MN",Grand Forks County
+83532,58201,ND,202208,978.26,0.007,0.062,Grand Forks,"Grand Forks, ND-MN",Grand Forks County
+83532,58201,ND,202209,981.16,0.003,0.069,Grand Forks,"Grand Forks, ND-MN",Grand Forks County
+83532,58201,ND,202210,978.01,-0.0032,0.062,Grand Forks,"Grand Forks, ND-MN",Grand Forks County
+83532,58201,ND,202211,976.3,-0.0017,0.0554,Grand Forks,"Grand Forks, ND-MN",Grand Forks County
+83532,58201,ND,202212,970.83,-0.0056,0.0386,Grand Forks,"Grand Forks, ND-MN",Grand Forks County
+83532,58201,ND,202301,967.17,-0.0038,0.0393,Grand Forks,"Grand Forks, ND-MN",Grand Forks County
+83532,58201,ND,202302,967.87,0.0007,0.0429,Grand Forks,"Grand Forks, ND-MN",Grand Forks County
+83532,58201,ND,202303,977.11,0.0096,0.0568,Grand Forks,"Grand Forks, ND-MN",Grand Forks County
+83532,58201,ND,202304,983.89,0.0069,0.0493,Grand Forks,"Grand Forks, ND-MN",Grand Forks County
+83532,58201,ND,202305,989.83,0.006,0.0467,Grand Forks,"Grand Forks, ND-MN",Grand Forks County
+83532,58201,ND,202306,997.72,0.008,0.0411,Grand Forks,"Grand Forks, ND-MN",Grand Forks County
+83532,58201,ND,202307,1006.33,0.0086,0.0359,Grand Forks,"Grand Forks, ND-MN",Grand Forks County
+83532,58201,ND,202308,1010.52,0.0042,0.033,Grand Forks,"Grand Forks, ND-MN",Grand Forks County
+83532,58201,ND,202309,1004.9,-0.0056,0.0242,Grand Forks,"Grand Forks, ND-MN",Grand Forks County
+83532,58201,ND,202310,1002.15,-0.0027,0.0247,Grand Forks,"Grand Forks, ND-MN",Grand Forks County
+83532,58201,ND,202311,1003.23,0.0011,0.0276,Grand Forks,"Grand Forks, ND-MN",Grand Forks County
+83532,58201,ND,202312,1003.27,0.0,0.0334,Grand Forks,"Grand Forks, ND-MN",Grand Forks County
+83532,58201,ND,202401,1003.81,0.0005,0.0379,Grand Forks,"Grand Forks, ND-MN",Grand Forks County
+83532,58201,ND,202402,1008.59,0.0048,0.0421,Grand Forks,"Grand Forks, ND-MN",Grand Forks County
+83532,58201,ND,202403,1029.21,0.0205,0.0533,Grand Forks,"Grand Forks, ND-MN",Grand Forks County
+83532,58201,ND,202404,1045.03,0.0154,0.0621,Grand Forks,"Grand Forks, ND-MN",Grand Forks County
+83532,58201,ND,202405,1058.06,0.0125,0.0689,Grand Forks,"Grand Forks, ND-MN",Grand Forks County
+83532,58201,ND,202406,1069.38,0.0107,0.0718,Grand Forks,"Grand Forks, ND-MN",Grand Forks County
+83532,58201,ND,202407,1078.96,0.009,0.0722,Grand Forks,"Grand Forks, ND-MN",Grand Forks County
+83532,58201,ND,202408,1090.0,0.0102,0.0787,Grand Forks,"Grand Forks, ND-MN",Grand Forks County
+83532,58201,ND,202409,1084.35,-0.0052,0.0791,Grand Forks,"Grand Forks, ND-MN",Grand Forks County
+83532,58201,ND,202410,1079.85,-0.0041,0.0775,Grand Forks,"Grand Forks, ND-MN",Grand Forks County
+83532,58201,ND,202411,1074.61,-0.0049,0.0711,Grand Forks,"Grand Forks, ND-MN",Grand Forks County
+83532,58201,ND,202412,1086.93,0.0115,0.0834,Grand Forks,"Grand Forks, ND-MN",Grand Forks County
+83532,58201,ND,202501,1094.46,0.0069,0.0903,Grand Forks,"Grand Forks, ND-MN",Grand Forks County
+83532,58201,ND,202502,1111.39,0.0155,0.1019,Grand Forks,"Grand Forks, ND-MN",Grand Forks County
+83532,58201,ND,202503,1114.41,0.0027,0.0828,Grand Forks,"Grand Forks, ND-MN",Grand Forks County
+83532,58201,ND,202504,1126.56,0.0109,0.078,Grand Forks,"Grand Forks, ND-MN",Grand Forks County
+83532,58201,ND,202505,1136.06,0.0084,0.0737,Grand Forks,"Grand Forks, ND-MN",Grand Forks County
+83532,58201,ND,202506,1149.65,0.012,0.0751,Grand Forks,"Grand Forks, ND-MN",Grand Forks County
+83532,58201,ND,202507,1160.76,0.0097,0.0758,Grand Forks,"Grand Forks, ND-MN",Grand Forks County
+83532,58201,ND,202508,1168.77,0.0069,0.0723,Grand Forks,"Grand Forks, ND-MN",Grand Forks County
+83532,58201,ND,202509,1181.47,0.0109,0.0896,Grand Forks,"Grand Forks, ND-MN",Grand Forks County
+83532,58201,ND,202510,1180.65,-0.0007,0.0933,Grand Forks,"Grand Forks, ND-MN",Grand Forks County
+83532,58201,ND,202511,1159.86,-0.0176,0.0793,Grand Forks,"Grand Forks, ND-MN",Grand Forks County
+83532,58201,ND,202512,1155.53,-0.0037,0.0631,Grand Forks,"Grand Forks, ND-MN",Grand Forks County
+83532,58201,ND,202601,1173.01,0.0151,0.0718,Grand Forks,"Grand Forks, ND-MN",Grand Forks County
+83532,58201,ND,202602,1197.08,0.0205,0.0771,Grand Forks,"Grand Forks, ND-MN",Grand Forks County
+83534,58203,ND,202101,901.83,,,Grand Forks,"Grand Forks, ND-MN",Grand Forks County
+83534,58203,ND,202102,929.62,0.0308,,Grand Forks,"Grand Forks, ND-MN",Grand Forks County
+83534,58203,ND,202103,940.62,0.0118,,Grand Forks,"Grand Forks, ND-MN",Grand Forks County
+83534,58203,ND,202104,941.74,0.0012,,Grand Forks,"Grand Forks, ND-MN",Grand Forks County
+83534,58203,ND,202105,934.26,-0.0079,,Grand Forks,"Grand Forks, ND-MN",Grand Forks County
+83534,58203,ND,202106,939.1,0.0052,,Grand Forks,"Grand Forks, ND-MN",Grand Forks County
+83534,58203,ND,202107,944.92,0.0062,,Grand Forks,"Grand Forks, ND-MN",Grand Forks County
+83534,58203,ND,202108,951.68,0.0071,,Grand Forks,"Grand Forks, ND-MN",Grand Forks County
+83534,58203,ND,202109,955.82,0.0044,,Grand Forks,"Grand Forks, ND-MN",Grand Forks County
+83534,58203,ND,202110,949.82,-0.0063,,Grand Forks,"Grand Forks, ND-MN",Grand Forks County
+83534,58203,ND,202111,948.31,-0.0016,,Grand Forks,"Grand Forks, ND-MN",Grand Forks County
+83534,58203,ND,202112,933.05,-0.0161,,Grand Forks,"Grand Forks, ND-MN",Grand Forks County
+83534,58203,ND,202201,936.28,0.0035,0.0382,Grand Forks,"Grand Forks, ND-MN",Grand Forks County
+83534,58203,ND,202202,943.85,0.0081,0.0153,Grand Forks,"Grand Forks, ND-MN",Grand Forks County
+83534,58203,ND,202203,967.8,0.0254,0.0289,Grand Forks,"Grand Forks, ND-MN",Grand Forks County
+83534,58203,ND,202204,976.81,0.0093,0.0372,Grand Forks,"Grand Forks, ND-MN",Grand Forks County
+83534,58203,ND,202205,982.35,0.0057,0.0515,Grand Forks,"Grand Forks, ND-MN",Grand Forks County
+83534,58203,ND,202206,980.74,-0.0016,0.0443,Grand Forks,"Grand Forks, ND-MN",Grand Forks County
+83534,58203,ND,202207,980.7,-0.0,0.0379,Grand Forks,"Grand Forks, ND-MN",Grand Forks County
+83534,58203,ND,202208,993.21,0.0128,0.0436,Grand Forks,"Grand Forks, ND-MN",Grand Forks County
+83534,58203,ND,202209,993.18,-0.0,0.0391,Grand Forks,"Grand Forks, ND-MN",Grand Forks County
+83534,58203,ND,202210,1005.35,0.0123,0.0585,Grand Forks,"Grand Forks, ND-MN",Grand Forks County
+83534,58203,ND,202211,985.34,-0.0199,0.039,Grand Forks,"Grand Forks, ND-MN",Grand Forks County
+83534,58203,ND,202212,1006.81,0.0218,0.079,Grand Forks,"Grand Forks, ND-MN",Grand Forks County
+83534,58203,ND,202301,1003.23,-0.0036,0.0715,Grand Forks,"Grand Forks, ND-MN",Grand Forks County
+83534,58203,ND,202302,1021.04,0.0178,0.0818,Grand Forks,"Grand Forks, ND-MN",Grand Forks County
+83534,58203,ND,202303,1014.92,-0.006,0.0487,Grand Forks,"Grand Forks, ND-MN",Grand Forks County
+83534,58203,ND,202304,1019.81,0.0048,0.044,Grand Forks,"Grand Forks, ND-MN",Grand Forks County
+83534,58203,ND,202305,1030.73,0.0107,0.0493,Grand Forks,"Grand Forks, ND-MN",Grand Forks County
+83534,58203,ND,202306,1034.72,0.0039,0.055,Grand Forks,"Grand Forks, ND-MN",Grand Forks County
+83534,58203,ND,202307,1066.27,0.0305,0.0873,Grand Forks,"Grand Forks, ND-MN",Grand Forks County
+83534,58203,ND,202308,1072.36,0.0057,0.0797,Grand Forks,"Grand Forks, ND-MN",Grand Forks County
+83534,58203,ND,202309,1085.93,0.0127,0.0934,Grand Forks,"Grand Forks, ND-MN",Grand Forks County
+83534,58203,ND,202310,1065.18,-0.0191,0.0595,Grand Forks,"Grand Forks, ND-MN",Grand Forks County
+83534,58203,ND,202311,1062.2,-0.0028,0.078,Grand Forks,"Grand Forks, ND-MN",Grand Forks County
+83534,58203,ND,202312,1035.56,-0.0251,0.0286,Grand Forks,"Grand Forks, ND-MN",Grand Forks County
+83534,58203,ND,202401,1057.24,0.0209,0.0538,Grand Forks,"Grand Forks, ND-MN",Grand Forks County
+83534,58203,ND,202402,1074.95,0.0168,0.0528,Grand Forks,"Grand Forks, ND-MN",Grand Forks County
+83534,58203,ND,202403,1113.76,0.0361,0.0974,Grand Forks,"Grand Forks, ND-MN",Grand Forks County
+83534,58203,ND,202404,1106.84,-0.0062,0.0853,Grand Forks,"Grand Forks, ND-MN",Grand Forks County
+83534,58203,ND,202405,1093.87,-0.0117,0.0613,Grand Forks,"Grand Forks, ND-MN",Grand Forks County
+83534,58203,ND,202406,1087.27,-0.006,0.0508,Grand Forks,"Grand Forks, ND-MN",Grand Forks County
+83534,58203,ND,202407,1095.1,0.0072,0.027,Grand Forks,"Grand Forks, ND-MN",Grand Forks County
+83534,58203,ND,202408,1122.2,0.0247,0.0465,Grand Forks,"Grand Forks, ND-MN",Grand Forks County
+83534,58203,ND,202409,1130.74,0.0076,0.0413,Grand Forks,"Grand Forks, ND-MN",Grand Forks County
+83534,58203,ND,202410,1133.55,0.0025,0.0642,Grand Forks,"Grand Forks, ND-MN",Grand Forks County
+83534,58203,ND,202411,1128.09,-0.0048,0.062,Grand Forks,"Grand Forks, ND-MN",Grand Forks County
+83534,58203,ND,202412,1128.34,0.0002,0.0896,Grand Forks,"Grand Forks, ND-MN",Grand Forks County
+83534,58203,ND,202501,1132.52,0.0037,0.0712,Grand Forks,"Grand Forks, ND-MN",Grand Forks County
+83534,58203,ND,202502,1148.05,0.0137,0.068,Grand Forks,"Grand Forks, ND-MN",Grand Forks County
+83534,58203,ND,202503,1195.13,0.041,0.0731,Grand Forks,"Grand Forks, ND-MN",Grand Forks County
+83534,58203,ND,202504,1203.63,0.0071,0.0874,Grand Forks,"Grand Forks, ND-MN",Grand Forks County
+83534,58203,ND,202505,1187.27,-0.0136,0.0854,Grand Forks,"Grand Forks, ND-MN",Grand Forks County
+83534,58203,ND,202506,1151.46,-0.0302,0.059,Grand Forks,"Grand Forks, ND-MN",Grand Forks County
+83534,58203,ND,202507,1161.58,0.0088,0.0607,Grand Forks,"Grand Forks, ND-MN",Grand Forks County
+83534,58203,ND,202508,1197.68,0.0311,0.0673,Grand Forks,"Grand Forks, ND-MN",Grand Forks County
+83534,58203,ND,202509,1212.13,0.0121,0.072,Grand Forks,"Grand Forks, ND-MN",Grand Forks County
+83534,58203,ND,202510,1193.46,-0.0154,0.0528,Grand Forks,"Grand Forks, ND-MN",Grand Forks County
+83534,58203,ND,202511,1181.88,-0.0097,0.0477,Grand Forks,"Grand Forks, ND-MN",Grand Forks County
+83534,58203,ND,202512,1187.75,0.005,0.0527,Grand Forks,"Grand Forks, ND-MN",Grand Forks County
+83534,58203,ND,202601,1219.68,0.0269,0.077,Grand Forks,"Grand Forks, ND-MN",Grand Forks County
+83534,58203,ND,202602,1250.83,0.0255,0.0895,Grand Forks,"Grand Forks, ND-MN",Grand Forks County
+83644,58401,ND,202211,858.24,,,Jamestown,"Jamestown, ND",Stutsman County
+83644,58401,ND,202212,869.16,0.0127,,Jamestown,"Jamestown, ND",Stutsman County
+83644,58401,ND,202301,872.8,0.0042,,Jamestown,"Jamestown, ND",Stutsman County
+83644,58401,ND,202302,876.25,0.0039,,Jamestown,"Jamestown, ND",Stutsman County
+83644,58401,ND,202303,884.75,0.0097,,Jamestown,"Jamestown, ND",Stutsman County
+83644,58401,ND,202304,902.77,0.0204,,Jamestown,"Jamestown, ND",Stutsman County
+83644,58401,ND,202305,922.95,0.0223,,Jamestown,"Jamestown, ND",Stutsman County
+83644,58401,ND,202306,930.75,0.0085,,Jamestown,"Jamestown, ND",Stutsman County
+83644,58401,ND,202307,937.38,0.0071,,Jamestown,"Jamestown, ND",Stutsman County
+83644,58401,ND,202308,930.95,-0.0069,,Jamestown,"Jamestown, ND",Stutsman County
+83644,58401,ND,202309,945.98,0.0161,,Jamestown,"Jamestown, ND",Stutsman County
+83644,58401,ND,202310,945.1,-0.0009,,Jamestown,"Jamestown, ND",Stutsman County
+83644,58401,ND,202311,948.37,0.0035,0.105,Jamestown,"Jamestown, ND",Stutsman County
+83644,58401,ND,202312,942.82,-0.0059,0.0848,Jamestown,"Jamestown, ND",Stutsman County
+83644,58401,ND,202401,938.7,-0.0044,0.0755,Jamestown,"Jamestown, ND",Stutsman County
+83644,58401,ND,202402,933.7,-0.0053,0.0656,Jamestown,"Jamestown, ND",Stutsman County
+83644,58401,ND,202403,940.37,0.0071,0.0629,Jamestown,"Jamestown, ND",Stutsman County
+83644,58401,ND,202404,949.48,0.0097,0.0517,Jamestown,"Jamestown, ND",Stutsman County
+83644,58401,ND,202405,960.31,0.0114,0.0405,Jamestown,"Jamestown, ND",Stutsman County
+83644,58401,ND,202406,964.5,0.0044,0.0363,Jamestown,"Jamestown, ND",Stutsman County
+83644,58401,ND,202407,982.5,0.0187,0.0481,Jamestown,"Jamestown, ND",Stutsman County
+83644,58401,ND,202408,982.87,0.0004,0.0558,Jamestown,"Jamestown, ND",Stutsman County
+83644,58401,ND,202409,998.9,0.0163,0.0559,Jamestown,"Jamestown, ND",Stutsman County
+83644,58401,ND,202410,985.46,-0.0134,0.0427,Jamestown,"Jamestown, ND",Stutsman County
+83644,58401,ND,202411,982.99,-0.0025,0.0365,Jamestown,"Jamestown, ND",Stutsman County
+83644,58401,ND,202412,976.39,-0.0067,0.0356,Jamestown,"Jamestown, ND",Stutsman County
+83644,58401,ND,202501,968.29,-0.0083,0.0315,Jamestown,"Jamestown, ND",Stutsman County
+83644,58401,ND,202502,968.62,0.0003,0.0374,Jamestown,"Jamestown, ND",Stutsman County
+83644,58401,ND,202503,966.89,-0.0018,0.0282,Jamestown,"Jamestown, ND",Stutsman County
+83644,58401,ND,202504,992.5,0.0265,0.0453,Jamestown,"Jamestown, ND",Stutsman County
+83644,58401,ND,202505,1012.8,0.0204,0.0547,Jamestown,"Jamestown, ND",Stutsman County
+83644,58401,ND,202506,1017.53,0.0047,0.055,Jamestown,"Jamestown, ND",Stutsman County
+83644,58401,ND,202507,1015.58,-0.0019,0.0337,Jamestown,"Jamestown, ND",Stutsman County
+83644,58401,ND,202508,1005.95,-0.0095,0.0235,Jamestown,"Jamestown, ND",Stutsman County
+83644,58401,ND,202509,1007.1,0.0011,0.0082,Jamestown,"Jamestown, ND",Stutsman County
+83644,58401,ND,202510,1004.42,-0.0027,0.0192,Jamestown,"Jamestown, ND",Stutsman County
+83644,58401,ND,202511,1010.53,0.0061,0.028,Jamestown,"Jamestown, ND",Stutsman County
+83644,58401,ND,202601,1007.18,-0.0033,0.0315,Jamestown,"Jamestown, ND",Stutsman County
+83644,58401,ND,202602,1000.66,-0.0065,0.0334,Jamestown,"Jamestown, ND",Stutsman County
+83706,58501,ND,202402,907.06,,,Bismarck,"Bismarck, ND",Burleigh County
+83706,58501,ND,202403,932.07,0.0276,,Bismarck,"Bismarck, ND",Burleigh County
+83706,58501,ND,202404,952.75,0.0222,,Bismarck,"Bismarck, ND",Burleigh County
+83706,58501,ND,202405,970.27,0.0184,,Bismarck,"Bismarck, ND",Burleigh County
+83706,58501,ND,202406,992.81,0.0232,,Bismarck,"Bismarck, ND",Burleigh County
+83706,58501,ND,202407,1008.77,0.0161,,Bismarck,"Bismarck, ND",Burleigh County
+83706,58501,ND,202408,1008.8,0.0,,Bismarck,"Bismarck, ND",Burleigh County
+83706,58501,ND,202409,1016.04,0.0072,,Bismarck,"Bismarck, ND",Burleigh County
+83706,58501,ND,202410,1017.3,0.0012,,Bismarck,"Bismarck, ND",Burleigh County
+83706,58501,ND,202411,1022.89,0.0055,,Bismarck,"Bismarck, ND",Burleigh County
+83706,58501,ND,202412,1008.84,-0.0137,,Bismarck,"Bismarck, ND",Burleigh County
+83706,58501,ND,202501,998.79,-0.01,,Bismarck,"Bismarck, ND",Burleigh County
+83706,58501,ND,202502,962.61,-0.0362,0.0612,Bismarck,"Bismarck, ND",Burleigh County
+83706,58501,ND,202503,966.39,0.0039,0.0368,Bismarck,"Bismarck, ND",Burleigh County
+83706,58501,ND,202504,975.94,0.0099,0.0243,Bismarck,"Bismarck, ND",Burleigh County
+83706,58501,ND,202505,1030.32,0.0557,0.0619,Bismarck,"Bismarck, ND",Burleigh County
+83706,58501,ND,202506,1056.4,0.0253,0.064,Bismarck,"Bismarck, ND",Burleigh County
+83706,58501,ND,202507,1100.35,0.0416,0.0908,Bismarck,"Bismarck, ND",Burleigh County
+83706,58501,ND,202508,1119.2,0.0171,0.1094,Bismarck,"Bismarck, ND",Burleigh County
+83706,58501,ND,202509,1135.1,0.0142,0.1172,Bismarck,"Bismarck, ND",Burleigh County
+83706,58501,ND,202510,1133.12,-0.0017,0.1138,Bismarck,"Bismarck, ND",Burleigh County
+83706,58501,ND,202511,1099.55,-0.0296,0.0749,Bismarck,"Bismarck, ND",Burleigh County
+83706,58501,ND,202512,1077.8,-0.0198,0.0684,Bismarck,"Bismarck, ND",Burleigh County
+83706,58501,ND,202601,1034.98,-0.0397,0.0362,Bismarck,"Bismarck, ND",Burleigh County
+83706,58501,ND,202602,1066.65,0.0306,0.1081,Bismarck,"Bismarck, ND",Burleigh County
+83708,58503,ND,202502,1420.29,,,Bismarck,"Bismarck, ND",Burleigh County
+83708,58503,ND,202503,1441.64,0.015,,Bismarck,"Bismarck, ND",Burleigh County
+83708,58503,ND,202504,1465.33,0.0164,,Bismarck,"Bismarck, ND",Burleigh County
+83708,58503,ND,202505,1487.0,0.0148,,Bismarck,"Bismarck, ND",Burleigh County
+83708,58503,ND,202506,1508.11,0.0142,,Bismarck,"Bismarck, ND",Burleigh County
+83708,58503,ND,202507,1516.76,0.0057,,Bismarck,"Bismarck, ND",Burleigh County
+83708,58503,ND,202508,1488.48,-0.0186,,Bismarck,"Bismarck, ND",Burleigh County
+83708,58503,ND,202509,1484.22,-0.0029,,Bismarck,"Bismarck, ND",Burleigh County
+83708,58503,ND,202510,1491.64,0.005,,Bismarck,"Bismarck, ND",Burleigh County
+83708,58503,ND,202511,1513.21,0.0145,,Bismarck,"Bismarck, ND",Burleigh County
+83708,58503,ND,202512,1545.77,0.0215,,Bismarck,"Bismarck, ND",Burleigh County
+83708,58503,ND,202601,1568.36,0.0146,,Bismarck,"Bismarck, ND",Burleigh County
+83708,58503,ND,202602,1627.86,0.0379,0.1461,Bismarck,"Bismarck, ND",Burleigh County
+83709,58504,ND,202312,1361.85,,,Bismarck,"Bismarck, ND",Burleigh County
+83709,58504,ND,202401,1345.53,-0.012,,Bismarck,"Bismarck, ND",Burleigh County
+83709,58504,ND,202402,1334.9,-0.0079,,Bismarck,"Bismarck, ND",Burleigh County
+83709,58504,ND,202403,1334.25,-0.0005,,Bismarck,"Bismarck, ND",Burleigh County
+83709,58504,ND,202404,1362.71,0.0213,,Bismarck,"Bismarck, ND",Burleigh County
+83709,58504,ND,202405,1384.0,0.0156,,Bismarck,"Bismarck, ND",Burleigh County
+83709,58504,ND,202406,1421.08,0.0268,,Bismarck,"Bismarck, ND",Burleigh County
+83709,58504,ND,202407,1411.45,-0.0068,,Bismarck,"Bismarck, ND",Burleigh County
+83709,58504,ND,202408,1426.98,0.011,,Bismarck,"Bismarck, ND",Burleigh County
+83709,58504,ND,202409,1435.82,0.0062,,Bismarck,"Bismarck, ND",Burleigh County
+83709,58504,ND,202410,1438.33,0.0017,,Bismarck,"Bismarck, ND",Burleigh County
+83709,58504,ND,202411,1431.36,-0.0048,,Bismarck,"Bismarck, ND",Burleigh County
+83709,58504,ND,202412,1421.36,-0.007,0.0437,Bismarck,"Bismarck, ND",Burleigh County
+83709,58504,ND,202501,1434.84,0.0095,0.0664,Bismarck,"Bismarck, ND",Burleigh County
+83709,58504,ND,202502,1450.86,0.0112,0.0869,Bismarck,"Bismarck, ND",Burleigh County
+83709,58504,ND,202503,1449.31,-0.0011,0.0862,Bismarck,"Bismarck, ND",Burleigh County
+83709,58504,ND,202504,1455.64,0.0044,0.0682,Bismarck,"Bismarck, ND",Burleigh County
+83709,58504,ND,202505,1462.55,0.0048,0.0568,Bismarck,"Bismarck, ND",Burleigh County
+83709,58504,ND,202506,1486.33,0.0163,0.0459,Bismarck,"Bismarck, ND",Burleigh County
+83709,58504,ND,202507,1485.81,-0.0004,0.0527,Bismarck,"Bismarck, ND",Burleigh County
+83709,58504,ND,202508,1469.71,-0.0108,0.0299,Bismarck,"Bismarck, ND",Burleigh County
+83709,58504,ND,202509,1472.98,0.0022,0.0259,Bismarck,"Bismarck, ND",Burleigh County
+83709,58504,ND,202510,1491.17,0.0123,0.0367,Bismarck,"Bismarck, ND",Burleigh County
+83709,58504,ND,202511,1502.54,0.0076,0.0497,Bismarck,"Bismarck, ND",Burleigh County
+83709,58504,ND,202512,1482.43,-0.0134,0.043,Bismarck,"Bismarck, ND",Burleigh County
+83709,58504,ND,202601,1464.13,-0.0123,0.0204,Bismarck,"Bismarck, ND",Burleigh County
+83709,58504,ND,202602,1468.32,0.0029,0.012,Bismarck,"Bismarck, ND",Burleigh County
+83732,58554,ND,202406,934.38,,,Mandan,"Bismarck, ND",Morton County
+83732,58554,ND,202407,944.24,0.0106,,Mandan,"Bismarck, ND",Morton County
+83732,58554,ND,202408,941.94,-0.0024,,Mandan,"Bismarck, ND",Morton County
+83732,58554,ND,202409,997.59,0.0591,,Mandan,"Bismarck, ND",Morton County
+83732,58554,ND,202410,996.16,-0.0014,,Mandan,"Bismarck, ND",Morton County
+83732,58554,ND,202411,1026.34,0.0303,,Mandan,"Bismarck, ND",Morton County
+83732,58554,ND,202412,973.26,-0.0517,,Mandan,"Bismarck, ND",Morton County
+83732,58554,ND,202501,1011.42,0.0392,,Mandan,"Bismarck, ND",Morton County
+83732,58554,ND,202502,985.26,-0.0259,,Mandan,"Bismarck, ND",Morton County
+83732,58554,ND,202503,1003.7,0.0187,,Mandan,"Bismarck, ND",Morton County
+83732,58554,ND,202504,1009.15,0.0054,,Mandan,"Bismarck, ND",Morton County
+83732,58554,ND,202505,1030.49,0.0212,,Mandan,"Bismarck, ND",Morton County
+83732,58554,ND,202506,1061.38,0.03,0.1359,Mandan,"Bismarck, ND",Morton County
+83732,58554,ND,202507,1049.91,-0.0108,0.1119,Mandan,"Bismarck, ND",Morton County
+83732,58554,ND,202508,1092.09,0.0402,0.1594,Mandan,"Bismarck, ND",Morton County
+83732,58554,ND,202509,1083.35,-0.008,0.086,Mandan,"Bismarck, ND",Morton County
+83732,58554,ND,202510,1116.6,0.0307,0.1209,Mandan,"Bismarck, ND",Morton County
+83732,58554,ND,202512,1124.09,0.0067,0.0952,Mandan,"Bismarck, ND",Morton County
+83732,58554,ND,202601,1140.83,0.0149,0.1722,Mandan,"Bismarck, ND",Morton County
+83732,58554,ND,202602,1141.0,0.0001,0.1281,Mandan,"Bismarck, ND",Morton County
+83754,58601,ND,202502,1192.48,,,Dickinson,"Dickinson, ND",Stark County
+83754,58601,ND,202503,1230.52,0.0319,,Dickinson,"Dickinson, ND",Stark County
+83754,58601,ND,202504,1293.33,0.051,,Dickinson,"Dickinson, ND",Stark County
+83754,58601,ND,202505,1269.99,-0.018,,Dickinson,"Dickinson, ND",Stark County
+83754,58601,ND,202506,1266.75,-0.0026,,Dickinson,"Dickinson, ND",Stark County
+83754,58601,ND,202507,1255.94,-0.0085,,Dickinson,"Dickinson, ND",Stark County
+83754,58601,ND,202508,1251.64,-0.0034,,Dickinson,"Dickinson, ND",Stark County
+83754,58601,ND,202509,1249.4,-0.0018,,Dickinson,"Dickinson, ND",Stark County
+83754,58601,ND,202510,1271.62,0.0178,,Dickinson,"Dickinson, ND",Stark County
+83754,58601,ND,202511,1273.24,0.0013,,Dickinson,"Dickinson, ND",Stark County
+83754,58601,ND,202512,1258.79,-0.0114,,Dickinson,"Dickinson, ND",Stark County
+83754,58601,ND,202601,1243.47,-0.0122,,Dickinson,"Dickinson, ND",Stark County
+83754,58601,ND,202602,1248.83,0.0043,0.0473,Dickinson,"Dickinson, ND",Stark County
+83786,58701,ND,202401,863.96,,,Minot,"Minot, ND",Ward County
+83786,58701,ND,202402,869.33,0.0062,,Minot,"Minot, ND",Ward County
+83786,58701,ND,202403,880.42,0.0128,,Minot,"Minot, ND",Ward County
+83786,58701,ND,202404,887.61,0.0082,,Minot,"Minot, ND",Ward County
+83786,58701,ND,202405,898.46,0.0122,,Minot,"Minot, ND",Ward County
+83786,58701,ND,202406,900.71,0.0025,,Minot,"Minot, ND",Ward County
+83786,58701,ND,202407,906.3,0.0062,,Minot,"Minot, ND",Ward County
+83786,58701,ND,202408,906.32,0.0,,Minot,"Minot, ND",Ward County
+83786,58701,ND,202409,911.45,0.0057,,Minot,"Minot, ND",Ward County
+83786,58701,ND,202410,915.42,0.0044,,Minot,"Minot, ND",Ward County
+83786,58701,ND,202411,916.42,0.0011,,Minot,"Minot, ND",Ward County
+83786,58701,ND,202412,916.02,-0.0004,,Minot,"Minot, ND",Ward County
+83786,58701,ND,202501,918.36,0.0026,0.063,Minot,"Minot, ND",Ward County
+83786,58701,ND,202502,915.71,-0.0029,0.0533,Minot,"Minot, ND",Ward County
+83786,58701,ND,202503,926.71,0.012,0.0526,Minot,"Minot, ND",Ward County
+83786,58701,ND,202504,922.95,-0.0041,0.0398,Minot,"Minot, ND",Ward County
+83786,58701,ND,202505,940.13,0.0186,0.0464,Minot,"Minot, ND",Ward County
+83786,58701,ND,202506,949.59,0.0101,0.0543,Minot,"Minot, ND",Ward County
+83786,58701,ND,202507,957.12,0.0079,0.0561,Minot,"Minot, ND",Ward County
+83786,58701,ND,202508,967.45,0.0108,0.0674,Minot,"Minot, ND",Ward County
+83786,58701,ND,202509,969.45,0.0021,0.0636,Minot,"Minot, ND",Ward County
+83786,58701,ND,202510,971.98,0.0026,0.0618,Minot,"Minot, ND",Ward County
+83786,58701,ND,202511,969.2,-0.0029,0.0576,Minot,"Minot, ND",Ward County
+83786,58701,ND,202512,959.95,-0.0095,0.048,Minot,"Minot, ND",Ward County
+83786,58701,ND,202601,962.11,0.0023,0.0476,Minot,"Minot, ND",Ward County
+83786,58701,ND,202602,960.04,-0.0022,0.0484,Minot,"Minot, ND",Ward County
+83788,58703,ND,202103,789.67,,,Minot,"Minot, ND",Ward County
+83788,58703,ND,202105,800.11,0.0132,,Minot,"Minot, ND",Ward County
+83788,58703,ND,202106,810.51,0.013,,Minot,"Minot, ND",Ward County
+83788,58703,ND,202107,807.93,-0.0032,,Minot,"Minot, ND",Ward County
+83788,58703,ND,202108,803.46,-0.0055,,Minot,"Minot, ND",Ward County
+83788,58703,ND,202109,798.6,-0.006,,Minot,"Minot, ND",Ward County
+83788,58703,ND,202110,792.45,-0.0077,,Minot,"Minot, ND",Ward County
+83788,58703,ND,202111,792.53,0.0001,,Minot,"Minot, ND",Ward County
+83788,58703,ND,202112,790.7,-0.0023,,Minot,"Minot, ND",Ward County
+83788,58703,ND,202201,790.69,-0.0,,Minot,"Minot, ND",Ward County
+83788,58703,ND,202202,789.89,-0.001,,Minot,"Minot, ND",Ward County
+83788,58703,ND,202203,792.68,0.0035,,Minot,"Minot, ND",Ward County
+83788,58703,ND,202204,805.86,0.0166,0.0205,Minot,"Minot, ND",Ward County
+83788,58703,ND,202205,815.34,0.0118,0.019,Minot,"Minot, ND",Ward County
+83788,58703,ND,202206,832.78,0.0214,0.0275,Minot,"Minot, ND",Ward County
+83788,58703,ND,202207,841.01,0.0099,0.0409,Minot,"Minot, ND",Ward County
+83788,58703,ND,202208,843.6,0.0031,0.05,Minot,"Minot, ND",Ward County
+83788,58703,ND,202209,851.64,0.0095,0.0664,Minot,"Minot, ND",Ward County
+83788,58703,ND,202210,851.35,-0.0003,0.0743,Minot,"Minot, ND",Ward County
+83788,58703,ND,202211,860.19,0.0104,0.0854,Minot,"Minot, ND",Ward County
+83788,58703,ND,202212,855.45,-0.0055,0.0819,Minot,"Minot, ND",Ward County
+83788,58703,ND,202301,858.75,0.0039,0.0861,Minot,"Minot, ND",Ward County
+83788,58703,ND,202302,856.7,-0.0024,0.0846,Minot,"Minot, ND",Ward County
+83788,58703,ND,202303,862.67,0.007,0.0883,Minot,"Minot, ND",Ward County
+83788,58703,ND,202304,871.01,0.0097,0.0808,Minot,"Minot, ND",Ward County
+83788,58703,ND,202305,884.74,0.0158,0.0851,Minot,"Minot, ND",Ward County
+83788,58703,ND,202306,885.55,0.0009,0.0634,Minot,"Minot, ND",Ward County
+83788,58703,ND,202307,890.87,0.006,0.0593,Minot,"Minot, ND",Ward County
+83788,58703,ND,202308,894.1,0.0036,0.0599,Minot,"Minot, ND",Ward County
+83788,58703,ND,202309,903.5,0.0105,0.0609,Minot,"Minot, ND",Ward County
+83788,58703,ND,202310,897.51,-0.0066,0.0542,Minot,"Minot, ND",Ward County
+83788,58703,ND,202311,895.1,-0.0027,0.0406,Minot,"Minot, ND",Ward County
+83788,58703,ND,202312,891.58,-0.0039,0.0422,Minot,"Minot, ND",Ward County
+83788,58703,ND,202401,897.91,0.0071,0.0456,Minot,"Minot, ND",Ward County
+83788,58703,ND,202402,903.1,0.0058,0.0542,Minot,"Minot, ND",Ward County
+83788,58703,ND,202403,911.08,0.0088,0.0561,Minot,"Minot, ND",Ward County
+83788,58703,ND,202404,918.0,0.0076,0.0539,Minot,"Minot, ND",Ward County
+83788,58703,ND,202405,926.51,0.0093,0.0472,Minot,"Minot, ND",Ward County
+83788,58703,ND,202406,928.03,0.0016,0.048,Minot,"Minot, ND",Ward County
+83788,58703,ND,202407,930.95,0.0031,0.045,Minot,"Minot, ND",Ward County
+83788,58703,ND,202408,926.95,-0.0043,0.0367,Minot,"Minot, ND",Ward County
+83788,58703,ND,202409,930.32,0.0036,0.0297,Minot,"Minot, ND",Ward County
+83788,58703,ND,202410,931.42,0.0012,0.0378,Minot,"Minot, ND",Ward County
+83788,58703,ND,202411,929.91,-0.0016,0.0389,Minot,"Minot, ND",Ward County
+83788,58703,ND,202412,926.87,-0.0033,0.0396,Minot,"Minot, ND",Ward County
+83788,58703,ND,202501,937.25,0.0112,0.0438,Minot,"Minot, ND",Ward County
+83788,58703,ND,202502,951.93,0.0157,0.0541,Minot,"Minot, ND",Ward County
+83788,58703,ND,202503,955.16,0.0034,0.0484,Minot,"Minot, ND",Ward County
+83788,58703,ND,202504,959.52,0.0046,0.0452,Minot,"Minot, ND",Ward County
+83788,58703,ND,202505,972.03,0.013,0.0491,Minot,"Minot, ND",Ward County
+83788,58703,ND,202506,987.71,0.0161,0.0643,Minot,"Minot, ND",Ward County
+83788,58703,ND,202507,997.22,0.0096,0.0712,Minot,"Minot, ND",Ward County
+83788,58703,ND,202508,998.73,0.0015,0.0774,Minot,"Minot, ND",Ward County
+83788,58703,ND,202509,1008.15,0.0094,0.0837,Minot,"Minot, ND",Ward County
+83788,58703,ND,202510,1001.24,-0.0069,0.075,Minot,"Minot, ND",Ward County
+83788,58703,ND,202511,997.85,-0.0034,0.0731,Minot,"Minot, ND",Ward County
+83788,58703,ND,202512,986.9,-0.011,0.0648,Minot,"Minot, ND",Ward County
+83788,58703,ND,202601,991.6,0.0048,0.058,Minot,"Minot, ND",Ward County
+83788,58703,ND,202602,998.54,0.007,0.049,Minot,"Minot, ND",Ward County
+83850,58801,ND,202011,808.94,,,Williston,"Williston, ND",Williams County
+83850,58801,ND,202012,799.6,-0.0115,,Williston,"Williston, ND",Williams County
+83850,58801,ND,202101,805.68,0.0076,,Williston,"Williston, ND",Williams County
+83850,58801,ND,202102,820.14,0.0179,,Williston,"Williston, ND",Williams County
+83850,58801,ND,202103,826.3,0.0075,,Williston,"Williston, ND",Williams County
+83850,58801,ND,202104,828.4,0.0025,,Williston,"Williston, ND",Williams County
+83850,58801,ND,202105,823.92,-0.0054,,Williston,"Williston, ND",Williams County
+83850,58801,ND,202106,841.8,0.0217,,Williston,"Williston, ND",Williams County
+83850,58801,ND,202107,842.69,0.0011,,Williston,"Williston, ND",Williams County
+83850,58801,ND,202108,849.7,0.0083,,Williston,"Williston, ND",Williams County
+83850,58801,ND,202109,845.9,-0.0045,,Williston,"Williston, ND",Williams County
+83850,58801,ND,202110,844.07,-0.0022,,Williston,"Williston, ND",Williams County
+83850,58801,ND,202111,857.27,0.0156,0.0597,Williston,"Williston, ND",Williams County
+83850,58801,ND,202112,864.29,0.0082,0.0809,Williston,"Williston, ND",Williams County
+83850,58801,ND,202201,886.16,0.0253,0.0999,Williston,"Williston, ND",Williams County
+83850,58801,ND,202202,881.8,-0.0049,0.0752,Williston,"Williston, ND",Williams County
+83850,58801,ND,202203,872.79,-0.0102,0.0563,Williston,"Williston, ND",Williams County
+83850,58801,ND,202204,859.38,-0.0154,0.0374,Williston,"Williston, ND",Williams County
+83850,58801,ND,202205,872.64,0.0154,0.0591,Williston,"Williston, ND",Williams County
+83850,58801,ND,202206,881.1,0.0097,0.0467,Williston,"Williston, ND",Williams County
+83850,58801,ND,202207,899.54,0.0209,0.0675,Williston,"Williston, ND",Williams County
+83850,58801,ND,202208,892.58,-0.0077,0.0505,Williston,"Williston, ND",Williams County
+83850,58801,ND,202209,919.27,0.0299,0.0867,Williston,"Williston, ND",Williams County
+83850,58801,ND,202210,926.84,0.0082,0.0981,Williston,"Williston, ND",Williams County
+83850,58801,ND,202211,947.2,0.022,0.1049,Williston,"Williston, ND",Williams County
+83850,58801,ND,202212,938.62,-0.0091,0.086,Williston,"Williston, ND",Williams County
+83850,58801,ND,202301,948.1,0.0101,0.0699,Williston,"Williston, ND",Williams County
+83850,58801,ND,202302,959.22,0.0117,0.0878,Williston,"Williston, ND",Williams County
+83850,58801,ND,202303,969.59,0.0108,0.1109,Williston,"Williston, ND",Williams County
+83850,58801,ND,202304,989.63,0.0207,0.1516,Williston,"Williston, ND",Williams County
+83850,58801,ND,202305,1017.38,0.028,0.1659,Williston,"Williston, ND",Williams County
+83850,58801,ND,202306,1052.79,0.0348,0.1949,Williston,"Williston, ND",Williams County
+83850,58801,ND,202307,1082.38,0.0281,0.2033,Williston,"Williston, ND",Williams County
+83850,58801,ND,202308,1100.2,0.0165,0.2326,Williston,"Williston, ND",Williams County
+83850,58801,ND,202309,1118.62,0.0167,0.2168,Williston,"Williston, ND",Williams County
+83850,58801,ND,202310,1134.05,0.0138,0.2236,Williston,"Williston, ND",Williams County
+83850,58801,ND,202311,1138.64,0.004,0.2021,Williston,"Williston, ND",Williams County
+83850,58801,ND,202312,1156.67,0.0158,0.2323,Williston,"Williston, ND",Williams County
+83850,58801,ND,202401,1163.22,0.0057,0.2269,Williston,"Williston, ND",Williams County
+83850,58801,ND,202402,1187.71,0.0211,0.2382,Williston,"Williston, ND",Williams County
+83850,58801,ND,202403,1196.22,0.0072,0.2337,Williston,"Williston, ND",Williams County
+83850,58801,ND,202404,1206.0,0.0082,0.2186,Williston,"Williston, ND",Williams County
+83850,58801,ND,202405,1210.35,0.0036,0.1897,Williston,"Williston, ND",Williams County
+83850,58801,ND,202406,1216.66,0.0052,0.1557,Williston,"Williston, ND",Williams County
+83850,58801,ND,202407,1222.46,0.0048,0.1294,Williston,"Williston, ND",Williams County
+83850,58801,ND,202408,1224.92,0.002,0.1134,Williston,"Williston, ND",Williams County
+83850,58801,ND,202409,1228.38,0.0028,0.0981,Williston,"Williston, ND",Williams County
+83850,58801,ND,202410,1221.96,-0.0052,0.0775,Williston,"Williston, ND",Williams County
+83850,58801,ND,202411,1231.23,0.0076,0.0813,Williston,"Williston, ND",Williams County
+83850,58801,ND,202412,1227.47,-0.0031,0.0612,Williston,"Williston, ND",Williams County
+83850,58801,ND,202501,1245.2,0.0144,0.0705,Williston,"Williston, ND",Williams County
+83850,58801,ND,202502,1249.92,0.0038,0.0524,Williston,"Williston, ND",Williams County
+83850,58801,ND,202503,1260.63,0.0086,0.0538,Williston,"Williston, ND",Williams County
+83850,58801,ND,202504,1266.93,0.005,0.0505,Williston,"Williston, ND",Williams County
+83850,58801,ND,202505,1270.88,0.0031,0.05,Williston,"Williston, ND",Williams County
+83850,58801,ND,202506,1291.0,0.0158,0.0611,Williston,"Williston, ND",Williams County
+83850,58801,ND,202507,1304.43,0.0104,0.0671,Williston,"Williston, ND",Williams County
+83850,58801,ND,202508,1311.7,0.0056,0.0708,Williston,"Williston, ND",Williams County
+83850,58801,ND,202509,1310.82,-0.0007,0.0671,Williston,"Williston, ND",Williams County
+83850,58801,ND,202510,1310.51,-0.0002,0.0725,Williston,"Williston, ND",Williams County
+83850,58801,ND,202511,1304.29,-0.0047,0.0593,Williston,"Williston, ND",Williams County
+83850,58801,ND,202512,1306.05,0.0013,0.064,Williston,"Williston, ND",Williams County
+83850,58801,ND,202601,1297.44,-0.0066,0.042,Williston,"Williston, ND",Williams County
+83850,58801,ND,202602,1304.49,0.0054,0.0437,Williston,"Williston, ND",Williams County
+83864,58854,ND,202512,1132.35,,,Watford City,,McKenzie County
+83864,58854,ND,202601,1168.88,0.0323,,Watford City,,McKenzie County
+83864,58854,ND,202602,1225.0,0.048,,Watford City,,McKenzie County

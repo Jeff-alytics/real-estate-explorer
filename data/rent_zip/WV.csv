@@ -1,418 +1,439 @@
 RegionID,RegionName,State,month_date_yyyymm,zori,zori_mm,zori_yy,City,Metro,CountyName
-68290,24740,WV,202509,982.23,,,Princeton,"Bluefield, WV-VA",Mercer County
-68290,24740,WV,202510,983.69,0.0015,,Princeton,"Bluefield, WV-VA",Mercer County
-68290,24740,WV,202511,978.45,-0.0053,,Princeton,"Bluefield, WV-VA",Mercer County
-68290,24740,WV,202512,978.23,-0.0002,,Princeton,"Bluefield, WV-VA",Mercer County
-68290,24740,WV,202601,948.33,-0.0306,,Princeton,"Bluefield, WV-VA",Mercer County
-68553,25306,WV,202401,1318.54,,,Charleston,"Charleston, WV",Kanawha County
-68553,25306,WV,202402,1321.76,0.0024,,Charleston,"Charleston, WV",Kanawha County
-68553,25306,WV,202403,1324.23,0.0019,,Charleston,"Charleston, WV",Kanawha County
-68553,25306,WV,202404,1347.68,0.0177,,Charleston,"Charleston, WV",Kanawha County
-68553,25306,WV,202405,1356.13,0.0063,,Charleston,"Charleston, WV",Kanawha County
-68553,25306,WV,202406,1372.02,0.0117,,Charleston,"Charleston, WV",Kanawha County
-68553,25306,WV,202407,1379.63,0.0055,,Charleston,"Charleston, WV",Kanawha County
-68553,25306,WV,202408,1406.64,0.0196,,Charleston,"Charleston, WV",Kanawha County
-68553,25306,WV,202409,1426.84,0.0144,,Charleston,"Charleston, WV",Kanawha County
-68553,25306,WV,202410,1459.81,0.0231,,Charleston,"Charleston, WV",Kanawha County
-68553,25306,WV,202411,1454.35,-0.0037,,Charleston,"Charleston, WV",Kanawha County
-68553,25306,WV,202412,1457.66,0.0023,,Charleston,"Charleston, WV",Kanawha County
-68553,25306,WV,202501,1446.7,-0.0075,0.0972,Charleston,"Charleston, WV",Kanawha County
-68553,25306,WV,202503,1469.33,0.0156,0.1116,Charleston,"Charleston, WV",Kanawha County
-68553,25306,WV,202504,1500.45,0.0212,0.1331,Charleston,"Charleston, WV",Kanawha County
-68553,25306,WV,202505,1513.11,0.0084,0.1228,Charleston,"Charleston, WV",Kanawha County
-68553,25306,WV,202506,1539.21,0.0173,0.135,Charleston,"Charleston, WV",Kanawha County
-68553,25306,WV,202507,1532.64,-0.0043,0.1171,Charleston,"Charleston, WV",Kanawha County
-68553,25306,WV,202508,1526.5,-0.004,0.1065,Charleston,"Charleston, WV",Kanawha County
-68553,25306,WV,202509,1525.09,-0.0009,0.0842,Charleston,"Charleston, WV",Kanawha County
-68553,25306,WV,202510,1542.73,0.0116,0.0812,Charleston,"Charleston, WV",Kanawha County
-68553,25306,WV,202511,1554.92,0.0079,0.0651,Charleston,"Charleston, WV",Kanawha County
-68553,25306,WV,202512,1556.61,0.0011,0.0703,Charleston,"Charleston, WV",Kanawha County
-68553,25306,WV,202601,1552.5,-0.0026,0.0651,Charleston,"Charleston, WV",Kanawha County
-68555,25311,WV,202512,909.63,,,Charleston,"Charleston, WV",Kanawha County
-68555,25311,WV,202601,957.5,0.0526,,Charleston,"Charleston, WV",Kanawha County
-68595,25401,WV,202402,1241.09,,,Martinsburg,"Hagerstown-Martinsburg, MD-WV",Berkeley County
-68595,25401,WV,202403,1259.04,0.0145,,Martinsburg,"Hagerstown-Martinsburg, MD-WV",Berkeley County
-68595,25401,WV,202404,1259.04,-0.0,,Martinsburg,"Hagerstown-Martinsburg, MD-WV",Berkeley County
-68595,25401,WV,202405,1306.97,0.0381,,Martinsburg,"Hagerstown-Martinsburg, MD-WV",Berkeley County
-68595,25401,WV,202406,1298.34,-0.0066,,Martinsburg,"Hagerstown-Martinsburg, MD-WV",Berkeley County
-68595,25401,WV,202407,1309.04,0.0082,,Martinsburg,"Hagerstown-Martinsburg, MD-WV",Berkeley County
-68595,25401,WV,202408,1329.4,0.0156,,Martinsburg,"Hagerstown-Martinsburg, MD-WV",Berkeley County
-68595,25401,WV,202409,1334.38,0.0037,,Martinsburg,"Hagerstown-Martinsburg, MD-WV",Berkeley County
-68595,25401,WV,202410,1337.25,0.0022,,Martinsburg,"Hagerstown-Martinsburg, MD-WV",Berkeley County
-68595,25401,WV,202411,1347.54,0.0077,,Martinsburg,"Hagerstown-Martinsburg, MD-WV",Berkeley County
-68595,25401,WV,202412,1356.58,0.0067,,Martinsburg,"Hagerstown-Martinsburg, MD-WV",Berkeley County
-68595,25401,WV,202501,1359.87,0.0024,,Martinsburg,"Hagerstown-Martinsburg, MD-WV",Berkeley County
-68595,25401,WV,202502,1365.59,0.0042,0.1003,Martinsburg,"Hagerstown-Martinsburg, MD-WV",Berkeley County
-68595,25401,WV,202503,1390.81,0.0185,0.1047,Martinsburg,"Hagerstown-Martinsburg, MD-WV",Berkeley County
-68595,25401,WV,202504,1396.64,0.0042,0.1093,Martinsburg,"Hagerstown-Martinsburg, MD-WV",Berkeley County
-68595,25401,WV,202505,1395.46,-0.0008,0.0677,Martinsburg,"Hagerstown-Martinsburg, MD-WV",Berkeley County
-68595,25401,WV,202506,1398.3,0.002,0.077,Martinsburg,"Hagerstown-Martinsburg, MD-WV",Berkeley County
-68595,25401,WV,202507,1390.13,-0.0058,0.0619,Martinsburg,"Hagerstown-Martinsburg, MD-WV",Berkeley County
-68595,25401,WV,202508,1383.82,-0.0045,0.0409,Martinsburg,"Hagerstown-Martinsburg, MD-WV",Berkeley County
-68595,25401,WV,202509,1372.19,-0.0084,0.0283,Martinsburg,"Hagerstown-Martinsburg, MD-WV",Berkeley County
-68595,25401,WV,202510,1400.36,0.0205,0.0472,Martinsburg,"Hagerstown-Martinsburg, MD-WV",Berkeley County
-68595,25401,WV,202511,1417.24,0.012,0.0517,Martinsburg,"Hagerstown-Martinsburg, MD-WV",Berkeley County
-68595,25401,WV,202512,1431.79,0.0103,0.0554,Martinsburg,"Hagerstown-Martinsburg, MD-WV",Berkeley County
-68595,25401,WV,202601,1412.25,-0.0136,0.0385,Martinsburg,"Hagerstown-Martinsburg, MD-WV",Berkeley County
-68600,25414,WV,202312,1666.12,,,Charles Town,"Washington-Arlington-Alexandria, DC-VA-MD-WV",Jefferson County
-68600,25414,WV,202401,1660.98,-0.0031,,Charles Town,"Washington-Arlington-Alexandria, DC-VA-MD-WV",Jefferson County
-68600,25414,WV,202402,1624.62,-0.0219,,Charles Town,"Washington-Arlington-Alexandria, DC-VA-MD-WV",Jefferson County
-68600,25414,WV,202403,1651.83,0.0168,,Charles Town,"Washington-Arlington-Alexandria, DC-VA-MD-WV",Jefferson County
-68600,25414,WV,202404,1680.91,0.0176,,Charles Town,"Washington-Arlington-Alexandria, DC-VA-MD-WV",Jefferson County
-68600,25414,WV,202405,1693.94,0.0078,,Charles Town,"Washington-Arlington-Alexandria, DC-VA-MD-WV",Jefferson County
-68600,25414,WV,202406,1698.17,0.0025,,Charles Town,"Washington-Arlington-Alexandria, DC-VA-MD-WV",Jefferson County
-68600,25414,WV,202407,1715.72,0.0103,,Charles Town,"Washington-Arlington-Alexandria, DC-VA-MD-WV",Jefferson County
-68600,25414,WV,202408,1716.49,0.0004,,Charles Town,"Washington-Arlington-Alexandria, DC-VA-MD-WV",Jefferson County
-68600,25414,WV,202409,1746.02,0.0172,,Charles Town,"Washington-Arlington-Alexandria, DC-VA-MD-WV",Jefferson County
-68600,25414,WV,202410,1741.88,-0.0024,,Charles Town,"Washington-Arlington-Alexandria, DC-VA-MD-WV",Jefferson County
-68600,25414,WV,202411,1772.62,0.0176,,Charles Town,"Washington-Arlington-Alexandria, DC-VA-MD-WV",Jefferson County
-68600,25414,WV,202412,1775.06,0.0014,0.0654,Charles Town,"Washington-Arlington-Alexandria, DC-VA-MD-WV",Jefferson County
-68600,25414,WV,202501,1771.9,-0.0018,0.0668,Charles Town,"Washington-Arlington-Alexandria, DC-VA-MD-WV",Jefferson County
-68600,25414,WV,202502,1755.15,-0.0095,0.0803,Charles Town,"Washington-Arlington-Alexandria, DC-VA-MD-WV",Jefferson County
-68600,25414,WV,202503,1761.06,0.0034,0.0661,Charles Town,"Washington-Arlington-Alexandria, DC-VA-MD-WV",Jefferson County
-68600,25414,WV,202504,1768.37,0.0041,0.052,Charles Town,"Washington-Arlington-Alexandria, DC-VA-MD-WV",Jefferson County
-68600,25414,WV,202505,1766.88,-0.0008,0.0431,Charles Town,"Washington-Arlington-Alexandria, DC-VA-MD-WV",Jefferson County
-68600,25414,WV,202506,1752.51,-0.0081,0.032,Charles Town,"Washington-Arlington-Alexandria, DC-VA-MD-WV",Jefferson County
-68600,25414,WV,202507,1757.25,0.0027,0.0242,Charles Town,"Washington-Arlington-Alexandria, DC-VA-MD-WV",Jefferson County
-68600,25414,WV,202508,1785.23,0.0159,0.04,Charles Town,"Washington-Arlington-Alexandria, DC-VA-MD-WV",Jefferson County
-68600,25414,WV,202509,1822.5,0.0209,0.0438,Charles Town,"Washington-Arlington-Alexandria, DC-VA-MD-WV",Jefferson County
-68600,25414,WV,202510,1838.2,0.0086,0.0553,Charles Town,"Washington-Arlington-Alexandria, DC-VA-MD-WV",Jefferson County
-68600,25414,WV,202511,1851.14,0.007,0.0443,Charles Town,"Washington-Arlington-Alexandria, DC-VA-MD-WV",Jefferson County
-68600,25414,WV,202512,1845.63,-0.003,0.0398,Charles Town,"Washington-Arlington-Alexandria, DC-VA-MD-WV",Jefferson County
-68600,25414,WV,202601,1890.42,0.0243,0.0669,Charles Town,"Washington-Arlington-Alexandria, DC-VA-MD-WV",Jefferson County
-68601,25419,WV,202510,1853.17,,,Falling Waters,"Hagerstown-Martinsburg, MD-WV",Berkeley County
-68601,25419,WV,202511,1848.0,-0.0028,,Falling Waters,"Hagerstown-Martinsburg, MD-WV",Berkeley County
-68601,25419,WV,202512,1782.05,-0.0357,,Falling Waters,"Hagerstown-Martinsburg, MD-WV",Berkeley County
-68601,25419,WV,202601,1757.75,-0.0136,,Falling Waters,"Hagerstown-Martinsburg, MD-WV",Berkeley County
-68640,25526,WV,202601,1220.83,,,Hurricane,"Huntington-Ashland, WV-KY-OH",Putnam County
-68716,25701,WV,202411,942.16,,,Huntington,"Huntington-Ashland, WV-KY-OH",Cabell County
-68716,25701,WV,202412,948.65,0.0069,,Huntington,"Huntington-Ashland, WV-KY-OH",Cabell County
-68716,25701,WV,202501,969.91,0.0224,,Huntington,"Huntington-Ashland, WV-KY-OH",Cabell County
-68716,25701,WV,202502,954.84,-0.0155,,Huntington,"Huntington-Ashland, WV-KY-OH",Cabell County
-68716,25701,WV,202503,957.37,0.0026,,Huntington,"Huntington-Ashland, WV-KY-OH",Cabell County
-68716,25701,WV,202504,971.25,0.0145,,Huntington,"Huntington-Ashland, WV-KY-OH",Cabell County
-68716,25701,WV,202505,970.25,-0.001,,Huntington,"Huntington-Ashland, WV-KY-OH",Cabell County
-68716,25701,WV,202506,989.37,0.0197,,Huntington,"Huntington-Ashland, WV-KY-OH",Cabell County
-68716,25701,WV,202507,993.44,0.0041,,Huntington,"Huntington-Ashland, WV-KY-OH",Cabell County
-68716,25701,WV,202508,1030.85,0.0377,,Huntington,"Huntington-Ashland, WV-KY-OH",Cabell County
-68716,25701,WV,202509,1023.91,-0.0067,,Huntington,"Huntington-Ashland, WV-KY-OH",Cabell County
-68716,25701,WV,202510,1029.24,0.0052,,Huntington,"Huntington-Ashland, WV-KY-OH",Cabell County
-68716,25701,WV,202511,979.73,-0.0481,0.0399,Huntington,"Huntington-Ashland, WV-KY-OH",Cabell County
-68716,25701,WV,202512,994.7,0.0153,0.0485,Huntington,"Huntington-Ashland, WV-KY-OH",Cabell County
-68716,25701,WV,202601,1019.77,0.0252,0.0514,Huntington,"Huntington-Ashland, WV-KY-OH",Cabell County
-68719,25704,WV,202601,700.0,,,Huntington,"Huntington-Ashland, WV-KY-OH",Wayne County
-68756,25801,WV,202501,967.87,,,Beckley,"Beckley, WV",Raleigh County
-68756,25801,WV,202502,1008.09,0.0416,,Beckley,"Beckley, WV",Raleigh County
-68756,25801,WV,202503,1032.82,0.0245,,Beckley,"Beckley, WV",Raleigh County
-68756,25801,WV,202504,1040.76,0.0077,,Beckley,"Beckley, WV",Raleigh County
-68756,25801,WV,202505,1028.33,-0.0119,,Beckley,"Beckley, WV",Raleigh County
-68756,25801,WV,202506,1062.59,0.0333,,Beckley,"Beckley, WV",Raleigh County
-68756,25801,WV,202507,1095.78,0.0312,,Beckley,"Beckley, WV",Raleigh County
-68756,25801,WV,202508,1087.05,-0.008,,Beckley,"Beckley, WV",Raleigh County
-68756,25801,WV,202509,1040.36,-0.043,,Beckley,"Beckley, WV",Raleigh County
-68756,25801,WV,202510,1017.43,-0.022,,Beckley,"Beckley, WV",Raleigh County
-68756,25801,WV,202511,1028.14,0.0105,,Beckley,"Beckley, WV",Raleigh County
-68756,25801,WV,202512,1059.97,0.031,,Beckley,"Beckley, WV",Raleigh County
-68756,25801,WV,202601,1097.17,0.0351,0.1336,Beckley,"Beckley, WV",Raleigh County
-68854,26003,WV,202210,667.94,,,Wheeling,"Wheeling, WV-OH",Ohio County
-68854,26003,WV,202211,660.11,-0.0117,,Wheeling,"Wheeling, WV-OH",Ohio County
-68854,26003,WV,202212,673.35,0.0201,,Wheeling,"Wheeling, WV-OH",Ohio County
-68854,26003,WV,202301,678.17,0.0072,,Wheeling,"Wheeling, WV-OH",Ohio County
-68854,26003,WV,202302,693.66,0.0228,,Wheeling,"Wheeling, WV-OH",Ohio County
-68854,26003,WV,202303,687.01,-0.0096,,Wheeling,"Wheeling, WV-OH",Ohio County
-68854,26003,WV,202304,703.41,0.0239,,Wheeling,"Wheeling, WV-OH",Ohio County
-68854,26003,WV,202305,702.36,-0.0015,,Wheeling,"Wheeling, WV-OH",Ohio County
-68854,26003,WV,202306,714.9,0.0179,,Wheeling,"Wheeling, WV-OH",Ohio County
-68854,26003,WV,202307,715.2,0.0004,,Wheeling,"Wheeling, WV-OH",Ohio County
-68854,26003,WV,202308,717.8,0.0036,,Wheeling,"Wheeling, WV-OH",Ohio County
-68854,26003,WV,202309,706.73,-0.0154,,Wheeling,"Wheeling, WV-OH",Ohio County
-68854,26003,WV,202310,693.86,-0.0182,0.0388,Wheeling,"Wheeling, WV-OH",Ohio County
-68854,26003,WV,202311,701.24,0.0106,0.0623,Wheeling,"Wheeling, WV-OH",Ohio County
-68854,26003,WV,202312,713.79,0.0179,0.0601,Wheeling,"Wheeling, WV-OH",Ohio County
-68854,26003,WV,202401,732.72,0.0265,0.0804,Wheeling,"Wheeling, WV-OH",Ohio County
-68854,26003,WV,202402,734.61,0.0026,0.059,Wheeling,"Wheeling, WV-OH",Ohio County
-68854,26003,WV,202403,729.19,-0.0074,0.0614,Wheeling,"Wheeling, WV-OH",Ohio County
-68854,26003,WV,202404,732.0,0.0039,0.0406,Wheeling,"Wheeling, WV-OH",Ohio County
-68854,26003,WV,202405,729.74,-0.0031,0.039,Wheeling,"Wheeling, WV-OH",Ohio County
-68854,26003,WV,202406,742.45,0.0174,0.0385,Wheeling,"Wheeling, WV-OH",Ohio County
-68854,26003,WV,202407,737.92,-0.0061,0.0318,Wheeling,"Wheeling, WV-OH",Ohio County
-68854,26003,WV,202408,744.71,0.0092,0.0375,Wheeling,"Wheeling, WV-OH",Ohio County
-68854,26003,WV,202409,740.7,-0.0054,0.0481,Wheeling,"Wheeling, WV-OH",Ohio County
-68854,26003,WV,202410,740.43,-0.0004,0.0671,Wheeling,"Wheeling, WV-OH",Ohio County
-68854,26003,WV,202411,746.48,0.0082,0.0645,Wheeling,"Wheeling, WV-OH",Ohio County
-68854,26003,WV,202412,755.08,0.0115,0.0578,Wheeling,"Wheeling, WV-OH",Ohio County
-68854,26003,WV,202501,765.0,0.0131,0.0441,Wheeling,"Wheeling, WV-OH",Ohio County
-68854,26003,WV,202502,772.18,0.0094,0.0511,Wheeling,"Wheeling, WV-OH",Ohio County
-68854,26003,WV,202503,765.45,-0.0087,0.0497,Wheeling,"Wheeling, WV-OH",Ohio County
-68854,26003,WV,202504,767.55,0.0027,0.0486,Wheeling,"Wheeling, WV-OH",Ohio County
-68854,26003,WV,202505,767.24,-0.0004,0.0514,Wheeling,"Wheeling, WV-OH",Ohio County
-68854,26003,WV,202506,769.48,0.0029,0.0364,Wheeling,"Wheeling, WV-OH",Ohio County
-68854,26003,WV,202507,772.87,0.0044,0.0474,Wheeling,"Wheeling, WV-OH",Ohio County
-68854,26003,WV,202508,776.38,0.0045,0.0425,Wheeling,"Wheeling, WV-OH",Ohio County
-68854,26003,WV,202509,788.43,0.0155,0.0644,Wheeling,"Wheeling, WV-OH",Ohio County
-68854,26003,WV,202510,791.27,0.0036,0.0687,Wheeling,"Wheeling, WV-OH",Ohio County
-68854,26003,WV,202511,802.59,0.0143,0.0752,Wheeling,"Wheeling, WV-OH",Ohio County
-68854,26003,WV,202512,804.39,0.0022,0.0653,Wheeling,"Wheeling, WV-OH",Ohio County
-68854,26003,WV,202601,804.44,0.0001,0.0516,Wheeling,"Wheeling, WV-OH",Ohio County
-68862,26037,WV,202601,750.0,,,Follansbee,"Weirton-Steubenville, WV-OH",Brooke County
-68874,26062,WV,202505,813.64,,,Weirton,"Weirton-Steubenville, WV-OH",Hancock County
-68874,26062,WV,202506,824.13,0.0129,,Weirton,"Weirton-Steubenville, WV-OH",Hancock County
-68874,26062,WV,202507,824.12,-0.0,,Weirton,"Weirton-Steubenville, WV-OH",Hancock County
-68874,26062,WV,202509,857.95,0.0411,,Weirton,"Weirton-Steubenville, WV-OH",Hancock County
-68874,26062,WV,202510,830.3,-0.0322,,Weirton,"Weirton-Steubenville, WV-OH",Hancock County
-68874,26062,WV,202512,814.81,-0.0187,,Weirton,"Weirton-Steubenville, WV-OH",Hancock County
-68874,26062,WV,202601,837.5,0.0278,,Weirton,"Weirton-Steubenville, WV-OH",Hancock County
-68878,26101,WV,202511,905.91,,,Parkersburg,"Parkersburg-Vienna, WV",Wood County
-68878,26101,WV,202512,888.88,-0.0188,,Parkersburg,"Parkersburg-Vienna, WV",Wood County
-68878,26101,WV,202601,883.33,-0.0062,,Parkersburg,"Parkersburg-Vienna, WV",Wood County
-68972,26301,WV,202402,900.64,,,Clarksburg,"Clarksburg, WV",Harrison County
-68972,26301,WV,202403,884.02,-0.0185,,Clarksburg,"Clarksburg, WV",Harrison County
-68972,26301,WV,202404,899.03,0.017,,Clarksburg,"Clarksburg, WV",Harrison County
-68972,26301,WV,202405,907.71,0.0097,,Clarksburg,"Clarksburg, WV",Harrison County
-68972,26301,WV,202406,930.46,0.0251,,Clarksburg,"Clarksburg, WV",Harrison County
-68972,26301,WV,202407,929.65,-0.0009,,Clarksburg,"Clarksburg, WV",Harrison County
-68972,26301,WV,202408,920.01,-0.0104,,Clarksburg,"Clarksburg, WV",Harrison County
-68972,26301,WV,202409,923.78,0.0041,,Clarksburg,"Clarksburg, WV",Harrison County
-68972,26301,WV,202410,928.93,0.0056,,Clarksburg,"Clarksburg, WV",Harrison County
-68972,26301,WV,202411,922.6,-0.0068,,Clarksburg,"Clarksburg, WV",Harrison County
-68972,26301,WV,202412,921.79,-0.0009,,Clarksburg,"Clarksburg, WV",Harrison County
-68972,26301,WV,202501,922.48,0.0008,,Clarksburg,"Clarksburg, WV",Harrison County
-68972,26301,WV,202502,928.98,0.007,0.0315,Clarksburg,"Clarksburg, WV",Harrison County
-68972,26301,WV,202503,930.94,0.0021,0.0531,Clarksburg,"Clarksburg, WV",Harrison County
-68972,26301,WV,202504,963.89,0.0354,0.0721,Clarksburg,"Clarksburg, WV",Harrison County
-68972,26301,WV,202505,990.15,0.0272,0.0908,Clarksburg,"Clarksburg, WV",Harrison County
-68972,26301,WV,202506,991.75,0.0016,0.0659,Clarksburg,"Clarksburg, WV",Harrison County
-68972,26301,WV,202507,980.01,-0.0118,0.0542,Clarksburg,"Clarksburg, WV",Harrison County
-68972,26301,WV,202508,986.03,0.0061,0.0718,Clarksburg,"Clarksburg, WV",Harrison County
-68972,26301,WV,202509,986.29,0.0003,0.0677,Clarksburg,"Clarksburg, WV",Harrison County
-68972,26301,WV,202510,992.79,0.0066,0.0687,Clarksburg,"Clarksburg, WV",Harrison County
-68972,26301,WV,202511,984.7,-0.0081,0.0673,Clarksburg,"Clarksburg, WV",Harrison County
-68972,26301,WV,202512,973.71,-0.0112,0.0563,Clarksburg,"Clarksburg, WV",Harrison County
-68972,26301,WV,202601,945.83,-0.0286,0.0253,Clarksburg,"Clarksburg, WV",Harrison County
-68980,26330,WV,202601,1391.25,,,Bridgeport,"Clarksburg, WV",Harrison County
-69037,26501,WV,202209,1260.89,,,Morgantown,"Morgantown, WV",Monongalia County
-69037,26501,WV,202210,1280.26,0.0154,,Morgantown,"Morgantown, WV",Monongalia County
-69037,26501,WV,202211,1281.21,0.0007,,Morgantown,"Morgantown, WV",Monongalia County
-69037,26501,WV,202212,1268.31,-0.0101,,Morgantown,"Morgantown, WV",Monongalia County
-69037,26501,WV,202301,1243.65,-0.0194,,Morgantown,"Morgantown, WV",Monongalia County
-69037,26501,WV,202302,1230.86,-0.0103,,Morgantown,"Morgantown, WV",Monongalia County
-69037,26501,WV,202303,1218.44,-0.0101,,Morgantown,"Morgantown, WV",Monongalia County
-69037,26501,WV,202304,1220.51,0.0017,,Morgantown,"Morgantown, WV",Monongalia County
-69037,26501,WV,202305,1242.49,0.018,,Morgantown,"Morgantown, WV",Monongalia County
-69037,26501,WV,202306,1273.99,0.0254,,Morgantown,"Morgantown, WV",Monongalia County
-69037,26501,WV,202307,1297.18,0.0182,,Morgantown,"Morgantown, WV",Monongalia County
-69037,26501,WV,202308,1293.19,-0.0031,,Morgantown,"Morgantown, WV",Monongalia County
-69037,26501,WV,202309,1298.1,0.0038,0.0295,Morgantown,"Morgantown, WV",Monongalia County
-69037,26501,WV,202310,1272.34,-0.0198,-0.0062,Morgantown,"Morgantown, WV",Monongalia County
-69037,26501,WV,202311,1274.99,0.0021,-0.0049,Morgantown,"Morgantown, WV",Monongalia County
-69037,26501,WV,202312,1282.66,0.006,0.0113,Morgantown,"Morgantown, WV",Monongalia County
-69037,26501,WV,202401,1311.19,0.0222,0.0543,Morgantown,"Morgantown, WV",Monongalia County
-69037,26501,WV,202402,1310.58,-0.0005,0.0648,Morgantown,"Morgantown, WV",Monongalia County
-69037,26501,WV,202403,1320.29,0.0074,0.0836,Morgantown,"Morgantown, WV",Monongalia County
-69037,26501,WV,202404,1336.98,0.0126,0.0954,Morgantown,"Morgantown, WV",Monongalia County
-69037,26501,WV,202405,1348.56,0.0087,0.0854,Morgantown,"Morgantown, WV",Monongalia County
-69037,26501,WV,202406,1343.53,-0.0037,0.0546,Morgantown,"Morgantown, WV",Monongalia County
-69037,26501,WV,202407,1331.06,-0.0093,0.0261,Morgantown,"Morgantown, WV",Monongalia County
-69037,26501,WV,202408,1349.98,0.0142,0.0439,Morgantown,"Morgantown, WV",Monongalia County
-69037,26501,WV,202409,1359.43,0.007,0.0472,Morgantown,"Morgantown, WV",Monongalia County
-69037,26501,WV,202410,1370.25,0.008,0.077,Morgantown,"Morgantown, WV",Monongalia County
-69037,26501,WV,202411,1389.41,0.014,0.0897,Morgantown,"Morgantown, WV",Monongalia County
-69037,26501,WV,202412,1419.5,0.0217,0.1067,Morgantown,"Morgantown, WV",Monongalia County
-69037,26501,WV,202501,1441.4,0.0154,0.0993,Morgantown,"Morgantown, WV",Monongalia County
-69037,26501,WV,202502,1414.79,-0.0185,0.0795,Morgantown,"Morgantown, WV",Monongalia County
-69037,26501,WV,202503,1397.74,-0.012,0.0587,Morgantown,"Morgantown, WV",Monongalia County
-69037,26501,WV,202504,1383.01,-0.0105,0.0344,Morgantown,"Morgantown, WV",Monongalia County
-69037,26501,WV,202505,1382.47,-0.0004,0.0251,Morgantown,"Morgantown, WV",Monongalia County
-69037,26501,WV,202506,1390.75,0.006,0.0351,Morgantown,"Morgantown, WV",Monongalia County
-69037,26501,WV,202507,1390.87,0.0001,0.0449,Morgantown,"Morgantown, WV",Monongalia County
-69037,26501,WV,202508,1404.0,0.0094,0.04,Morgantown,"Morgantown, WV",Monongalia County
-69037,26501,WV,202509,1382.76,-0.0151,0.0172,Morgantown,"Morgantown, WV",Monongalia County
-69037,26501,WV,202510,1393.89,0.008,0.0173,Morgantown,"Morgantown, WV",Monongalia County
-69037,26501,WV,202511,1394.83,0.0007,0.0039,Morgantown,"Morgantown, WV",Monongalia County
-69037,26501,WV,202512,1423.09,0.0203,0.0025,Morgantown,"Morgantown, WV",Monongalia County
-69037,26501,WV,202601,1425.78,0.0019,-0.0108,Morgantown,"Morgantown, WV",Monongalia County
-69040,26505,WV,201710,955.49,,,Morgantown,"Morgantown, WV",Monongalia County
-69040,26505,WV,201711,977.66,0.0232,,Morgantown,"Morgantown, WV",Monongalia County
-69040,26505,WV,201712,990.34,0.013,,Morgantown,"Morgantown, WV",Monongalia County
-69040,26505,WV,201801,1000.48,0.0102,,Morgantown,"Morgantown, WV",Monongalia County
-69040,26505,WV,201802,1002.84,0.0024,,Morgantown,"Morgantown, WV",Monongalia County
-69040,26505,WV,201803,1002.09,-0.0007,,Morgantown,"Morgantown, WV",Monongalia County
-69040,26505,WV,201804,998.62,-0.0035,,Morgantown,"Morgantown, WV",Monongalia County
-69040,26505,WV,201805,993.69,-0.0049,,Morgantown,"Morgantown, WV",Monongalia County
-69040,26505,WV,201806,986.28,-0.0075,,Morgantown,"Morgantown, WV",Monongalia County
-69040,26505,WV,201807,982.11,-0.0042,,Morgantown,"Morgantown, WV",Monongalia County
-69040,26505,WV,201808,988.33,0.0063,,Morgantown,"Morgantown, WV",Monongalia County
-69040,26505,WV,201809,998.24,0.01,,Morgantown,"Morgantown, WV",Monongalia County
-69040,26505,WV,201810,1010.26,0.012,0.0573,Morgantown,"Morgantown, WV",Monongalia County
-69040,26505,WV,201811,1014.01,0.0037,0.0372,Morgantown,"Morgantown, WV",Monongalia County
-69040,26505,WV,201812,1010.32,-0.0036,0.0202,Morgantown,"Morgantown, WV",Monongalia County
-69040,26505,WV,201901,994.2,-0.0159,-0.0063,Morgantown,"Morgantown, WV",Monongalia County
-69040,26505,WV,201902,995.72,0.0015,-0.0071,Morgantown,"Morgantown, WV",Monongalia County
-69040,26505,WV,201903,1003.71,0.008,0.0016,Morgantown,"Morgantown, WV",Monongalia County
-69040,26505,WV,201904,1008.66,0.0049,0.0101,Morgantown,"Morgantown, WV",Monongalia County
-69040,26505,WV,201905,1011.64,0.003,0.0181,Morgantown,"Morgantown, WV",Monongalia County
-69040,26505,WV,201906,1021.13,0.0094,0.0353,Morgantown,"Morgantown, WV",Monongalia County
-69040,26505,WV,201907,1035.89,0.0145,0.0548,Morgantown,"Morgantown, WV",Monongalia County
-69040,26505,WV,201908,1036.6,0.0007,0.0488,Morgantown,"Morgantown, WV",Monongalia County
-69040,26505,WV,201909,1027.71,-0.0086,0.0295,Morgantown,"Morgantown, WV",Monongalia County
-69040,26505,WV,201910,1026.97,-0.0007,0.0165,Morgantown,"Morgantown, WV",Monongalia County
-69040,26505,WV,201911,1039.5,0.0122,0.0251,Morgantown,"Morgantown, WV",Monongalia County
-69040,26505,WV,201912,1051.23,0.0113,0.0405,Morgantown,"Morgantown, WV",Monongalia County
-69040,26505,WV,202001,1056.45,0.005,0.0626,Morgantown,"Morgantown, WV",Monongalia County
-69040,26505,WV,202002,1053.12,-0.0032,0.0576,Morgantown,"Morgantown, WV",Monongalia County
-69040,26505,WV,202003,1042.55,-0.01,0.0387,Morgantown,"Morgantown, WV",Monongalia County
-69040,26505,WV,202004,1024.86,-0.017,0.0161,Morgantown,"Morgantown, WV",Monongalia County
-69040,26505,WV,202005,1020.87,-0.0039,0.0091,Morgantown,"Morgantown, WV",Monongalia County
-69040,26505,WV,202006,1035.56,0.0144,0.0141,Morgantown,"Morgantown, WV",Monongalia County
-69040,26505,WV,202007,1070.75,0.034,0.0337,Morgantown,"Morgantown, WV",Monongalia County
-69040,26505,WV,202008,1067.17,-0.0033,0.0295,Morgantown,"Morgantown, WV",Monongalia County
-69040,26505,WV,202009,1067.21,0.0,0.0384,Morgantown,"Morgantown, WV",Monongalia County
-69040,26505,WV,202010,1080.16,0.0121,0.0518,Morgantown,"Morgantown, WV",Monongalia County
-69040,26505,WV,202011,1081.04,0.0008,0.04,Morgantown,"Morgantown, WV",Monongalia County
-69040,26505,WV,202012,1103.61,0.0209,0.0498,Morgantown,"Morgantown, WV",Monongalia County
-69040,26505,WV,202101,1099.4,-0.0038,0.0407,Morgantown,"Morgantown, WV",Monongalia County
-69040,26505,WV,202102,1122.67,0.0212,0.066,Morgantown,"Morgantown, WV",Monongalia County
-69040,26505,WV,202103,1107.82,-0.0132,0.0626,Morgantown,"Morgantown, WV",Monongalia County
-69040,26505,WV,202104,1113.49,0.0051,0.0865,Morgantown,"Morgantown, WV",Monongalia County
-69040,26505,WV,202105,1115.8,0.0021,0.093,Morgantown,"Morgantown, WV",Monongalia County
-69040,26505,WV,202106,1120.72,0.0044,0.0822,Morgantown,"Morgantown, WV",Monongalia County
-69040,26505,WV,202107,1094.66,-0.0233,0.0223,Morgantown,"Morgantown, WV",Monongalia County
-69040,26505,WV,202108,1076.65,-0.0165,0.0089,Morgantown,"Morgantown, WV",Monongalia County
-69040,26505,WV,202109,1078.07,0.0013,0.0102,Morgantown,"Morgantown, WV",Monongalia County
-69040,26505,WV,202110,1115.04,0.0343,0.0323,Morgantown,"Morgantown, WV",Monongalia County
-69040,26505,WV,202111,1141.5,0.0237,0.0559,Morgantown,"Morgantown, WV",Monongalia County
-69040,26505,WV,202112,1150.12,0.0076,0.0422,Morgantown,"Morgantown, WV",Monongalia County
-69040,26505,WV,202201,1171.34,0.0185,0.0654,Morgantown,"Morgantown, WV",Monongalia County
-69040,26505,WV,202202,1177.29,0.0051,0.0486,Morgantown,"Morgantown, WV",Monongalia County
-69040,26505,WV,202203,1184.03,0.0057,0.0688,Morgantown,"Morgantown, WV",Monongalia County
-69040,26505,WV,202204,1160.64,-0.0198,0.0423,Morgantown,"Morgantown, WV",Monongalia County
-69040,26505,WV,202205,1172.93,0.0106,0.0512,Morgantown,"Morgantown, WV",Monongalia County
-69040,26505,WV,202206,1176.98,0.0035,0.0502,Morgantown,"Morgantown, WV",Monongalia County
-69040,26505,WV,202207,1184.91,0.0067,0.0824,Morgantown,"Morgantown, WV",Monongalia County
-69040,26505,WV,202208,1173.46,-0.0097,0.0899,Morgantown,"Morgantown, WV",Monongalia County
-69040,26505,WV,202209,1208.04,0.0295,0.1206,Morgantown,"Morgantown, WV",Monongalia County
-69040,26505,WV,202210,1221.43,0.0111,0.0954,Morgantown,"Morgantown, WV",Monongalia County
-69040,26505,WV,202211,1237.45,0.0131,0.0841,Morgantown,"Morgantown, WV",Monongalia County
-69040,26505,WV,202212,1233.39,-0.0033,0.0724,Morgantown,"Morgantown, WV",Monongalia County
-69040,26505,WV,202301,1233.44,0.0,0.053,Morgantown,"Morgantown, WV",Monongalia County
-69040,26505,WV,202302,1254.34,0.0169,0.0655,Morgantown,"Morgantown, WV",Monongalia County
-69040,26505,WV,202303,1237.03,-0.0138,0.0448,Morgantown,"Morgantown, WV",Monongalia County
-69040,26505,WV,202304,1248.68,0.0094,0.0759,Morgantown,"Morgantown, WV",Monongalia County
-69040,26505,WV,202305,1246.45,-0.0018,0.0627,Morgantown,"Morgantown, WV",Monongalia County
-69040,26505,WV,202306,1245.69,-0.0006,0.0584,Morgantown,"Morgantown, WV",Monongalia County
-69040,26505,WV,202307,1236.8,-0.0071,0.0438,Morgantown,"Morgantown, WV",Monongalia County
-69040,26505,WV,202308,1242.54,0.0046,0.0589,Morgantown,"Morgantown, WV",Monongalia County
-69040,26505,WV,202309,1259.33,0.0135,0.0425,Morgantown,"Morgantown, WV",Monongalia County
-69040,26505,WV,202310,1272.22,0.0102,0.0416,Morgantown,"Morgantown, WV",Monongalia County
-69040,26505,WV,202311,1282.92,0.0084,0.0367,Morgantown,"Morgantown, WV",Monongalia County
-69040,26505,WV,202312,1290.49,0.0059,0.0463,Morgantown,"Morgantown, WV",Monongalia County
-69040,26505,WV,202401,1301.3,0.0084,0.055,Morgantown,"Morgantown, WV",Monongalia County
-69040,26505,WV,202402,1280.08,-0.0163,0.0205,Morgantown,"Morgantown, WV",Monongalia County
-69040,26505,WV,202403,1253.26,-0.021,0.0131,Morgantown,"Morgantown, WV",Monongalia County
-69040,26505,WV,202404,1240.46,-0.0102,-0.0066,Morgantown,"Morgantown, WV",Monongalia County
-69040,26505,WV,202405,1253.55,0.0106,0.0057,Morgantown,"Morgantown, WV",Monongalia County
-69040,26505,WV,202406,1284.96,0.0251,0.0315,Morgantown,"Morgantown, WV",Monongalia County
-69040,26505,WV,202407,1285.5,0.0004,0.0394,Morgantown,"Morgantown, WV",Monongalia County
-69040,26505,WV,202408,1299.39,0.0108,0.0458,Morgantown,"Morgantown, WV",Monongalia County
-69040,26505,WV,202409,1297.08,-0.0018,0.03,Morgantown,"Morgantown, WV",Monongalia County
-69040,26505,WV,202410,1314.37,0.0133,0.0331,Morgantown,"Morgantown, WV",Monongalia County
-69040,26505,WV,202411,1312.97,-0.0011,0.0234,Morgantown,"Morgantown, WV",Monongalia County
-69040,26505,WV,202412,1321.18,0.0063,0.0238,Morgantown,"Morgantown, WV",Monongalia County
-69040,26505,WV,202501,1321.8,0.0005,0.0157,Morgantown,"Morgantown, WV",Monongalia County
-69040,26505,WV,202502,1314.24,-0.0057,0.0267,Morgantown,"Morgantown, WV",Monongalia County
-69040,26505,WV,202503,1312.55,-0.0013,0.0473,Morgantown,"Morgantown, WV",Monongalia County
-69040,26505,WV,202504,1323.45,0.0083,0.0669,Morgantown,"Morgantown, WV",Monongalia County
-69040,26505,WV,202505,1338.14,0.0111,0.0675,Morgantown,"Morgantown, WV",Monongalia County
-69040,26505,WV,202506,1327.82,-0.0077,0.0334,Morgantown,"Morgantown, WV",Monongalia County
-69040,26505,WV,202507,1322.45,-0.004,0.0287,Morgantown,"Morgantown, WV",Monongalia County
-69040,26505,WV,202508,1310.93,-0.0087,0.0089,Morgantown,"Morgantown, WV",Monongalia County
-69040,26505,WV,202509,1331.64,0.0158,0.0266,Morgantown,"Morgantown, WV",Monongalia County
-69040,26505,WV,202510,1339.48,0.0059,0.0191,Morgantown,"Morgantown, WV",Monongalia County
-69040,26505,WV,202511,1364.98,0.019,0.0396,Morgantown,"Morgantown, WV",Monongalia County
-69040,26505,WV,202512,1370.15,0.0038,0.0371,Morgantown,"Morgantown, WV",Monongalia County
-69040,26505,WV,202601,1372.72,0.0019,0.0385,Morgantown,"Morgantown, WV",Monongalia County
-69043,26508,WV,202410,1717.25,,,Morgantown,"Morgantown, WV",Monongalia County
-69043,26508,WV,202411,1759.41,0.0246,,Morgantown,"Morgantown, WV",Monongalia County
-69043,26508,WV,202412,1780.71,0.0121,,Morgantown,"Morgantown, WV",Monongalia County
-69043,26508,WV,202501,1783.1,0.0013,,Morgantown,"Morgantown, WV",Monongalia County
-69043,26508,WV,202502,1767.34,-0.0088,,Morgantown,"Morgantown, WV",Monongalia County
-69043,26508,WV,202503,1768.46,0.0006,,Morgantown,"Morgantown, WV",Monongalia County
-69043,26508,WV,202504,1768.3,-0.0001,,Morgantown,"Morgantown, WV",Monongalia County
-69043,26508,WV,202505,1768.49,0.0001,,Morgantown,"Morgantown, WV",Monongalia County
-69043,26508,WV,202506,1756.79,-0.0066,,Morgantown,"Morgantown, WV",Monongalia County
-69043,26508,WV,202507,1759.82,0.0017,,Morgantown,"Morgantown, WV",Monongalia County
-69043,26508,WV,202508,1797.55,0.0214,,Morgantown,"Morgantown, WV",Monongalia County
-69043,26508,WV,202509,1812.68,0.0084,,Morgantown,"Morgantown, WV",Monongalia County
-69043,26508,WV,202510,1839.04,0.0145,0.0709,Morgantown,"Morgantown, WV",Monongalia County
-69043,26508,WV,202511,1799.18,-0.0217,0.0226,Morgantown,"Morgantown, WV",Monongalia County
-69043,26508,WV,202512,1810.17,0.0061,0.0165,Morgantown,"Morgantown, WV",Monongalia County
-69043,26508,WV,202601,1828.06,0.0099,0.0252,Morgantown,"Morgantown, WV",Monongalia County
-69060,26554,WV,202310,929.4,,,Pleasant Valley,"Fairmont, WV",Marion County
-69060,26554,WV,202311,912.07,-0.0186,,Pleasant Valley,"Fairmont, WV",Marion County
-69060,26554,WV,202312,932.2,0.0221,,Pleasant Valley,"Fairmont, WV",Marion County
-69060,26554,WV,202401,951.11,0.0203,,Pleasant Valley,"Fairmont, WV",Marion County
-69060,26554,WV,202402,979.51,0.0299,,Pleasant Valley,"Fairmont, WV",Marion County
-69060,26554,WV,202405,979.74,0.0002,,Pleasant Valley,"Fairmont, WV",Marion County
-69060,26554,WV,202406,994.49,0.0151,,Pleasant Valley,"Fairmont, WV",Marion County
-69060,26554,WV,202407,996.46,0.002,,Pleasant Valley,"Fairmont, WV",Marion County
-69060,26554,WV,202408,996.33,-0.0001,,Pleasant Valley,"Fairmont, WV",Marion County
-69060,26554,WV,202409,988.8,-0.0076,,Pleasant Valley,"Fairmont, WV",Marion County
-69060,26554,WV,202410,1003.34,0.0147,,Pleasant Valley,"Fairmont, WV",Marion County
-69060,26554,WV,202411,1011.79,0.0084,,Pleasant Valley,"Fairmont, WV",Marion County
-69060,26554,WV,202412,1045.03,0.0329,0.1244,Pleasant Valley,"Fairmont, WV",Marion County
-69060,26554,WV,202501,1050.21,0.005,0.1515,Pleasant Valley,"Fairmont, WV",Marion County
-69060,26554,WV,202502,1040.92,-0.0088,0.1166,Pleasant Valley,"Fairmont, WV",Marion County
-69060,26554,WV,202503,1009.74,-0.03,0.0616,Pleasant Valley,"Fairmont, WV",Marion County
-69060,26554,WV,202504,991.27,-0.0183,0.012,Pleasant Valley,"Fairmont, WV",Marion County
-69060,26554,WV,202505,995.15,0.0039,0.0157,Pleasant Valley,"Fairmont, WV",Marion County
-69060,26554,WV,202506,1014.32,0.0193,0.0199,Pleasant Valley,"Fairmont, WV",Marion County
-69060,26554,WV,202508,1063.54,0.0485,0.0673,Pleasant Valley,"Fairmont, WV",Marion County
-69060,26554,WV,202509,1069.94,0.006,0.0739,Pleasant Valley,"Fairmont, WV",Marion County
-69060,26554,WV,202510,1073.86,0.0037,0.086,Pleasant Valley,"Fairmont, WV",Marion County
-69060,26554,WV,202511,1067.6,-0.0058,0.064,Pleasant Valley,"Fairmont, WV",Marion County
-69060,26554,WV,202512,1060.22,-0.0069,0.0479,Pleasant Valley,"Fairmont, WV",Marion County
-69060,26554,WV,202601,1056.94,-0.0031,0.0114,Pleasant Valley,"Fairmont, WV",Marion County
-399558,25403,WV,202512,1658.16,,,Martinsburg,"Hagerstown-Martinsburg, MD-WV",Berkeley County
-399558,25403,WV,202601,1631.25,-0.0162,,Martinsburg,"Hagerstown-Martinsburg, MD-WV",Berkeley County
-399559,25404,WV,202208,1540.44,,,Martinsburg,"Hagerstown-Martinsburg, MD-WV",Berkeley County
-399559,25404,WV,202209,1495.68,-0.0291,,Martinsburg,"Hagerstown-Martinsburg, MD-WV",Berkeley County
-399559,25404,WV,202210,1492.74,-0.002,,Martinsburg,"Hagerstown-Martinsburg, MD-WV",Berkeley County
-399559,25404,WV,202211,1474.03,-0.0125,,Martinsburg,"Hagerstown-Martinsburg, MD-WV",Berkeley County
-399559,25404,WV,202212,1516.02,0.0285,,Martinsburg,"Hagerstown-Martinsburg, MD-WV",Berkeley County
-399559,25404,WV,202301,1498.86,-0.0113,,Martinsburg,"Hagerstown-Martinsburg, MD-WV",Berkeley County
-399559,25404,WV,202302,1513.29,0.0096,,Martinsburg,"Hagerstown-Martinsburg, MD-WV",Berkeley County
-399559,25404,WV,202303,1513.56,0.0002,,Martinsburg,"Hagerstown-Martinsburg, MD-WV",Berkeley County
-399559,25404,WV,202304,1543.49,0.0198,,Martinsburg,"Hagerstown-Martinsburg, MD-WV",Berkeley County
-399559,25404,WV,202305,1557.99,0.0094,,Martinsburg,"Hagerstown-Martinsburg, MD-WV",Berkeley County
-399559,25404,WV,202306,1547.83,-0.0065,,Martinsburg,"Hagerstown-Martinsburg, MD-WV",Berkeley County
-399559,25404,WV,202307,1542.47,-0.0035,,Martinsburg,"Hagerstown-Martinsburg, MD-WV",Berkeley County
-399559,25404,WV,202308,1540.64,-0.0012,0.0001,Martinsburg,"Hagerstown-Martinsburg, MD-WV",Berkeley County
-399559,25404,WV,202309,1556.75,0.0105,0.0408,Martinsburg,"Hagerstown-Martinsburg, MD-WV",Berkeley County
-399559,25404,WV,202310,1551.83,-0.0032,0.0396,Martinsburg,"Hagerstown-Martinsburg, MD-WV",Berkeley County
-399559,25404,WV,202311,1546.61,-0.0034,0.0492,Martinsburg,"Hagerstown-Martinsburg, MD-WV",Berkeley County
-399559,25404,WV,202312,1529.67,-0.011,0.009,Martinsburg,"Hagerstown-Martinsburg, MD-WV",Berkeley County
-399559,25404,WV,202401,1543.5,0.009,0.0298,Martinsburg,"Hagerstown-Martinsburg, MD-WV",Berkeley County
-399559,25404,WV,202402,1543.86,0.0002,0.0202,Martinsburg,"Hagerstown-Martinsburg, MD-WV",Berkeley County
-399559,25404,WV,202403,1545.92,0.0013,0.0214,Martinsburg,"Hagerstown-Martinsburg, MD-WV",Berkeley County
-399559,25404,WV,202404,1549.52,0.0023,0.0039,Martinsburg,"Hagerstown-Martinsburg, MD-WV",Berkeley County
-399559,25404,WV,202405,1563.99,0.0093,0.0038,Martinsburg,"Hagerstown-Martinsburg, MD-WV",Berkeley County
-399559,25404,WV,202406,1575.32,0.0072,0.0178,Martinsburg,"Hagerstown-Martinsburg, MD-WV",Berkeley County
-399559,25404,WV,202407,1588.55,0.0084,0.0299,Martinsburg,"Hagerstown-Martinsburg, MD-WV",Berkeley County
-399559,25404,WV,202408,1595.65,0.0045,0.0357,Martinsburg,"Hagerstown-Martinsburg, MD-WV",Berkeley County
-399559,25404,WV,202409,1614.61,0.0119,0.0372,Martinsburg,"Hagerstown-Martinsburg, MD-WV",Berkeley County
-399559,25404,WV,202410,1614.46,-0.0001,0.0404,Martinsburg,"Hagerstown-Martinsburg, MD-WV",Berkeley County
-399559,25404,WV,202411,1603.1,-0.007,0.0365,Martinsburg,"Hagerstown-Martinsburg, MD-WV",Berkeley County
-399559,25404,WV,202412,1612.95,0.0061,0.0544,Martinsburg,"Hagerstown-Martinsburg, MD-WV",Berkeley County
-399559,25404,WV,202501,1615.55,0.0016,0.0467,Martinsburg,"Hagerstown-Martinsburg, MD-WV",Berkeley County
-399559,25404,WV,202502,1602.07,-0.0083,0.0377,Martinsburg,"Hagerstown-Martinsburg, MD-WV",Berkeley County
-399559,25404,WV,202503,1597.73,-0.0027,0.0335,Martinsburg,"Hagerstown-Martinsburg, MD-WV",Berkeley County
-399559,25404,WV,202504,1597.77,0.0,0.0311,Martinsburg,"Hagerstown-Martinsburg, MD-WV",Berkeley County
-399559,25404,WV,202505,1631.19,0.0209,0.043,Martinsburg,"Hagerstown-Martinsburg, MD-WV",Berkeley County
-399559,25404,WV,202506,1639.35,0.005,0.0406,Martinsburg,"Hagerstown-Martinsburg, MD-WV",Berkeley County
-399559,25404,WV,202507,1657.42,0.011,0.0434,Martinsburg,"Hagerstown-Martinsburg, MD-WV",Berkeley County
-399559,25404,WV,202508,1667.39,0.006,0.045,Martinsburg,"Hagerstown-Martinsburg, MD-WV",Berkeley County
-399559,25404,WV,202509,1671.48,0.0025,0.0352,Martinsburg,"Hagerstown-Martinsburg, MD-WV",Berkeley County
-399559,25404,WV,202510,1657.33,-0.0085,0.0266,Martinsburg,"Hagerstown-Martinsburg, MD-WV",Berkeley County
-399559,25404,WV,202511,1660.58,0.002,0.0359,Martinsburg,"Hagerstown-Martinsburg, MD-WV",Berkeley County
-399559,25404,WV,202512,1680.88,0.0122,0.0421,Martinsburg,"Hagerstown-Martinsburg, MD-WV",Berkeley County
-399559,25404,WV,202601,1698.08,0.0102,0.0511,Martinsburg,"Hagerstown-Martinsburg, MD-WV",Berkeley County
+68274,24701,WV,202602,855.83,,,Bluefield,"Bluefield, WV-VA",Mercer County
+68290,24740,WV,202509,914.3,,,Princeton,"Bluefield, WV-VA",Mercer County
+68290,24740,WV,202510,915.62,0.0014,,Princeton,"Bluefield, WV-VA",Mercer County
+68290,24740,WV,202511,907.98,-0.0083,,Princeton,"Bluefield, WV-VA",Mercer County
+68290,24740,WV,202512,909.14,0.0013,,Princeton,"Bluefield, WV-VA",Mercer County
+68290,24740,WV,202601,878.66,-0.0335,,Princeton,"Bluefield, WV-VA",Mercer County
+68290,24740,WV,202602,881.67,0.0034,,Princeton,"Bluefield, WV-VA",Mercer County
+68498,25177,WV,202602,775.0,,,Saint Albans,"Charleston, WV",Kanawha County
+68549,25302,WV,202602,1350.0,,,Charleston,"Charleston, WV",Kanawha County
+68553,25306,WV,202401,1235.86,,,Charleston,"Charleston, WV",Kanawha County
+68553,25306,WV,202402,1237.51,0.0013,,Charleston,"Charleston, WV",Kanawha County
+68553,25306,WV,202403,1239.95,0.002,,Charleston,"Charleston, WV",Kanawha County
+68553,25306,WV,202404,1259.97,0.0161,,Charleston,"Charleston, WV",Kanawha County
+68553,25306,WV,202405,1267.89,0.0063,,Charleston,"Charleston, WV",Kanawha County
+68553,25306,WV,202406,1282.84,0.0118,,Charleston,"Charleston, WV",Kanawha County
+68553,25306,WV,202407,1289.98,0.0056,,Charleston,"Charleston, WV",Kanawha County
+68553,25306,WV,202408,1315.7,0.0199,,Charleston,"Charleston, WV",Kanawha County
+68553,25306,WV,202409,1334.58,0.0143,,Charleston,"Charleston, WV",Kanawha County
+68553,25306,WV,202410,1365.46,0.0231,,Charleston,"Charleston, WV",Kanawha County
+68553,25306,WV,202411,1360.26,-0.0038,,Charleston,"Charleston, WV",Kanawha County
+68553,25306,WV,202412,1363.87,0.0027,,Charleston,"Charleston, WV",Kanawha County
+68553,25306,WV,202501,1355.15,-0.0064,0.0965,Charleston,"Charleston, WV",Kanawha County
+68553,25306,WV,202503,1374.02,0.0139,0.1103,Charleston,"Charleston, WV",Kanawha County
+68553,25306,WV,202504,1401.8,0.0202,0.1305,Charleston,"Charleston, WV",Kanawha County
+68553,25306,WV,202505,1415.14,0.0095,0.1232,Charleston,"Charleston, WV",Kanawha County
+68553,25306,WV,202506,1440.64,0.018,0.1362,Charleston,"Charleston, WV",Kanawha County
+68553,25306,WV,202507,1434.54,-0.0042,0.1183,Charleston,"Charleston, WV",Kanawha County
+68553,25306,WV,202508,1428.56,-0.0042,0.1074,Charleston,"Charleston, WV",Kanawha County
+68553,25306,WV,202509,1427.39,-0.0008,0.0849,Charleston,"Charleston, WV",Kanawha County
+68553,25306,WV,202510,1444.13,0.0117,0.0821,Charleston,"Charleston, WV",Kanawha County
+68553,25306,WV,202511,1455.57,0.0079,0.066,Charleston,"Charleston, WV",Kanawha County
+68553,25306,WV,202512,1457.14,0.0011,0.0712,Charleston,"Charleston, WV",Kanawha County
+68553,25306,WV,202601,1454.33,-0.0019,0.0663,Charleston,"Charleston, WV",Kanawha County
+68553,25306,WV,202602,1467.17,0.0088,0.0827,Charleston,"Charleston, WV",Kanawha County
+68558,25314,WV,202602,1225.0,,,Charleston,"Charleston, WV",Kanawha County
+68595,25401,WV,202402,1192.93,,,Martinsburg,"Hagerstown-Martinsburg, MD-WV",Berkeley County
+68595,25401,WV,202403,1210.22,0.0145,,Martinsburg,"Hagerstown-Martinsburg, MD-WV",Berkeley County
+68595,25401,WV,202404,1211.17,0.0008,,Martinsburg,"Hagerstown-Martinsburg, MD-WV",Berkeley County
+68595,25401,WV,202405,1257.08,0.0379,,Martinsburg,"Hagerstown-Martinsburg, MD-WV",Berkeley County
+68595,25401,WV,202406,1251.33,-0.0046,,Martinsburg,"Hagerstown-Martinsburg, MD-WV",Berkeley County
+68595,25401,WV,202407,1261.67,0.0083,,Martinsburg,"Hagerstown-Martinsburg, MD-WV",Berkeley County
+68595,25401,WV,202408,1280.86,0.0152,,Martinsburg,"Hagerstown-Martinsburg, MD-WV",Berkeley County
+68595,25401,WV,202409,1282.34,0.0012,,Martinsburg,"Hagerstown-Martinsburg, MD-WV",Berkeley County
+68595,25401,WV,202410,1283.75,0.0011,,Martinsburg,"Hagerstown-Martinsburg, MD-WV",Berkeley County
+68595,25401,WV,202411,1295.46,0.0091,,Martinsburg,"Hagerstown-Martinsburg, MD-WV",Berkeley County
+68595,25401,WV,202412,1302.89,0.0057,,Martinsburg,"Hagerstown-Martinsburg, MD-WV",Berkeley County
+68595,25401,WV,202501,1305.45,0.002,,Martinsburg,"Hagerstown-Martinsburg, MD-WV",Berkeley County
+68595,25401,WV,202502,1306.88,0.0011,0.0955,Martinsburg,"Hagerstown-Martinsburg, MD-WV",Berkeley County
+68595,25401,WV,202503,1324.93,0.0138,0.0948,Martinsburg,"Hagerstown-Martinsburg, MD-WV",Berkeley County
+68595,25401,WV,202504,1332.19,0.0055,0.0999,Martinsburg,"Hagerstown-Martinsburg, MD-WV",Berkeley County
+68595,25401,WV,202505,1333.76,0.0012,0.061,Martinsburg,"Hagerstown-Martinsburg, MD-WV",Berkeley County
+68595,25401,WV,202506,1344.9,0.0084,0.0748,Martinsburg,"Hagerstown-Martinsburg, MD-WV",Berkeley County
+68595,25401,WV,202507,1337.09,-0.0058,0.0598,Martinsburg,"Hagerstown-Martinsburg, MD-WV",Berkeley County
+68595,25401,WV,202508,1329.67,-0.0055,0.0381,Martinsburg,"Hagerstown-Martinsburg, MD-WV",Berkeley County
+68595,25401,WV,202509,1317.92,-0.0088,0.0277,Martinsburg,"Hagerstown-Martinsburg, MD-WV",Berkeley County
+68595,25401,WV,202510,1330.64,0.0097,0.0365,Martinsburg,"Hagerstown-Martinsburg, MD-WV",Berkeley County
+68595,25401,WV,202511,1346.01,0.0116,0.039,Martinsburg,"Hagerstown-Martinsburg, MD-WV",Berkeley County
+68595,25401,WV,202512,1359.35,0.0099,0.0433,Martinsburg,"Hagerstown-Martinsburg, MD-WV",Berkeley County
+68595,25401,WV,202601,1353.92,-0.004,0.0371,Martinsburg,"Hagerstown-Martinsburg, MD-WV",Berkeley County
+68595,25401,WV,202602,1347.48,-0.0048,0.0311,Martinsburg,"Hagerstown-Martinsburg, MD-WV",Berkeley County
+68600,25414,WV,202312,1683.53,,,Charles Town,"Washington-Arlington-Alexandria, DC-VA-MD-WV",Jefferson County
+68600,25414,WV,202401,1681.44,-0.0012,,Charles Town,"Washington-Arlington-Alexandria, DC-VA-MD-WV",Jefferson County
+68600,25414,WV,202402,1644.67,-0.0219,,Charles Town,"Washington-Arlington-Alexandria, DC-VA-MD-WV",Jefferson County
+68600,25414,WV,202403,1672.16,0.0167,,Charles Town,"Washington-Arlington-Alexandria, DC-VA-MD-WV",Jefferson County
+68600,25414,WV,202404,1698.17,0.0156,,Charles Town,"Washington-Arlington-Alexandria, DC-VA-MD-WV",Jefferson County
+68600,25414,WV,202405,1711.07,0.0076,,Charles Town,"Washington-Arlington-Alexandria, DC-VA-MD-WV",Jefferson County
+68600,25414,WV,202406,1715.58,0.0026,,Charles Town,"Washington-Arlington-Alexandria, DC-VA-MD-WV",Jefferson County
+68600,25414,WV,202407,1734.09,0.0108,,Charles Town,"Washington-Arlington-Alexandria, DC-VA-MD-WV",Jefferson County
+68600,25414,WV,202408,1731.41,-0.0016,,Charles Town,"Washington-Arlington-Alexandria, DC-VA-MD-WV",Jefferson County
+68600,25414,WV,202409,1761.36,0.0173,,Charles Town,"Washington-Arlington-Alexandria, DC-VA-MD-WV",Jefferson County
+68600,25414,WV,202410,1756.3,-0.0029,,Charles Town,"Washington-Arlington-Alexandria, DC-VA-MD-WV",Jefferson County
+68600,25414,WV,202411,1791.64,0.0201,,Charles Town,"Washington-Arlington-Alexandria, DC-VA-MD-WV",Jefferson County
+68600,25414,WV,202412,1793.79,0.0012,0.0655,Charles Town,"Washington-Arlington-Alexandria, DC-VA-MD-WV",Jefferson County
+68600,25414,WV,202501,1791.32,-0.0014,0.0654,Charles Town,"Washington-Arlington-Alexandria, DC-VA-MD-WV",Jefferson County
+68600,25414,WV,202502,1770.39,-0.0117,0.0764,Charles Town,"Washington-Arlington-Alexandria, DC-VA-MD-WV",Jefferson County
+68600,25414,WV,202503,1776.74,0.0036,0.0625,Charles Town,"Washington-Arlington-Alexandria, DC-VA-MD-WV",Jefferson County
+68600,25414,WV,202504,1783.34,0.0037,0.0502,Charles Town,"Washington-Arlington-Alexandria, DC-VA-MD-WV",Jefferson County
+68600,25414,WV,202505,1781.61,-0.001,0.0412,Charles Town,"Washington-Arlington-Alexandria, DC-VA-MD-WV",Jefferson County
+68600,25414,WV,202506,1766.92,-0.0082,0.0299,Charles Town,"Washington-Arlington-Alexandria, DC-VA-MD-WV",Jefferson County
+68600,25414,WV,202507,1772.28,0.003,0.022,Charles Town,"Washington-Arlington-Alexandria, DC-VA-MD-WV",Jefferson County
+68600,25414,WV,202508,1802.96,0.0173,0.0413,Charles Town,"Washington-Arlington-Alexandria, DC-VA-MD-WV",Jefferson County
+68600,25414,WV,202509,1839.87,0.0205,0.0446,Charles Town,"Washington-Arlington-Alexandria, DC-VA-MD-WV",Jefferson County
+68600,25414,WV,202510,1855.86,0.0087,0.0567,Charles Town,"Washington-Arlington-Alexandria, DC-VA-MD-WV",Jefferson County
+68600,25414,WV,202511,1870.17,0.0077,0.0438,Charles Town,"Washington-Arlington-Alexandria, DC-VA-MD-WV",Jefferson County
+68600,25414,WV,202512,1864.33,-0.0031,0.0393,Charles Town,"Washington-Arlington-Alexandria, DC-VA-MD-WV",Jefferson County
+68600,25414,WV,202601,1908.55,0.0237,0.0654,Charles Town,"Washington-Arlington-Alexandria, DC-VA-MD-WV",Jefferson County
+68600,25414,WV,202602,1852.92,-0.0292,0.0466,Charles Town,"Washington-Arlington-Alexandria, DC-VA-MD-WV",Jefferson County
+68601,25419,WV,202510,1845.24,,,Falling Waters,"Hagerstown-Martinsburg, MD-WV",Berkeley County
+68601,25419,WV,202511,1840.71,-0.0025,,Falling Waters,"Hagerstown-Martinsburg, MD-WV",Berkeley County
+68601,25419,WV,202512,1774.32,-0.0361,,Falling Waters,"Hagerstown-Martinsburg, MD-WV",Berkeley County
+68601,25419,WV,202601,1747.64,-0.015,,Falling Waters,"Hagerstown-Martinsburg, MD-WV",Berkeley County
+68601,25419,WV,202602,1769.08,0.0123,,Falling Waters,"Hagerstown-Martinsburg, MD-WV",Berkeley County
+68607,25427,WV,202602,1880.0,,,Hedgesville,"Hagerstown-Martinsburg, MD-WV",Berkeley County
+68615,25438,WV,202602,2072.5,,,Ranson,"Washington-Arlington-Alexandria, DC-VA-MD-WV",Jefferson County
+68640,25526,WV,202601,1229.64,,,Hurricane,"Huntington-Ashland, WV-KY-OH",Putnam County
+68640,25526,WV,202602,1206.25,-0.019,,Hurricane,"Huntington-Ashland, WV-KY-OH",Putnam County
+68716,25701,WV,202411,946.25,,,Huntington,"Huntington-Ashland, WV-KY-OH",Cabell County
+68716,25701,WV,202412,951.01,0.005,,Huntington,"Huntington-Ashland, WV-KY-OH",Cabell County
+68716,25701,WV,202501,955.48,0.0047,,Huntington,"Huntington-Ashland, WV-KY-OH",Cabell County
+68716,25701,WV,202502,940.35,-0.0158,,Huntington,"Huntington-Ashland, WV-KY-OH",Cabell County
+68716,25701,WV,202503,945.46,0.0054,,Huntington,"Huntington-Ashland, WV-KY-OH",Cabell County
+68716,25701,WV,202504,957.5,0.0127,,Huntington,"Huntington-Ashland, WV-KY-OH",Cabell County
+68716,25701,WV,202505,958.11,0.0006,,Huntington,"Huntington-Ashland, WV-KY-OH",Cabell County
+68716,25701,WV,202506,974.94,0.0176,,Huntington,"Huntington-Ashland, WV-KY-OH",Cabell County
+68716,25701,WV,202507,980.8,0.006,,Huntington,"Huntington-Ashland, WV-KY-OH",Cabell County
+68716,25701,WV,202508,1015.86,0.0357,,Huntington,"Huntington-Ashland, WV-KY-OH",Cabell County
+68716,25701,WV,202509,1010.48,-0.0053,,Huntington,"Huntington-Ashland, WV-KY-OH",Cabell County
+68716,25701,WV,202510,1013.63,0.0031,,Huntington,"Huntington-Ashland, WV-KY-OH",Cabell County
+68716,25701,WV,202511,964.44,-0.0485,0.0192,Huntington,"Huntington-Ashland, WV-KY-OH",Cabell County
+68716,25701,WV,202512,982.82,0.0191,0.0335,Huntington,"Huntington-Ashland, WV-KY-OH",Cabell County
+68716,25701,WV,202601,1005.27,0.0228,0.0521,Huntington,"Huntington-Ashland, WV-KY-OH",Cabell County
+68716,25701,WV,202602,1033.95,0.0285,0.0995,Huntington,"Huntington-Ashland, WV-KY-OH",Cabell County
+68718,25703,WV,202602,908.33,,,Huntington,"Huntington-Ashland, WV-KY-OH",Cabell County
+68756,25801,WV,202501,945.81,,,Beckley,"Beckley, WV",Raleigh County
+68756,25801,WV,202502,984.68,0.0411,,Beckley,"Beckley, WV",Raleigh County
+68756,25801,WV,202503,1006.3,0.022,,Beckley,"Beckley, WV",Raleigh County
+68756,25801,WV,202504,1012.35,0.006,,Beckley,"Beckley, WV",Raleigh County
+68756,25801,WV,202505,1000.71,-0.0115,,Beckley,"Beckley, WV",Raleigh County
+68756,25801,WV,202506,1035.87,0.0351,,Beckley,"Beckley, WV",Raleigh County
+68756,25801,WV,202507,1071.22,0.0341,,Beckley,"Beckley, WV",Raleigh County
+68756,25801,WV,202508,1062.98,-0.0077,,Beckley,"Beckley, WV",Raleigh County
+68756,25801,WV,202509,1016.4,-0.0438,,Beckley,"Beckley, WV",Raleigh County
+68756,25801,WV,202510,995.13,-0.0209,,Beckley,"Beckley, WV",Raleigh County
+68756,25801,WV,202511,1006.22,0.0111,,Beckley,"Beckley, WV",Raleigh County
+68756,25801,WV,202512,1038.05,0.0316,,Beckley,"Beckley, WV",Raleigh County
+68756,25801,WV,202601,1074.15,0.0348,0.1357,Beckley,"Beckley, WV",Raleigh County
+68756,25801,WV,202602,1065.5,-0.008,0.0821,Beckley,"Beckley, WV",Raleigh County
+68854,26003,WV,202210,697.05,,,Wheeling,"Wheeling, WV-OH",Ohio County
+68854,26003,WV,202211,688.87,-0.0117,,Wheeling,"Wheeling, WV-OH",Ohio County
+68854,26003,WV,202212,702.47,0.0197,,Wheeling,"Wheeling, WV-OH",Ohio County
+68854,26003,WV,202301,707.61,0.0073,,Wheeling,"Wheeling, WV-OH",Ohio County
+68854,26003,WV,202302,723.71,0.0228,,Wheeling,"Wheeling, WV-OH",Ohio County
+68854,26003,WV,202303,717.08,-0.0092,,Wheeling,"Wheeling, WV-OH",Ohio County
+68854,26003,WV,202304,733.85,0.0234,,Wheeling,"Wheeling, WV-OH",Ohio County
+68854,26003,WV,202305,732.79,-0.0014,,Wheeling,"Wheeling, WV-OH",Ohio County
+68854,26003,WV,202306,745.58,0.0174,,Wheeling,"Wheeling, WV-OH",Ohio County
+68854,26003,WV,202307,744.46,-0.0015,,Wheeling,"Wheeling, WV-OH",Ohio County
+68854,26003,WV,202308,747.04,0.0035,,Wheeling,"Wheeling, WV-OH",Ohio County
+68854,26003,WV,202309,735.63,-0.0153,,Wheeling,"Wheeling, WV-OH",Ohio County
+68854,26003,WV,202310,723.6,-0.0164,0.0381,Wheeling,"Wheeling, WV-OH",Ohio County
+68854,26003,WV,202311,731.38,0.0107,0.0617,Wheeling,"Wheeling, WV-OH",Ohio County
+68854,26003,WV,202312,744.4,0.0178,0.0597,Wheeling,"Wheeling, WV-OH",Ohio County
+68854,26003,WV,202401,764.22,0.0266,0.08,Wheeling,"Wheeling, WV-OH",Ohio County
+68854,26003,WV,202402,766.52,0.003,0.0592,Wheeling,"Wheeling, WV-OH",Ohio County
+68854,26003,WV,202403,760.86,-0.0074,0.061,Wheeling,"Wheeling, WV-OH",Ohio County
+68854,26003,WV,202404,763.99,0.0041,0.0411,Wheeling,"Wheeling, WV-OH",Ohio County
+68854,26003,WV,202405,761.78,-0.0029,0.0396,Wheeling,"Wheeling, WV-OH",Ohio County
+68854,26003,WV,202406,775.06,0.0174,0.0395,Wheeling,"Wheeling, WV-OH",Ohio County
+68854,26003,WV,202407,769.84,-0.0067,0.0341,Wheeling,"Wheeling, WV-OH",Ohio County
+68854,26003,WV,202408,776.57,0.0087,0.0395,Wheeling,"Wheeling, WV-OH",Ohio County
+68854,26003,WV,202409,772.58,-0.0051,0.0502,Wheeling,"Wheeling, WV-OH",Ohio County
+68854,26003,WV,202410,772.27,-0.0004,0.0673,Wheeling,"Wheeling, WV-OH",Ohio County
+68854,26003,WV,202411,778.24,0.0077,0.0641,Wheeling,"Wheeling, WV-OH",Ohio County
+68854,26003,WV,202412,786.55,0.0107,0.0566,Wheeling,"Wheeling, WV-OH",Ohio County
+68854,26003,WV,202501,796.31,0.0124,0.042,Wheeling,"Wheeling, WV-OH",Ohio County
+68854,26003,WV,202502,804.08,0.0098,0.049,Wheeling,"Wheeling, WV-OH",Ohio County
+68854,26003,WV,202503,797.64,-0.008,0.0483,Wheeling,"Wheeling, WV-OH",Ohio County
+68854,26003,WV,202504,800.94,0.0041,0.0484,Wheeling,"Wheeling, WV-OH",Ohio County
+68854,26003,WV,202505,802.11,0.0015,0.0529,Wheeling,"Wheeling, WV-OH",Ohio County
+68854,26003,WV,202506,804.61,0.0031,0.0381,Wheeling,"Wheeling, WV-OH",Ohio County
+68854,26003,WV,202507,808.27,0.0045,0.0499,Wheeling,"Wheeling, WV-OH",Ohio County
+68854,26003,WV,202508,810.49,0.0028,0.0437,Wheeling,"Wheeling, WV-OH",Ohio County
+68854,26003,WV,202509,822.84,0.0152,0.065,Wheeling,"Wheeling, WV-OH",Ohio County
+68854,26003,WV,202510,825.65,0.0034,0.0691,Wheeling,"Wheeling, WV-OH",Ohio County
+68854,26003,WV,202511,837.48,0.0143,0.0761,Wheeling,"Wheeling, WV-OH",Ohio County
+68854,26003,WV,202512,839.1,0.0019,0.0668,Wheeling,"Wheeling, WV-OH",Ohio County
+68854,26003,WV,202601,838.22,-0.0011,0.0526,Wheeling,"Wheeling, WV-OH",Ohio County
+68854,26003,WV,202602,821.94,-0.0194,0.0222,Wheeling,"Wheeling, WV-OH",Ohio County
+68874,26062,WV,202505,866.9,,,Weirton,"Weirton-Steubenville, WV-OH",Hancock County
+68874,26062,WV,202506,805.55,-0.0708,,Weirton,"Weirton-Steubenville, WV-OH",Hancock County
+68874,26062,WV,202507,804.63,-0.0011,,Weirton,"Weirton-Steubenville, WV-OH",Hancock County
+68874,26062,WV,202509,837.79,0.0412,,Weirton,"Weirton-Steubenville, WV-OH",Hancock County
+68874,26062,WV,202510,811.58,-0.0313,,Weirton,"Weirton-Steubenville, WV-OH",Hancock County
+68874,26062,WV,202512,796.65,-0.0184,,Weirton,"Weirton-Steubenville, WV-OH",Hancock County
+68874,26062,WV,202601,820.05,0.0294,,Weirton,"Weirton-Steubenville, WV-OH",Hancock County
+68874,26062,WV,202602,848.78,0.035,,Weirton,"Weirton-Steubenville, WV-OH",Hancock County
+68878,26101,WV,202511,836.93,,,Parkersburg,"Parkersburg-Vienna, WV",Wood County
+68878,26101,WV,202512,822.84,-0.0168,,Parkersburg,"Parkersburg-Vienna, WV",Wood County
+68878,26101,WV,202601,817.25,-0.0068,,Parkersburg,"Parkersburg-Vienna, WV",Wood County
+68878,26101,WV,202602,837.5,0.0248,,Parkersburg,"Parkersburg-Vienna, WV",Wood County
+68972,26301,WV,202402,858.21,,,Clarksburg,"Clarksburg, WV",Harrison County
+68972,26301,WV,202403,842.89,-0.0179,,Clarksburg,"Clarksburg, WV",Harrison County
+68972,26301,WV,202404,858.01,0.0179,,Clarksburg,"Clarksburg, WV",Harrison County
+68972,26301,WV,202405,868.07,0.0117,,Clarksburg,"Clarksburg, WV",Harrison County
+68972,26301,WV,202406,890.82,0.0262,,Clarksburg,"Clarksburg, WV",Harrison County
+68972,26301,WV,202407,889.29,-0.0017,,Clarksburg,"Clarksburg, WV",Harrison County
+68972,26301,WV,202408,877.48,-0.0133,,Clarksburg,"Clarksburg, WV",Harrison County
+68972,26301,WV,202409,878.47,0.0011,,Clarksburg,"Clarksburg, WV",Harrison County
+68972,26301,WV,202410,882.93,0.0051,,Clarksburg,"Clarksburg, WV",Harrison County
+68972,26301,WV,202411,877.85,-0.0057,,Clarksburg,"Clarksburg, WV",Harrison County
+68972,26301,WV,202412,878.7,0.001,,Clarksburg,"Clarksburg, WV",Harrison County
+68972,26301,WV,202501,878.97,0.0003,,Clarksburg,"Clarksburg, WV",Harrison County
+68972,26301,WV,202502,884.06,0.0058,0.0301,Clarksburg,"Clarksburg, WV",Harrison County
+68972,26301,WV,202503,886.52,0.0028,0.0518,Clarksburg,"Clarksburg, WV",Harrison County
+68972,26301,WV,202504,920.41,0.0382,0.0727,Clarksburg,"Clarksburg, WV",Harrison County
+68972,26301,WV,202505,946.7,0.0286,0.0906,Clarksburg,"Clarksburg, WV",Harrison County
+68972,26301,WV,202506,946.43,-0.0003,0.0624,Clarksburg,"Clarksburg, WV",Harrison County
+68972,26301,WV,202507,933.29,-0.0139,0.0495,Clarksburg,"Clarksburg, WV",Harrison County
+68972,26301,WV,202508,938.23,0.0053,0.0692,Clarksburg,"Clarksburg, WV",Harrison County
+68972,26301,WV,202509,940.38,0.0023,0.0705,Clarksburg,"Clarksburg, WV",Harrison County
+68972,26301,WV,202510,946.33,0.0063,0.0718,Clarksburg,"Clarksburg, WV",Harrison County
+68972,26301,WV,202511,938.91,-0.0078,0.0696,Clarksburg,"Clarksburg, WV",Harrison County
+68972,26301,WV,202512,927.13,-0.0126,0.0551,Clarksburg,"Clarksburg, WV",Harrison County
+68972,26301,WV,202601,900.6,-0.0286,0.0246,Clarksburg,"Clarksburg, WV",Harrison County
+68972,26301,WV,202602,904.17,0.004,0.0227,Clarksburg,"Clarksburg, WV",Harrison County
+69037,26501,WV,202209,1225.24,,,Morgantown,"Morgantown, WV",Monongalia County
+69037,26501,WV,202210,1243.98,0.0153,,Morgantown,"Morgantown, WV",Monongalia County
+69037,26501,WV,202211,1245.8,0.0015,,Morgantown,"Morgantown, WV",Monongalia County
+69037,26501,WV,202212,1234.1,-0.0094,,Morgantown,"Morgantown, WV",Monongalia County
+69037,26501,WV,202301,1208.35,-0.0209,,Morgantown,"Morgantown, WV",Monongalia County
+69037,26501,WV,202302,1195.2,-0.0109,,Morgantown,"Morgantown, WV",Monongalia County
+69037,26501,WV,202303,1182.42,-0.0107,,Morgantown,"Morgantown, WV",Monongalia County
+69037,26501,WV,202304,1185.0,0.0022,,Morgantown,"Morgantown, WV",Monongalia County
+69037,26501,WV,202305,1207.37,0.0189,,Morgantown,"Morgantown, WV",Monongalia County
+69037,26501,WV,202306,1238.22,0.0256,,Morgantown,"Morgantown, WV",Monongalia County
+69037,26501,WV,202307,1260.67,0.0181,,Morgantown,"Morgantown, WV",Monongalia County
+69037,26501,WV,202308,1255.64,-0.004,,Morgantown,"Morgantown, WV",Monongalia County
+69037,26501,WV,202309,1260.74,0.0041,0.029,Morgantown,"Morgantown, WV",Monongalia County
+69037,26501,WV,202310,1235.38,-0.0201,-0.0069,Morgantown,"Morgantown, WV",Monongalia County
+69037,26501,WV,202311,1239.51,0.0033,-0.005,Morgantown,"Morgantown, WV",Monongalia County
+69037,26501,WV,202312,1247.45,0.0064,0.0108,Morgantown,"Morgantown, WV",Monongalia County
+69037,26501,WV,202401,1275.15,0.0222,0.0553,Morgantown,"Morgantown, WV",Monongalia County
+69037,26501,WV,202402,1269.67,-0.0043,0.0623,Morgantown,"Morgantown, WV",Monongalia County
+69037,26501,WV,202403,1278.18,0.0067,0.081,Morgantown,"Morgantown, WV",Monongalia County
+69037,26501,WV,202404,1294.52,0.0128,0.0924,Morgantown,"Morgantown, WV",Monongalia County
+69037,26501,WV,202405,1311.25,0.0129,0.086,Morgantown,"Morgantown, WV",Monongalia County
+69037,26501,WV,202406,1306.65,-0.0035,0.0553,Morgantown,"Morgantown, WV",Monongalia County
+69037,26501,WV,202407,1295.21,-0.0088,0.0274,Morgantown,"Morgantown, WV",Monongalia County
+69037,26501,WV,202408,1312.5,0.0134,0.0453,Morgantown,"Morgantown, WV",Monongalia County
+69037,26501,WV,202409,1322.09,0.0073,0.0487,Morgantown,"Morgantown, WV",Monongalia County
+69037,26501,WV,202410,1333.74,0.0088,0.0796,Morgantown,"Morgantown, WV",Monongalia County
+69037,26501,WV,202411,1352.26,0.0139,0.091,Morgantown,"Morgantown, WV",Monongalia County
+69037,26501,WV,202412,1381.32,0.0215,0.1073,Morgantown,"Morgantown, WV",Monongalia County
+69037,26501,WV,202501,1400.38,0.0138,0.0982,Morgantown,"Morgantown, WV",Monongalia County
+69037,26501,WV,202502,1376.12,-0.0173,0.0838,Morgantown,"Morgantown, WV",Monongalia County
+69037,26501,WV,202503,1356.94,-0.0139,0.0616,Morgantown,"Morgantown, WV",Monongalia County
+69037,26501,WV,202504,1342.96,-0.0103,0.0374,Morgantown,"Morgantown, WV",Monongalia County
+69037,26501,WV,202505,1340.8,-0.0016,0.0225,Morgantown,"Morgantown, WV",Monongalia County
+69037,26501,WV,202506,1350.93,0.0076,0.0339,Morgantown,"Morgantown, WV",Monongalia County
+69037,26501,WV,202507,1350.8,-0.0001,0.0429,Morgantown,"Morgantown, WV",Monongalia County
+69037,26501,WV,202508,1364.0,0.0098,0.0392,Morgantown,"Morgantown, WV",Monongalia County
+69037,26501,WV,202509,1343.5,-0.015,0.0162,Morgantown,"Morgantown, WV",Monongalia County
+69037,26501,WV,202510,1354.28,0.008,0.0154,Morgantown,"Morgantown, WV",Monongalia County
+69037,26501,WV,202511,1354.87,0.0004,0.0019,Morgantown,"Morgantown, WV",Monongalia County
+69037,26501,WV,202512,1382.45,0.0204,0.0008,Morgantown,"Morgantown, WV",Monongalia County
+69037,26501,WV,202601,1385.18,0.002,-0.0109,Morgantown,"Morgantown, WV",Monongalia County
+69037,26501,WV,202602,1402.17,0.0123,0.0189,Morgantown,"Morgantown, WV",Monongalia County
+69040,26505,WV,201710,868.11,,,Morgantown,"Morgantown, WV",Monongalia County
+69040,26505,WV,201711,888.17,0.0231,,Morgantown,"Morgantown, WV",Monongalia County
+69040,26505,WV,201712,900.81,0.0142,,Morgantown,"Morgantown, WV",Monongalia County
+69040,26505,WV,201801,910.27,0.0105,,Morgantown,"Morgantown, WV",Monongalia County
+69040,26505,WV,201802,913.0,0.003,,Morgantown,"Morgantown, WV",Monongalia County
+69040,26505,WV,201803,911.36,-0.0018,,Morgantown,"Morgantown, WV",Monongalia County
+69040,26505,WV,201804,908.29,-0.0034,,Morgantown,"Morgantown, WV",Monongalia County
+69040,26505,WV,201805,903.12,-0.0057,,Morgantown,"Morgantown, WV",Monongalia County
+69040,26505,WV,201806,896.53,-0.0073,,Morgantown,"Morgantown, WV",Monongalia County
+69040,26505,WV,201807,892.82,-0.0041,,Morgantown,"Morgantown, WV",Monongalia County
+69040,26505,WV,201808,898.41,0.0063,,Morgantown,"Morgantown, WV",Monongalia County
+69040,26505,WV,201809,907.3,0.0099,,Morgantown,"Morgantown, WV",Monongalia County
+69040,26505,WV,201810,918.09,0.0119,0.0576,Morgantown,"Morgantown, WV",Monongalia County
+69040,26505,WV,201811,921.56,0.0038,0.0376,Morgantown,"Morgantown, WV",Monongalia County
+69040,26505,WV,201812,918.09,-0.0038,0.0192,Morgantown,"Morgantown, WV",Monongalia County
+69040,26505,WV,201901,903.52,-0.0159,-0.0074,Morgantown,"Morgantown, WV",Monongalia County
+69040,26505,WV,201902,905.13,0.0018,-0.0086,Morgantown,"Morgantown, WV",Monongalia County
+69040,26505,WV,201903,913.05,0.0087,0.0019,Morgantown,"Morgantown, WV",Monongalia County
+69040,26505,WV,201904,917.43,0.0048,0.0101,Morgantown,"Morgantown, WV",Monongalia County
+69040,26505,WV,201905,920.1,0.0029,0.0188,Morgantown,"Morgantown, WV",Monongalia County
+69040,26505,WV,201906,928.15,0.0087,0.0353,Morgantown,"Morgantown, WV",Monongalia County
+69040,26505,WV,201907,943.54,0.0166,0.0568,Morgantown,"Morgantown, WV",Monongalia County
+69040,26505,WV,201908,944.2,0.0007,0.051,Morgantown,"Morgantown, WV",Monongalia County
+69040,26505,WV,201909,936.1,-0.0086,0.0317,Morgantown,"Morgantown, WV",Monongalia County
+69040,26505,WV,201910,933.51,-0.0028,0.0168,Morgantown,"Morgantown, WV",Monongalia County
+69040,26505,WV,201911,944.74,0.012,0.0252,Morgantown,"Morgantown, WV",Monongalia County
+69040,26505,WV,201912,955.28,0.0112,0.0405,Morgantown,"Morgantown, WV",Monongalia County
+69040,26505,WV,202001,960.06,0.005,0.0626,Morgantown,"Morgantown, WV",Monongalia County
+69040,26505,WV,202002,957.08,-0.0031,0.0574,Morgantown,"Morgantown, WV",Monongalia County
+69040,26505,WV,202003,948.98,-0.0085,0.0393,Morgantown,"Morgantown, WV",Monongalia County
+69040,26505,WV,202004,930.6,-0.0194,0.0144,Morgantown,"Morgantown, WV",Monongalia County
+69040,26505,WV,202005,927.4,-0.0034,0.0079,Morgantown,"Morgantown, WV",Monongalia County
+69040,26505,WV,202006,940.16,0.0138,0.0129,Morgantown,"Morgantown, WV",Monongalia County
+69040,26505,WV,202007,974.48,0.0365,0.0328,Morgantown,"Morgantown, WV",Monongalia County
+69040,26505,WV,202008,971.74,-0.0028,0.0292,Morgantown,"Morgantown, WV",Monongalia County
+69040,26505,WV,202009,971.26,-0.0005,0.0376,Morgantown,"Morgantown, WV",Monongalia County
+69040,26505,WV,202010,983.52,0.0126,0.0536,Morgantown,"Morgantown, WV",Monongalia County
+69040,26505,WV,202011,983.54,0.0,0.0411,Morgantown,"Morgantown, WV",Monongalia County
+69040,26505,WV,202012,1004.42,0.0212,0.0514,Morgantown,"Morgantown, WV",Monongalia County
+69040,26505,WV,202101,1001.76,-0.0027,0.0434,Morgantown,"Morgantown, WV",Monongalia County
+69040,26505,WV,202102,1023.59,0.0218,0.0695,Morgantown,"Morgantown, WV",Monongalia County
+69040,26505,WV,202103,1009.86,-0.0134,0.0642,Morgantown,"Morgantown, WV",Monongalia County
+69040,26505,WV,202104,1013.44,0.0035,0.089,Morgantown,"Morgantown, WV",Monongalia County
+69040,26505,WV,202105,1014.96,0.0015,0.0944,Morgantown,"Morgantown, WV",Monongalia County
+69040,26505,WV,202106,1019.41,0.0044,0.0843,Morgantown,"Morgantown, WV",Monongalia County
+69040,26505,WV,202107,995.94,-0.023,0.022,Morgantown,"Morgantown, WV",Monongalia County
+69040,26505,WV,202108,980.12,-0.0159,0.0086,Morgantown,"Morgantown, WV",Monongalia County
+69040,26505,WV,202109,977.94,-0.0022,0.0069,Morgantown,"Morgantown, WV",Monongalia County
+69040,26505,WV,202110,1011.27,0.0341,0.0282,Morgantown,"Morgantown, WV",Monongalia County
+69040,26505,WV,202111,1035.17,0.0236,0.0525,Morgantown,"Morgantown, WV",Monongalia County
+69040,26505,WV,202112,1046.51,0.011,0.0419,Morgantown,"Morgantown, WV",Monongalia County
+69040,26505,WV,202201,1065.98,0.0186,0.0641,Morgantown,"Morgantown, WV",Monongalia County
+69040,26505,WV,202202,1070.83,0.0046,0.0462,Morgantown,"Morgantown, WV",Monongalia County
+69040,26505,WV,202203,1076.79,0.0056,0.0663,Morgantown,"Morgantown, WV",Monongalia County
+69040,26505,WV,202204,1056.01,-0.0193,0.042,Morgantown,"Morgantown, WV",Monongalia County
+69040,26505,WV,202205,1067.55,0.0109,0.0518,Morgantown,"Morgantown, WV",Monongalia County
+69040,26505,WV,202206,1071.63,0.0038,0.0512,Morgantown,"Morgantown, WV",Monongalia County
+69040,26505,WV,202207,1078.38,0.0063,0.0828,Morgantown,"Morgantown, WV",Monongalia County
+69040,26505,WV,202208,1067.14,-0.0104,0.0888,Morgantown,"Morgantown, WV",Monongalia County
+69040,26505,WV,202209,1098.0,0.0289,0.1228,Morgantown,"Morgantown, WV",Monongalia County
+69040,26505,WV,202210,1109.74,0.0107,0.0974,Morgantown,"Morgantown, WV",Monongalia County
+69040,26505,WV,202211,1125.33,0.014,0.0871,Morgantown,"Morgantown, WV",Monongalia County
+69040,26505,WV,202212,1123.91,-0.0013,0.074,Morgantown,"Morgantown, WV",Monongalia County
+69040,26505,WV,202301,1124.46,0.0005,0.0549,Morgantown,"Morgantown, WV",Monongalia County
+69040,26505,WV,202302,1143.68,0.0171,0.068,Morgantown,"Morgantown, WV",Monongalia County
+69040,26505,WV,202303,1126.13,-0.0153,0.0458,Morgantown,"Morgantown, WV",Monongalia County
+69040,26505,WV,202304,1137.0,0.0096,0.0767,Morgantown,"Morgantown, WV",Monongalia County
+69040,26505,WV,202305,1135.09,-0.0017,0.0633,Morgantown,"Morgantown, WV",Monongalia County
+69040,26505,WV,202306,1134.81,-0.0002,0.059,Morgantown,"Morgantown, WV",Monongalia County
+69040,26505,WV,202307,1126.62,-0.0072,0.0447,Morgantown,"Morgantown, WV",Monongalia County
+69040,26505,WV,202308,1131.35,0.0042,0.0602,Morgantown,"Morgantown, WV",Monongalia County
+69040,26505,WV,202309,1146.47,0.0134,0.0441,Morgantown,"Morgantown, WV",Monongalia County
+69040,26505,WV,202310,1158.2,0.0102,0.0437,Morgantown,"Morgantown, WV",Monongalia County
+69040,26505,WV,202311,1168.16,0.0086,0.0381,Morgantown,"Morgantown, WV",Monongalia County
+69040,26505,WV,202312,1174.83,0.0057,0.0453,Morgantown,"Morgantown, WV",Monongalia County
+69040,26505,WV,202401,1183.74,0.0076,0.0527,Morgantown,"Morgantown, WV",Monongalia County
+69040,26505,WV,202402,1164.39,-0.0163,0.0181,Morgantown,"Morgantown, WV",Monongalia County
+69040,26505,WV,202403,1141.08,-0.02,0.0133,Morgantown,"Morgantown, WV",Monongalia County
+69040,26505,WV,202404,1130.48,-0.0093,-0.0057,Morgantown,"Morgantown, WV",Monongalia County
+69040,26505,WV,202405,1142.26,0.0104,0.0063,Morgantown,"Morgantown, WV",Monongalia County
+69040,26505,WV,202406,1170.11,0.0244,0.0311,Morgantown,"Morgantown, WV",Monongalia County
+69040,26505,WV,202407,1170.74,0.0005,0.0392,Morgantown,"Morgantown, WV",Monongalia County
+69040,26505,WV,202408,1179.52,0.0075,0.0426,Morgantown,"Morgantown, WV",Monongalia County
+69040,26505,WV,202409,1177.33,-0.0019,0.0269,Morgantown,"Morgantown, WV",Monongalia County
+69040,26505,WV,202410,1192.39,0.0128,0.0295,Morgantown,"Morgantown, WV",Monongalia County
+69040,26505,WV,202411,1194.63,0.0019,0.0227,Morgantown,"Morgantown, WV",Monongalia County
+69040,26505,WV,202412,1201.43,0.0057,0.0226,Morgantown,"Morgantown, WV",Monongalia County
+69040,26505,WV,202501,1201.69,0.0002,0.0152,Morgantown,"Morgantown, WV",Monongalia County
+69040,26505,WV,202502,1195.67,-0.005,0.0269,Morgantown,"Morgantown, WV",Monongalia County
+69040,26505,WV,202503,1193.72,-0.0016,0.0461,Morgantown,"Morgantown, WV",Monongalia County
+69040,26505,WV,202504,1203.89,0.0085,0.0649,Morgantown,"Morgantown, WV",Monongalia County
+69040,26505,WV,202505,1216.98,0.0109,0.0654,Morgantown,"Morgantown, WV",Monongalia County
+69040,26505,WV,202506,1209.79,-0.0059,0.0339,Morgantown,"Morgantown, WV",Monongalia County
+69040,26505,WV,202507,1204.5,-0.0044,0.0288,Morgantown,"Morgantown, WV",Monongalia County
+69040,26505,WV,202508,1193.38,-0.0092,0.0118,Morgantown,"Morgantown, WV",Monongalia County
+69040,26505,WV,202509,1211.02,0.0148,0.0286,Morgantown,"Morgantown, WV",Monongalia County
+69040,26505,WV,202510,1219.25,0.0068,0.0225,Morgantown,"Morgantown, WV",Monongalia County
+69040,26505,WV,202511,1242.59,0.0191,0.0401,Morgantown,"Morgantown, WV",Monongalia County
+69040,26505,WV,202512,1245.46,0.0023,0.0366,Morgantown,"Morgantown, WV",Monongalia County
+69040,26505,WV,202601,1246.9,0.0012,0.0376,Morgantown,"Morgantown, WV",Monongalia County
+69040,26505,WV,202602,1236.64,-0.0082,0.0343,Morgantown,"Morgantown, WV",Monongalia County
+69043,26508,WV,202410,1641.19,,,Morgantown,"Morgantown, WV",Monongalia County
+69043,26508,WV,202411,1681.05,0.0243,,Morgantown,"Morgantown, WV",Monongalia County
+69043,26508,WV,202412,1700.35,0.0115,,Morgantown,"Morgantown, WV",Monongalia County
+69043,26508,WV,202501,1706.36,0.0035,,Morgantown,"Morgantown, WV",Monongalia County
+69043,26508,WV,202502,1690.7,-0.0092,,Morgantown,"Morgantown, WV",Monongalia County
+69043,26508,WV,202503,1691.86,0.0007,,Morgantown,"Morgantown, WV",Monongalia County
+69043,26508,WV,202504,1685.93,-0.0035,,Morgantown,"Morgantown, WV",Monongalia County
+69043,26508,WV,202505,1684.54,-0.0008,,Morgantown,"Morgantown, WV",Monongalia County
+69043,26508,WV,202506,1673.01,-0.0068,,Morgantown,"Morgantown, WV",Monongalia County
+69043,26508,WV,202507,1680.05,0.0042,,Morgantown,"Morgantown, WV",Monongalia County
+69043,26508,WV,202508,1717.42,0.0222,,Morgantown,"Morgantown, WV",Monongalia County
+69043,26508,WV,202509,1731.69,0.0083,,Morgantown,"Morgantown, WV",Monongalia County
+69043,26508,WV,202510,1756.43,0.0143,0.0702,Morgantown,"Morgantown, WV",Monongalia County
+69043,26508,WV,202511,1717.55,-0.0221,0.0217,Morgantown,"Morgantown, WV",Monongalia County
+69043,26508,WV,202512,1728.69,0.0065,0.0167,Morgantown,"Morgantown, WV",Monongalia County
+69043,26508,WV,202601,1746.36,0.0102,0.0234,Morgantown,"Morgantown, WV",Monongalia County
+69043,26508,WV,202602,1781.39,0.0201,0.0536,Morgantown,"Morgantown, WV",Monongalia County
+69060,26554,WV,202310,892.28,,,Pleasant Valley,"Fairmont, WV",Marion County
+69060,26554,WV,202311,876.84,-0.0173,,Pleasant Valley,"Fairmont, WV",Marion County
+69060,26554,WV,202312,894.41,0.02,,Pleasant Valley,"Fairmont, WV",Marion County
+69060,26554,WV,202401,912.47,0.0202,,Pleasant Valley,"Fairmont, WV",Marion County
+69060,26554,WV,202402,937.13,0.027,,Pleasant Valley,"Fairmont, WV",Marion County
+69060,26554,WV,202405,938.73,0.0017,,Pleasant Valley,"Fairmont, WV",Marion County
+69060,26554,WV,202406,952.58,0.0148,,Pleasant Valley,"Fairmont, WV",Marion County
+69060,26554,WV,202407,954.73,0.0023,,Pleasant Valley,"Fairmont, WV",Marion County
+69060,26554,WV,202408,958.84,0.0043,,Pleasant Valley,"Fairmont, WV",Marion County
+69060,26554,WV,202409,951.72,-0.0074,,Pleasant Valley,"Fairmont, WV",Marion County
+69060,26554,WV,202410,965.99,0.015,,Pleasant Valley,"Fairmont, WV",Marion County
+69060,26554,WV,202411,968.86,0.003,,Pleasant Valley,"Fairmont, WV",Marion County
+69060,26554,WV,202412,995.72,0.0277,0.1159,Pleasant Valley,"Fairmont, WV",Marion County
+69060,26554,WV,202501,1000.06,0.0044,0.1405,Pleasant Valley,"Fairmont, WV",Marion County
+69060,26554,WV,202502,984.81,-0.0152,0.1011,Pleasant Valley,"Fairmont, WV",Marion County
+69060,26554,WV,202503,960.36,-0.0248,0.0525,Pleasant Valley,"Fairmont, WV",Marion County
+69060,26554,WV,202504,945.22,-0.0158,0.0086,Pleasant Valley,"Fairmont, WV",Marion County
+69060,26554,WV,202505,956.78,0.0122,0.0192,Pleasant Valley,"Fairmont, WV",Marion County
+69060,26554,WV,202506,975.48,0.0195,0.024,Pleasant Valley,"Fairmont, WV",Marion County
+69060,26554,WV,202508,1020.27,0.0459,0.0686,Pleasant Valley,"Fairmont, WV",Marion County
+69060,26554,WV,202509,1027.66,0.0072,0.0718,Pleasant Valley,"Fairmont, WV",Marion County
+69060,26554,WV,202510,1031.03,0.0033,0.0833,Pleasant Valley,"Fairmont, WV",Marion County
+69060,26554,WV,202511,1025.09,-0.0058,0.0612,Pleasant Valley,"Fairmont, WV",Marion County
+69060,26554,WV,202512,1013.42,-0.0114,0.046,Pleasant Valley,"Fairmont, WV",Marion County
+69060,26554,WV,202601,1010.87,-0.0025,0.0152,Pleasant Valley,"Fairmont, WV",Marion County
+69060,26554,WV,202602,1005.56,-0.0053,0.0055,Pleasant Valley,"Fairmont, WV",Marion County
+399558,25403,WV,202512,1701.71,,,Martinsburg,"Hagerstown-Martinsburg, MD-WV",Berkeley County
+399558,25403,WV,202601,1674.36,-0.0161,,Martinsburg,"Hagerstown-Martinsburg, MD-WV",Berkeley County
+399558,25403,WV,202602,1674.17,-0.0001,,Martinsburg,"Hagerstown-Martinsburg, MD-WV",Berkeley County
+399559,25404,WV,202208,1544.72,,,Martinsburg,"Hagerstown-Martinsburg, MD-WV",Berkeley County
+399559,25404,WV,202209,1499.43,-0.0293,,Martinsburg,"Hagerstown-Martinsburg, MD-WV",Berkeley County
+399559,25404,WV,202210,1497.06,-0.0016,,Martinsburg,"Hagerstown-Martinsburg, MD-WV",Berkeley County
+399559,25404,WV,202211,1478.46,-0.0124,,Martinsburg,"Hagerstown-Martinsburg, MD-WV",Berkeley County
+399559,25404,WV,202212,1519.69,0.0279,,Martinsburg,"Hagerstown-Martinsburg, MD-WV",Berkeley County
+399559,25404,WV,202301,1500.82,-0.0124,,Martinsburg,"Hagerstown-Martinsburg, MD-WV",Berkeley County
+399559,25404,WV,202302,1511.1,0.0068,,Martinsburg,"Hagerstown-Martinsburg, MD-WV",Berkeley County
+399559,25404,WV,202303,1512.23,0.0007,,Martinsburg,"Hagerstown-Martinsburg, MD-WV",Berkeley County
+399559,25404,WV,202304,1543.34,0.0206,,Martinsburg,"Hagerstown-Martinsburg, MD-WV",Berkeley County
+399559,25404,WV,202305,1560.45,0.0111,,Martinsburg,"Hagerstown-Martinsburg, MD-WV",Berkeley County
+399559,25404,WV,202306,1552.78,-0.0049,,Martinsburg,"Hagerstown-Martinsburg, MD-WV",Berkeley County
+399559,25404,WV,202307,1546.19,-0.0042,,Martinsburg,"Hagerstown-Martinsburg, MD-WV",Berkeley County
+399559,25404,WV,202308,1544.23,-0.0013,-0.0003,Martinsburg,"Hagerstown-Martinsburg, MD-WV",Berkeley County
+399559,25404,WV,202309,1554.72,0.0068,0.0369,Martinsburg,"Hagerstown-Martinsburg, MD-WV",Berkeley County
+399559,25404,WV,202310,1550.42,-0.0028,0.0356,Martinsburg,"Hagerstown-Martinsburg, MD-WV",Berkeley County
+399559,25404,WV,202311,1544.44,-0.0039,0.0446,Martinsburg,"Hagerstown-Martinsburg, MD-WV",Berkeley County
+399559,25404,WV,202312,1530.09,-0.0093,0.0068,Martinsburg,"Hagerstown-Martinsburg, MD-WV",Berkeley County
+399559,25404,WV,202401,1541.49,0.0074,0.0271,Martinsburg,"Hagerstown-Martinsburg, MD-WV",Berkeley County
+399559,25404,WV,202402,1542.15,0.0004,0.0206,Martinsburg,"Hagerstown-Martinsburg, MD-WV",Berkeley County
+399559,25404,WV,202403,1542.15,-0.0,0.0198,Martinsburg,"Hagerstown-Martinsburg, MD-WV",Berkeley County
+399559,25404,WV,202404,1547.88,0.0037,0.0029,Martinsburg,"Hagerstown-Martinsburg, MD-WV",Berkeley County
+399559,25404,WV,202405,1564.22,0.0106,0.0024,Martinsburg,"Hagerstown-Martinsburg, MD-WV",Berkeley County
+399559,25404,WV,202406,1577.78,0.0087,0.0161,Martinsburg,"Hagerstown-Martinsburg, MD-WV",Berkeley County
+399559,25404,WV,202407,1590.05,0.0078,0.0284,Martinsburg,"Hagerstown-Martinsburg, MD-WV",Berkeley County
+399559,25404,WV,202408,1595.08,0.0032,0.0329,Martinsburg,"Hagerstown-Martinsburg, MD-WV",Berkeley County
+399559,25404,WV,202409,1613.28,0.0114,0.0377,Martinsburg,"Hagerstown-Martinsburg, MD-WV",Berkeley County
+399559,25404,WV,202410,1614.22,0.0006,0.0411,Martinsburg,"Hagerstown-Martinsburg, MD-WV",Berkeley County
+399559,25404,WV,202411,1603.81,-0.0064,0.0384,Martinsburg,"Hagerstown-Martinsburg, MD-WV",Berkeley County
+399559,25404,WV,202412,1614.04,0.0064,0.0549,Martinsburg,"Hagerstown-Martinsburg, MD-WV",Berkeley County
+399559,25404,WV,202501,1616.33,0.0014,0.0486,Martinsburg,"Hagerstown-Martinsburg, MD-WV",Berkeley County
+399559,25404,WV,202502,1601.66,-0.0091,0.0386,Martinsburg,"Hagerstown-Martinsburg, MD-WV",Berkeley County
+399559,25404,WV,202503,1590.12,-0.0072,0.0311,Martinsburg,"Hagerstown-Martinsburg, MD-WV",Berkeley County
+399559,25404,WV,202504,1591.82,0.0011,0.0284,Martinsburg,"Hagerstown-Martinsburg, MD-WV",Berkeley County
+399559,25404,WV,202505,1624.21,0.0204,0.0384,Martinsburg,"Hagerstown-Martinsburg, MD-WV",Berkeley County
+399559,25404,WV,202506,1639.1,0.0092,0.0389,Martinsburg,"Hagerstown-Martinsburg, MD-WV",Berkeley County
+399559,25404,WV,202507,1655.16,0.0098,0.041,Martinsburg,"Hagerstown-Martinsburg, MD-WV",Berkeley County
+399559,25404,WV,202508,1665.46,0.0062,0.0441,Martinsburg,"Hagerstown-Martinsburg, MD-WV",Berkeley County
+399559,25404,WV,202509,1669.12,0.0022,0.0346,Martinsburg,"Hagerstown-Martinsburg, MD-WV",Berkeley County
+399559,25404,WV,202510,1654.62,-0.0087,0.025,Martinsburg,"Hagerstown-Martinsburg, MD-WV",Berkeley County
+399559,25404,WV,202511,1657.98,0.002,0.0338,Martinsburg,"Hagerstown-Martinsburg, MD-WV",Berkeley County
+399559,25404,WV,202512,1676.96,0.0114,0.039,Martinsburg,"Hagerstown-Martinsburg, MD-WV",Berkeley County
+399559,25404,WV,202601,1694.11,0.0102,0.0481,Martinsburg,"Hagerstown-Martinsburg, MD-WV",Berkeley County
+399559,25404,WV,202602,1703.83,0.0057,0.0638,Martinsburg,"Hagerstown-Martinsburg, MD-WV",Berkeley County
+399560,25405,WV,202602,1825.0,,,Martinsburg,"Hagerstown-Martinsburg, MD-WV",Berkeley County
