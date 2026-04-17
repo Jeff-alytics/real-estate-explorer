@@ -1,661 +1,688 @@
 RegionID,RegionName,State,month_date_yyyymm,zori,zori_mm,zori_yy,City,Metro,CountyName
-83904,59047,MT,202502,1663.29,,,Livingston,,Park County
-83904,59047,MT,202503,1699.51,0.0218,,Livingston,,Park County
-83904,59047,MT,202504,1719.42,0.0117,,Livingston,,Park County
-83904,59047,MT,202505,1790.79,0.0415,,Livingston,,Park County
-83904,59047,MT,202506,1773.54,-0.0096,,Livingston,,Park County
-83904,59047,MT,202507,1765.31,-0.0046,,Livingston,,Park County
-83904,59047,MT,202508,1758.07,-0.0041,,Livingston,,Park County
-83904,59047,MT,202509,1820.08,0.0353,,Livingston,,Park County
-83904,59047,MT,202510,1853.48,0.0183,,Livingston,,Park County
-83904,59047,MT,202511,1873.09,0.0106,,Livingston,,Park County
-83904,59047,MT,202512,1817.86,-0.0295,,Livingston,,Park County
-83904,59047,MT,202601,1814.93,-0.0016,,Livingston,,Park County
-83904,59047,MT,202602,1783.33,-0.0174,0.0722,Livingston,,Park County
-83941,59101,MT,202303,1080.63,,,Billings,"Billings, MT",Yellowstone County
-83941,59101,MT,202304,1042.14,-0.0356,,Billings,"Billings, MT",Yellowstone County
-83941,59101,MT,202305,1043.72,0.0015,,Billings,"Billings, MT",Yellowstone County
-83941,59101,MT,202306,1051.42,0.0074,,Billings,"Billings, MT",Yellowstone County
-83941,59101,MT,202307,1060.46,0.0086,,Billings,"Billings, MT",Yellowstone County
-83941,59101,MT,202308,1071.36,0.0103,,Billings,"Billings, MT",Yellowstone County
-83941,59101,MT,202309,1067.84,-0.0033,,Billings,"Billings, MT",Yellowstone County
-83941,59101,MT,202310,1069.0,0.0011,,Billings,"Billings, MT",Yellowstone County
-83941,59101,MT,202311,1067.08,-0.0018,,Billings,"Billings, MT",Yellowstone County
-83941,59101,MT,202312,1079.69,0.0118,,Billings,"Billings, MT",Yellowstone County
-83941,59101,MT,202401,1091.65,0.0111,,Billings,"Billings, MT",Yellowstone County
-83941,59101,MT,202402,1102.32,0.0098,,Billings,"Billings, MT",Yellowstone County
-83941,59101,MT,202403,1100.97,-0.0012,0.0188,Billings,"Billings, MT",Yellowstone County
-83941,59101,MT,202404,1107.26,0.0057,0.0625,Billings,"Billings, MT",Yellowstone County
-83941,59101,MT,202405,1101.08,-0.0056,0.055,Billings,"Billings, MT",Yellowstone County
-83941,59101,MT,202406,1104.95,0.0035,0.0509,Billings,"Billings, MT",Yellowstone County
-83941,59101,MT,202407,1103.77,-0.0011,0.0408,Billings,"Billings, MT",Yellowstone County
-83941,59101,MT,202408,1133.09,0.0266,0.0576,Billings,"Billings, MT",Yellowstone County
-83941,59101,MT,202409,1138.27,0.0046,0.066,Billings,"Billings, MT",Yellowstone County
-83941,59101,MT,202410,1155.43,0.0151,0.0809,Billings,"Billings, MT",Yellowstone County
-83941,59101,MT,202411,1136.28,-0.0166,0.0648,Billings,"Billings, MT",Yellowstone County
-83941,59101,MT,202412,1139.78,0.0031,0.0557,Billings,"Billings, MT",Yellowstone County
-83941,59101,MT,202501,1135.64,-0.0036,0.0403,Billings,"Billings, MT",Yellowstone County
-83941,59101,MT,202502,1131.21,-0.0039,0.0262,Billings,"Billings, MT",Yellowstone County
-83941,59101,MT,202503,1137.48,0.0055,0.0332,Billings,"Billings, MT",Yellowstone County
-83941,59101,MT,202504,1147.17,0.0085,0.036,Billings,"Billings, MT",Yellowstone County
-83941,59101,MT,202505,1165.34,0.0158,0.0584,Billings,"Billings, MT",Yellowstone County
-83941,59101,MT,202506,1186.43,0.0181,0.0737,Billings,"Billings, MT",Yellowstone County
-83941,59101,MT,202507,1183.68,-0.0023,0.0724,Billings,"Billings, MT",Yellowstone County
-83941,59101,MT,202508,1181.39,-0.0019,0.0426,Billings,"Billings, MT",Yellowstone County
-83941,59101,MT,202509,1175.64,-0.0049,0.0328,Billings,"Billings, MT",Yellowstone County
-83941,59101,MT,202510,1184.52,0.0076,0.0252,Billings,"Billings, MT",Yellowstone County
-83941,59101,MT,202511,1186.67,0.0018,0.0443,Billings,"Billings, MT",Yellowstone County
-83941,59101,MT,202512,1179.16,-0.0063,0.0346,Billings,"Billings, MT",Yellowstone County
-83941,59101,MT,202601,1180.96,0.0015,0.0399,Billings,"Billings, MT",Yellowstone County
-83941,59101,MT,202602,1186.23,0.0045,0.0486,Billings,"Billings, MT",Yellowstone County
-83942,59102,MT,202105,1090.62,,,Billings,"Billings, MT",Yellowstone County
-83942,59102,MT,202106,1125.44,0.0319,,Billings,"Billings, MT",Yellowstone County
-83942,59102,MT,202107,1144.89,0.0173,,Billings,"Billings, MT",Yellowstone County
-83942,59102,MT,202108,1144.79,-0.0001,,Billings,"Billings, MT",Yellowstone County
-83942,59102,MT,202109,1143.48,-0.0011,,Billings,"Billings, MT",Yellowstone County
-83942,59102,MT,202110,1162.71,0.0168,,Billings,"Billings, MT",Yellowstone County
-83942,59102,MT,202111,1169.68,0.006,,Billings,"Billings, MT",Yellowstone County
-83942,59102,MT,202112,1200.0,0.0259,,Billings,"Billings, MT",Yellowstone County
-83942,59102,MT,202201,1204.05,0.0034,,Billings,"Billings, MT",Yellowstone County
-83942,59102,MT,202202,1218.26,0.0118,,Billings,"Billings, MT",Yellowstone County
-83942,59102,MT,202203,1209.11,-0.0075,,Billings,"Billings, MT",Yellowstone County
-83942,59102,MT,202204,1224.41,0.0127,,Billings,"Billings, MT",Yellowstone County
-83942,59102,MT,202205,1295.2,0.0578,0.1876,Billings,"Billings, MT",Yellowstone County
-83942,59102,MT,202206,1346.08,0.0393,0.1961,Billings,"Billings, MT",Yellowstone County
-83942,59102,MT,202207,1374.69,0.0212,0.2007,Billings,"Billings, MT",Yellowstone County
-83942,59102,MT,202208,1358.01,-0.0121,0.1863,Billings,"Billings, MT",Yellowstone County
-83942,59102,MT,202209,1337.02,-0.0155,0.1693,Billings,"Billings, MT",Yellowstone County
-83942,59102,MT,202210,1330.6,-0.0048,0.1444,Billings,"Billings, MT",Yellowstone County
-83942,59102,MT,202211,1302.61,-0.021,0.1136,Billings,"Billings, MT",Yellowstone County
-83942,59102,MT,202212,1304.12,0.0012,0.0868,Billings,"Billings, MT",Yellowstone County
-83942,59102,MT,202301,1296.4,-0.0059,0.0767,Billings,"Billings, MT",Yellowstone County
-83942,59102,MT,202302,1304.37,0.0061,0.0707,Billings,"Billings, MT",Yellowstone County
-83942,59102,MT,202303,1310.28,0.0045,0.0837,Billings,"Billings, MT",Yellowstone County
-83942,59102,MT,202304,1330.46,0.0154,0.0866,Billings,"Billings, MT",Yellowstone County
-83942,59102,MT,202305,1361.37,0.0232,0.0511,Billings,"Billings, MT",Yellowstone County
-83942,59102,MT,202306,1375.42,0.0103,0.0218,Billings,"Billings, MT",Yellowstone County
-83942,59102,MT,202307,1380.01,0.0033,0.0039,Billings,"Billings, MT",Yellowstone County
-83942,59102,MT,202308,1368.31,-0.0085,0.0076,Billings,"Billings, MT",Yellowstone County
-83942,59102,MT,202309,1358.2,-0.0074,0.0158,Billings,"Billings, MT",Yellowstone County
-83942,59102,MT,202310,1347.3,-0.008,0.0126,Billings,"Billings, MT",Yellowstone County
-83942,59102,MT,202311,1344.26,-0.0023,0.032,Billings,"Billings, MT",Yellowstone County
-83942,59102,MT,202312,1347.64,0.0025,0.0334,Billings,"Billings, MT",Yellowstone County
-83942,59102,MT,202401,1338.31,-0.0069,0.0323,Billings,"Billings, MT",Yellowstone County
-83942,59102,MT,202402,1332.5,-0.0043,0.0216,Billings,"Billings, MT",Yellowstone County
-83942,59102,MT,202403,1342.77,0.0077,0.0248,Billings,"Billings, MT",Yellowstone County
-83942,59102,MT,202404,1364.84,0.0164,0.0258,Billings,"Billings, MT",Yellowstone County
-83942,59102,MT,202405,1384.28,0.0142,0.0168,Billings,"Billings, MT",Yellowstone County
-83942,59102,MT,202406,1390.84,0.0047,0.0112,Billings,"Billings, MT",Yellowstone County
-83942,59102,MT,202407,1399.8,0.0064,0.0143,Billings,"Billings, MT",Yellowstone County
-83942,59102,MT,202408,1399.12,-0.0005,0.0225,Billings,"Billings, MT",Yellowstone County
-83942,59102,MT,202409,1401.07,0.0014,0.0316,Billings,"Billings, MT",Yellowstone County
-83942,59102,MT,202410,1390.98,-0.0072,0.0324,Billings,"Billings, MT",Yellowstone County
-83942,59102,MT,202411,1390.64,-0.0002,0.0345,Billings,"Billings, MT",Yellowstone County
-83942,59102,MT,202412,1379.28,-0.0082,0.0235,Billings,"Billings, MT",Yellowstone County
-83942,59102,MT,202501,1380.71,0.001,0.0317,Billings,"Billings, MT",Yellowstone County
-83942,59102,MT,202502,1373.64,-0.0051,0.0309,Billings,"Billings, MT",Yellowstone County
-83942,59102,MT,202503,1385.05,0.0083,0.0315,Billings,"Billings, MT",Yellowstone County
-83942,59102,MT,202504,1402.64,0.0127,0.0277,Billings,"Billings, MT",Yellowstone County
-83942,59102,MT,202505,1416.74,0.0101,0.0235,Billings,"Billings, MT",Yellowstone County
-83942,59102,MT,202506,1424.84,0.0057,0.0244,Billings,"Billings, MT",Yellowstone County
-83942,59102,MT,202507,1437.72,0.009,0.0271,Billings,"Billings, MT",Yellowstone County
-83942,59102,MT,202508,1453.84,0.0112,0.0391,Billings,"Billings, MT",Yellowstone County
-83942,59102,MT,202509,1465.07,0.0077,0.0457,Billings,"Billings, MT",Yellowstone County
-83942,59102,MT,202510,1447.7,-0.0119,0.0408,Billings,"Billings, MT",Yellowstone County
-83942,59102,MT,202511,1441.55,-0.0042,0.0366,Billings,"Billings, MT",Yellowstone County
-83942,59102,MT,202512,1422.88,-0.013,0.0316,Billings,"Billings, MT",Yellowstone County
-83942,59102,MT,202601,1427.27,0.0031,0.0337,Billings,"Billings, MT",Yellowstone County
-83942,59102,MT,202602,1439.12,0.0083,0.0477,Billings,"Billings, MT",Yellowstone County
-83945,59105,MT,202302,1087.46,,,Billings,"Billings, MT",Yellowstone County
-83945,59105,MT,202303,1091.01,0.0033,,Billings,"Billings, MT",Yellowstone County
-83945,59105,MT,202304,1098.18,0.0066,,Billings,"Billings, MT",Yellowstone County
-83945,59105,MT,202305,1111.0,0.0117,,Billings,"Billings, MT",Yellowstone County
-83945,59105,MT,202306,1113.65,0.0024,,Billings,"Billings, MT",Yellowstone County
-83945,59105,MT,202307,1124.73,0.0099,,Billings,"Billings, MT",Yellowstone County
-83945,59105,MT,202308,1145.23,0.0182,,Billings,"Billings, MT",Yellowstone County
-83945,59105,MT,202309,1153.62,0.0073,,Billings,"Billings, MT",Yellowstone County
-83945,59105,MT,202310,1161.32,0.0067,,Billings,"Billings, MT",Yellowstone County
-83945,59105,MT,202311,1142.64,-0.0161,,Billings,"Billings, MT",Yellowstone County
-83945,59105,MT,202312,1153.2,0.0092,,Billings,"Billings, MT",Yellowstone County
-83945,59105,MT,202401,1168.59,0.0133,,Billings,"Billings, MT",Yellowstone County
-83945,59105,MT,202402,1170.88,0.002,0.0767,Billings,"Billings, MT",Yellowstone County
-83945,59105,MT,202403,1149.89,-0.0179,0.054,Billings,"Billings, MT",Yellowstone County
-83945,59105,MT,202404,1145.31,-0.004,0.0429,Billings,"Billings, MT",Yellowstone County
-83945,59105,MT,202405,1142.71,-0.0023,0.0285,Billings,"Billings, MT",Yellowstone County
-83945,59105,MT,202406,1175.91,0.0291,0.0559,Billings,"Billings, MT",Yellowstone County
-83945,59105,MT,202407,1169.42,-0.0055,0.0397,Billings,"Billings, MT",Yellowstone County
-83945,59105,MT,202408,1184.04,0.0125,0.0339,Billings,"Billings, MT",Yellowstone County
-83945,59105,MT,202409,1163.41,-0.0174,0.0085,Billings,"Billings, MT",Yellowstone County
-83945,59105,MT,202410,1176.78,0.0115,0.0133,Billings,"Billings, MT",Yellowstone County
-83945,59105,MT,202411,1178.81,0.0017,0.0317,Billings,"Billings, MT",Yellowstone County
-83945,59105,MT,202412,1159.35,-0.0165,0.0053,Billings,"Billings, MT",Yellowstone County
-83945,59105,MT,202501,1112.63,-0.0403,-0.0479,Billings,"Billings, MT",Yellowstone County
-83945,59105,MT,202502,1106.35,-0.0056,-0.0551,Billings,"Billings, MT",Yellowstone County
-83945,59105,MT,202503,1146.74,0.0365,-0.0027,Billings,"Billings, MT",Yellowstone County
-83945,59105,MT,202504,1185.3,0.0336,0.0349,Billings,"Billings, MT",Yellowstone County
-83945,59105,MT,202505,1213.55,0.0238,0.062,Billings,"Billings, MT",Yellowstone County
-83945,59105,MT,202506,1198.77,-0.0122,0.0194,Billings,"Billings, MT",Yellowstone County
-83945,59105,MT,202507,1210.14,0.0095,0.0348,Billings,"Billings, MT",Yellowstone County
-83945,59105,MT,202508,1226.82,0.0138,0.0361,Billings,"Billings, MT",Yellowstone County
-83945,59105,MT,202509,1221.82,-0.0041,0.0502,Billings,"Billings, MT",Yellowstone County
-83945,59105,MT,202510,1227.67,0.0048,0.0432,Billings,"Billings, MT",Yellowstone County
-83945,59105,MT,202511,1213.23,-0.0118,0.0292,Billings,"Billings, MT",Yellowstone County
-83945,59105,MT,202512,1234.51,0.0175,0.0648,Billings,"Billings, MT",Yellowstone County
-83945,59105,MT,202601,1248.09,0.011,0.1218,Billings,"Billings, MT",Yellowstone County
-83945,59105,MT,202602,1230.56,-0.0141,0.1123,Billings,"Billings, MT",Yellowstone County
-83946,59106,MT,202403,1030.22,,,Billings,"Billings, MT",Yellowstone County
-83946,59106,MT,202404,1151.5,0.1177,,Billings,"Billings, MT",Yellowstone County
-83946,59106,MT,202407,1489.1,0.2932,,Billings,"Billings, MT",Yellowstone County
-83946,59106,MT,202408,1491.62,0.0017,,Billings,"Billings, MT",Yellowstone County
-83946,59106,MT,202409,1466.25,-0.017,,Billings,"Billings, MT",Yellowstone County
-83946,59106,MT,202410,1471.0,0.0032,,Billings,"Billings, MT",Yellowstone County
-83946,59106,MT,202411,1462.11,-0.006,,Billings,"Billings, MT",Yellowstone County
-83946,59106,MT,202412,1474.52,0.0085,,Billings,"Billings, MT",Yellowstone County
-83946,59106,MT,202501,1492.98,0.0125,,Billings,"Billings, MT",Yellowstone County
-83946,59106,MT,202502,1498.13,0.0035,,Billings,"Billings, MT",Yellowstone County
-83946,59106,MT,202503,1507.45,0.0062,,Billings,"Billings, MT",Yellowstone County
-83946,59106,MT,202504,1509.1,0.0011,,Billings,"Billings, MT",Yellowstone County
-83946,59106,MT,202505,1537.44,0.0188,0.4923,Billings,"Billings, MT",Yellowstone County
-83946,59106,MT,202506,1561.93,0.0159,0.3564,Billings,"Billings, MT",Yellowstone County
-83946,59106,MT,202507,1558.06,-0.0025,0.0463,Billings,"Billings, MT",Yellowstone County
-83946,59106,MT,202508,1537.61,-0.0131,0.0308,Billings,"Billings, MT",Yellowstone County
-83946,59106,MT,202509,1534.35,-0.0021,0.0464,Billings,"Billings, MT",Yellowstone County
-83946,59106,MT,202510,1534.14,-0.0001,0.0429,Billings,"Billings, MT",Yellowstone County
-83946,59106,MT,202511,1530.81,-0.0022,0.047,Billings,"Billings, MT",Yellowstone County
-83946,59106,MT,202512,1526.4,-0.0029,0.0352,Billings,"Billings, MT",Yellowstone County
-83946,59106,MT,202601,1540.37,0.0091,0.0317,Billings,"Billings, MT",Yellowstone County
-83946,59106,MT,202602,1551.78,0.0074,0.0358,Billings,"Billings, MT",Yellowstone County
-84027,59401,MT,202208,1017.02,,,Great Falls,"Great Falls, MT",Cascade County
-84027,59401,MT,202209,1036.59,0.0192,,Great Falls,"Great Falls, MT",Cascade County
-84027,59401,MT,202210,1015.12,-0.0207,,Great Falls,"Great Falls, MT",Cascade County
-84027,59401,MT,202211,1049.17,0.0335,,Great Falls,"Great Falls, MT",Cascade County
-84027,59401,MT,202212,1033.29,-0.0151,,Great Falls,"Great Falls, MT",Cascade County
-84027,59401,MT,202301,1025.47,-0.0076,,Great Falls,"Great Falls, MT",Cascade County
-84027,59401,MT,202302,996.87,-0.0279,,Great Falls,"Great Falls, MT",Cascade County
-84027,59401,MT,202303,1009.02,0.0122,,Great Falls,"Great Falls, MT",Cascade County
-84027,59401,MT,202304,1010.2,0.0012,,Great Falls,"Great Falls, MT",Cascade County
-84027,59401,MT,202305,1002.63,-0.0075,,Great Falls,"Great Falls, MT",Cascade County
-84027,59401,MT,202306,987.85,-0.0147,,Great Falls,"Great Falls, MT",Cascade County
-84027,59401,MT,202307,984.6,-0.0033,,Great Falls,"Great Falls, MT",Cascade County
-84027,59401,MT,202308,996.53,0.0121,-0.0201,Great Falls,"Great Falls, MT",Cascade County
-84027,59401,MT,202309,1020.11,0.0237,-0.0159,Great Falls,"Great Falls, MT",Cascade County
-84027,59401,MT,202310,1019.37,-0.0007,0.0042,Great Falls,"Great Falls, MT",Cascade County
-84027,59401,MT,202311,1010.5,-0.0087,-0.0369,Great Falls,"Great Falls, MT",Cascade County
-84027,59401,MT,202312,1000.73,-0.0097,-0.0315,Great Falls,"Great Falls, MT",Cascade County
-84027,59401,MT,202401,987.64,-0.0131,-0.0369,Great Falls,"Great Falls, MT",Cascade County
-84027,59401,MT,202402,1006.55,0.0191,0.0097,Great Falls,"Great Falls, MT",Cascade County
-84027,59401,MT,202403,1009.07,0.0025,0.0001,Great Falls,"Great Falls, MT",Cascade County
-84027,59401,MT,202404,1028.75,0.0195,0.0184,Great Falls,"Great Falls, MT",Cascade County
-84027,59401,MT,202405,1023.91,-0.0047,0.0212,Great Falls,"Great Falls, MT",Cascade County
-84027,59401,MT,202406,1030.15,0.0061,0.0428,Great Falls,"Great Falls, MT",Cascade County
-84027,59401,MT,202407,1049.09,0.0184,0.0655,Great Falls,"Great Falls, MT",Cascade County
-84027,59401,MT,202408,1064.93,0.0151,0.0686,Great Falls,"Great Falls, MT",Cascade County
-84027,59401,MT,202409,1072.63,0.0072,0.0515,Great Falls,"Great Falls, MT",Cascade County
-84027,59401,MT,202410,1089.7,0.0159,0.069,Great Falls,"Great Falls, MT",Cascade County
-84027,59401,MT,202411,1068.39,-0.0196,0.0573,Great Falls,"Great Falls, MT",Cascade County
-84027,59401,MT,202412,1075.38,0.0065,0.0746,Great Falls,"Great Falls, MT",Cascade County
-84027,59401,MT,202501,1060.28,-0.014,0.0735,Great Falls,"Great Falls, MT",Cascade County
-84027,59401,MT,202502,1074.4,0.0133,0.0674,Great Falls,"Great Falls, MT",Cascade County
-84027,59401,MT,202503,1074.14,-0.0002,0.0645,Great Falls,"Great Falls, MT",Cascade County
-84027,59401,MT,202504,1078.68,0.0042,0.0485,Great Falls,"Great Falls, MT",Cascade County
-84027,59401,MT,202505,1065.73,-0.012,0.0408,Great Falls,"Great Falls, MT",Cascade County
-84027,59401,MT,202506,1056.38,-0.0088,0.0255,Great Falls,"Great Falls, MT",Cascade County
-84027,59401,MT,202507,1069.68,0.0126,0.0196,Great Falls,"Great Falls, MT",Cascade County
-84027,59401,MT,202508,1093.65,0.0224,0.027,Great Falls,"Great Falls, MT",Cascade County
-84027,59401,MT,202509,1131.57,0.0347,0.055,Great Falls,"Great Falls, MT",Cascade County
-84027,59401,MT,202510,1123.39,-0.0072,0.0309,Great Falls,"Great Falls, MT",Cascade County
-84027,59401,MT,202511,1116.73,-0.0059,0.0452,Great Falls,"Great Falls, MT",Cascade County
-84027,59401,MT,202512,1131.54,0.0133,0.0522,Great Falls,"Great Falls, MT",Cascade County
-84027,59401,MT,202601,1131.26,-0.0003,0.0669,Great Falls,"Great Falls, MT",Cascade County
-84027,59401,MT,202602,1152.29,0.0186,0.0725,Great Falls,"Great Falls, MT",Cascade County
-84030,59404,MT,202504,1712.36,,,Great Falls,"Great Falls, MT",Cascade County
-84030,59404,MT,202505,1735.48,0.0135,,Great Falls,"Great Falls, MT",Cascade County
-84030,59404,MT,202506,1769.16,0.0194,,Great Falls,"Great Falls, MT",Cascade County
-84030,59404,MT,202507,1819.7,0.0286,,Great Falls,"Great Falls, MT",Cascade County
-84030,59404,MT,202508,1845.43,0.0141,,Great Falls,"Great Falls, MT",Cascade County
-84030,59404,MT,202509,1810.97,-0.0187,,Great Falls,"Great Falls, MT",Cascade County
-84030,59404,MT,202510,1822.02,0.0061,,Great Falls,"Great Falls, MT",Cascade County
-84030,59404,MT,202511,1821.93,-0.0001,,Great Falls,"Great Falls, MT",Cascade County
-84030,59404,MT,202512,1828.06,0.0034,,Great Falls,"Great Falls, MT",Cascade County
-84030,59404,MT,202601,1795.83,-0.0176,,Great Falls,"Great Falls, MT",Cascade County
-84030,59404,MT,202602,1813.05,0.0096,,Great Falls,"Great Falls, MT",Cascade County
-84031,59405,MT,202303,1198.9,,,Great Falls,"Great Falls, MT",Cascade County
-84031,59405,MT,202304,1186.89,-0.01,,Great Falls,"Great Falls, MT",Cascade County
-84031,59405,MT,202305,1170.77,-0.0136,,Great Falls,"Great Falls, MT",Cascade County
-84031,59405,MT,202306,1166.4,-0.0037,,Great Falls,"Great Falls, MT",Cascade County
-84031,59405,MT,202307,1178.88,0.0107,,Great Falls,"Great Falls, MT",Cascade County
-84031,59405,MT,202308,1185.9,0.006,,Great Falls,"Great Falls, MT",Cascade County
-84031,59405,MT,202309,1190.57,0.0039,,Great Falls,"Great Falls, MT",Cascade County
-84031,59405,MT,202310,1193.91,0.0028,,Great Falls,"Great Falls, MT",Cascade County
-84031,59405,MT,202311,1193.75,-0.0001,,Great Falls,"Great Falls, MT",Cascade County
-84031,59405,MT,202312,1188.65,-0.0043,,Great Falls,"Great Falls, MT",Cascade County
-84031,59405,MT,202401,1189.87,0.001,,Great Falls,"Great Falls, MT",Cascade County
-84031,59405,MT,202402,1204.26,0.0121,,Great Falls,"Great Falls, MT",Cascade County
-84031,59405,MT,202403,1229.77,0.0212,0.0258,Great Falls,"Great Falls, MT",Cascade County
-84031,59405,MT,202404,1249.72,0.0162,0.0529,Great Falls,"Great Falls, MT",Cascade County
-84031,59405,MT,202405,1244.17,-0.0044,0.0627,Great Falls,"Great Falls, MT",Cascade County
-84031,59405,MT,202406,1255.44,0.0091,0.0763,Great Falls,"Great Falls, MT",Cascade County
-84031,59405,MT,202407,1287.19,0.0253,0.0919,Great Falls,"Great Falls, MT",Cascade County
-84031,59405,MT,202408,1318.01,0.0239,0.1114,Great Falls,"Great Falls, MT",Cascade County
-84031,59405,MT,202409,1318.9,0.0007,0.1078,Great Falls,"Great Falls, MT",Cascade County
-84031,59405,MT,202410,1295.08,-0.0181,0.0847,Great Falls,"Great Falls, MT",Cascade County
-84031,59405,MT,202411,1296.12,0.0008,0.0858,Great Falls,"Great Falls, MT",Cascade County
-84031,59405,MT,202412,1286.08,-0.0077,0.082,Great Falls,"Great Falls, MT",Cascade County
-84031,59405,MT,202501,1299.09,0.0101,0.0918,Great Falls,"Great Falls, MT",Cascade County
-84031,59405,MT,202502,1291.32,-0.006,0.0723,Great Falls,"Great Falls, MT",Cascade County
-84031,59405,MT,202503,1307.35,0.0124,0.0631,Great Falls,"Great Falls, MT",Cascade County
-84031,59405,MT,202504,1313.2,0.0045,0.0508,Great Falls,"Great Falls, MT",Cascade County
-84031,59405,MT,202505,1345.15,0.0243,0.0812,Great Falls,"Great Falls, MT",Cascade County
-84031,59405,MT,202506,1368.05,0.017,0.0897,Great Falls,"Great Falls, MT",Cascade County
-84031,59405,MT,202507,1375.19,0.0052,0.0684,Great Falls,"Great Falls, MT",Cascade County
-84031,59405,MT,202508,1365.0,-0.0074,0.0357,Great Falls,"Great Falls, MT",Cascade County
-84031,59405,MT,202509,1362.73,-0.0017,0.0332,Great Falls,"Great Falls, MT",Cascade County
-84031,59405,MT,202510,1356.72,-0.0044,0.0476,Great Falls,"Great Falls, MT",Cascade County
-84031,59405,MT,202511,1346.03,-0.0079,0.0385,Great Falls,"Great Falls, MT",Cascade County
-84031,59405,MT,202512,1349.9,0.0029,0.0496,Great Falls,"Great Falls, MT",Cascade County
-84031,59405,MT,202601,1334.69,-0.0113,0.0274,Great Falls,"Great Falls, MT",Cascade County
-84031,59405,MT,202602,1354.46,0.0148,0.0489,Great Falls,"Great Falls, MT",Cascade County
-84091,59501,MT,202602,925.0,,,Havre,,Hill County
-84114,59601,MT,202304,1221.33,,,Helena,"Helena, MT",Lewis and Clark County
-84114,59601,MT,202305,1268.16,0.0383,,Helena,"Helena, MT",Lewis and Clark County
-84114,59601,MT,202306,1278.27,0.008,,Helena,"Helena, MT",Lewis and Clark County
-84114,59601,MT,202307,1304.55,0.0206,,Helena,"Helena, MT",Lewis and Clark County
-84114,59601,MT,202308,1286.56,-0.0138,,Helena,"Helena, MT",Lewis and Clark County
-84114,59601,MT,202309,1308.53,0.0171,,Helena,"Helena, MT",Lewis and Clark County
-84114,59601,MT,202310,1315.52,0.0053,,Helena,"Helena, MT",Lewis and Clark County
-84114,59601,MT,202311,1308.98,-0.005,,Helena,"Helena, MT",Lewis and Clark County
-84114,59601,MT,202312,1310.37,0.0011,,Helena,"Helena, MT",Lewis and Clark County
-84114,59601,MT,202401,1287.58,-0.0174,,Helena,"Helena, MT",Lewis and Clark County
-84114,59601,MT,202402,1315.44,0.0216,,Helena,"Helena, MT",Lewis and Clark County
-84114,59601,MT,202403,1319.21,0.0029,,Helena,"Helena, MT",Lewis and Clark County
-84114,59601,MT,202404,1371.01,0.0393,0.1226,Helena,"Helena, MT",Lewis and Clark County
-84114,59601,MT,202405,1374.58,0.0026,0.0839,Helena,"Helena, MT",Lewis and Clark County
-84114,59601,MT,202406,1401.41,0.0195,0.0963,Helena,"Helena, MT",Lewis and Clark County
-84114,59601,MT,202407,1391.52,-0.0071,0.0667,Helena,"Helena, MT",Lewis and Clark County
-84114,59601,MT,202408,1402.14,0.0076,0.0898,Helena,"Helena, MT",Lewis and Clark County
-84114,59601,MT,202409,1387.61,-0.0104,0.0604,Helena,"Helena, MT",Lewis and Clark County
-84114,59601,MT,202410,1399.89,0.0088,0.0641,Helena,"Helena, MT",Lewis and Clark County
-84114,59601,MT,202411,1393.18,-0.0048,0.0643,Helena,"Helena, MT",Lewis and Clark County
-84114,59601,MT,202412,1391.02,-0.0015,0.0616,Helena,"Helena, MT",Lewis and Clark County
-84114,59601,MT,202501,1419.5,0.0205,0.1025,Helena,"Helena, MT",Lewis and Clark County
-84114,59601,MT,202502,1422.2,0.0019,0.0812,Helena,"Helena, MT",Lewis and Clark County
-84114,59601,MT,202503,1432.13,0.007,0.0856,Helena,"Helena, MT",Lewis and Clark County
-84114,59601,MT,202504,1415.21,-0.0118,0.0322,Helena,"Helena, MT",Lewis and Clark County
-84114,59601,MT,202505,1440.86,0.0181,0.0482,Helena,"Helena, MT",Lewis and Clark County
-84114,59601,MT,202506,1470.75,0.0207,0.0495,Helena,"Helena, MT",Lewis and Clark County
-84114,59601,MT,202507,1489.97,0.0131,0.0708,Helena,"Helena, MT",Lewis and Clark County
-84114,59601,MT,202508,1492.05,0.0014,0.0641,Helena,"Helena, MT",Lewis and Clark County
-84114,59601,MT,202509,1467.18,-0.0167,0.0573,Helena,"Helena, MT",Lewis and Clark County
-84114,59601,MT,202510,1463.07,-0.0028,0.0451,Helena,"Helena, MT",Lewis and Clark County
-84114,59601,MT,202511,1435.22,-0.019,0.0302,Helena,"Helena, MT",Lewis and Clark County
-84114,59601,MT,202512,1445.74,0.0073,0.0393,Helena,"Helena, MT",Lewis and Clark County
-84114,59601,MT,202601,1430.08,-0.0108,0.0074,Helena,"Helena, MT",Lewis and Clark County
-84114,59601,MT,202602,1445.48,0.0108,0.0164,Helena,"Helena, MT",Lewis and Clark County
-84138,59701,MT,202304,1164.39,,,Butte,"Butte-Silver Bow, MT",Silver Bow County
-84138,59701,MT,202305,1154.36,-0.0086,,Butte,"Butte-Silver Bow, MT",Silver Bow County
-84138,59701,MT,202306,1182.76,0.0246,,Butte,"Butte-Silver Bow, MT",Silver Bow County
-84138,59701,MT,202307,1156.14,-0.0225,,Butte,"Butte-Silver Bow, MT",Silver Bow County
-84138,59701,MT,202308,1162.76,0.0057,,Butte,"Butte-Silver Bow, MT",Silver Bow County
-84138,59701,MT,202309,1143.34,-0.0167,,Butte,"Butte-Silver Bow, MT",Silver Bow County
-84138,59701,MT,202310,1158.29,0.0131,,Butte,"Butte-Silver Bow, MT",Silver Bow County
-84138,59701,MT,202311,1180.92,0.0195,,Butte,"Butte-Silver Bow, MT",Silver Bow County
-84138,59701,MT,202312,1198.75,0.0151,,Butte,"Butte-Silver Bow, MT",Silver Bow County
-84138,59701,MT,202401,1190.99,-0.0065,,Butte,"Butte-Silver Bow, MT",Silver Bow County
-84138,59701,MT,202402,1166.88,-0.0202,,Butte,"Butte-Silver Bow, MT",Silver Bow County
-84138,59701,MT,202403,1174.68,0.0067,,Butte,"Butte-Silver Bow, MT",Silver Bow County
-84138,59701,MT,202404,1211.7,0.0315,0.0406,Butte,"Butte-Silver Bow, MT",Silver Bow County
-84138,59701,MT,202405,1240.59,0.0238,0.0747,Butte,"Butte-Silver Bow, MT",Silver Bow County
-84138,59701,MT,202406,1248.79,0.0066,0.0558,Butte,"Butte-Silver Bow, MT",Silver Bow County
-84138,59701,MT,202407,1247.85,-0.0008,0.0793,Butte,"Butte-Silver Bow, MT",Silver Bow County
-84138,59701,MT,202408,1258.38,0.0084,0.0822,Butte,"Butte-Silver Bow, MT",Silver Bow County
-84138,59701,MT,202409,1283.4,0.0199,0.1225,Butte,"Butte-Silver Bow, MT",Silver Bow County
-84138,59701,MT,202410,1304.94,0.0168,0.1266,Butte,"Butte-Silver Bow, MT",Silver Bow County
-84138,59701,MT,202411,1285.09,-0.0152,0.0882,Butte,"Butte-Silver Bow, MT",Silver Bow County
-84138,59701,MT,202412,1255.61,-0.0229,0.0474,Butte,"Butte-Silver Bow, MT",Silver Bow County
-84138,59701,MT,202501,1201.44,-0.0431,0.0088,Butte,"Butte-Silver Bow, MT",Silver Bow County
-84138,59701,MT,202502,1199.87,-0.0013,0.0283,Butte,"Butte-Silver Bow, MT",Silver Bow County
-84138,59701,MT,202503,1210.3,0.0087,0.0303,Butte,"Butte-Silver Bow, MT",Silver Bow County
-84138,59701,MT,202504,1251.91,0.0344,0.0332,Butte,"Butte-Silver Bow, MT",Silver Bow County
-84138,59701,MT,202505,1283.53,0.0253,0.0346,Butte,"Butte-Silver Bow, MT",Silver Bow County
-84138,59701,MT,202506,1313.77,0.0236,0.052,Butte,"Butte-Silver Bow, MT",Silver Bow County
-84138,59701,MT,202507,1355.89,0.0321,0.0866,Butte,"Butte-Silver Bow, MT",Silver Bow County
-84138,59701,MT,202508,1356.59,0.0005,0.078,Butte,"Butte-Silver Bow, MT",Silver Bow County
-84138,59701,MT,202509,1345.3,-0.0083,0.0482,Butte,"Butte-Silver Bow, MT",Silver Bow County
-84138,59701,MT,202510,1307.82,-0.0279,0.0022,Butte,"Butte-Silver Bow, MT",Silver Bow County
-84138,59701,MT,202511,1342.93,0.0268,0.045,Butte,"Butte-Silver Bow, MT",Silver Bow County
-84138,59701,MT,202512,1351.2,0.0062,0.0761,Butte,"Butte-Silver Bow, MT",Silver Bow County
-84138,59701,MT,202601,1337.03,-0.0105,0.1129,Butte,"Butte-Silver Bow, MT",Silver Bow County
-84138,59701,MT,202602,1317.78,-0.0144,0.0983,Butte,"Butte-Silver Bow, MT",Silver Bow County
-84145,59714,MT,202401,2146.11,,,Belgrade,"Bozeman, MT",Gallatin County
-84145,59714,MT,202402,2137.24,-0.0041,,Belgrade,"Bozeman, MT",Gallatin County
-84145,59714,MT,202403,2127.97,-0.0043,,Belgrade,"Bozeman, MT",Gallatin County
-84145,59714,MT,202404,2127.38,-0.0003,,Belgrade,"Bozeman, MT",Gallatin County
-84145,59714,MT,202405,2149.83,0.0106,,Belgrade,"Bozeman, MT",Gallatin County
-84145,59714,MT,202406,2189.18,0.0183,,Belgrade,"Bozeman, MT",Gallatin County
-84145,59714,MT,202407,2199.71,0.0048,,Belgrade,"Bozeman, MT",Gallatin County
-84145,59714,MT,202408,2282.62,0.0377,,Belgrade,"Bozeman, MT",Gallatin County
-84145,59714,MT,202409,2288.07,0.0024,,Belgrade,"Bozeman, MT",Gallatin County
-84145,59714,MT,202410,2310.62,0.0099,,Belgrade,"Bozeman, MT",Gallatin County
-84145,59714,MT,202411,2241.63,-0.0299,,Belgrade,"Bozeman, MT",Gallatin County
-84145,59714,MT,202412,2219.79,-0.0097,,Belgrade,"Bozeman, MT",Gallatin County
-84145,59714,MT,202501,2211.23,-0.0039,0.0303,Belgrade,"Bozeman, MT",Gallatin County
-84145,59714,MT,202502,2194.27,-0.0077,0.0267,Belgrade,"Bozeman, MT",Gallatin County
-84145,59714,MT,202503,2191.19,-0.0014,0.0297,Belgrade,"Bozeman, MT",Gallatin County
-84145,59714,MT,202504,2213.84,0.0103,0.0406,Belgrade,"Bozeman, MT",Gallatin County
-84145,59714,MT,202505,2233.92,0.0091,0.0391,Belgrade,"Bozeman, MT",Gallatin County
-84145,59714,MT,202506,2286.88,0.0237,0.0446,Belgrade,"Bozeman, MT",Gallatin County
-84145,59714,MT,202507,2299.59,0.0056,0.0454,Belgrade,"Bozeman, MT",Gallatin County
-84145,59714,MT,202508,2226.06,-0.032,-0.0248,Belgrade,"Bozeman, MT",Gallatin County
-84145,59714,MT,202509,2171.62,-0.0245,-0.0509,Belgrade,"Bozeman, MT",Gallatin County
-84145,59714,MT,202510,2134.98,-0.0169,-0.076,Belgrade,"Bozeman, MT",Gallatin County
-84145,59714,MT,202511,2149.97,0.007,-0.0409,Belgrade,"Bozeman, MT",Gallatin County
-84145,59714,MT,202512,2139.31,-0.005,-0.0363,Belgrade,"Bozeman, MT",Gallatin County
-84145,59714,MT,202601,2138.2,-0.0005,-0.033,Belgrade,"Bozeman, MT",Gallatin County
-84145,59714,MT,202602,2205.56,0.0315,0.0051,Belgrade,"Bozeman, MT",Gallatin County
-84146,59715,MT,202103,1447.89,,,Bozeman,"Bozeman, MT",Gallatin County
-84146,59715,MT,202104,1462.0,0.0097,,Bozeman,"Bozeman, MT",Gallatin County
-84146,59715,MT,202105,1474.79,0.0087,,Bozeman,"Bozeman, MT",Gallatin County
-84146,59715,MT,202106,1506.97,0.0218,,Bozeman,"Bozeman, MT",Gallatin County
-84146,59715,MT,202107,1513.09,0.0041,,Bozeman,"Bozeman, MT",Gallatin County
-84146,59715,MT,202108,1524.14,0.0073,,Bozeman,"Bozeman, MT",Gallatin County
-84146,59715,MT,202109,1525.6,0.001,,Bozeman,"Bozeman, MT",Gallatin County
-84146,59715,MT,202110,1606.1,0.0528,,Bozeman,"Bozeman, MT",Gallatin County
-84146,59715,MT,202111,1611.72,0.0035,,Bozeman,"Bozeman, MT",Gallatin County
-84146,59715,MT,202112,1742.52,0.0812,,Bozeman,"Bozeman, MT",Gallatin County
-84146,59715,MT,202201,1732.26,-0.0059,,Bozeman,"Bozeman, MT",Gallatin County
-84146,59715,MT,202202,1775.67,0.0251,,Bozeman,"Bozeman, MT",Gallatin County
-84146,59715,MT,202203,1717.97,-0.0325,0.1865,Bozeman,"Bozeman, MT",Gallatin County
-84146,59715,MT,202204,1744.89,0.0157,0.1935,Bozeman,"Bozeman, MT",Gallatin County
-84146,59715,MT,202205,1745.87,0.0006,0.1838,Bozeman,"Bozeman, MT",Gallatin County
-84146,59715,MT,202206,1757.32,0.0066,0.1661,Bozeman,"Bozeman, MT",Gallatin County
-84146,59715,MT,202207,1778.92,0.0123,0.1757,Bozeman,"Bozeman, MT",Gallatin County
-84146,59715,MT,202208,1795.33,0.0092,0.1779,Bozeman,"Bozeman, MT",Gallatin County
-84146,59715,MT,202209,1778.1,-0.0096,0.1655,Bozeman,"Bozeman, MT",Gallatin County
-84146,59715,MT,202210,1777.16,-0.0005,0.1065,Bozeman,"Bozeman, MT",Gallatin County
-84146,59715,MT,202211,1727.4,-0.028,0.0718,Bozeman,"Bozeman, MT",Gallatin County
-84146,59715,MT,202212,1728.52,0.0006,-0.008,Bozeman,"Bozeman, MT",Gallatin County
-84146,59715,MT,202301,1747.81,0.0112,0.009,Bozeman,"Bozeman, MT",Gallatin County
-84146,59715,MT,202302,1852.56,0.0599,0.0433,Bozeman,"Bozeman, MT",Gallatin County
-84146,59715,MT,202303,1933.7,0.0438,0.1256,Bozeman,"Bozeman, MT",Gallatin County
-84146,59715,MT,202304,1938.46,0.0025,0.1109,Bozeman,"Bozeman, MT",Gallatin County
-84146,59715,MT,202305,1929.11,-0.0048,0.105,Bozeman,"Bozeman, MT",Gallatin County
-84146,59715,MT,202306,1903.13,-0.0135,0.083,Bozeman,"Bozeman, MT",Gallatin County
-84146,59715,MT,202307,1899.32,-0.002,0.0677,Bozeman,"Bozeman, MT",Gallatin County
-84146,59715,MT,202308,1873.31,-0.0137,0.0434,Bozeman,"Bozeman, MT",Gallatin County
-84146,59715,MT,202309,1841.48,-0.017,0.0356,Bozeman,"Bozeman, MT",Gallatin County
-84146,59715,MT,202310,1837.75,-0.002,0.0341,Bozeman,"Bozeman, MT",Gallatin County
-84146,59715,MT,202311,1795.01,-0.0233,0.0391,Bozeman,"Bozeman, MT",Gallatin County
-84146,59715,MT,202312,1822.42,0.0153,0.0543,Bozeman,"Bozeman, MT",Gallatin County
-84146,59715,MT,202401,1823.92,0.0008,0.0435,Bozeman,"Bozeman, MT",Gallatin County
-84146,59715,MT,202402,1876.76,0.029,0.0131,Bozeman,"Bozeman, MT",Gallatin County
-84146,59715,MT,202403,1922.1,0.0242,-0.006,Bozeman,"Bozeman, MT",Gallatin County
-84146,59715,MT,202404,1943.35,0.0111,0.0025,Bozeman,"Bozeman, MT",Gallatin County
-84146,59715,MT,202405,1957.49,0.0073,0.0147,Bozeman,"Bozeman, MT",Gallatin County
-84146,59715,MT,202406,1967.32,0.005,0.0337,Bozeman,"Bozeman, MT",Gallatin County
-84146,59715,MT,202407,1961.94,-0.0027,0.033,Bozeman,"Bozeman, MT",Gallatin County
-84146,59715,MT,202408,1961.05,-0.0005,0.0468,Bozeman,"Bozeman, MT",Gallatin County
-84146,59715,MT,202409,1939.51,-0.011,0.0532,Bozeman,"Bozeman, MT",Gallatin County
-84146,59715,MT,202410,1909.12,-0.0157,0.0388,Bozeman,"Bozeman, MT",Gallatin County
-84146,59715,MT,202411,1949.38,0.0211,0.086,Bozeman,"Bozeman, MT",Gallatin County
-84146,59715,MT,202412,1952.53,0.0016,0.0714,Bozeman,"Bozeman, MT",Gallatin County
-84146,59715,MT,202501,1997.01,0.0228,0.0949,Bozeman,"Bozeman, MT",Gallatin County
-84146,59715,MT,202502,1943.64,-0.0267,0.0356,Bozeman,"Bozeman, MT",Gallatin County
-84146,59715,MT,202503,1964.48,0.0107,0.022,Bozeman,"Bozeman, MT",Gallatin County
-84146,59715,MT,202504,1981.19,0.0085,0.0195,Bozeman,"Bozeman, MT",Gallatin County
-84146,59715,MT,202505,2015.76,0.0175,0.0298,Bozeman,"Bozeman, MT",Gallatin County
-84146,59715,MT,202506,2005.17,-0.0053,0.0192,Bozeman,"Bozeman, MT",Gallatin County
-84146,59715,MT,202507,1976.53,-0.0143,0.0074,Bozeman,"Bozeman, MT",Gallatin County
-84146,59715,MT,202508,1935.98,-0.0205,-0.0128,Bozeman,"Bozeman, MT",Gallatin County
-84146,59715,MT,202509,1874.41,-0.0318,-0.0336,Bozeman,"Bozeman, MT",Gallatin County
-84146,59715,MT,202510,1932.39,0.0309,0.0122,Bozeman,"Bozeman, MT",Gallatin County
-84146,59715,MT,202511,2023.31,0.047,0.0379,Bozeman,"Bozeman, MT",Gallatin County
-84146,59715,MT,202512,2066.61,0.0214,0.0584,Bozeman,"Bozeman, MT",Gallatin County
-84146,59715,MT,202601,2010.64,-0.0271,0.0068,Bozeman,"Bozeman, MT",Gallatin County
-84146,59715,MT,202602,1941.36,-0.0345,-0.0012,Bozeman,"Bozeman, MT",Gallatin County
-84149,59718,MT,202101,1743.68,,,Bozeman,"Bozeman, MT",Gallatin County
-84149,59718,MT,202102,1757.68,0.008,,Bozeman,"Bozeman, MT",Gallatin County
-84149,59718,MT,202103,1803.22,0.0259,,Bozeman,"Bozeman, MT",Gallatin County
-84149,59718,MT,202104,1827.37,0.0134,,Bozeman,"Bozeman, MT",Gallatin County
-84149,59718,MT,202105,1859.48,0.0176,,Bozeman,"Bozeman, MT",Gallatin County
-84149,59718,MT,202106,1880.68,0.0114,,Bozeman,"Bozeman, MT",Gallatin County
-84149,59718,MT,202107,1930.72,0.0266,,Bozeman,"Bozeman, MT",Gallatin County
-84149,59718,MT,202108,1971.33,0.021,,Bozeman,"Bozeman, MT",Gallatin County
-84149,59718,MT,202109,2004.37,0.0168,,Bozeman,"Bozeman, MT",Gallatin County
-84149,59718,MT,202110,2032.21,0.0139,,Bozeman,"Bozeman, MT",Gallatin County
-84149,59718,MT,202111,2017.69,-0.0071,,Bozeman,"Bozeman, MT",Gallatin County
-84149,59718,MT,202112,2022.45,0.0024,,Bozeman,"Bozeman, MT",Gallatin County
-84149,59718,MT,202201,2009.1,-0.0066,0.1522,Bozeman,"Bozeman, MT",Gallatin County
-84149,59718,MT,202202,2043.13,0.0169,0.1624,Bozeman,"Bozeman, MT",Gallatin County
-84149,59718,MT,202203,2091.75,0.0238,0.16,Bozeman,"Bozeman, MT",Gallatin County
-84149,59718,MT,202204,2138.64,0.0224,0.1703,Bozeman,"Bozeman, MT",Gallatin County
-84149,59718,MT,202205,2184.09,0.0213,0.1746,Bozeman,"Bozeman, MT",Gallatin County
-84149,59718,MT,202206,2226.54,0.0194,0.1839,Bozeman,"Bozeman, MT",Gallatin County
-84149,59718,MT,202207,2299.11,0.0326,0.1908,Bozeman,"Bozeman, MT",Gallatin County
-84149,59718,MT,202209,2332.58,0.0146,0.1833,Bozeman,"Bozeman, MT",Gallatin County
-84149,59718,MT,202210,2269.07,-0.0272,0.1321,Bozeman,"Bozeman, MT",Gallatin County
-84149,59718,MT,202211,2196.9,-0.0318,0.081,Bozeman,"Bozeman, MT",Gallatin County
-84149,59718,MT,202212,2128.75,-0.031,0.055,Bozeman,"Bozeman, MT",Gallatin County
-84149,59718,MT,202301,2119.49,-0.0043,0.048,Bozeman,"Bozeman, MT",Gallatin County
-84149,59718,MT,202302,2153.07,0.0158,0.0717,Bozeman,"Bozeman, MT",Gallatin County
-84149,59718,MT,202303,2217.61,0.03,0.0854,Bozeman,"Bozeman, MT",Gallatin County
-84149,59718,MT,202304,2248.1,0.0137,0.0747,Bozeman,"Bozeman, MT",Gallatin County
-84149,59718,MT,202305,2278.13,0.0134,0.0652,Bozeman,"Bozeman, MT",Gallatin County
-84149,59718,MT,202306,2296.68,0.0081,0.0516,Bozeman,"Bozeman, MT",Gallatin County
-84149,59718,MT,202307,2298.06,0.0006,0.0321,Bozeman,"Bozeman, MT",Gallatin County
-84149,59718,MT,202308,2291.05,-0.003,-0.0035,Bozeman,"Bozeman, MT",Gallatin County
-84149,59718,MT,202309,2262.22,-0.0126,-0.0302,Bozeman,"Bozeman, MT",Gallatin County
-84149,59718,MT,202310,2216.15,-0.0204,-0.0233,Bozeman,"Bozeman, MT",Gallatin County
-84149,59718,MT,202311,2181.45,-0.0157,-0.007,Bozeman,"Bozeman, MT",Gallatin County
-84149,59718,MT,202312,2154.24,-0.0125,0.012,Bozeman,"Bozeman, MT",Gallatin County
-84149,59718,MT,202401,2149.36,-0.0023,0.0141,Bozeman,"Bozeman, MT",Gallatin County
-84149,59718,MT,202402,2164.18,0.0069,0.0052,Bozeman,"Bozeman, MT",Gallatin County
-84149,59718,MT,202403,2217.99,0.0249,0.0002,Bozeman,"Bozeman, MT",Gallatin County
-84149,59718,MT,202404,2263.11,0.0203,0.0067,Bozeman,"Bozeman, MT",Gallatin County
-84149,59718,MT,202405,2285.27,0.0098,0.0031,Bozeman,"Bozeman, MT",Gallatin County
-84149,59718,MT,202406,2276.46,-0.0039,-0.0088,Bozeman,"Bozeman, MT",Gallatin County
-84149,59718,MT,202407,2288.42,0.0053,-0.0042,Bozeman,"Bozeman, MT",Gallatin County
-84149,59718,MT,202408,2293.52,0.0022,0.0011,Bozeman,"Bozeman, MT",Gallatin County
-84149,59718,MT,202409,2274.59,-0.0083,0.0055,Bozeman,"Bozeman, MT",Gallatin County
-84149,59718,MT,202410,2249.36,-0.0111,0.015,Bozeman,"Bozeman, MT",Gallatin County
-84149,59718,MT,202411,2196.94,-0.0233,0.0071,Bozeman,"Bozeman, MT",Gallatin County
-84149,59718,MT,202412,2180.95,-0.0073,0.0124,Bozeman,"Bozeman, MT",Gallatin County
-84149,59718,MT,202501,2181.4,0.0002,0.0149,Bozeman,"Bozeman, MT",Gallatin County
-84149,59718,MT,202502,2201.56,0.0092,0.0173,Bozeman,"Bozeman, MT",Gallatin County
-84149,59718,MT,202503,2199.08,-0.0011,-0.0085,Bozeman,"Bozeman, MT",Gallatin County
-84149,59718,MT,202504,2213.82,0.0067,-0.0218,Bozeman,"Bozeman, MT",Gallatin County
-84149,59718,MT,202505,2237.88,0.0109,-0.0207,Bozeman,"Bozeman, MT",Gallatin County
-84149,59718,MT,202506,2270.64,0.0146,-0.0026,Bozeman,"Bozeman, MT",Gallatin County
-84149,59718,MT,202507,2266.08,-0.002,-0.0098,Bozeman,"Bozeman, MT",Gallatin County
-84149,59718,MT,202508,2237.73,-0.0125,-0.0243,Bozeman,"Bozeman, MT",Gallatin County
-84149,59718,MT,202509,2202.68,-0.0157,-0.0316,Bozeman,"Bozeman, MT",Gallatin County
-84149,59718,MT,202510,2141.34,-0.0279,-0.048,Bozeman,"Bozeman, MT",Gallatin County
-84149,59718,MT,202511,2107.63,-0.0157,-0.0406,Bozeman,"Bozeman, MT",Gallatin County
-84149,59718,MT,202512,2098.51,-0.0043,-0.0378,Bozeman,"Bozeman, MT",Gallatin County
-84149,59718,MT,202601,2134.73,0.0173,-0.0214,Bozeman,"Bozeman, MT",Gallatin County
-84149,59718,MT,202602,2164.75,0.0141,-0.0167,Bozeman,"Bozeman, MT",Gallatin County
-84188,59801,MT,202102,955.71,,,Missoula,"Missoula, MT",Missoula County
-84188,59801,MT,202103,970.7,0.0157,,Missoula,"Missoula, MT",Missoula County
-84188,59801,MT,202104,1007.29,0.0377,,Missoula,"Missoula, MT",Missoula County
-84188,59801,MT,202105,1044.22,0.0367,,Missoula,"Missoula, MT",Missoula County
-84188,59801,MT,202106,1093.78,0.0475,,Missoula,"Missoula, MT",Missoula County
-84188,59801,MT,202107,1122.96,0.0267,,Missoula,"Missoula, MT",Missoula County
-84188,59801,MT,202108,1134.52,0.0103,,Missoula,"Missoula, MT",Missoula County
-84188,59801,MT,202109,1117.97,-0.0146,,Missoula,"Missoula, MT",Missoula County
-84188,59801,MT,202110,1096.51,-0.0192,,Missoula,"Missoula, MT",Missoula County
-84188,59801,MT,202111,1081.09,-0.0141,,Missoula,"Missoula, MT",Missoula County
-84188,59801,MT,202112,1091.26,0.0094,,Missoula,"Missoula, MT",Missoula County
-84188,59801,MT,202201,1114.93,0.0217,,Missoula,"Missoula, MT",Missoula County
-84188,59801,MT,202202,1118.25,0.003,0.1701,Missoula,"Missoula, MT",Missoula County
-84188,59801,MT,202203,1124.36,0.0055,0.1583,Missoula,"Missoula, MT",Missoula County
-84188,59801,MT,202204,1137.26,0.0115,0.129,Missoula,"Missoula, MT",Missoula County
-84188,59801,MT,202205,1174.68,0.0329,0.1249,Missoula,"Missoula, MT",Missoula County
-84188,59801,MT,202206,1201.2,0.0226,0.0982,Missoula,"Missoula, MT",Missoula County
-84188,59801,MT,202207,1192.72,-0.0071,0.0621,Missoula,"Missoula, MT",Missoula County
-84188,59801,MT,202208,1201.31,0.0072,0.0589,Missoula,"Missoula, MT",Missoula County
-84188,59801,MT,202209,1198.59,-0.0023,0.0721,Missoula,"Missoula, MT",Missoula County
-84188,59801,MT,202210,1212.66,0.0117,0.1059,Missoula,"Missoula, MT",Missoula County
-84188,59801,MT,202211,1196.25,-0.0135,0.1065,Missoula,"Missoula, MT",Missoula County
-84188,59801,MT,202212,1209.06,0.0107,0.1079,Missoula,"Missoula, MT",Missoula County
-84188,59801,MT,202301,1190.02,-0.0157,0.0673,Missoula,"Missoula, MT",Missoula County
-84188,59801,MT,202302,1195.38,0.0045,0.069,Missoula,"Missoula, MT",Missoula County
-84188,59801,MT,202303,1187.29,-0.0068,0.056,Missoula,"Missoula, MT",Missoula County
-84188,59801,MT,202304,1236.21,0.0412,0.087,Missoula,"Missoula, MT",Missoula County
-84188,59801,MT,202305,1241.47,0.0043,0.0569,Missoula,"Missoula, MT",Missoula County
-84188,59801,MT,202306,1258.5,0.0137,0.0477,Missoula,"Missoula, MT",Missoula County
-84188,59801,MT,202307,1250.13,-0.0067,0.0481,Missoula,"Missoula, MT",Missoula County
-84188,59801,MT,202308,1254.77,0.0037,0.0445,Missoula,"Missoula, MT",Missoula County
-84188,59801,MT,202309,1237.01,-0.0142,0.0321,Missoula,"Missoula, MT",Missoula County
-84188,59801,MT,202310,1233.78,-0.0026,0.0174,Missoula,"Missoula, MT",Missoula County
-84188,59801,MT,202311,1221.1,-0.0103,0.0208,Missoula,"Missoula, MT",Missoula County
-84188,59801,MT,202312,1228.1,0.0057,0.0158,Missoula,"Missoula, MT",Missoula County
-84188,59801,MT,202401,1222.29,-0.0047,0.0271,Missoula,"Missoula, MT",Missoula County
-84188,59801,MT,202402,1232.63,0.0085,0.0312,Missoula,"Missoula, MT",Missoula County
-84188,59801,MT,202403,1242.34,0.0079,0.0464,Missoula,"Missoula, MT",Missoula County
-84188,59801,MT,202404,1260.08,0.0143,0.0193,Missoula,"Missoula, MT",Missoula County
-84188,59801,MT,202405,1272.66,0.01,0.0251,Missoula,"Missoula, MT",Missoula County
-84188,59801,MT,202406,1299.9,0.0214,0.0329,Missoula,"Missoula, MT",Missoula County
-84188,59801,MT,202407,1304.59,0.0036,0.0436,Missoula,"Missoula, MT",Missoula County
-84188,59801,MT,202408,1317.02,0.0095,0.0496,Missoula,"Missoula, MT",Missoula County
-84188,59801,MT,202409,1305.64,-0.0086,0.0555,Missoula,"Missoula, MT",Missoula County
-84188,59801,MT,202410,1296.53,-0.007,0.0509,Missoula,"Missoula, MT",Missoula County
-84188,59801,MT,202411,1267.17,-0.0227,0.0377,Missoula,"Missoula, MT",Missoula County
-84188,59801,MT,202412,1259.26,-0.0062,0.0254,Missoula,"Missoula, MT",Missoula County
-84188,59801,MT,202501,1258.2,-0.0008,0.0294,Missoula,"Missoula, MT",Missoula County
-84188,59801,MT,202502,1299.01,0.0324,0.0539,Missoula,"Missoula, MT",Missoula County
-84188,59801,MT,202503,1309.39,0.008,0.054,Missoula,"Missoula, MT",Missoula County
-84188,59801,MT,202504,1329.61,0.0154,0.0552,Missoula,"Missoula, MT",Missoula County
-84188,59801,MT,202505,1330.74,0.0009,0.0456,Missoula,"Missoula, MT",Missoula County
-84188,59801,MT,202506,1344.0,0.01,0.0339,Missoula,"Missoula, MT",Missoula County
-84188,59801,MT,202507,1363.3,0.0144,0.045,Missoula,"Missoula, MT",Missoula County
-84188,59801,MT,202508,1373.92,0.0078,0.0432,Missoula,"Missoula, MT",Missoula County
-84188,59801,MT,202509,1365.08,-0.0064,0.0455,Missoula,"Missoula, MT",Missoula County
-84188,59801,MT,202510,1338.01,-0.0198,0.032,Missoula,"Missoula, MT",Missoula County
-84188,59801,MT,202511,1316.71,-0.0159,0.0391,Missoula,"Missoula, MT",Missoula County
-84188,59801,MT,202512,1325.39,0.0066,0.0525,Missoula,"Missoula, MT",Missoula County
-84188,59801,MT,202601,1318.73,-0.005,0.0481,Missoula,"Missoula, MT",Missoula County
-84188,59801,MT,202602,1330.17,0.0087,0.024,Missoula,"Missoula, MT",Missoula County
-84189,59802,MT,202302,1264.66,,,Missoula,"Missoula, MT",Missoula County
-84189,59802,MT,202303,1318.72,0.0427,,Missoula,"Missoula, MT",Missoula County
-84189,59802,MT,202304,1257.18,-0.0467,,Missoula,"Missoula, MT",Missoula County
-84189,59802,MT,202305,1337.76,0.0641,,Missoula,"Missoula, MT",Missoula County
-84189,59802,MT,202306,1360.13,0.0167,,Missoula,"Missoula, MT",Missoula County
-84189,59802,MT,202307,1357.98,-0.0016,,Missoula,"Missoula, MT",Missoula County
-84189,59802,MT,202308,1326.6,-0.0231,,Missoula,"Missoula, MT",Missoula County
-84189,59802,MT,202309,1307.51,-0.0144,,Missoula,"Missoula, MT",Missoula County
-84189,59802,MT,202310,1299.82,-0.0059,,Missoula,"Missoula, MT",Missoula County
-84189,59802,MT,202311,1291.15,-0.0067,,Missoula,"Missoula, MT",Missoula County
-84189,59802,MT,202312,1280.2,-0.0085,,Missoula,"Missoula, MT",Missoula County
-84189,59802,MT,202401,1272.12,-0.0063,,Missoula,"Missoula, MT",Missoula County
-84189,59802,MT,202402,1288.59,0.0129,0.0189,Missoula,"Missoula, MT",Missoula County
-84189,59802,MT,202403,1306.71,0.0141,-0.0091,Missoula,"Missoula, MT",Missoula County
-84189,59802,MT,202404,1328.26,0.0165,0.0565,Missoula,"Missoula, MT",Missoula County
-84189,59802,MT,202405,1332.41,0.0031,-0.004,Missoula,"Missoula, MT",Missoula County
-84189,59802,MT,202406,1343.64,0.0084,-0.0121,Missoula,"Missoula, MT",Missoula County
-84189,59802,MT,202407,1357.93,0.0106,-0.0,Missoula,"Missoula, MT",Missoula County
-84189,59802,MT,202408,1367.17,0.0068,0.0306,Missoula,"Missoula, MT",Missoula County
-84189,59802,MT,202409,1353.69,-0.0099,0.0353,Missoula,"Missoula, MT",Missoula County
-84189,59802,MT,202410,1331.85,-0.0161,0.0246,Missoula,"Missoula, MT",Missoula County
-84189,59802,MT,202411,1316.76,-0.0113,0.0198,Missoula,"Missoula, MT",Missoula County
-84189,59802,MT,202412,1319.64,0.0022,0.0308,Missoula,"Missoula, MT",Missoula County
-84189,59802,MT,202501,1326.03,0.0048,0.0424,Missoula,"Missoula, MT",Missoula County
-84189,59802,MT,202502,1320.86,-0.0039,0.025,Missoula,"Missoula, MT",Missoula County
-84189,59802,MT,202503,1327.93,0.0054,0.0162,Missoula,"Missoula, MT",Missoula County
-84189,59802,MT,202504,1359.31,0.0236,0.0234,Missoula,"Missoula, MT",Missoula County
-84189,59802,MT,202505,1390.04,0.0226,0.0433,Missoula,"Missoula, MT",Missoula County
-84189,59802,MT,202506,1405.35,0.011,0.0459,Missoula,"Missoula, MT",Missoula County
-84189,59802,MT,202507,1396.73,-0.0061,0.0286,Missoula,"Missoula, MT",Missoula County
-84189,59802,MT,202508,1414.12,0.0124,0.0343,Missoula,"Missoula, MT",Missoula County
-84189,59802,MT,202509,1411.65,-0.0017,0.0428,Missoula,"Missoula, MT",Missoula County
-84189,59802,MT,202510,1411.88,0.0002,0.0601,Missoula,"Missoula, MT",Missoula County
-84189,59802,MT,202511,1388.8,-0.0163,0.0547,Missoula,"Missoula, MT",Missoula County
-84189,59802,MT,202512,1396.86,0.0058,0.0585,Missoula,"Missoula, MT",Missoula County
-84189,59802,MT,202601,1392.61,-0.003,0.0502,Missoula,"Missoula, MT",Missoula County
-84189,59802,MT,202602,1403.75,0.008,0.0628,Missoula,"Missoula, MT",Missoula County
-84190,59803,MT,202510,2111.34,,,Missoula,"Missoula, MT",Missoula County
-84190,59803,MT,202511,2163.47,0.0247,,Missoula,"Missoula, MT",Missoula County
-84190,59803,MT,202512,2081.52,-0.0379,,Missoula,"Missoula, MT",Missoula County
-84190,59803,MT,202601,2100.94,0.0093,,Missoula,"Missoula, MT",Missoula County
-84190,59803,MT,202602,2064.33,-0.0174,,Missoula,"Missoula, MT",Missoula County
-84194,59808,MT,202403,1466.4,,,Missoula,"Missoula, MT",Missoula County
-84194,59808,MT,202404,1483.63,0.0118,,Missoula,"Missoula, MT",Missoula County
-84194,59808,MT,202405,1510.46,0.0181,,Missoula,"Missoula, MT",Missoula County
-84194,59808,MT,202406,1502.16,-0.0055,,Missoula,"Missoula, MT",Missoula County
-84194,59808,MT,202407,1519.41,0.0115,,Missoula,"Missoula, MT",Missoula County
-84194,59808,MT,202408,1528.41,0.0059,,Missoula,"Missoula, MT",Missoula County
-84194,59808,MT,202409,1525.92,-0.0016,,Missoula,"Missoula, MT",Missoula County
-84194,59808,MT,202410,1513.62,-0.0081,,Missoula,"Missoula, MT",Missoula County
-84194,59808,MT,202411,1489.09,-0.0162,,Missoula,"Missoula, MT",Missoula County
-84194,59808,MT,202412,1481.44,-0.0051,,Missoula,"Missoula, MT",Missoula County
-84194,59808,MT,202501,1483.34,0.0013,,Missoula,"Missoula, MT",Missoula County
-84194,59808,MT,202502,1513.34,0.0202,,Missoula,"Missoula, MT",Missoula County
-84194,59808,MT,202503,1532.33,0.0126,0.045,Missoula,"Missoula, MT",Missoula County
-84194,59808,MT,202504,1550.55,0.0119,0.0451,Missoula,"Missoula, MT",Missoula County
-84194,59808,MT,202505,1544.6,-0.0038,0.0226,Missoula,"Missoula, MT",Missoula County
-84194,59808,MT,202506,1548.77,0.0027,0.031,Missoula,"Missoula, MT",Missoula County
-84194,59808,MT,202507,1537.75,-0.0071,0.0121,Missoula,"Missoula, MT",Missoula County
-84194,59808,MT,202508,1517.83,-0.013,-0.0069,Missoula,"Missoula, MT",Missoula County
-84194,59808,MT,202509,1519.31,0.001,-0.0043,Missoula,"Missoula, MT",Missoula County
-84194,59808,MT,202510,1508.89,-0.0069,-0.0031,Missoula,"Missoula, MT",Missoula County
-84194,59808,MT,202511,1522.87,0.0093,0.0227,Missoula,"Missoula, MT",Missoula County
-84194,59808,MT,202512,1513.72,-0.006,0.0218,Missoula,"Missoula, MT",Missoula County
-84194,59808,MT,202601,1533.93,0.0133,0.0341,Missoula,"Missoula, MT",Missoula County
-84194,59808,MT,202602,1550.33,0.0107,0.0244,Missoula,"Missoula, MT",Missoula County
-84241,59901,MT,202302,1956.43,,,Kalispell,"Kalispell, MT",Flathead County
-84241,59901,MT,202303,1986.33,0.0153,,Kalispell,"Kalispell, MT",Flathead County
-84241,59901,MT,202304,2053.01,0.0336,,Kalispell,"Kalispell, MT",Flathead County
-84241,59901,MT,202305,2086.67,0.0164,,Kalispell,"Kalispell, MT",Flathead County
-84241,59901,MT,202306,2080.71,-0.0029,,Kalispell,"Kalispell, MT",Flathead County
-84241,59901,MT,202307,2069.24,-0.0055,,Kalispell,"Kalispell, MT",Flathead County
-84241,59901,MT,202308,2063.34,-0.0029,,Kalispell,"Kalispell, MT",Flathead County
-84241,59901,MT,202309,2050.22,-0.0064,,Kalispell,"Kalispell, MT",Flathead County
-84241,59901,MT,202310,2002.16,-0.0234,,Kalispell,"Kalispell, MT",Flathead County
-84241,59901,MT,202311,1975.72,-0.0132,,Kalispell,"Kalispell, MT",Flathead County
-84241,59901,MT,202312,1977.4,0.0009,,Kalispell,"Kalispell, MT",Flathead County
-84241,59901,MT,202401,2002.26,0.0126,,Kalispell,"Kalispell, MT",Flathead County
-84241,59901,MT,202402,2025.06,0.0114,0.0351,Kalispell,"Kalispell, MT",Flathead County
-84241,59901,MT,202403,2036.5,0.0056,0.0253,Kalispell,"Kalispell, MT",Flathead County
-84241,59901,MT,202404,2056.96,0.01,0.0019,Kalispell,"Kalispell, MT",Flathead County
-84241,59901,MT,202405,2106.08,0.0239,0.0093,Kalispell,"Kalispell, MT",Flathead County
-84241,59901,MT,202406,2125.24,0.0091,0.0214,Kalispell,"Kalispell, MT",Flathead County
-84241,59901,MT,202407,2151.49,0.0123,0.0397,Kalispell,"Kalispell, MT",Flathead County
-84241,59901,MT,202408,2118.82,-0.0152,0.0269,Kalispell,"Kalispell, MT",Flathead County
-84241,59901,MT,202409,2089.95,-0.0136,0.0194,Kalispell,"Kalispell, MT",Flathead County
-84241,59901,MT,202410,2059.97,-0.0143,0.0289,Kalispell,"Kalispell, MT",Flathead County
-84241,59901,MT,202411,2053.29,-0.0032,0.0393,Kalispell,"Kalispell, MT",Flathead County
-84241,59901,MT,202412,2043.04,-0.005,0.0332,Kalispell,"Kalispell, MT",Flathead County
-84241,59901,MT,202501,2032.11,-0.0054,0.0149,Kalispell,"Kalispell, MT",Flathead County
-84241,59901,MT,202502,2038.24,0.003,0.0065,Kalispell,"Kalispell, MT",Flathead County
-84241,59901,MT,202503,2062.37,0.0118,0.0127,Kalispell,"Kalispell, MT",Flathead County
-84241,59901,MT,202504,2096.7,0.0166,0.0193,Kalispell,"Kalispell, MT",Flathead County
-84241,59901,MT,202505,2109.42,0.0061,0.0016,Kalispell,"Kalispell, MT",Flathead County
-84241,59901,MT,202506,2110.89,0.0007,-0.0068,Kalispell,"Kalispell, MT",Flathead County
-84241,59901,MT,202507,2113.7,0.0013,-0.0176,Kalispell,"Kalispell, MT",Flathead County
-84241,59901,MT,202508,2116.77,0.0015,-0.001,Kalispell,"Kalispell, MT",Flathead County
-84241,59901,MT,202509,2137.34,0.0097,0.0227,Kalispell,"Kalispell, MT",Flathead County
-84241,59901,MT,202510,2092.95,-0.0208,0.016,Kalispell,"Kalispell, MT",Flathead County
-84241,59901,MT,202511,2082.81,-0.0048,0.0144,Kalispell,"Kalispell, MT",Flathead County
-84241,59901,MT,202512,2046.42,-0.0175,0.0017,Kalispell,"Kalispell, MT",Flathead County
-84241,59901,MT,202601,2074.03,0.0135,0.0206,Kalispell,"Kalispell, MT",Flathead County
-84241,59901,MT,202602,2085.82,0.0057,0.0233,Kalispell,"Kalispell, MT",Flathead County
-84270,59937,MT,202404,2551.47,,,Whitefish,"Kalispell, MT",Flathead County
-84270,59937,MT,202405,2604.43,0.0208,,Whitefish,"Kalispell, MT",Flathead County
-84270,59937,MT,202406,2641.1,0.0141,,Whitefish,"Kalispell, MT",Flathead County
-84270,59937,MT,202407,2639.16,-0.0007,,Whitefish,"Kalispell, MT",Flathead County
-84270,59937,MT,202408,2582.31,-0.0215,,Whitefish,"Kalispell, MT",Flathead County
-84270,59937,MT,202409,2529.69,-0.0204,,Whitefish,"Kalispell, MT",Flathead County
-84270,59937,MT,202410,2521.16,-0.0034,,Whitefish,"Kalispell, MT",Flathead County
-84270,59937,MT,202411,2470.78,-0.02,,Whitefish,"Kalispell, MT",Flathead County
-84270,59937,MT,202412,2466.46,-0.0018,,Whitefish,"Kalispell, MT",Flathead County
-84270,59937,MT,202501,2382.08,-0.0342,,Whitefish,"Kalispell, MT",Flathead County
-84270,59937,MT,202502,2477.58,0.0401,,Whitefish,"Kalispell, MT",Flathead County
-84270,59937,MT,202503,2548.82,0.0288,,Whitefish,"Kalispell, MT",Flathead County
-84270,59937,MT,202504,2677.12,0.0503,0.0492,Whitefish,"Kalispell, MT",Flathead County
-84270,59937,MT,202505,2713.38,0.0135,0.0418,Whitefish,"Kalispell, MT",Flathead County
-84270,59937,MT,202506,2753.34,0.0147,0.0425,Whitefish,"Kalispell, MT",Flathead County
-84270,59937,MT,202507,2815.86,0.0227,0.067,Whitefish,"Kalispell, MT",Flathead County
-84270,59937,MT,202508,2742.07,-0.0262,0.0619,Whitefish,"Kalispell, MT",Flathead County
-84270,59937,MT,202509,2685.19,-0.0207,0.0615,Whitefish,"Kalispell, MT",Flathead County
-84270,59937,MT,202510,2596.43,-0.0331,0.0299,Whitefish,"Kalispell, MT",Flathead County
-84270,59937,MT,202511,2630.55,0.0131,0.0647,Whitefish,"Kalispell, MT",Flathead County
-84270,59937,MT,202601,2631.99,0.0005,0.0671,Whitefish,"Kalispell, MT",Flathead County
-84270,59937,MT,202602,2639.17,0.0027,0.1079,Whitefish,"Kalispell, MT",Flathead County
+83902,59044,MT,202603,1143.75,,,Laurel,"Billings, MT",Yellowstone County
+83904,59047,MT,202502,1500.56,,,Livingston,,Park County
+83904,59047,MT,202503,1525.12,0.0164,,Livingston,,Park County
+83904,59047,MT,202504,1540.79,0.0103,,Livingston,,Park County
+83904,59047,MT,202505,1600.59,0.0388,,Livingston,,Park County
+83904,59047,MT,202506,1591.85,-0.0055,,Livingston,,Park County
+83904,59047,MT,202507,1587.52,-0.0027,,Livingston,,Park County
+83904,59047,MT,202508,1584.6,-0.0018,,Livingston,,Park County
+83904,59047,MT,202509,1643.43,0.0371,,Livingston,,Park County
+83904,59047,MT,202510,1674.23,0.0187,,Livingston,,Park County
+83904,59047,MT,202511,1691.74,0.0105,,Livingston,,Park County
+83904,59047,MT,202512,1637.89,-0.0318,,Livingston,,Park County
+83904,59047,MT,202601,1631.02,-0.0042,,Livingston,,Park County
+83904,59047,MT,202602,1603.8,-0.0167,0.0688,Livingston,,Park County
+83904,59047,MT,202603,1600.0,-0.0024,0.0491,Livingston,,Park County
+83941,59101,MT,202303,1117.86,,,Billings,"Billings, MT",Yellowstone County
+83941,59101,MT,202304,1077.87,-0.0358,,Billings,"Billings, MT",Yellowstone County
+83941,59101,MT,202305,1079.27,0.0013,,Billings,"Billings, MT",Yellowstone County
+83941,59101,MT,202306,1079.26,-0.0,,Billings,"Billings, MT",Yellowstone County
+83941,59101,MT,202307,1088.43,0.0085,,Billings,"Billings, MT",Yellowstone County
+83941,59101,MT,202308,1099.27,0.01,,Billings,"Billings, MT",Yellowstone County
+83941,59101,MT,202309,1102.87,0.0033,,Billings,"Billings, MT",Yellowstone County
+83941,59101,MT,202310,1103.8,0.0008,,Billings,"Billings, MT",Yellowstone County
+83941,59101,MT,202311,1103.4,-0.0004,,Billings,"Billings, MT",Yellowstone County
+83941,59101,MT,202312,1115.79,0.0112,,Billings,"Billings, MT",Yellowstone County
+83941,59101,MT,202401,1128.49,0.0114,,Billings,"Billings, MT",Yellowstone County
+83941,59101,MT,202402,1137.96,0.0084,,Billings,"Billings, MT",Yellowstone County
+83941,59101,MT,202403,1135.18,-0.0024,0.0155,Billings,"Billings, MT",Yellowstone County
+83941,59101,MT,202404,1139.38,0.0037,0.0571,Billings,"Billings, MT",Yellowstone County
+83941,59101,MT,202405,1133.02,-0.0056,0.0498,Billings,"Billings, MT",Yellowstone County
+83941,59101,MT,202406,1138.19,0.0046,0.0546,Billings,"Billings, MT",Yellowstone County
+83941,59101,MT,202407,1139.16,0.0008,0.0466,Billings,"Billings, MT",Yellowstone County
+83941,59101,MT,202408,1170.65,0.0276,0.0649,Billings,"Billings, MT",Yellowstone County
+83941,59101,MT,202409,1176.13,0.0047,0.0664,Billings,"Billings, MT",Yellowstone County
+83941,59101,MT,202410,1192.76,0.0141,0.0806,Billings,"Billings, MT",Yellowstone County
+83941,59101,MT,202411,1171.56,-0.0178,0.0618,Billings,"Billings, MT",Yellowstone County
+83941,59101,MT,202412,1174.84,0.0028,0.0529,Billings,"Billings, MT",Yellowstone County
+83941,59101,MT,202501,1171.77,-0.0026,0.0383,Billings,"Billings, MT",Yellowstone County
+83941,59101,MT,202502,1168.95,-0.0024,0.0272,Billings,"Billings, MT",Yellowstone County
+83941,59101,MT,202503,1173.89,0.0042,0.0341,Billings,"Billings, MT",Yellowstone County
+83941,59101,MT,202504,1182.76,0.0076,0.0381,Billings,"Billings, MT",Yellowstone County
+83941,59101,MT,202505,1199.75,0.0144,0.0589,Billings,"Billings, MT",Yellowstone County
+83941,59101,MT,202506,1223.68,0.0199,0.0751,Billings,"Billings, MT",Yellowstone County
+83941,59101,MT,202507,1221.55,-0.0017,0.0723,Billings,"Billings, MT",Yellowstone County
+83941,59101,MT,202508,1219.25,-0.0019,0.0415,Billings,"Billings, MT",Yellowstone County
+83941,59101,MT,202509,1212.11,-0.0059,0.0306,Billings,"Billings, MT",Yellowstone County
+83941,59101,MT,202510,1221.6,0.0078,0.0242,Billings,"Billings, MT",Yellowstone County
+83941,59101,MT,202511,1224.18,0.0021,0.0449,Billings,"Billings, MT",Yellowstone County
+83941,59101,MT,202512,1217.42,-0.0055,0.0362,Billings,"Billings, MT",Yellowstone County
+83941,59101,MT,202601,1218.85,0.0012,0.0402,Billings,"Billings, MT",Yellowstone County
+83941,59101,MT,202602,1223.79,0.0041,0.0469,Billings,"Billings, MT",Yellowstone County
+83941,59101,MT,202603,1220.32,-0.0028,0.0396,Billings,"Billings, MT",Yellowstone County
+83942,59102,MT,202105,1092.46,,,Billings,"Billings, MT",Yellowstone County
+83942,59102,MT,202106,1126.76,0.0314,,Billings,"Billings, MT",Yellowstone County
+83942,59102,MT,202107,1144.48,0.0157,,Billings,"Billings, MT",Yellowstone County
+83942,59102,MT,202108,1144.35,-0.0001,,Billings,"Billings, MT",Yellowstone County
+83942,59102,MT,202109,1142.43,-0.0017,,Billings,"Billings, MT",Yellowstone County
+83942,59102,MT,202110,1166.73,0.0213,,Billings,"Billings, MT",Yellowstone County
+83942,59102,MT,202111,1174.28,0.0065,,Billings,"Billings, MT",Yellowstone County
+83942,59102,MT,202112,1206.45,0.0274,,Billings,"Billings, MT",Yellowstone County
+83942,59102,MT,202201,1207.49,0.0009,,Billings,"Billings, MT",Yellowstone County
+83942,59102,MT,202202,1220.3,0.0106,,Billings,"Billings, MT",Yellowstone County
+83942,59102,MT,202203,1209.96,-0.0085,,Billings,"Billings, MT",Yellowstone County
+83942,59102,MT,202204,1225.27,0.0127,,Billings,"Billings, MT",Yellowstone County
+83942,59102,MT,202205,1298.05,0.0594,0.1882,Billings,"Billings, MT",Yellowstone County
+83942,59102,MT,202206,1348.46,0.0388,0.1968,Billings,"Billings, MT",Yellowstone County
+83942,59102,MT,202207,1377.31,0.0214,0.2034,Billings,"Billings, MT",Yellowstone County
+83942,59102,MT,202208,1359.46,-0.013,0.188,Billings,"Billings, MT",Yellowstone County
+83942,59102,MT,202209,1339.3,-0.0148,0.1723,Billings,"Billings, MT",Yellowstone County
+83942,59102,MT,202210,1332.81,-0.0048,0.1423,Billings,"Billings, MT",Yellowstone County
+83942,59102,MT,202211,1304.8,-0.021,0.1112,Billings,"Billings, MT",Yellowstone County
+83942,59102,MT,202212,1308.33,0.0027,0.0844,Billings,"Billings, MT",Yellowstone County
+83942,59102,MT,202301,1301.07,-0.0055,0.0775,Billings,"Billings, MT",Yellowstone County
+83942,59102,MT,202302,1310.92,0.0076,0.0743,Billings,"Billings, MT",Yellowstone County
+83942,59102,MT,202303,1315.92,0.0038,0.0876,Billings,"Billings, MT",Yellowstone County
+83942,59102,MT,202304,1336.05,0.0153,0.0904,Billings,"Billings, MT",Yellowstone County
+83942,59102,MT,202305,1365.27,0.0219,0.0518,Billings,"Billings, MT",Yellowstone County
+83942,59102,MT,202306,1378.89,0.01,0.0226,Billings,"Billings, MT",Yellowstone County
+83942,59102,MT,202307,1383.46,0.0033,0.0045,Billings,"Billings, MT",Yellowstone County
+83942,59102,MT,202308,1372.19,-0.0081,0.0094,Billings,"Billings, MT",Yellowstone County
+83942,59102,MT,202309,1362.05,-0.0074,0.017,Billings,"Billings, MT",Yellowstone County
+83942,59102,MT,202310,1350.95,-0.0082,0.0136,Billings,"Billings, MT",Yellowstone County
+83942,59102,MT,202311,1347.44,-0.0026,0.0327,Billings,"Billings, MT",Yellowstone County
+83942,59102,MT,202312,1349.63,0.0016,0.0316,Billings,"Billings, MT",Yellowstone County
+83942,59102,MT,202401,1338.97,-0.0079,0.0291,Billings,"Billings, MT",Yellowstone County
+83942,59102,MT,202402,1334.29,-0.0035,0.0178,Billings,"Billings, MT",Yellowstone County
+83942,59102,MT,202403,1345.1,0.0081,0.0222,Billings,"Billings, MT",Yellowstone County
+83942,59102,MT,202404,1368.59,0.0175,0.0244,Billings,"Billings, MT",Yellowstone County
+83942,59102,MT,202405,1386.7,0.0132,0.0157,Billings,"Billings, MT",Yellowstone County
+83942,59102,MT,202406,1393.72,0.0051,0.0108,Billings,"Billings, MT",Yellowstone County
+83942,59102,MT,202407,1402.58,0.0064,0.0138,Billings,"Billings, MT",Yellowstone County
+83942,59102,MT,202408,1402.13,-0.0003,0.0218,Billings,"Billings, MT",Yellowstone County
+83942,59102,MT,202409,1403.88,0.0012,0.0307,Billings,"Billings, MT",Yellowstone County
+83942,59102,MT,202410,1393.5,-0.0074,0.0315,Billings,"Billings, MT",Yellowstone County
+83942,59102,MT,202411,1393.0,-0.0004,0.0338,Billings,"Billings, MT",Yellowstone County
+83942,59102,MT,202412,1381.33,-0.0084,0.0235,Billings,"Billings, MT",Yellowstone County
+83942,59102,MT,202501,1383.53,0.0016,0.0333,Billings,"Billings, MT",Yellowstone County
+83942,59102,MT,202502,1377.71,-0.0042,0.0325,Billings,"Billings, MT",Yellowstone County
+83942,59102,MT,202503,1392.11,0.0104,0.0349,Billings,"Billings, MT",Yellowstone County
+83942,59102,MT,202504,1409.02,0.0121,0.0295,Billings,"Billings, MT",Yellowstone County
+83942,59102,MT,202505,1423.86,0.0105,0.0268,Billings,"Billings, MT",Yellowstone County
+83942,59102,MT,202506,1425.2,0.0009,0.0226,Billings,"Billings, MT",Yellowstone County
+83942,59102,MT,202507,1439.62,0.0101,0.0264,Billings,"Billings, MT",Yellowstone County
+83942,59102,MT,202508,1456.95,0.012,0.0391,Billings,"Billings, MT",Yellowstone County
+83942,59102,MT,202509,1472.42,0.0106,0.0488,Billings,"Billings, MT",Yellowstone County
+83942,59102,MT,202510,1454.95,-0.0119,0.0441,Billings,"Billings, MT",Yellowstone County
+83942,59102,MT,202511,1445.73,-0.0063,0.0379,Billings,"Billings, MT",Yellowstone County
+83942,59102,MT,202512,1427.81,-0.0124,0.0336,Billings,"Billings, MT",Yellowstone County
+83942,59102,MT,202601,1431.31,0.0025,0.0345,Billings,"Billings, MT",Yellowstone County
+83942,59102,MT,202602,1444.38,0.0091,0.0484,Billings,"Billings, MT",Yellowstone County
+83942,59102,MT,202603,1462.12,0.0123,0.0503,Billings,"Billings, MT",Yellowstone County
+83945,59105,MT,202302,1083.69,,,Billings,"Billings, MT",Yellowstone County
+83945,59105,MT,202303,1087.37,0.0034,,Billings,"Billings, MT",Yellowstone County
+83945,59105,MT,202304,1094.59,0.0066,,Billings,"Billings, MT",Yellowstone County
+83945,59105,MT,202305,1108.26,0.0125,,Billings,"Billings, MT",Yellowstone County
+83945,59105,MT,202306,1111.34,0.0028,,Billings,"Billings, MT",Yellowstone County
+83945,59105,MT,202307,1120.69,0.0084,,Billings,"Billings, MT",Yellowstone County
+83945,59105,MT,202308,1140.82,0.018,,Billings,"Billings, MT",Yellowstone County
+83945,59105,MT,202309,1148.85,0.007,,Billings,"Billings, MT",Yellowstone County
+83945,59105,MT,202310,1158.15,0.0081,,Billings,"Billings, MT",Yellowstone County
+83945,59105,MT,202311,1139.79,-0.0159,,Billings,"Billings, MT",Yellowstone County
+83945,59105,MT,202312,1150.15,0.0091,,Billings,"Billings, MT",Yellowstone County
+83945,59105,MT,202401,1165.61,0.0134,,Billings,"Billings, MT",Yellowstone County
+83945,59105,MT,202402,1167.86,0.0019,0.0777,Billings,"Billings, MT",Yellowstone County
+83945,59105,MT,202403,1147.07,-0.0178,0.0549,Billings,"Billings, MT",Yellowstone County
+83945,59105,MT,202404,1142.09,-0.0043,0.0434,Billings,"Billings, MT",Yellowstone County
+83945,59105,MT,202405,1139.75,-0.002,0.0284,Billings,"Billings, MT",Yellowstone County
+83945,59105,MT,202406,1171.77,0.0281,0.0544,Billings,"Billings, MT",Yellowstone County
+83945,59105,MT,202407,1164.7,-0.006,0.0393,Billings,"Billings, MT",Yellowstone County
+83945,59105,MT,202408,1179.86,0.013,0.0342,Billings,"Billings, MT",Yellowstone County
+83945,59105,MT,202409,1160.61,-0.0163,0.0102,Billings,"Billings, MT",Yellowstone County
+83945,59105,MT,202410,1174.44,0.0119,0.0141,Billings,"Billings, MT",Yellowstone County
+83945,59105,MT,202411,1176.05,0.0014,0.0318,Billings,"Billings, MT",Yellowstone County
+83945,59105,MT,202412,1156.39,-0.0167,0.0054,Billings,"Billings, MT",Yellowstone County
+83945,59105,MT,202501,1110.1,-0.04,-0.0476,Billings,"Billings, MT",Yellowstone County
+83945,59105,MT,202502,1103.42,-0.006,-0.0552,Billings,"Billings, MT",Yellowstone County
+83945,59105,MT,202503,1141.33,0.0344,-0.005,Billings,"Billings, MT",Yellowstone County
+83945,59105,MT,202504,1178.59,0.0326,0.032,Billings,"Billings, MT",Yellowstone County
+83945,59105,MT,202505,1205.73,0.023,0.0579,Billings,"Billings, MT",Yellowstone County
+83945,59105,MT,202506,1193.58,-0.0101,0.0186,Billings,"Billings, MT",Yellowstone County
+83945,59105,MT,202507,1205.31,0.0098,0.0349,Billings,"Billings, MT",Yellowstone County
+83945,59105,MT,202508,1222.63,0.0144,0.0363,Billings,"Billings, MT",Yellowstone County
+83945,59105,MT,202509,1217.0,-0.0046,0.0486,Billings,"Billings, MT",Yellowstone County
+83945,59105,MT,202510,1222.9,0.0048,0.0413,Billings,"Billings, MT",Yellowstone County
+83945,59105,MT,202511,1209.14,-0.0113,0.0281,Billings,"Billings, MT",Yellowstone County
+83945,59105,MT,202512,1230.71,0.0178,0.0643,Billings,"Billings, MT",Yellowstone County
+83945,59105,MT,202601,1244.07,0.0109,0.1207,Billings,"Billings, MT",Yellowstone County
+83945,59105,MT,202602,1225.61,-0.0148,0.1107,Billings,"Billings, MT",Yellowstone County
+83945,59105,MT,202603,1230.35,0.0039,0.078,Billings,"Billings, MT",Yellowstone County
+83946,59106,MT,202403,1071.76,,,Billings,"Billings, MT",Yellowstone County
+83946,59106,MT,202404,1199.82,0.1195,,Billings,"Billings, MT",Yellowstone County
+83946,59106,MT,202407,1550.18,0.292,,Billings,"Billings, MT",Yellowstone County
+83946,59106,MT,202408,1552.03,0.0012,,Billings,"Billings, MT",Yellowstone County
+83946,59106,MT,202409,1527.51,-0.0158,,Billings,"Billings, MT",Yellowstone County
+83946,59106,MT,202410,1536.4,0.0058,,Billings,"Billings, MT",Yellowstone County
+83946,59106,MT,202411,1528.7,-0.005,,Billings,"Billings, MT",Yellowstone County
+83946,59106,MT,202412,1541.78,0.0086,,Billings,"Billings, MT",Yellowstone County
+83946,59106,MT,202501,1558.69,0.011,,Billings,"Billings, MT",Yellowstone County
+83946,59106,MT,202502,1563.53,0.0031,,Billings,"Billings, MT",Yellowstone County
+83946,59106,MT,202503,1572.67,0.0058,,Billings,"Billings, MT",Yellowstone County
+83946,59106,MT,202504,1577.15,0.0028,,Billings,"Billings, MT",Yellowstone County
+83946,59106,MT,202505,1606.89,0.0189,0.4993,Billings,"Billings, MT",Yellowstone County
+83946,59106,MT,202506,1629.48,0.0141,0.3581,Billings,"Billings, MT",Yellowstone County
+83946,59106,MT,202507,1623.19,-0.0039,0.0471,Billings,"Billings, MT",Yellowstone County
+83946,59106,MT,202508,1601.88,-0.0131,0.0321,Billings,"Billings, MT",Yellowstone County
+83946,59106,MT,202509,1600.42,-0.0009,0.0477,Billings,"Billings, MT",Yellowstone County
+83946,59106,MT,202510,1599.38,-0.0007,0.041,Billings,"Billings, MT",Yellowstone County
+83946,59106,MT,202511,1596.06,-0.0021,0.0441,Billings,"Billings, MT",Yellowstone County
+83946,59106,MT,202512,1593.36,-0.0017,0.0335,Billings,"Billings, MT",Yellowstone County
+83946,59106,MT,202601,1608.99,0.0098,0.0323,Billings,"Billings, MT",Yellowstone County
+83946,59106,MT,202602,1620.92,0.0074,0.0367,Billings,"Billings, MT",Yellowstone County
+83946,59106,MT,202603,1626.41,0.0034,0.0342,Billings,"Billings, MT",Yellowstone County
+83991,59270,MT,202603,1070.33,,,Sidney,,Richland County
+84027,59401,MT,202208,934.45,,,Great Falls,"Great Falls, MT",Cascade County
+84027,59401,MT,202209,953.11,0.02,,Great Falls,"Great Falls, MT",Cascade County
+84027,59401,MT,202210,933.1,-0.021,,Great Falls,"Great Falls, MT",Cascade County
+84027,59401,MT,202211,963.82,0.0329,,Great Falls,"Great Falls, MT",Cascade County
+84027,59401,MT,202212,948.96,-0.0154,,Great Falls,"Great Falls, MT",Cascade County
+84027,59401,MT,202301,942.04,-0.0073,,Great Falls,"Great Falls, MT",Cascade County
+84027,59401,MT,202302,915.62,-0.028,,Great Falls,"Great Falls, MT",Cascade County
+84027,59401,MT,202303,926.32,0.0117,,Great Falls,"Great Falls, MT",Cascade County
+84027,59401,MT,202304,927.6,0.0014,,Great Falls,"Great Falls, MT",Cascade County
+84027,59401,MT,202305,920.76,-0.0074,,Great Falls,"Great Falls, MT",Cascade County
+84027,59401,MT,202306,907.91,-0.014,,Great Falls,"Great Falls, MT",Cascade County
+84027,59401,MT,202307,904.73,-0.0035,,Great Falls,"Great Falls, MT",Cascade County
+84027,59401,MT,202308,916.89,0.0134,-0.0188,Great Falls,"Great Falls, MT",Cascade County
+84027,59401,MT,202309,938.34,0.0234,-0.0155,Great Falls,"Great Falls, MT",Cascade County
+84027,59401,MT,202310,937.5,-0.0009,0.0047,Great Falls,"Great Falls, MT",Cascade County
+84027,59401,MT,202311,927.0,-0.0112,-0.0382,Great Falls,"Great Falls, MT",Cascade County
+84027,59401,MT,202312,917.78,-0.01,-0.0329,Great Falls,"Great Falls, MT",Cascade County
+84027,59401,MT,202401,905.79,-0.0131,-0.0385,Great Falls,"Great Falls, MT",Cascade County
+84027,59401,MT,202402,924.28,0.0204,0.0095,Great Falls,"Great Falls, MT",Cascade County
+84027,59401,MT,202403,927.83,0.0038,0.0016,Great Falls,"Great Falls, MT",Cascade County
+84027,59401,MT,202404,946.04,0.0196,0.0199,Great Falls,"Great Falls, MT",Cascade County
+84027,59401,MT,202405,941.35,-0.005,0.0224,Great Falls,"Great Falls, MT",Cascade County
+84027,59401,MT,202406,946.05,0.005,0.042,Great Falls,"Great Falls, MT",Cascade County
+84027,59401,MT,202407,963.39,0.0183,0.0648,Great Falls,"Great Falls, MT",Cascade County
+84027,59401,MT,202408,978.53,0.0157,0.0672,Great Falls,"Great Falls, MT",Cascade County
+84027,59401,MT,202409,986.44,0.0081,0.0513,Great Falls,"Great Falls, MT",Cascade County
+84027,59401,MT,202410,1002.12,0.0159,0.0689,Great Falls,"Great Falls, MT",Cascade County
+84027,59401,MT,202411,981.96,-0.0201,0.0593,Great Falls,"Great Falls, MT",Cascade County
+84027,59401,MT,202412,987.39,0.0055,0.0758,Great Falls,"Great Falls, MT",Cascade County
+84027,59401,MT,202501,973.27,-0.0143,0.0745,Great Falls,"Great Falls, MT",Cascade County
+84027,59401,MT,202502,986.05,0.0131,0.0668,Great Falls,"Great Falls, MT",Cascade County
+84027,59401,MT,202503,983.28,-0.0028,0.0598,Great Falls,"Great Falls, MT",Cascade County
+84027,59401,MT,202504,988.46,0.0053,0.0448,Great Falls,"Great Falls, MT",Cascade County
+84027,59401,MT,202505,978.25,-0.0103,0.0392,Great Falls,"Great Falls, MT",Cascade County
+84027,59401,MT,202506,972.44,-0.0059,0.0279,Great Falls,"Great Falls, MT",Cascade County
+84027,59401,MT,202507,983.89,0.0118,0.0213,Great Falls,"Great Falls, MT",Cascade County
+84027,59401,MT,202508,1004.15,0.0206,0.0262,Great Falls,"Great Falls, MT",Cascade County
+84027,59401,MT,202509,1038.94,0.0346,0.0532,Great Falls,"Great Falls, MT",Cascade County
+84027,59401,MT,202510,1031.54,-0.0071,0.0294,Great Falls,"Great Falls, MT",Cascade County
+84027,59401,MT,202511,1025.59,-0.0058,0.0444,Great Falls,"Great Falls, MT",Cascade County
+84027,59401,MT,202512,1039.21,0.0133,0.0525,Great Falls,"Great Falls, MT",Cascade County
+84027,59401,MT,202601,1038.77,-0.0004,0.0673,Great Falls,"Great Falls, MT",Cascade County
+84027,59401,MT,202602,1057.74,0.0183,0.0727,Great Falls,"Great Falls, MT",Cascade County
+84027,59401,MT,202603,1046.96,-0.0102,0.0648,Great Falls,"Great Falls, MT",Cascade County
+84030,59404,MT,202504,1730.8,,,Great Falls,"Great Falls, MT",Cascade County
+84030,59404,MT,202505,1748.22,0.0101,,Great Falls,"Great Falls, MT",Cascade County
+84030,59404,MT,202506,1797.87,0.0284,,Great Falls,"Great Falls, MT",Cascade County
+84030,59404,MT,202507,1843.92,0.0256,,Great Falls,"Great Falls, MT",Cascade County
+84030,59404,MT,202508,1863.97,0.0109,,Great Falls,"Great Falls, MT",Cascade County
+84030,59404,MT,202509,1810.9,-0.0285,,Great Falls,"Great Falls, MT",Cascade County
+84030,59404,MT,202510,1825.81,0.0082,,Great Falls,"Great Falls, MT",Cascade County
+84030,59404,MT,202511,1833.45,0.0042,,Great Falls,"Great Falls, MT",Cascade County
+84030,59404,MT,202512,1845.65,0.0067,,Great Falls,"Great Falls, MT",Cascade County
+84030,59404,MT,202601,1814.44,-0.0169,,Great Falls,"Great Falls, MT",Cascade County
+84030,59404,MT,202602,1831.66,0.0095,,Great Falls,"Great Falls, MT",Cascade County
+84030,59404,MT,202603,1916.5,0.0463,,Great Falls,"Great Falls, MT",Cascade County
+84031,59405,MT,202303,1225.32,,,Great Falls,"Great Falls, MT",Cascade County
+84031,59405,MT,202304,1213.14,-0.0099,,Great Falls,"Great Falls, MT",Cascade County
+84031,59405,MT,202305,1197.18,-0.0132,,Great Falls,"Great Falls, MT",Cascade County
+84031,59405,MT,202306,1192.73,-0.0037,,Great Falls,"Great Falls, MT",Cascade County
+84031,59405,MT,202307,1206.28,0.0114,,Great Falls,"Great Falls, MT",Cascade County
+84031,59405,MT,202308,1212.82,0.0054,,Great Falls,"Great Falls, MT",Cascade County
+84031,59405,MT,202309,1216.2,0.0028,,Great Falls,"Great Falls, MT",Cascade County
+84031,59405,MT,202310,1218.65,0.002,,Great Falls,"Great Falls, MT",Cascade County
+84031,59405,MT,202311,1218.45,-0.0002,,Great Falls,"Great Falls, MT",Cascade County
+84031,59405,MT,202312,1214.51,-0.0032,,Great Falls,"Great Falls, MT",Cascade County
+84031,59405,MT,202401,1213.7,-0.0007,,Great Falls,"Great Falls, MT",Cascade County
+84031,59405,MT,202402,1226.72,0.0107,,Great Falls,"Great Falls, MT",Cascade County
+84031,59405,MT,202403,1253.65,0.022,0.0231,Great Falls,"Great Falls, MT",Cascade County
+84031,59405,MT,202404,1275.95,0.0178,0.0518,Great Falls,"Great Falls, MT",Cascade County
+84031,59405,MT,202405,1273.88,-0.0016,0.0641,Great Falls,"Great Falls, MT",Cascade County
+84031,59405,MT,202406,1284.42,0.0083,0.0769,Great Falls,"Great Falls, MT",Cascade County
+84031,59405,MT,202407,1316.13,0.0247,0.0911,Great Falls,"Great Falls, MT",Cascade County
+84031,59405,MT,202408,1345.99,0.0227,0.1098,Great Falls,"Great Falls, MT",Cascade County
+84031,59405,MT,202409,1347.5,0.0011,0.108,Great Falls,"Great Falls, MT",Cascade County
+84031,59405,MT,202410,1323.89,-0.0175,0.0864,Great Falls,"Great Falls, MT",Cascade County
+84031,59405,MT,202411,1322.25,-0.0012,0.0852,Great Falls,"Great Falls, MT",Cascade County
+84031,59405,MT,202412,1313.0,-0.007,0.0811,Great Falls,"Great Falls, MT",Cascade County
+84031,59405,MT,202501,1326.49,0.0103,0.0929,Great Falls,"Great Falls, MT",Cascade County
+84031,59405,MT,202502,1323.36,-0.0024,0.0788,Great Falls,"Great Falls, MT",Cascade County
+84031,59405,MT,202503,1337.99,0.0111,0.0673,Great Falls,"Great Falls, MT",Cascade County
+84031,59405,MT,202504,1343.39,0.004,0.0529,Great Falls,"Great Falls, MT",Cascade County
+84031,59405,MT,202505,1373.3,0.0223,0.078,Great Falls,"Great Falls, MT",Cascade County
+84031,59405,MT,202506,1396.6,0.017,0.0873,Great Falls,"Great Falls, MT",Cascade County
+84031,59405,MT,202507,1403.96,0.0053,0.0667,Great Falls,"Great Falls, MT",Cascade County
+84031,59405,MT,202508,1393.56,-0.0074,0.0353,Great Falls,"Great Falls, MT",Cascade County
+84031,59405,MT,202509,1391.47,-0.0015,0.0326,Great Falls,"Great Falls, MT",Cascade County
+84031,59405,MT,202510,1385.65,-0.0042,0.0467,Great Falls,"Great Falls, MT",Cascade County
+84031,59405,MT,202511,1374.62,-0.008,0.0396,Great Falls,"Great Falls, MT",Cascade County
+84031,59405,MT,202512,1378.21,0.0026,0.0497,Great Falls,"Great Falls, MT",Cascade County
+84031,59405,MT,202601,1362.42,-0.0115,0.0271,Great Falls,"Great Falls, MT",Cascade County
+84031,59405,MT,202602,1381.92,0.0143,0.0442,Great Falls,"Great Falls, MT",Cascade County
+84031,59405,MT,202603,1386.68,0.0034,0.0364,Great Falls,"Great Falls, MT",Cascade County
+84091,59501,MT,202602,953.43,,,Havre,,Hill County
+84091,59501,MT,202603,968.75,0.0161,,Havre,,Hill County
+84114,59601,MT,202304,1326.72,,,Helena,"Helena, MT",Lewis and Clark County
+84114,59601,MT,202305,1377.13,0.038,,Helena,"Helena, MT",Lewis and Clark County
+84114,59601,MT,202306,1387.77,0.0077,,Helena,"Helena, MT",Lewis and Clark County
+84114,59601,MT,202307,1414.13,0.019,,Helena,"Helena, MT",Lewis and Clark County
+84114,59601,MT,202308,1394.13,-0.0141,,Helena,"Helena, MT",Lewis and Clark County
+84114,59601,MT,202309,1418.08,0.0172,,Helena,"Helena, MT",Lewis and Clark County
+84114,59601,MT,202310,1425.05,0.0049,,Helena,"Helena, MT",Lewis and Clark County
+84114,59601,MT,202311,1419.79,-0.0037,,Helena,"Helena, MT",Lewis and Clark County
+84114,59601,MT,202312,1420.97,0.0008,,Helena,"Helena, MT",Lewis and Clark County
+84114,59601,MT,202401,1397.16,-0.0168,,Helena,"Helena, MT",Lewis and Clark County
+84114,59601,MT,202402,1425.5,0.0203,,Helena,"Helena, MT",Lewis and Clark County
+84114,59601,MT,202403,1429.63,0.0029,,Helena,"Helena, MT",Lewis and Clark County
+84114,59601,MT,202404,1485.63,0.0392,0.1198,Helena,"Helena, MT",Lewis and Clark County
+84114,59601,MT,202405,1489.51,0.0026,0.0816,Helena,"Helena, MT",Lewis and Clark County
+84114,59601,MT,202406,1518.54,0.0195,0.0942,Helena,"Helena, MT",Lewis and Clark County
+84114,59601,MT,202407,1507.98,-0.0069,0.0664,Helena,"Helena, MT",Lewis and Clark County
+84114,59601,MT,202408,1518.59,0.007,0.0893,Helena,"Helena, MT",Lewis and Clark County
+84114,59601,MT,202409,1502.62,-0.0105,0.0596,Helena,"Helena, MT",Lewis and Clark County
+84114,59601,MT,202410,1517.14,0.0097,0.0646,Helena,"Helena, MT",Lewis and Clark County
+84114,59601,MT,202411,1510.29,-0.0045,0.0637,Helena,"Helena, MT",Lewis and Clark County
+84114,59601,MT,202412,1511.24,0.0006,0.0635,Helena,"Helena, MT",Lewis and Clark County
+84114,59601,MT,202501,1537.98,0.0177,0.1008,Helena,"Helena, MT",Lewis and Clark County
+84114,59601,MT,202502,1541.41,0.0022,0.0813,Helena,"Helena, MT",Lewis and Clark County
+84114,59601,MT,202503,1548.42,0.0045,0.0831,Helena,"Helena, MT",Lewis and Clark County
+84114,59601,MT,202504,1531.78,-0.0107,0.0311,Helena,"Helena, MT",Lewis and Clark County
+84114,59601,MT,202505,1557.61,0.0169,0.0457,Helena,"Helena, MT",Lewis and Clark County
+84114,59601,MT,202506,1589.09,0.0202,0.0465,Helena,"Helena, MT",Lewis and Clark County
+84114,59601,MT,202507,1610.12,0.0132,0.0677,Helena,"Helena, MT",Lewis and Clark County
+84114,59601,MT,202508,1613.7,0.0022,0.0626,Helena,"Helena, MT",Lewis and Clark County
+84114,59601,MT,202509,1587.17,-0.0164,0.0563,Helena,"Helena, MT",Lewis and Clark County
+84114,59601,MT,202510,1583.03,-0.0026,0.0434,Helena,"Helena, MT",Lewis and Clark County
+84114,59601,MT,202511,1553.04,-0.0189,0.0283,Helena,"Helena, MT",Lewis and Clark County
+84114,59601,MT,202512,1564.53,0.0074,0.0353,Helena,"Helena, MT",Lewis and Clark County
+84114,59601,MT,202601,1547.31,-0.011,0.0061,Helena,"Helena, MT",Lewis and Clark County
+84114,59601,MT,202602,1564.56,0.0111,0.015,Helena,"Helena, MT",Lewis and Clark County
+84114,59601,MT,202603,1572.22,0.0049,0.0154,Helena,"Helena, MT",Lewis and Clark County
+84115,59602,MT,202602,1932.15,,,Helena,"Helena, MT",Lewis and Clark County
+84115,59602,MT,202603,1961.67,0.0153,,Helena,"Helena, MT",Lewis and Clark County
+84138,59701,MT,202304,1129.32,,,Butte,"Butte-Silver Bow, MT",Silver Bow County
+84138,59701,MT,202305,1122.94,-0.0056,,Butte,"Butte-Silver Bow, MT",Silver Bow County
+84138,59701,MT,202306,1154.49,0.0281,,Butte,"Butte-Silver Bow, MT",Silver Bow County
+84138,59701,MT,202307,1130.82,-0.0205,,Butte,"Butte-Silver Bow, MT",Silver Bow County
+84138,59701,MT,202308,1137.01,0.0055,,Butte,"Butte-Silver Bow, MT",Silver Bow County
+84138,59701,MT,202309,1113.65,-0.0205,,Butte,"Butte-Silver Bow, MT",Silver Bow County
+84138,59701,MT,202310,1125.49,0.0106,,Butte,"Butte-Silver Bow, MT",Silver Bow County
+84138,59701,MT,202311,1147.47,0.0195,,Butte,"Butte-Silver Bow, MT",Silver Bow County
+84138,59701,MT,202312,1162.9,0.0134,,Butte,"Butte-Silver Bow, MT",Silver Bow County
+84138,59701,MT,202401,1154.83,-0.0069,,Butte,"Butte-Silver Bow, MT",Silver Bow County
+84138,59701,MT,202402,1131.71,-0.02,,Butte,"Butte-Silver Bow, MT",Silver Bow County
+84138,59701,MT,202403,1141.76,0.0089,,Butte,"Butte-Silver Bow, MT",Silver Bow County
+84138,59701,MT,202404,1178.99,0.0326,0.044,Butte,"Butte-Silver Bow, MT",Silver Bow County
+84138,59701,MT,202405,1207.33,0.024,0.0752,Butte,"Butte-Silver Bow, MT",Silver Bow County
+84138,59701,MT,202406,1214.87,0.0063,0.0523,Butte,"Butte-Silver Bow, MT",Silver Bow County
+84138,59701,MT,202407,1215.29,0.0003,0.0747,Butte,"Butte-Silver Bow, MT",Silver Bow County
+84138,59701,MT,202408,1224.79,0.0078,0.0772,Butte,"Butte-Silver Bow, MT",Silver Bow County
+84138,59701,MT,202409,1248.69,0.0195,0.1213,Butte,"Butte-Silver Bow, MT",Silver Bow County
+84138,59701,MT,202410,1268.32,0.0157,0.1269,Butte,"Butte-Silver Bow, MT",Silver Bow County
+84138,59701,MT,202411,1247.92,-0.0161,0.0875,Butte,"Butte-Silver Bow, MT",Silver Bow County
+84138,59701,MT,202412,1219.19,-0.023,0.0484,Butte,"Butte-Silver Bow, MT",Silver Bow County
+84138,59701,MT,202501,1166.34,-0.0434,0.01,Butte,"Butte-Silver Bow, MT",Silver Bow County
+84138,59701,MT,202502,1167.86,0.0013,0.0319,Butte,"Butte-Silver Bow, MT",Silver Bow County
+84138,59701,MT,202503,1179.07,0.0096,0.0327,Butte,"Butte-Silver Bow, MT",Silver Bow County
+84138,59701,MT,202504,1220.39,0.035,0.0351,Butte,"Butte-Silver Bow, MT",Silver Bow County
+84138,59701,MT,202505,1248.87,0.0233,0.0344,Butte,"Butte-Silver Bow, MT",Silver Bow County
+84138,59701,MT,202506,1278.71,0.0239,0.0525,Butte,"Butte-Silver Bow, MT",Silver Bow County
+84138,59701,MT,202507,1319.69,0.032,0.0859,Butte,"Butte-Silver Bow, MT",Silver Bow County
+84138,59701,MT,202508,1321.53,0.0014,0.079,Butte,"Butte-Silver Bow, MT",Silver Bow County
+84138,59701,MT,202509,1309.4,-0.0092,0.0486,Butte,"Butte-Silver Bow, MT",Silver Bow County
+84138,59701,MT,202510,1271.98,-0.0286,0.0029,Butte,"Butte-Silver Bow, MT",Silver Bow County
+84138,59701,MT,202511,1305.69,0.0265,0.0463,Butte,"Butte-Silver Bow, MT",Silver Bow County
+84138,59701,MT,202512,1312.91,0.0055,0.0769,Butte,"Butte-Silver Bow, MT",Silver Bow County
+84138,59701,MT,202601,1299.52,-0.0102,0.1142,Butte,"Butte-Silver Bow, MT",Silver Bow County
+84138,59701,MT,202602,1280.71,-0.0145,0.0966,Butte,"Butte-Silver Bow, MT",Silver Bow County
+84138,59701,MT,202603,1302.22,0.0168,0.1044,Butte,"Butte-Silver Bow, MT",Silver Bow County
+84145,59714,MT,202401,2076.4,,,Belgrade,"Bozeman, MT",Gallatin County
+84145,59714,MT,202402,2075.33,-0.0005,,Belgrade,"Bozeman, MT",Gallatin County
+84145,59714,MT,202403,2065.49,-0.0047,,Belgrade,"Bozeman, MT",Gallatin County
+84145,59714,MT,202404,2065.39,-0.0,,Belgrade,"Bozeman, MT",Gallatin County
+84145,59714,MT,202405,2087.11,0.0105,,Belgrade,"Bozeman, MT",Gallatin County
+84145,59714,MT,202406,2125.82,0.0185,,Belgrade,"Bozeman, MT",Gallatin County
+84145,59714,MT,202407,2134.4,0.004,,Belgrade,"Bozeman, MT",Gallatin County
+84145,59714,MT,202408,2214.01,0.0373,,Belgrade,"Bozeman, MT",Gallatin County
+84145,59714,MT,202409,2219.57,0.0025,,Belgrade,"Bozeman, MT",Gallatin County
+84145,59714,MT,202410,2242.19,0.0102,,Belgrade,"Bozeman, MT",Gallatin County
+84145,59714,MT,202411,2177.14,-0.029,,Belgrade,"Bozeman, MT",Gallatin County
+84145,59714,MT,202412,2155.44,-0.01,,Belgrade,"Bozeman, MT",Gallatin County
+84145,59714,MT,202501,2147.08,-0.0039,0.034,Belgrade,"Bozeman, MT",Gallatin County
+84145,59714,MT,202502,2128.35,-0.0087,0.0255,Belgrade,"Bozeman, MT",Gallatin County
+84145,59714,MT,202503,2124.97,-0.0016,0.0288,Belgrade,"Bozeman, MT",Gallatin County
+84145,59714,MT,202504,2146.52,0.0101,0.0393,Belgrade,"Bozeman, MT",Gallatin County
+84145,59714,MT,202505,2166.3,0.0092,0.0379,Belgrade,"Bozeman, MT",Gallatin County
+84145,59714,MT,202506,2218.55,0.0241,0.0436,Belgrade,"Bozeman, MT",Gallatin County
+84145,59714,MT,202507,2229.93,0.0051,0.0448,Belgrade,"Bozeman, MT",Gallatin County
+84145,59714,MT,202508,2158.39,-0.0321,-0.0251,Belgrade,"Bozeman, MT",Gallatin County
+84145,59714,MT,202509,2106.62,-0.024,-0.0509,Belgrade,"Bozeman, MT",Gallatin County
+84145,59714,MT,202510,2072.21,-0.0163,-0.0758,Belgrade,"Bozeman, MT",Gallatin County
+84145,59714,MT,202511,2087.55,0.0074,-0.0412,Belgrade,"Bozeman, MT",Gallatin County
+84145,59714,MT,202512,2075.59,-0.0057,-0.037,Belgrade,"Bozeman, MT",Gallatin County
+84145,59714,MT,202601,2072.82,-0.0013,-0.0346,Belgrade,"Bozeman, MT",Gallatin County
+84145,59714,MT,202602,2139.78,0.0323,0.0054,Belgrade,"Bozeman, MT",Gallatin County
+84145,59714,MT,202603,2150.42,0.005,0.012,Belgrade,"Bozeman, MT",Gallatin County
+84146,59715,MT,202103,1489.75,,,Bozeman,"Bozeman, MT",Gallatin County
+84146,59715,MT,202104,1502.81,0.0088,,Bozeman,"Bozeman, MT",Gallatin County
+84146,59715,MT,202105,1515.17,0.0082,,Bozeman,"Bozeman, MT",Gallatin County
+84146,59715,MT,202106,1548.74,0.0222,,Bozeman,"Bozeman, MT",Gallatin County
+84146,59715,MT,202107,1558.0,0.006,,Bozeman,"Bozeman, MT",Gallatin County
+84146,59715,MT,202108,1569.03,0.0071,,Bozeman,"Bozeman, MT",Gallatin County
+84146,59715,MT,202109,1569.53,0.0003,,Bozeman,"Bozeman, MT",Gallatin County
+84146,59715,MT,202110,1650.18,0.0514,,Bozeman,"Bozeman, MT",Gallatin County
+84146,59715,MT,202111,1656.5,0.0038,,Bozeman,"Bozeman, MT",Gallatin County
+84146,59715,MT,202112,1790.63,0.081,,Bozeman,"Bozeman, MT",Gallatin County
+84146,59715,MT,202201,1779.99,-0.0059,,Bozeman,"Bozeman, MT",Gallatin County
+84146,59715,MT,202202,1824.46,0.025,,Bozeman,"Bozeman, MT",Gallatin County
+84146,59715,MT,202203,1765.51,-0.0323,0.1851,Bozeman,"Bozeman, MT",Gallatin County
+84146,59715,MT,202204,1792.77,0.0154,0.1929,Bozeman,"Bozeman, MT",Gallatin County
+84146,59715,MT,202205,1794.41,0.0009,0.1843,Bozeman,"Bozeman, MT",Gallatin County
+84146,59715,MT,202206,1806.26,0.0066,0.1663,Bozeman,"Bozeman, MT",Gallatin County
+84146,59715,MT,202207,1828.87,0.0125,0.1739,Bozeman,"Bozeman, MT",Gallatin County
+84146,59715,MT,202208,1842.8,0.0076,0.1745,Bozeman,"Bozeman, MT",Gallatin County
+84146,59715,MT,202209,1825.23,-0.0095,0.1629,Bozeman,"Bozeman, MT",Gallatin County
+84146,59715,MT,202210,1828.66,0.0019,0.1082,Bozeman,"Bozeman, MT",Gallatin County
+84146,59715,MT,202211,1782.45,-0.0253,0.076,Bozeman,"Bozeman, MT",Gallatin County
+84146,59715,MT,202212,1784.02,0.0009,-0.0037,Bozeman,"Bozeman, MT",Gallatin County
+84146,59715,MT,202301,1800.37,0.0092,0.0114,Bozeman,"Bozeman, MT",Gallatin County
+84146,59715,MT,202302,1905.68,0.0585,0.0445,Bozeman,"Bozeman, MT",Gallatin County
+84146,59715,MT,202303,1988.67,0.0436,0.1264,Bozeman,"Bozeman, MT",Gallatin County
+84146,59715,MT,202304,1991.99,0.0017,0.1111,Bozeman,"Bozeman, MT",Gallatin County
+84146,59715,MT,202305,1982.33,-0.0048,0.1047,Bozeman,"Bozeman, MT",Gallatin County
+84146,59715,MT,202306,1955.88,-0.0133,0.0828,Bozeman,"Bozeman, MT",Gallatin County
+84146,59715,MT,202307,1954.46,-0.0007,0.0687,Bozeman,"Bozeman, MT",Gallatin County
+84146,59715,MT,202308,1928.18,-0.0134,0.0463,Bozeman,"Bozeman, MT",Gallatin County
+84146,59715,MT,202309,1895.49,-0.017,0.0385,Bozeman,"Bozeman, MT",Gallatin County
+84146,59715,MT,202310,1889.82,-0.003,0.0334,Bozeman,"Bozeman, MT",Gallatin County
+84146,59715,MT,202311,1849.62,-0.0213,0.0377,Bozeman,"Bozeman, MT",Gallatin County
+84146,59715,MT,202312,1876.51,0.0145,0.0518,Bozeman,"Bozeman, MT",Gallatin County
+84146,59715,MT,202401,1877.15,0.0003,0.0426,Bozeman,"Bozeman, MT",Gallatin County
+84146,59715,MT,202402,1925.89,0.026,0.0106,Bozeman,"Bozeman, MT",Gallatin County
+84146,59715,MT,202403,1972.89,0.0244,-0.0079,Bozeman,"Bozeman, MT",Gallatin County
+84146,59715,MT,202404,1994.9,0.0112,0.0015,Bozeman,"Bozeman, MT",Gallatin County
+84146,59715,MT,202405,2009.08,0.0071,0.0135,Bozeman,"Bozeman, MT",Gallatin County
+84146,59715,MT,202406,2019.41,0.0051,0.0325,Bozeman,"Bozeman, MT",Gallatin County
+84146,59715,MT,202407,2015.16,-0.0021,0.0311,Bozeman,"Bozeman, MT",Gallatin County
+84146,59715,MT,202408,2019.95,0.0024,0.0476,Bozeman,"Bozeman, MT",Gallatin County
+84146,59715,MT,202409,1996.4,-0.0117,0.0532,Bozeman,"Bozeman, MT",Gallatin County
+84146,59715,MT,202410,1964.54,-0.016,0.0395,Bozeman,"Bozeman, MT",Gallatin County
+84146,59715,MT,202411,1986.92,0.0114,0.0742,Bozeman,"Bozeman, MT",Gallatin County
+84146,59715,MT,202412,1997.48,0.0053,0.0645,Bozeman,"Bozeman, MT",Gallatin County
+84146,59715,MT,202501,2040.7,0.0216,0.0871,Bozeman,"Bozeman, MT",Gallatin County
+84146,59715,MT,202502,2003.98,-0.018,0.0405,Bozeman,"Bozeman, MT",Gallatin County
+84146,59715,MT,202503,2020.3,0.0081,0.024,Bozeman,"Bozeman, MT",Gallatin County
+84146,59715,MT,202504,2034.7,0.0071,0.02,Bozeman,"Bozeman, MT",Gallatin County
+84146,59715,MT,202505,2066.0,0.0154,0.0283,Bozeman,"Bozeman, MT",Gallatin County
+84146,59715,MT,202506,2051.49,-0.007,0.0159,Bozeman,"Bozeman, MT",Gallatin County
+84146,59715,MT,202507,2025.57,-0.0126,0.0052,Bozeman,"Bozeman, MT",Gallatin County
+84146,59715,MT,202508,1984.29,-0.0204,-0.0177,Bozeman,"Bozeman, MT",Gallatin County
+84146,59715,MT,202509,1921.95,-0.0314,-0.0373,Bozeman,"Bozeman, MT",Gallatin County
+84146,59715,MT,202510,1979.12,0.0297,0.0074,Bozeman,"Bozeman, MT",Gallatin County
+84146,59715,MT,202511,2068.88,0.0454,0.0413,Bozeman,"Bozeman, MT",Gallatin County
+84146,59715,MT,202512,2112.06,0.0209,0.0574,Bozeman,"Bozeman, MT",Gallatin County
+84146,59715,MT,202601,2057.65,-0.0258,0.0083,Bozeman,"Bozeman, MT",Gallatin County
+84146,59715,MT,202602,1987.99,-0.0339,-0.008,Bozeman,"Bozeman, MT",Gallatin County
+84146,59715,MT,202603,2024.3,0.0183,0.002,Bozeman,"Bozeman, MT",Gallatin County
+84149,59718,MT,202101,1724.4,,,Bozeman,"Bozeman, MT",Gallatin County
+84149,59718,MT,202102,1738.78,0.0083,,Bozeman,"Bozeman, MT",Gallatin County
+84149,59718,MT,202103,1782.66,0.0252,,Bozeman,"Bozeman, MT",Gallatin County
+84149,59718,MT,202104,1806.72,0.0135,,Bozeman,"Bozeman, MT",Gallatin County
+84149,59718,MT,202105,1840.17,0.0185,,Bozeman,"Bozeman, MT",Gallatin County
+84149,59718,MT,202106,1861.38,0.0115,,Bozeman,"Bozeman, MT",Gallatin County
+84149,59718,MT,202107,1910.78,0.0265,,Bozeman,"Bozeman, MT",Gallatin County
+84149,59718,MT,202108,1949.15,0.0201,,Bozeman,"Bozeman, MT",Gallatin County
+84149,59718,MT,202109,1980.28,0.016,,Bozeman,"Bozeman, MT",Gallatin County
+84149,59718,MT,202110,2009.49,0.0148,,Bozeman,"Bozeman, MT",Gallatin County
+84149,59718,MT,202111,1994.47,-0.0075,,Bozeman,"Bozeman, MT",Gallatin County
+84149,59718,MT,202112,2000.68,0.0031,,Bozeman,"Bozeman, MT",Gallatin County
+84149,59718,MT,202201,1986.84,-0.0069,0.1522,Bozeman,"Bozeman, MT",Gallatin County
+84149,59718,MT,202202,2023.18,0.0183,0.1636,Bozeman,"Bozeman, MT",Gallatin County
+84149,59718,MT,202203,2072.01,0.0241,0.1623,Bozeman,"Bozeman, MT",Gallatin County
+84149,59718,MT,202204,2119.67,0.023,0.1732,Bozeman,"Bozeman, MT",Gallatin County
+84149,59718,MT,202205,2162.42,0.0202,0.1751,Bozeman,"Bozeman, MT",Gallatin County
+84149,59718,MT,202206,2202.29,0.0184,0.1831,Bozeman,"Bozeman, MT",Gallatin County
+84149,59718,MT,202207,2272.85,0.032,0.1895,Bozeman,"Bozeman, MT",Gallatin County
+84149,59718,MT,202209,2309.85,0.0163,0.1851,Bozeman,"Bozeman, MT",Gallatin County
+84149,59718,MT,202210,2246.86,-0.0273,0.1346,Bozeman,"Bozeman, MT",Gallatin County
+84149,59718,MT,202211,2178.12,-0.0306,0.0839,Bozeman,"Bozeman, MT",Gallatin County
+84149,59718,MT,202212,2108.53,-0.0319,0.0572,Bozeman,"Bozeman, MT",Gallatin County
+84149,59718,MT,202301,2099.32,-0.0044,0.0493,Bozeman,"Bozeman, MT",Gallatin County
+84149,59718,MT,202302,2129.61,0.0144,0.0719,Bozeman,"Bozeman, MT",Gallatin County
+84149,59718,MT,202303,2193.66,0.0301,0.0843,Bozeman,"Bozeman, MT",Gallatin County
+84149,59718,MT,202304,2223.98,0.0138,0.0733,Bozeman,"Bozeman, MT",Gallatin County
+84149,59718,MT,202305,2254.03,0.0135,0.0634,Bozeman,"Bozeman, MT",Gallatin County
+84149,59718,MT,202306,2271.6,0.0078,0.0505,Bozeman,"Bozeman, MT",Gallatin County
+84149,59718,MT,202307,2273.24,0.0007,0.0322,Bozeman,"Bozeman, MT",Gallatin County
+84149,59718,MT,202308,2266.08,-0.0031,-0.003,Bozeman,"Bozeman, MT",Gallatin County
+84149,59718,MT,202309,2237.95,-0.0124,-0.0311,Bozeman,"Bozeman, MT",Gallatin County
+84149,59718,MT,202310,2192.92,-0.0201,-0.024,Bozeman,"Bozeman, MT",Gallatin County
+84149,59718,MT,202311,2159.12,-0.0154,-0.0087,Bozeman,"Bozeman, MT",Gallatin County
+84149,59718,MT,202312,2132.15,-0.0125,0.0112,Bozeman,"Bozeman, MT",Gallatin County
+84149,59718,MT,202401,2127.7,-0.0021,0.0135,Bozeman,"Bozeman, MT",Gallatin County
+84149,59718,MT,202402,2142.16,0.0068,0.0059,Bozeman,"Bozeman, MT",Gallatin County
+84149,59718,MT,202403,2194.95,0.0246,0.0006,Bozeman,"Bozeman, MT",Gallatin County
+84149,59718,MT,202404,2237.65,0.0195,0.0061,Bozeman,"Bozeman, MT",Gallatin County
+84149,59718,MT,202405,2259.35,0.0097,0.0024,Bozeman,"Bozeman, MT",Gallatin County
+84149,59718,MT,202406,2250.21,-0.004,-0.0094,Bozeman,"Bozeman, MT",Gallatin County
+84149,59718,MT,202407,2262.95,0.0057,-0.0045,Bozeman,"Bozeman, MT",Gallatin County
+84149,59718,MT,202408,2267.83,0.0022,0.0008,Bozeman,"Bozeman, MT",Gallatin County
+84149,59718,MT,202409,2251.56,-0.0072,0.0061,Bozeman,"Bozeman, MT",Gallatin County
+84149,59718,MT,202410,2227.58,-0.0107,0.0158,Bozeman,"Bozeman, MT",Gallatin County
+84149,59718,MT,202411,2177.87,-0.0223,0.0087,Bozeman,"Bozeman, MT",Gallatin County
+84149,59718,MT,202412,2161.96,-0.0073,0.014,Bozeman,"Bozeman, MT",Gallatin County
+84149,59718,MT,202501,2159.69,-0.001,0.015,Bozeman,"Bozeman, MT",Gallatin County
+84149,59718,MT,202502,2177.5,0.0082,0.0165,Bozeman,"Bozeman, MT",Gallatin County
+84149,59718,MT,202503,2174.7,-0.0013,-0.0092,Bozeman,"Bozeman, MT",Gallatin County
+84149,59718,MT,202504,2186.47,0.0054,-0.0229,Bozeman,"Bozeman, MT",Gallatin County
+84149,59718,MT,202505,2208.8,0.0102,-0.0224,Bozeman,"Bozeman, MT",Gallatin County
+84149,59718,MT,202506,2239.21,0.0138,-0.0049,Bozeman,"Bozeman, MT",Gallatin County
+84149,59718,MT,202507,2238.66,-0.0002,-0.0107,Bozeman,"Bozeman, MT",Gallatin County
+84149,59718,MT,202508,2211.8,-0.012,-0.0247,Bozeman,"Bozeman, MT",Gallatin County
+84149,59718,MT,202509,2180.15,-0.0143,-0.0317,Bozeman,"Bozeman, MT",Gallatin County
+84149,59718,MT,202510,2119.79,-0.0277,-0.0484,Bozeman,"Bozeman, MT",Gallatin County
+84149,59718,MT,202511,2086.74,-0.0156,-0.0418,Bozeman,"Bozeman, MT",Gallatin County
+84149,59718,MT,202512,2075.19,-0.0055,-0.0401,Bozeman,"Bozeman, MT",Gallatin County
+84149,59718,MT,202601,2110.46,0.017,-0.0228,Bozeman,"Bozeman, MT",Gallatin County
+84149,59718,MT,202602,2140.97,0.0145,-0.0168,Bozeman,"Bozeman, MT",Gallatin County
+84149,59718,MT,202603,2161.37,0.0095,-0.0061,Bozeman,"Bozeman, MT",Gallatin County
+84188,59801,MT,202102,1038.18,,,Missoula,"Missoula, MT",Missoula County
+84188,59801,MT,202103,1054.1,0.0153,,Missoula,"Missoula, MT",Missoula County
+84188,59801,MT,202104,1089.22,0.0333,,Missoula,"Missoula, MT",Missoula County
+84188,59801,MT,202105,1129.51,0.037,,Missoula,"Missoula, MT",Missoula County
+84188,59801,MT,202106,1181.52,0.046,,Missoula,"Missoula, MT",Missoula County
+84188,59801,MT,202107,1218.56,0.0314,,Missoula,"Missoula, MT",Missoula County
+84188,59801,MT,202108,1230.42,0.0097,,Missoula,"Missoula, MT",Missoula County
+84188,59801,MT,202109,1211.76,-0.0152,,Missoula,"Missoula, MT",Missoula County
+84188,59801,MT,202110,1188.45,-0.0192,,Missoula,"Missoula, MT",Missoula County
+84188,59801,MT,202111,1171.83,-0.014,,Missoula,"Missoula, MT",Missoula County
+84188,59801,MT,202112,1185.36,0.0116,,Missoula,"Missoula, MT",Missoula County
+84188,59801,MT,202201,1210.98,0.0216,,Missoula,"Missoula, MT",Missoula County
+84188,59801,MT,202202,1214.64,0.003,0.17,Missoula,"Missoula, MT",Missoula County
+84188,59801,MT,202203,1221.58,0.0057,0.1589,Missoula,"Missoula, MT",Missoula County
+84188,59801,MT,202204,1235.77,0.0116,0.1345,Missoula,"Missoula, MT",Missoula County
+84188,59801,MT,202205,1275.66,0.0323,0.1294,Missoula,"Missoula, MT",Missoula County
+84188,59801,MT,202206,1304.46,0.0226,0.1041,Missoula,"Missoula, MT",Missoula County
+84188,59801,MT,202207,1295.21,-0.0071,0.0629,Missoula,"Missoula, MT",Missoula County
+84188,59801,MT,202208,1306.24,0.0085,0.0616,Missoula,"Missoula, MT",Missoula County
+84188,59801,MT,202209,1303.69,-0.0019,0.0759,Missoula,"Missoula, MT",Missoula County
+84188,59801,MT,202210,1317.36,0.0105,0.1085,Missoula,"Missoula, MT",Missoula County
+84188,59801,MT,202211,1298.31,-0.0145,0.1079,Missoula,"Missoula, MT",Missoula County
+84188,59801,MT,202212,1311.13,0.0099,0.1061,Missoula,"Missoula, MT",Missoula County
+84188,59801,MT,202301,1291.89,-0.0147,0.0668,Missoula,"Missoula, MT",Missoula County
+84188,59801,MT,202302,1298.03,0.0048,0.0687,Missoula,"Missoula, MT",Missoula County
+84188,59801,MT,202303,1289.25,-0.0068,0.0554,Missoula,"Missoula, MT",Missoula County
+84188,59801,MT,202304,1342.62,0.0414,0.0865,Missoula,"Missoula, MT",Missoula County
+84188,59801,MT,202305,1348.39,0.0043,0.057,Missoula,"Missoula, MT",Missoula County
+84188,59801,MT,202306,1366.38,0.0133,0.0475,Missoula,"Missoula, MT",Missoula County
+84188,59801,MT,202307,1357.45,-0.0065,0.0481,Missoula,"Missoula, MT",Missoula County
+84188,59801,MT,202308,1362.85,0.004,0.0433,Missoula,"Missoula, MT",Missoula County
+84188,59801,MT,202309,1344.72,-0.0133,0.0315,Missoula,"Missoula, MT",Missoula County
+84188,59801,MT,202310,1341.91,-0.0021,0.0186,Missoula,"Missoula, MT",Missoula County
+84188,59801,MT,202311,1327.99,-0.0104,0.0229,Missoula,"Missoula, MT",Missoula County
+84188,59801,MT,202312,1335.42,0.0056,0.0185,Missoula,"Missoula, MT",Missoula County
+84188,59801,MT,202401,1328.04,-0.0055,0.028,Missoula,"Missoula, MT",Missoula County
+84188,59801,MT,202402,1339.15,0.0084,0.0317,Missoula,"Missoula, MT",Missoula County
+84188,59801,MT,202403,1349.46,0.0077,0.0467,Missoula,"Missoula, MT",Missoula County
+84188,59801,MT,202404,1368.22,0.0139,0.0191,Missoula,"Missoula, MT",Missoula County
+84188,59801,MT,202405,1380.22,0.0088,0.0236,Missoula,"Missoula, MT",Missoula County
+84188,59801,MT,202406,1409.84,0.0215,0.0318,Missoula,"Missoula, MT",Missoula County
+84188,59801,MT,202407,1415.78,0.0042,0.043,Missoula,"Missoula, MT",Missoula County
+84188,59801,MT,202408,1431.92,0.0114,0.0507,Missoula,"Missoula, MT",Missoula County
+84188,59801,MT,202409,1420.02,-0.0083,0.056,Missoula,"Missoula, MT",Missoula County
+84188,59801,MT,202410,1410.41,-0.0068,0.0511,Missoula,"Missoula, MT",Missoula County
+84188,59801,MT,202411,1378.77,-0.0224,0.0382,Missoula,"Missoula, MT",Missoula County
+84188,59801,MT,202412,1370.67,-0.0059,0.0264,Missoula,"Missoula, MT",Missoula County
+84188,59801,MT,202501,1370.1,-0.0004,0.0317,Missoula,"Missoula, MT",Missoula County
+84188,59801,MT,202502,1411.79,0.0304,0.0542,Missoula,"Missoula, MT",Missoula County
+84188,59801,MT,202503,1421.58,0.0069,0.0534,Missoula,"Missoula, MT",Missoula County
+84188,59801,MT,202504,1441.15,0.0138,0.0533,Missoula,"Missoula, MT",Missoula County
+84188,59801,MT,202505,1442.08,0.0006,0.0448,Missoula,"Missoula, MT",Missoula County
+84188,59801,MT,202506,1455.79,0.0095,0.0326,Missoula,"Missoula, MT",Missoula County
+84188,59801,MT,202507,1477.91,0.0152,0.0439,Missoula,"Missoula, MT",Missoula County
+84188,59801,MT,202508,1491.34,0.0091,0.0415,Missoula,"Missoula, MT",Missoula County
+84188,59801,MT,202509,1483.2,-0.0055,0.0445,Missoula,"Missoula, MT",Missoula County
+84188,59801,MT,202510,1454.42,-0.0194,0.0312,Missoula,"Missoula, MT",Missoula County
+84188,59801,MT,202511,1431.3,-0.0159,0.0381,Missoula,"Missoula, MT",Missoula County
+84188,59801,MT,202512,1440.63,0.0065,0.051,Missoula,"Missoula, MT",Missoula County
+84188,59801,MT,202601,1433.17,-0.0052,0.046,Missoula,"Missoula, MT",Missoula County
+84188,59801,MT,202602,1445.59,0.0087,0.0239,Missoula,"Missoula, MT",Missoula County
+84188,59801,MT,202603,1443.12,-0.0017,0.0152,Missoula,"Missoula, MT",Missoula County
+84189,59802,MT,202302,1208.96,,,Missoula,"Missoula, MT",Missoula County
+84189,59802,MT,202303,1259.15,0.0415,,Missoula,"Missoula, MT",Missoula County
+84189,59802,MT,202304,1200.1,-0.0469,,Missoula,"Missoula, MT",Missoula County
+84189,59802,MT,202305,1276.15,0.0634,,Missoula,"Missoula, MT",Missoula County
+84189,59802,MT,202306,1296.79,0.0162,,Missoula,"Missoula, MT",Missoula County
+84189,59802,MT,202307,1294.38,-0.0019,,Missoula,"Missoula, MT",Missoula County
+84189,59802,MT,202308,1264.71,-0.0229,,Missoula,"Missoula, MT",Missoula County
+84189,59802,MT,202309,1246.86,-0.0141,,Missoula,"Missoula, MT",Missoula County
+84189,59802,MT,202310,1239.59,-0.0058,,Missoula,"Missoula, MT",Missoula County
+84189,59802,MT,202311,1230.87,-0.007,,Missoula,"Missoula, MT",Missoula County
+84189,59802,MT,202312,1220.99,-0.008,,Missoula,"Missoula, MT",Missoula County
+84189,59802,MT,202401,1213.56,-0.0061,,Missoula,"Missoula, MT",Missoula County
+84189,59802,MT,202402,1229.89,0.0135,0.0173,Missoula,"Missoula, MT",Missoula County
+84189,59802,MT,202403,1247.38,0.0142,-0.0093,Missoula,"Missoula, MT",Missoula County
+84189,59802,MT,202404,1268.2,0.0167,0.0567,Missoula,"Missoula, MT",Missoula County
+84189,59802,MT,202405,1272.28,0.0032,-0.003,Missoula,"Missoula, MT",Missoula County
+84189,59802,MT,202406,1282.17,0.0078,-0.0113,Missoula,"Missoula, MT",Missoula County
+84189,59802,MT,202407,1295.5,0.0104,0.0009,Missoula,"Missoula, MT",Missoula County
+84189,59802,MT,202408,1303.85,0.0064,0.0309,Missoula,"Missoula, MT",Missoula County
+84189,59802,MT,202409,1292.73,-0.0085,0.0368,Missoula,"Missoula, MT",Missoula County
+84189,59802,MT,202410,1271.33,-0.0166,0.0256,Missoula,"Missoula, MT",Missoula County
+84189,59802,MT,202411,1255.19,-0.0127,0.0198,Missoula,"Missoula, MT",Missoula County
+84189,59802,MT,202412,1253.35,-0.0015,0.0265,Missoula,"Missoula, MT",Missoula County
+84189,59802,MT,202501,1259.8,0.0052,0.0381,Missoula,"Missoula, MT",Missoula County
+84189,59802,MT,202502,1256.72,-0.0024,0.0218,Missoula,"Missoula, MT",Missoula County
+84189,59802,MT,202503,1267.02,0.0082,0.0157,Missoula,"Missoula, MT",Missoula County
+84189,59802,MT,202504,1297.08,0.0237,0.0228,Missoula,"Missoula, MT",Missoula County
+84189,59802,MT,202505,1326.51,0.0227,0.0426,Missoula,"Missoula, MT",Missoula County
+84189,59802,MT,202506,1342.35,0.0119,0.0469,Missoula,"Missoula, MT",Missoula County
+84189,59802,MT,202507,1334.1,-0.0061,0.0298,Missoula,"Missoula, MT",Missoula County
+84189,59802,MT,202508,1350.56,0.0123,0.0358,Missoula,"Missoula, MT",Missoula County
+84189,59802,MT,202509,1346.14,-0.0033,0.0413,Missoula,"Missoula, MT",Missoula County
+84189,59802,MT,202510,1345.75,-0.0003,0.0585,Missoula,"Missoula, MT",Missoula County
+84189,59802,MT,202511,1323.38,-0.0166,0.0543,Missoula,"Missoula, MT",Missoula County
+84189,59802,MT,202512,1331.37,0.006,0.0623,Missoula,"Missoula, MT",Missoula County
+84189,59802,MT,202601,1327.38,-0.003,0.0536,Missoula,"Missoula, MT",Missoula County
+84189,59802,MT,202602,1338.43,0.0083,0.065,Missoula,"Missoula, MT",Missoula County
+84189,59802,MT,202603,1341.25,0.0021,0.0586,Missoula,"Missoula, MT",Missoula County
+84190,59803,MT,202510,1975.92,,,Missoula,"Missoula, MT",Missoula County
+84190,59803,MT,202511,2025.58,0.0251,,Missoula,"Missoula, MT",Missoula County
+84190,59803,MT,202512,1947.33,-0.0386,,Missoula,"Missoula, MT",Missoula County
+84190,59803,MT,202601,1968.47,0.0109,,Missoula,"Missoula, MT",Missoula County
+84190,59803,MT,202602,1922.96,-0.0231,,Missoula,"Missoula, MT",Missoula County
+84190,59803,MT,202603,1955.54,0.0169,,Missoula,"Missoula, MT",Missoula County
+84191,59804,MT,202603,1550.0,,,Missoula,"Missoula, MT",Missoula County
+84194,59808,MT,202403,1428.32,,,Missoula,"Missoula, MT",Missoula County
+84194,59808,MT,202404,1445.68,0.0121,,Missoula,"Missoula, MT",Missoula County
+84194,59808,MT,202405,1471.69,0.018,,Missoula,"Missoula, MT",Missoula County
+84194,59808,MT,202406,1464.92,-0.0046,,Missoula,"Missoula, MT",Missoula County
+84194,59808,MT,202407,1481.04,0.011,,Missoula,"Missoula, MT",Missoula County
+84194,59808,MT,202408,1491.5,0.0071,,Missoula,"Missoula, MT",Missoula County
+84194,59808,MT,202409,1490.71,-0.0005,,Missoula,"Missoula, MT",Missoula County
+84194,59808,MT,202410,1477.48,-0.0089,,Missoula,"Missoula, MT",Missoula County
+84194,59808,MT,202411,1452.93,-0.0166,,Missoula,"Missoula, MT",Missoula County
+84194,59808,MT,202412,1438.78,-0.0097,,Missoula,"Missoula, MT",Missoula County
+84194,59808,MT,202501,1441.72,0.002,,Missoula,"Missoula, MT",Missoula County
+84194,59808,MT,202502,1470.49,0.02,,Missoula,"Missoula, MT",Missoula County
+84194,59808,MT,202503,1490.98,0.0139,0.0439,Missoula,"Missoula, MT",Missoula County
+84194,59808,MT,202504,1506.61,0.0105,0.0421,Missoula,"Missoula, MT",Missoula County
+84194,59808,MT,202505,1500.99,-0.0037,0.0199,Missoula,"Missoula, MT",Missoula County
+84194,59808,MT,202506,1508.42,0.0049,0.0297,Missoula,"Missoula, MT",Missoula County
+84194,59808,MT,202507,1499.73,-0.0058,0.0126,Missoula,"Missoula, MT",Missoula County
+84194,59808,MT,202508,1480.95,-0.0125,-0.0071,Missoula,"Missoula, MT",Missoula County
+84194,59808,MT,202509,1482.47,0.001,-0.0055,Missoula,"Missoula, MT",Missoula County
+84194,59808,MT,202510,1471.05,-0.0077,-0.0044,Missoula,"Missoula, MT",Missoula County
+84194,59808,MT,202511,1484.5,0.0091,0.0217,Missoula,"Missoula, MT",Missoula County
+84194,59808,MT,202512,1474.64,-0.0066,0.0249,Missoula,"Missoula, MT",Missoula County
+84194,59808,MT,202601,1494.88,0.0137,0.0369,Missoula,"Missoula, MT",Missoula County
+84194,59808,MT,202602,1507.08,0.0082,0.0249,Missoula,"Missoula, MT",Missoula County
+84194,59808,MT,202603,1526.07,0.0126,0.0235,Missoula,"Missoula, MT",Missoula County
+84212,59840,MT,202603,1375.0,,,Hamilton,,Ravalli County
+84241,59901,MT,202302,1943.08,,,Kalispell,"Kalispell, MT",Flathead County
+84241,59901,MT,202303,1977.78,0.0179,,Kalispell,"Kalispell, MT",Flathead County
+84241,59901,MT,202304,2041.97,0.0325,,Kalispell,"Kalispell, MT",Flathead County
+84241,59901,MT,202305,2076.61,0.017,,Kalispell,"Kalispell, MT",Flathead County
+84241,59901,MT,202306,2070.2,-0.0031,,Kalispell,"Kalispell, MT",Flathead County
+84241,59901,MT,202307,2058.39,-0.0057,,Kalispell,"Kalispell, MT",Flathead County
+84241,59901,MT,202308,2052.32,-0.0029,,Kalispell,"Kalispell, MT",Flathead County
+84241,59901,MT,202309,2036.36,-0.0078,,Kalispell,"Kalispell, MT",Flathead County
+84241,59901,MT,202310,1987.8,-0.0238,,Kalispell,"Kalispell, MT",Flathead County
+84241,59901,MT,202311,1961.11,-0.0134,,Kalispell,"Kalispell, MT",Flathead County
+84241,59901,MT,202312,1963.51,0.0012,,Kalispell,"Kalispell, MT",Flathead County
+84241,59901,MT,202401,1986.03,0.0115,,Kalispell,"Kalispell, MT",Flathead County
+84241,59901,MT,202402,2010.47,0.0123,0.0347,Kalispell,"Kalispell, MT",Flathead County
+84241,59901,MT,202403,2023.56,0.0065,0.0231,Kalispell,"Kalispell, MT",Flathead County
+84241,59901,MT,202404,2046.28,0.0112,0.0021,Kalispell,"Kalispell, MT",Flathead County
+84241,59901,MT,202405,2093.4,0.023,0.0081,Kalispell,"Kalispell, MT",Flathead County
+84241,59901,MT,202406,2112.45,0.0091,0.0204,Kalispell,"Kalispell, MT",Flathead County
+84241,59901,MT,202407,2139.7,0.0129,0.0395,Kalispell,"Kalispell, MT",Flathead County
+84241,59901,MT,202408,2107.47,-0.0151,0.0269,Kalispell,"Kalispell, MT",Flathead County
+84241,59901,MT,202409,2079.5,-0.0133,0.0212,Kalispell,"Kalispell, MT",Flathead County
+84241,59901,MT,202410,2049.59,-0.0144,0.0311,Kalispell,"Kalispell, MT",Flathead County
+84241,59901,MT,202411,2042.64,-0.0034,0.0416,Kalispell,"Kalispell, MT",Flathead County
+84241,59901,MT,202412,2026.96,-0.0077,0.0323,Kalispell,"Kalispell, MT",Flathead County
+84241,59901,MT,202501,2016.72,-0.0051,0.0155,Kalispell,"Kalispell, MT",Flathead County
+84241,59901,MT,202502,2015.03,-0.0008,0.0023,Kalispell,"Kalispell, MT",Flathead County
+84241,59901,MT,202503,2042.23,0.0135,0.0092,Kalispell,"Kalispell, MT",Flathead County
+84241,59901,MT,202504,2073.84,0.0155,0.0135,Kalispell,"Kalispell, MT",Flathead County
+84241,59901,MT,202505,2095.45,0.0104,0.001,Kalispell,"Kalispell, MT",Flathead County
+84241,59901,MT,202506,2095.83,0.0002,-0.0079,Kalispell,"Kalispell, MT",Flathead County
+84241,59901,MT,202507,2099.47,0.0017,-0.0188,Kalispell,"Kalispell, MT",Flathead County
+84241,59901,MT,202508,2101.64,0.001,-0.0028,Kalispell,"Kalispell, MT",Flathead County
+84241,59901,MT,202509,2122.67,0.01,0.0208,Kalispell,"Kalispell, MT",Flathead County
+84241,59901,MT,202510,2079.05,-0.0205,0.0144,Kalispell,"Kalispell, MT",Flathead County
+84241,59901,MT,202511,2068.49,-0.0051,0.0127,Kalispell,"Kalispell, MT",Flathead County
+84241,59901,MT,202512,2033.04,-0.0171,0.003,Kalispell,"Kalispell, MT",Flathead County
+84241,59901,MT,202601,2059.05,0.0128,0.021,Kalispell,"Kalispell, MT",Flathead County
+84241,59901,MT,202602,2069.12,0.0049,0.0268,Kalispell,"Kalispell, MT",Flathead County
+84241,59901,MT,202603,2091.41,0.0108,0.0241,Kalispell,"Kalispell, MT",Flathead County
+84246,59912,MT,202603,1416.67,,,Columbia Falls,"Kalispell, MT",Flathead County
+84270,59937,MT,202404,2481.69,,,Whitefish,"Kalispell, MT",Flathead County
+84270,59937,MT,202405,2527.39,0.0184,,Whitefish,"Kalispell, MT",Flathead County
+84270,59937,MT,202406,2564.51,0.0147,,Whitefish,"Kalispell, MT",Flathead County
+84270,59937,MT,202407,2560.35,-0.0016,,Whitefish,"Kalispell, MT",Flathead County
+84270,59937,MT,202408,2505.73,-0.0213,,Whitefish,"Kalispell, MT",Flathead County
+84270,59937,MT,202409,2452.58,-0.0212,,Whitefish,"Kalispell, MT",Flathead County
+84270,59937,MT,202410,2445.99,-0.0027,,Whitefish,"Kalispell, MT",Flathead County
+84270,59937,MT,202411,2398.13,-0.0196,,Whitefish,"Kalispell, MT",Flathead County
+84270,59937,MT,202412,2391.87,-0.0026,,Whitefish,"Kalispell, MT",Flathead County
+84270,59937,MT,202501,2317.99,-0.0309,,Whitefish,"Kalispell, MT",Flathead County
+84270,59937,MT,202502,2408.6,0.0391,,Whitefish,"Kalispell, MT",Flathead County
+84270,59937,MT,202503,2473.42,0.0269,,Whitefish,"Kalispell, MT",Flathead County
+84270,59937,MT,202504,2572.37,0.04,0.0365,Whitefish,"Kalispell, MT",Flathead County
+84270,59937,MT,202505,2607.1,0.0135,0.0315,Whitefish,"Kalispell, MT",Flathead County
+84270,59937,MT,202506,2657.77,0.0194,0.0364,Whitefish,"Kalispell, MT",Flathead County
+84270,59937,MT,202507,2736.48,0.0296,0.0688,Whitefish,"Kalispell, MT",Flathead County
+84270,59937,MT,202508,2665.83,-0.0258,0.0639,Whitefish,"Kalispell, MT",Flathead County
+84270,59937,MT,202509,2601.47,-0.0241,0.0607,Whitefish,"Kalispell, MT",Flathead County
+84270,59937,MT,202510,2516.12,-0.0328,0.0287,Whitefish,"Kalispell, MT",Flathead County
+84270,59937,MT,202511,2549.03,0.0131,0.0629,Whitefish,"Kalispell, MT",Flathead County
+84270,59937,MT,202601,2553.58,0.0018,0.0676,Whitefish,"Kalispell, MT",Flathead County
+84270,59937,MT,202602,2560.88,0.0029,0.1048,Whitefish,"Kalispell, MT",Flathead County
+84270,59937,MT,202603,2540.0,-0.0082,0.0546,Whitefish,"Kalispell, MT",Flathead County

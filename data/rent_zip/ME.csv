@@ -1,592 +1,613 @@
 RegionID,RegionName,State,month_date_yyyymm,zori,zori_mm,zori_yy,City,Metro,CountyName
-59282,3904,ME,202501,2578.38,,,Kittery,"Portland-South Portland, ME",York County
-59282,3904,ME,202502,2637.49,0.0229,,Kittery,"Portland-South Portland, ME",York County
-59282,3904,ME,202503,2714.82,0.0293,,Kittery,"Portland-South Portland, ME",York County
-59282,3904,ME,202504,2736.73,0.0081,,Kittery,"Portland-South Portland, ME",York County
-59282,3904,ME,202505,2751.68,0.0055,,Kittery,"Portland-South Portland, ME",York County
-59282,3904,ME,202506,2784.72,0.012,,Kittery,"Portland-South Portland, ME",York County
-59282,3904,ME,202507,2842.01,0.0206,,Kittery,"Portland-South Portland, ME",York County
-59282,3904,ME,202508,2870.46,0.01,,Kittery,"Portland-South Portland, ME",York County
-59282,3904,ME,202509,2892.13,0.0076,,Kittery,"Portland-South Portland, ME",York County
-59282,3904,ME,202510,2822.18,-0.0242,,Kittery,"Portland-South Portland, ME",York County
-59282,3904,ME,202511,2803.87,-0.0065,,Kittery,"Portland-South Portland, ME",York County
-59282,3904,ME,202512,2776.9,-0.0096,,Kittery,"Portland-South Portland, ME",York County
-59282,3904,ME,202601,2752.24,-0.0089,0.0674,Kittery,"Portland-South Portland, ME",York County
-59282,3904,ME,202602,2704.17,-0.0175,0.0253,Kittery,"Portland-South Portland, ME",York County
-59294,4005,ME,202212,1650.66,,,Biddeford,"Portland-South Portland, ME",York County
-59294,4005,ME,202301,1642.63,-0.0049,,Biddeford,"Portland-South Portland, ME",York County
-59294,4005,ME,202302,1654.07,0.007,,Biddeford,"Portland-South Portland, ME",York County
-59294,4005,ME,202303,1697.61,0.0263,,Biddeford,"Portland-South Portland, ME",York County
-59294,4005,ME,202304,1732.31,0.0204,,Biddeford,"Portland-South Portland, ME",York County
-59294,4005,ME,202305,1767.8,0.0205,,Biddeford,"Portland-South Portland, ME",York County
-59294,4005,ME,202306,1758.53,-0.0052,,Biddeford,"Portland-South Portland, ME",York County
-59294,4005,ME,202307,1799.47,0.0233,,Biddeford,"Portland-South Portland, ME",York County
-59294,4005,ME,202308,1798.53,-0.0005,,Biddeford,"Portland-South Portland, ME",York County
-59294,4005,ME,202309,1831.62,0.0184,,Biddeford,"Portland-South Portland, ME",York County
-59294,4005,ME,202310,1803.08,-0.0156,,Biddeford,"Portland-South Portland, ME",York County
-59294,4005,ME,202311,1791.37,-0.0065,,Biddeford,"Portland-South Portland, ME",York County
-59294,4005,ME,202312,1800.14,0.0049,0.0906,Biddeford,"Portland-South Portland, ME",York County
-59294,4005,ME,202401,1819.43,0.0107,0.1076,Biddeford,"Portland-South Portland, ME",York County
-59294,4005,ME,202402,1843.49,0.0132,0.1145,Biddeford,"Portland-South Portland, ME",York County
-59294,4005,ME,202403,1837.57,-0.0032,0.0824,Biddeford,"Portland-South Portland, ME",York County
-59294,4005,ME,202404,1857.66,0.0109,0.0724,Biddeford,"Portland-South Portland, ME",York County
-59294,4005,ME,202405,1878.77,0.0114,0.0628,Biddeford,"Portland-South Portland, ME",York County
-59294,4005,ME,202406,1882.29,0.0019,0.0704,Biddeford,"Portland-South Portland, ME",York County
-59294,4005,ME,202407,1857.03,-0.0134,0.032,Biddeford,"Portland-South Portland, ME",York County
-59294,4005,ME,202408,1864.16,0.0038,0.0365,Biddeford,"Portland-South Portland, ME",York County
-59294,4005,ME,202409,1860.45,-0.002,0.0157,Biddeford,"Portland-South Portland, ME",York County
-59294,4005,ME,202410,1813.03,-0.0255,0.0055,Biddeford,"Portland-South Portland, ME",York County
-59294,4005,ME,202411,1868.67,0.0307,0.0432,Biddeford,"Portland-South Portland, ME",York County
-59294,4005,ME,202412,1830.01,-0.0207,0.0166,Biddeford,"Portland-South Portland, ME",York County
-59294,4005,ME,202501,1929.97,0.0546,0.0608,Biddeford,"Portland-South Portland, ME",York County
-59294,4005,ME,202502,1925.94,-0.0021,0.0447,Biddeford,"Portland-South Portland, ME",York County
-59294,4005,ME,202503,2020.56,0.0491,0.0996,Biddeford,"Portland-South Portland, ME",York County
-59294,4005,ME,202504,2037.55,0.0084,0.0968,Biddeford,"Portland-South Portland, ME",York County
-59294,4005,ME,202505,2025.68,-0.0058,0.0782,Biddeford,"Portland-South Portland, ME",York County
-59294,4005,ME,202506,2003.03,-0.0112,0.0641,Biddeford,"Portland-South Portland, ME",York County
-59294,4005,ME,202507,1992.61,-0.0052,0.073,Biddeford,"Portland-South Portland, ME",York County
-59294,4005,ME,202508,1997.45,0.0024,0.0715,Biddeford,"Portland-South Portland, ME",York County
-59294,4005,ME,202509,2017.12,0.0098,0.0842,Biddeford,"Portland-South Portland, ME",York County
-59294,4005,ME,202510,2034.09,0.0084,0.1219,Biddeford,"Portland-South Portland, ME",York County
-59294,4005,ME,202511,2025.61,-0.0042,0.084,Biddeford,"Portland-South Portland, ME",York County
-59294,4005,ME,202512,2023.62,-0.001,0.1058,Biddeford,"Portland-South Portland, ME",York County
-59294,4005,ME,202601,2010.27,-0.0066,0.0416,Biddeford,"Portland-South Portland, ME",York County
-59294,4005,ME,202602,2021.48,0.0056,0.0496,Biddeford,"Portland-South Portland, ME",York County
-59300,4011,ME,202412,2039.65,,,Brunswick,"Portland-South Portland, ME",Cumberland County
-59300,4011,ME,202501,2042.46,0.0014,,Brunswick,"Portland-South Portland, ME",Cumberland County
-59300,4011,ME,202502,2132.28,0.044,,Brunswick,"Portland-South Portland, ME",Cumberland County
-59300,4011,ME,202503,2167.48,0.0165,,Brunswick,"Portland-South Portland, ME",Cumberland County
-59300,4011,ME,202504,2221.07,0.0247,,Brunswick,"Portland-South Portland, ME",Cumberland County
-59300,4011,ME,202505,2200.06,-0.0095,,Brunswick,"Portland-South Portland, ME",Cumberland County
-59300,4011,ME,202506,2217.0,0.0077,,Brunswick,"Portland-South Portland, ME",Cumberland County
-59300,4011,ME,202507,2224.54,0.0034,,Brunswick,"Portland-South Portland, ME",Cumberland County
-59300,4011,ME,202508,2201.04,-0.0106,,Brunswick,"Portland-South Portland, ME",Cumberland County
-59300,4011,ME,202509,2160.91,-0.0182,,Brunswick,"Portland-South Portland, ME",Cumberland County
-59300,4011,ME,202510,2153.06,-0.0036,,Brunswick,"Portland-South Portland, ME",Cumberland County
-59300,4011,ME,202511,2129.99,-0.0107,,Brunswick,"Portland-South Portland, ME",Cumberland County
-59300,4011,ME,202512,2098.41,-0.0148,0.0288,Brunswick,"Portland-South Portland, ME",Cumberland County
-59300,4011,ME,202601,2087.72,-0.0051,0.0222,Brunswick,"Portland-South Portland, ME",Cumberland County
-59300,4011,ME,202602,2119.94,0.0154,-0.0058,Brunswick,"Portland-South Portland, ME",Cumberland County
-59315,4032,ME,202601,2697.78,,,Freeport,"Portland-South Portland, ME",Cumberland County
-59315,4032,ME,202602,2700.0,0.0008,,Freeport,"Portland-South Portland, ME",Cumberland County
-59336,4062,ME,202602,2327.5,,,Windham,"Portland-South Portland, ME",Cumberland County
-59338,4064,ME,202503,2024.72,,,Old Orchard Beach,"Portland-South Portland, ME",York County
-59338,4064,ME,202504,2079.13,0.0269,,Old Orchard Beach,"Portland-South Portland, ME",York County
-59338,4064,ME,202505,2145.1,0.0317,,Old Orchard Beach,"Portland-South Portland, ME",York County
-59338,4064,ME,202506,2253.78,0.0507,,Old Orchard Beach,"Portland-South Portland, ME",York County
-59338,4064,ME,202507,2282.63,0.0128,,Old Orchard Beach,"Portland-South Portland, ME",York County
-59338,4064,ME,202508,2311.02,0.0124,,Old Orchard Beach,"Portland-South Portland, ME",York County
-59338,4064,ME,202509,2301.66,-0.004,,Old Orchard Beach,"Portland-South Portland, ME",York County
-59338,4064,ME,202510,2256.68,-0.0195,,Old Orchard Beach,"Portland-South Portland, ME",York County
-59338,4064,ME,202511,2213.18,-0.0193,,Old Orchard Beach,"Portland-South Portland, ME",York County
-59338,4064,ME,202512,2145.3,-0.0307,,Old Orchard Beach,"Portland-South Portland, ME",York County
-59338,4064,ME,202601,2143.57,-0.0008,,Old Orchard Beach,"Portland-South Portland, ME",York County
-59338,4064,ME,202602,2065.22,-0.0365,,Old Orchard Beach,"Portland-South Portland, ME",York County
-59344,4072,ME,202601,2118.79,,,Saco,"Portland-South Portland, ME",York County
-59344,4072,ME,202602,2177.08,0.0275,,Saco,"Portland-South Portland, ME",York County
-59345,4073,ME,202508,1668.99,,,Sanford,"Portland-South Portland, ME",York County
-59345,4073,ME,202509,1668.41,-0.0003,,Sanford,"Portland-South Portland, ME",York County
-59345,4073,ME,202510,1725.27,0.0341,,Sanford,"Portland-South Portland, ME",York County
-59345,4073,ME,202511,1707.53,-0.0103,,Sanford,"Portland-South Portland, ME",York County
-59345,4073,ME,202512,1660.37,-0.0276,,Sanford,"Portland-South Portland, ME",York County
-59345,4073,ME,202601,1690.53,0.0182,,Sanford,"Portland-South Portland, ME",York County
-59345,4073,ME,202602,1686.11,-0.0026,,Sanford,"Portland-South Portland, ME",York County
-59346,4074,ME,202408,2720.53,,,Scarborough,"Portland-South Portland, ME",Cumberland County
-59346,4074,ME,202409,2731.98,0.0042,,Scarborough,"Portland-South Portland, ME",Cumberland County
-59346,4074,ME,202410,2698.39,-0.0123,,Scarborough,"Portland-South Portland, ME",Cumberland County
-59346,4074,ME,202411,2570.91,-0.0472,,Scarborough,"Portland-South Portland, ME",Cumberland County
-59346,4074,ME,202412,2564.6,-0.0025,,Scarborough,"Portland-South Portland, ME",Cumberland County
-59346,4074,ME,202501,2609.68,0.0176,,Scarborough,"Portland-South Portland, ME",Cumberland County
-59346,4074,ME,202502,2764.46,0.0593,,Scarborough,"Portland-South Portland, ME",Cumberland County
-59346,4074,ME,202503,2797.04,0.0118,,Scarborough,"Portland-South Portland, ME",Cumberland County
-59346,4074,ME,202504,2831.89,0.0125,,Scarborough,"Portland-South Portland, ME",Cumberland County
-59346,4074,ME,202505,2762.47,-0.0245,,Scarborough,"Portland-South Portland, ME",Cumberland County
-59346,4074,ME,202506,2773.86,0.0041,,Scarborough,"Portland-South Portland, ME",Cumberland County
-59346,4074,ME,202507,2746.77,-0.0098,,Scarborough,"Portland-South Portland, ME",Cumberland County
-59346,4074,ME,202508,2687.04,-0.0217,-0.0123,Scarborough,"Portland-South Portland, ME",Cumberland County
-59346,4074,ME,202509,2634.46,-0.0196,-0.0357,Scarborough,"Portland-South Portland, ME",Cumberland County
-59346,4074,ME,202510,2605.21,-0.0111,-0.0345,Scarborough,"Portland-South Portland, ME",Cumberland County
-59346,4074,ME,202511,2631.76,0.0102,0.0237,Scarborough,"Portland-South Portland, ME",Cumberland County
-59346,4074,ME,202512,2768.0,0.0518,0.0793,Scarborough,"Portland-South Portland, ME",Cumberland County
-59346,4074,ME,202601,2910.22,0.0514,0.1152,Scarborough,"Portland-South Portland, ME",Cumberland County
-59346,4074,ME,202602,2950.56,0.0139,0.0673,Scarborough,"Portland-South Portland, ME",Cumberland County
-59353,4083,ME,202601,1882.96,,,Springvale,"Portland-South Portland, ME",York County
-59353,4083,ME,202602,1850.0,-0.0175,,Springvale,"Portland-South Portland, ME",York County
-59361,4092,ME,202602,2326.33,,,Westbrook,"Portland-South Portland, ME",Cumberland County
-59368,4101,ME,201602,1228.51,,,Portland,"Portland-South Portland, ME",Cumberland County
-59368,4101,ME,201603,1322.48,0.0765,,Portland,"Portland-South Portland, ME",Cumberland County
-59368,4101,ME,201604,1362.89,0.0306,,Portland,"Portland-South Portland, ME",Cumberland County
-59368,4101,ME,201605,1373.37,0.0077,,Portland,"Portland-South Portland, ME",Cumberland County
-59368,4101,ME,201606,1327.41,-0.0335,,Portland,"Portland-South Portland, ME",Cumberland County
-59368,4101,ME,201607,1326.31,-0.0008,,Portland,"Portland-South Portland, ME",Cumberland County
-59368,4101,ME,201608,1346.99,0.0156,,Portland,"Portland-South Portland, ME",Cumberland County
-59368,4101,ME,201609,1339.97,-0.0052,,Portland,"Portland-South Portland, ME",Cumberland County
-59368,4101,ME,201610,1331.22,-0.0065,,Portland,"Portland-South Portland, ME",Cumberland County
-59368,4101,ME,201611,1282.61,-0.0365,,Portland,"Portland-South Portland, ME",Cumberland County
-59368,4101,ME,201612,1300.13,0.0137,,Portland,"Portland-South Portland, ME",Cumberland County
-59368,4101,ME,201701,1302.1,0.0015,,Portland,"Portland-South Portland, ME",Cumberland County
-59368,4101,ME,201702,1327.55,0.0196,0.0806,Portland,"Portland-South Portland, ME",Cumberland County
-59368,4101,ME,201703,1320.29,-0.0055,-0.0017,Portland,"Portland-South Portland, ME",Cumberland County
-59368,4101,ME,201704,1322.26,0.0015,-0.0298,Portland,"Portland-South Portland, ME",Cumberland County
-59368,4101,ME,201705,1343.9,0.0164,-0.0215,Portland,"Portland-South Portland, ME",Cumberland County
-59368,4101,ME,201706,1350.12,0.0046,0.0171,Portland,"Portland-South Portland, ME",Cumberland County
-59368,4101,ME,201707,1379.08,0.0215,0.0398,Portland,"Portland-South Portland, ME",Cumberland County
-59368,4101,ME,201708,1394.9,0.0115,0.0356,Portland,"Portland-South Portland, ME",Cumberland County
-59368,4101,ME,201709,1392.7,-0.0016,0.0394,Portland,"Portland-South Portland, ME",Cumberland County
-59368,4101,ME,201710,1385.28,-0.0053,0.0406,Portland,"Portland-South Portland, ME",Cumberland County
-59368,4101,ME,201711,1377.37,-0.0057,0.0739,Portland,"Portland-South Portland, ME",Cumberland County
-59368,4101,ME,201712,1372.87,-0.0033,0.0559,Portland,"Portland-South Portland, ME",Cumberland County
-59368,4101,ME,201801,1351.94,-0.0152,0.0383,Portland,"Portland-South Portland, ME",Cumberland County
-59368,4101,ME,201802,1392.76,0.0302,0.0491,Portland,"Portland-South Portland, ME",Cumberland County
-59368,4101,ME,201803,1416.93,0.0174,0.0732,Portland,"Portland-South Portland, ME",Cumberland County
-59368,4101,ME,201804,1458.65,0.0294,0.1031,Portland,"Portland-South Portland, ME",Cumberland County
-59368,4101,ME,201805,1446.97,-0.008,0.0767,Portland,"Portland-South Portland, ME",Cumberland County
-59368,4101,ME,201806,1451.72,0.0033,0.0753,Portland,"Portland-South Portland, ME",Cumberland County
-59368,4101,ME,201807,1452.4,0.0005,0.0532,Portland,"Portland-South Portland, ME",Cumberland County
-59368,4101,ME,201808,1449.03,-0.0023,0.0388,Portland,"Portland-South Portland, ME",Cumberland County
-59368,4101,ME,201809,1457.9,0.0061,0.0468,Portland,"Portland-South Portland, ME",Cumberland County
-59368,4101,ME,201810,1464.5,0.0045,0.0572,Portland,"Portland-South Portland, ME",Cumberland County
-59368,4101,ME,201811,1445.02,-0.0133,0.0491,Portland,"Portland-South Portland, ME",Cumberland County
-59368,4101,ME,201812,1433.89,-0.0077,0.0444,Portland,"Portland-South Portland, ME",Cumberland County
-59368,4101,ME,201901,1422.76,-0.0078,0.0524,Portland,"Portland-South Portland, ME",Cumberland County
-59368,4101,ME,201902,1460.2,0.0263,0.0484,Portland,"Portland-South Portland, ME",Cumberland County
-59368,4101,ME,201903,1488.14,0.0191,0.0503,Portland,"Portland-South Portland, ME",Cumberland County
-59368,4101,ME,201904,1521.74,0.0226,0.0433,Portland,"Portland-South Portland, ME",Cumberland County
-59368,4101,ME,201905,1530.15,0.0055,0.0575,Portland,"Portland-South Portland, ME",Cumberland County
-59368,4101,ME,201906,1539.51,0.0061,0.0605,Portland,"Portland-South Portland, ME",Cumberland County
-59368,4101,ME,201907,1566.1,0.0173,0.0783,Portland,"Portland-South Portland, ME",Cumberland County
-59368,4101,ME,201908,1551.72,-0.0092,0.0709,Portland,"Portland-South Portland, ME",Cumberland County
-59368,4101,ME,201909,1546.3,-0.0035,0.0606,Portland,"Portland-South Portland, ME",Cumberland County
-59368,4101,ME,201910,1525.27,-0.0136,0.0415,Portland,"Portland-South Portland, ME",Cumberland County
-59368,4101,ME,201911,1518.9,-0.0042,0.0511,Portland,"Portland-South Portland, ME",Cumberland County
-59368,4101,ME,201912,1502.97,-0.0105,0.0482,Portland,"Portland-South Portland, ME",Cumberland County
-59368,4101,ME,202001,1507.31,0.0029,0.0594,Portland,"Portland-South Portland, ME",Cumberland County
-59368,4101,ME,202002,1550.66,0.0288,0.062,Portland,"Portland-South Portland, ME",Cumberland County
-59368,4101,ME,202003,1595.18,0.0287,0.0719,Portland,"Portland-South Portland, ME",Cumberland County
-59368,4101,ME,202004,1600.52,0.0033,0.0518,Portland,"Portland-South Portland, ME",Cumberland County
-59368,4101,ME,202005,1596.07,-0.0028,0.0431,Portland,"Portland-South Portland, ME",Cumberland County
-59368,4101,ME,202006,1601.54,0.0034,0.0403,Portland,"Portland-South Portland, ME",Cumberland County
-59368,4101,ME,202007,1634.28,0.0204,0.0435,Portland,"Portland-South Portland, ME",Cumberland County
-59368,4101,ME,202008,1654.26,0.0122,0.0661,Portland,"Portland-South Portland, ME",Cumberland County
-59368,4101,ME,202009,1656.9,0.0016,0.0715,Portland,"Portland-South Portland, ME",Cumberland County
-59368,4101,ME,202010,1648.95,-0.0048,0.0811,Portland,"Portland-South Portland, ME",Cumberland County
-59368,4101,ME,202011,1657.94,0.0055,0.0915,Portland,"Portland-South Portland, ME",Cumberland County
-59368,4101,ME,202012,1641.1,-0.0102,0.0919,Portland,"Portland-South Portland, ME",Cumberland County
-59368,4101,ME,202101,1656.25,0.0092,0.0988,Portland,"Portland-South Portland, ME",Cumberland County
-59368,4101,ME,202102,1677.43,0.0128,0.0818,Portland,"Portland-South Portland, ME",Cumberland County
-59368,4101,ME,202103,1709.53,0.0191,0.0717,Portland,"Portland-South Portland, ME",Cumberland County
-59368,4101,ME,202104,1716.19,0.0039,0.0723,Portland,"Portland-South Portland, ME",Cumberland County
-59368,4101,ME,202105,1717.02,0.0005,0.0758,Portland,"Portland-South Portland, ME",Cumberland County
-59368,4101,ME,202106,1748.27,0.0182,0.0916,Portland,"Portland-South Portland, ME",Cumberland County
-59368,4101,ME,202107,1791.1,0.0245,0.096,Portland,"Portland-South Portland, ME",Cumberland County
-59368,4101,ME,202108,1816.06,0.0139,0.0978,Portland,"Portland-South Portland, ME",Cumberland County
-59368,4101,ME,202109,1844.28,0.0155,0.1131,Portland,"Portland-South Portland, ME",Cumberland County
-59368,4101,ME,202110,1826.26,-0.0098,0.1075,Portland,"Portland-South Portland, ME",Cumberland County
-59368,4101,ME,202111,1840.35,0.0077,0.11,Portland,"Portland-South Portland, ME",Cumberland County
-59368,4101,ME,202112,1823.94,-0.0089,0.1114,Portland,"Portland-South Portland, ME",Cumberland County
-59368,4101,ME,202201,1812.27,-0.0064,0.0942,Portland,"Portland-South Portland, ME",Cumberland County
-59368,4101,ME,202202,1832.85,0.0114,0.0927,Portland,"Portland-South Portland, ME",Cumberland County
-59368,4101,ME,202203,1865.86,0.018,0.0914,Portland,"Portland-South Portland, ME",Cumberland County
-59368,4101,ME,202204,1930.25,0.0345,0.1247,Portland,"Portland-South Portland, ME",Cumberland County
-59368,4101,ME,202205,1949.2,0.0098,0.1352,Portland,"Portland-South Portland, ME",Cumberland County
-59368,4101,ME,202206,1958.91,0.005,0.1205,Portland,"Portland-South Portland, ME",Cumberland County
-59368,4101,ME,202207,1969.15,0.0052,0.0994,Portland,"Portland-South Portland, ME",Cumberland County
-59368,4101,ME,202208,2002.73,0.0171,0.1028,Portland,"Portland-South Portland, ME",Cumberland County
-59368,4101,ME,202209,2003.03,0.0001,0.0861,Portland,"Portland-South Portland, ME",Cumberland County
-59368,4101,ME,202210,2012.64,0.0048,0.1021,Portland,"Portland-South Portland, ME",Cumberland County
-59368,4101,ME,202211,2005.46,-0.0036,0.0897,Portland,"Portland-South Portland, ME",Cumberland County
-59368,4101,ME,202212,1992.39,-0.0065,0.0924,Portland,"Portland-South Portland, ME",Cumberland County
-59368,4101,ME,202301,1980.99,-0.0057,0.0931,Portland,"Portland-South Portland, ME",Cumberland County
-59368,4101,ME,202302,1951.46,-0.0149,0.0647,Portland,"Portland-South Portland, ME",Cumberland County
-59368,4101,ME,202303,2006.29,0.0281,0.0753,Portland,"Portland-South Portland, ME",Cumberland County
-59368,4101,ME,202304,2044.82,0.0192,0.0594,Portland,"Portland-South Portland, ME",Cumberland County
-59368,4101,ME,202305,2073.96,0.0143,0.064,Portland,"Portland-South Portland, ME",Cumberland County
-59368,4101,ME,202306,2070.24,-0.0018,0.0568,Portland,"Portland-South Portland, ME",Cumberland County
-59368,4101,ME,202307,2084.37,0.0068,0.0585,Portland,"Portland-South Portland, ME",Cumberland County
-59368,4101,ME,202308,2116.69,0.0155,0.0569,Portland,"Portland-South Portland, ME",Cumberland County
-59368,4101,ME,202309,2118.26,0.0007,0.0575,Portland,"Portland-South Portland, ME",Cumberland County
-59368,4101,ME,202310,2097.41,-0.0098,0.0421,Portland,"Portland-South Portland, ME",Cumberland County
-59368,4101,ME,202311,2083.21,-0.0068,0.0388,Portland,"Portland-South Portland, ME",Cumberland County
-59368,4101,ME,202312,2044.85,-0.0184,0.0263,Portland,"Portland-South Portland, ME",Cumberland County
-59368,4101,ME,202401,2045.79,0.0005,0.0327,Portland,"Portland-South Portland, ME",Cumberland County
-59368,4101,ME,202402,2055.47,0.0047,0.0533,Portland,"Portland-South Portland, ME",Cumberland County
-59368,4101,ME,202403,2121.18,0.032,0.0573,Portland,"Portland-South Portland, ME",Cumberland County
-59368,4101,ME,202404,2164.0,0.0202,0.0583,Portland,"Portland-South Portland, ME",Cumberland County
-59368,4101,ME,202405,2172.71,0.004,0.0476,Portland,"Portland-South Portland, ME",Cumberland County
-59368,4101,ME,202406,2183.87,0.0051,0.0549,Portland,"Portland-South Portland, ME",Cumberland County
-59368,4101,ME,202407,2186.67,0.0013,0.0491,Portland,"Portland-South Portland, ME",Cumberland County
-59368,4101,ME,202408,2189.62,0.0014,0.0345,Portland,"Portland-South Portland, ME",Cumberland County
-59368,4101,ME,202409,2190.83,0.0006,0.0343,Portland,"Portland-South Portland, ME",Cumberland County
-59368,4101,ME,202410,2174.65,-0.0074,0.0368,Portland,"Portland-South Portland, ME",Cumberland County
-59368,4101,ME,202411,2183.85,0.0042,0.0483,Portland,"Portland-South Portland, ME",Cumberland County
-59368,4101,ME,202412,2164.8,-0.0087,0.0587,Portland,"Portland-South Portland, ME",Cumberland County
-59368,4101,ME,202501,2160.24,-0.0021,0.0559,Portland,"Portland-South Portland, ME",Cumberland County
-59368,4101,ME,202502,2169.43,0.0043,0.0554,Portland,"Portland-South Portland, ME",Cumberland County
-59368,4101,ME,202503,2202.24,0.0151,0.0382,Portland,"Portland-South Portland, ME",Cumberland County
-59368,4101,ME,202504,2239.51,0.0169,0.0349,Portland,"Portland-South Portland, ME",Cumberland County
-59368,4101,ME,202505,2259.4,0.0089,0.0399,Portland,"Portland-South Portland, ME",Cumberland County
-59368,4101,ME,202506,2292.27,0.0145,0.0496,Portland,"Portland-South Portland, ME",Cumberland County
-59368,4101,ME,202507,2295.36,0.0014,0.0497,Portland,"Portland-South Portland, ME",Cumberland County
-59368,4101,ME,202508,2276.95,-0.008,0.0399,Portland,"Portland-South Portland, ME",Cumberland County
-59368,4101,ME,202509,2243.51,-0.0147,0.024,Portland,"Portland-South Portland, ME",Cumberland County
-59368,4101,ME,202510,2229.66,-0.0062,0.0253,Portland,"Portland-South Portland, ME",Cumberland County
-59368,4101,ME,202511,2245.41,0.0071,0.0282,Portland,"Portland-South Portland, ME",Cumberland County
-59368,4101,ME,202512,2253.86,0.0038,0.0411,Portland,"Portland-South Portland, ME",Cumberland County
-59368,4101,ME,202601,2251.61,-0.001,0.0423,Portland,"Portland-South Portland, ME",Cumberland County
-59368,4101,ME,202602,2243.6,-0.0036,0.0342,Portland,"Portland-South Portland, ME",Cumberland County
-59369,4102,ME,202106,1637.14,,,Portland,"Portland-South Portland, ME",Cumberland County
-59369,4102,ME,202107,1654.51,0.0106,,Portland,"Portland-South Portland, ME",Cumberland County
-59369,4102,ME,202108,1654.52,0.0,,Portland,"Portland-South Portland, ME",Cumberland County
-59369,4102,ME,202109,1655.2,0.0004,,Portland,"Portland-South Portland, ME",Cumberland County
-59369,4102,ME,202110,1676.28,0.0127,,Portland,"Portland-South Portland, ME",Cumberland County
-59369,4102,ME,202111,1718.14,0.025,,Portland,"Portland-South Portland, ME",Cumberland County
-59369,4102,ME,202112,1741.91,0.0138,,Portland,"Portland-South Portland, ME",Cumberland County
-59369,4102,ME,202201,1740.07,-0.0011,,Portland,"Portland-South Portland, ME",Cumberland County
-59369,4102,ME,202203,1708.52,-0.0181,,Portland,"Portland-South Portland, ME",Cumberland County
-59369,4102,ME,202204,1735.56,0.0158,,Portland,"Portland-South Portland, ME",Cumberland County
-59369,4102,ME,202205,1811.93,0.044,,Portland,"Portland-South Portland, ME",Cumberland County
-59369,4102,ME,202206,1837.25,0.014,,Portland,"Portland-South Portland, ME",Cumberland County
-59369,4102,ME,202207,1855.72,0.01,0.1335,Portland,"Portland-South Portland, ME",Cumberland County
-59369,4102,ME,202208,1854.78,-0.0005,0.121,Portland,"Portland-South Portland, ME",Cumberland County
-59369,4102,ME,202209,1876.26,0.0116,0.134,Portland,"Portland-South Portland, ME",Cumberland County
-59369,4102,ME,202210,1902.14,0.0138,0.1492,Portland,"Portland-South Portland, ME",Cumberland County
-59369,4102,ME,202211,1918.81,0.0088,0.1447,Portland,"Portland-South Portland, ME",Cumberland County
-59369,4102,ME,202212,1876.54,-0.022,0.0922,Portland,"Portland-South Portland, ME",Cumberland County
-59369,4102,ME,202301,1842.08,-0.0184,0.0575,Portland,"Portland-South Portland, ME",Cumberland County
-59369,4102,ME,202302,1858.08,0.0087,0.0678,Portland,"Portland-South Portland, ME",Cumberland County
-59369,4102,ME,202303,1881.15,0.0124,0.101,Portland,"Portland-South Portland, ME",Cumberland County
-59369,4102,ME,202304,1911.61,0.0162,0.1014,Portland,"Portland-South Portland, ME",Cumberland County
-59369,4102,ME,202305,1918.63,0.0037,0.0589,Portland,"Portland-South Portland, ME",Cumberland County
-59369,4102,ME,202306,1938.23,0.0102,0.055,Portland,"Portland-South Portland, ME",Cumberland County
-59369,4102,ME,202307,1985.63,0.0245,0.07,Portland,"Portland-South Portland, ME",Cumberland County
-59369,4102,ME,202308,1981.72,-0.002,0.0684,Portland,"Portland-South Portland, ME",Cumberland County
-59369,4102,ME,202309,1998.51,0.0085,0.0652,Portland,"Portland-South Portland, ME",Cumberland County
-59369,4102,ME,202310,1941.97,-0.0283,0.0209,Portland,"Portland-South Portland, ME",Cumberland County
-59369,4102,ME,202311,1970.17,0.0145,0.0268,Portland,"Portland-South Portland, ME",Cumberland County
-59369,4102,ME,202312,1957.72,-0.0063,0.0433,Portland,"Portland-South Portland, ME",Cumberland County
-59369,4102,ME,202401,1956.9,-0.0004,0.0623,Portland,"Portland-South Portland, ME",Cumberland County
-59369,4102,ME,202402,1941.49,-0.0079,0.0449,Portland,"Portland-South Portland, ME",Cumberland County
-59369,4102,ME,202403,1960.41,0.0097,0.0421,Portland,"Portland-South Portland, ME",Cumberland County
-59369,4102,ME,202404,1993.06,0.0167,0.0426,Portland,"Portland-South Portland, ME",Cumberland County
-59369,4102,ME,202405,2009.39,0.0082,0.0473,Portland,"Portland-South Portland, ME",Cumberland County
-59369,4102,ME,202406,2011.85,0.0012,0.038,Portland,"Portland-South Portland, ME",Cumberland County
-59369,4102,ME,202407,1998.99,-0.0064,0.0067,Portland,"Portland-South Portland, ME",Cumberland County
-59369,4102,ME,202408,2003.41,0.0022,0.0109,Portland,"Portland-South Portland, ME",Cumberland County
-59369,4102,ME,202409,1988.68,-0.0073,-0.0049,Portland,"Portland-South Portland, ME",Cumberland County
-59369,4102,ME,202410,2003.91,0.0077,0.0319,Portland,"Portland-South Portland, ME",Cumberland County
-59369,4102,ME,202411,2011.82,0.0039,0.0211,Portland,"Portland-South Portland, ME",Cumberland County
-59369,4102,ME,202412,1993.3,-0.0092,0.0182,Portland,"Portland-South Portland, ME",Cumberland County
-59369,4102,ME,202501,1991.6,-0.0009,0.0177,Portland,"Portland-South Portland, ME",Cumberland County
-59369,4102,ME,202502,2000.33,0.0044,0.0303,Portland,"Portland-South Portland, ME",Cumberland County
-59369,4102,ME,202503,2033.94,0.0168,0.0375,Portland,"Portland-South Portland, ME",Cumberland County
-59369,4102,ME,202504,2068.65,0.0171,0.0379,Portland,"Portland-South Portland, ME",Cumberland County
-59369,4102,ME,202505,2076.66,0.0039,0.0335,Portland,"Portland-South Portland, ME",Cumberland County
-59369,4102,ME,202506,2061.06,-0.0075,0.0245,Portland,"Portland-South Portland, ME",Cumberland County
-59369,4102,ME,202507,2045.88,-0.0074,0.0235,Portland,"Portland-South Portland, ME",Cumberland County
-59369,4102,ME,202508,2052.31,0.0031,0.0244,Portland,"Portland-South Portland, ME",Cumberland County
-59369,4102,ME,202509,2093.34,0.02,0.0526,Portland,"Portland-South Portland, ME",Cumberland County
-59369,4102,ME,202510,2102.97,0.0046,0.0494,Portland,"Portland-South Portland, ME",Cumberland County
-59369,4102,ME,202511,2093.81,-0.0044,0.0408,Portland,"Portland-South Portland, ME",Cumberland County
-59369,4102,ME,202512,2095.25,0.0007,0.0511,Portland,"Portland-South Portland, ME",Cumberland County
-59369,4102,ME,202601,2085.55,-0.0046,0.0472,Portland,"Portland-South Portland, ME",Cumberland County
-59369,4102,ME,202602,2088.14,0.0012,0.0439,Portland,"Portland-South Portland, ME",Cumberland County
-59370,4103,ME,202202,1931.25,,,Portland,"Portland-South Portland, ME",Cumberland County
-59370,4103,ME,202203,1937.25,0.0031,,Portland,"Portland-South Portland, ME",Cumberland County
-59370,4103,ME,202204,1948.91,0.006,,Portland,"Portland-South Portland, ME",Cumberland County
-59370,4103,ME,202205,2036.16,0.0448,,Portland,"Portland-South Portland, ME",Cumberland County
-59370,4103,ME,202206,2053.81,0.0087,,Portland,"Portland-South Portland, ME",Cumberland County
-59370,4103,ME,202207,2118.4,0.0314,,Portland,"Portland-South Portland, ME",Cumberland County
-59370,4103,ME,202208,2110.13,-0.0039,,Portland,"Portland-South Portland, ME",Cumberland County
-59370,4103,ME,202209,2145.55,0.0168,,Portland,"Portland-South Portland, ME",Cumberland County
-59370,4103,ME,202210,2136.52,-0.0042,,Portland,"Portland-South Portland, ME",Cumberland County
-59370,4103,ME,202211,2127.92,-0.004,,Portland,"Portland-South Portland, ME",Cumberland County
-59370,4103,ME,202212,2084.89,-0.0202,,Portland,"Portland-South Portland, ME",Cumberland County
-59370,4103,ME,202301,2046.05,-0.0186,,Portland,"Portland-South Portland, ME",Cumberland County
-59370,4103,ME,202302,2044.2,-0.0009,0.0585,Portland,"Portland-South Portland, ME",Cumberland County
-59370,4103,ME,202303,2074.31,0.0147,0.0707,Portland,"Portland-South Portland, ME",Cumberland County
-59370,4103,ME,202304,2086.78,0.006,0.0707,Portland,"Portland-South Portland, ME",Cumberland County
-59370,4103,ME,202305,2127.22,0.0194,0.0447,Portland,"Portland-South Portland, ME",Cumberland County
-59370,4103,ME,202306,2163.95,0.0173,0.0536,Portland,"Portland-South Portland, ME",Cumberland County
-59370,4103,ME,202307,2223.94,0.0277,0.0498,Portland,"Portland-South Portland, ME",Cumberland County
-59370,4103,ME,202308,2221.18,-0.0012,0.0526,Portland,"Portland-South Portland, ME",Cumberland County
-59370,4103,ME,202309,2237.06,0.0071,0.0427,Portland,"Portland-South Portland, ME",Cumberland County
-59370,4103,ME,202310,2226.53,-0.0047,0.0421,Portland,"Portland-South Portland, ME",Cumberland County
-59370,4103,ME,202311,2194.53,-0.0144,0.0313,Portland,"Portland-South Portland, ME",Cumberland County
-59370,4103,ME,202312,2131.47,-0.0287,0.0223,Portland,"Portland-South Portland, ME",Cumberland County
-59370,4103,ME,202401,2109.77,-0.0102,0.0311,Portland,"Portland-South Portland, ME",Cumberland County
-59370,4103,ME,202402,2155.08,0.0215,0.0542,Portland,"Portland-South Portland, ME",Cumberland County
-59370,4103,ME,202403,2189.54,0.016,0.0556,Portland,"Portland-South Portland, ME",Cumberland County
-59370,4103,ME,202404,2247.05,0.0263,0.0768,Portland,"Portland-South Portland, ME",Cumberland County
-59370,4103,ME,202405,2290.59,0.0194,0.0768,Portland,"Portland-South Portland, ME",Cumberland County
-59370,4103,ME,202406,2311.67,0.0092,0.0683,Portland,"Portland-South Portland, ME",Cumberland County
-59370,4103,ME,202407,2331.73,0.0087,0.0485,Portland,"Portland-South Portland, ME",Cumberland County
-59370,4103,ME,202408,2331.42,-0.0001,0.0496,Portland,"Portland-South Portland, ME",Cumberland County
-59370,4103,ME,202409,2366.11,0.0149,0.0577,Portland,"Portland-South Portland, ME",Cumberland County
-59370,4103,ME,202410,2324.21,-0.0177,0.0439,Portland,"Portland-South Portland, ME",Cumberland County
-59370,4103,ME,202411,2270.67,-0.023,0.0347,Portland,"Portland-South Portland, ME",Cumberland County
-59370,4103,ME,202412,2216.97,-0.0236,0.0401,Portland,"Portland-South Portland, ME",Cumberland County
-59370,4103,ME,202501,2245.2,0.0127,0.0642,Portland,"Portland-South Portland, ME",Cumberland County
-59370,4103,ME,202502,2240.59,-0.0021,0.0397,Portland,"Portland-South Portland, ME",Cumberland County
-59370,4103,ME,202503,2269.18,0.0128,0.0364,Portland,"Portland-South Portland, ME",Cumberland County
-59370,4103,ME,202504,2255.63,-0.006,0.0038,Portland,"Portland-South Portland, ME",Cumberland County
-59370,4103,ME,202505,2319.63,0.0284,0.0127,Portland,"Portland-South Portland, ME",Cumberland County
-59370,4103,ME,202506,2332.83,0.0057,0.0091,Portland,"Portland-South Portland, ME",Cumberland County
-59370,4103,ME,202507,2432.03,0.0425,0.043,Portland,"Portland-South Portland, ME",Cumberland County
-59370,4103,ME,202508,2489.22,0.0235,0.0677,Portland,"Portland-South Portland, ME",Cumberland County
-59370,4103,ME,202509,2535.25,0.0185,0.0715,Portland,"Portland-South Portland, ME",Cumberland County
-59370,4103,ME,202510,2491.11,-0.0174,0.0718,Portland,"Portland-South Portland, ME",Cumberland County
-59370,4103,ME,202511,2457.42,-0.0135,0.0822,Portland,"Portland-South Portland, ME",Cumberland County
-59370,4103,ME,202512,2360.53,-0.0394,0.0648,Portland,"Portland-South Portland, ME",Cumberland County
-59370,4103,ME,202601,2363.64,0.0013,0.0528,Portland,"Portland-South Portland, ME",Cumberland County
-59370,4103,ME,202602,2377.02,0.0057,0.0609,Portland,"Portland-South Portland, ME",Cumberland County
-59372,4105,ME,202512,2974.22,,,Falmouth,"Portland-South Portland, ME",Cumberland County
-59372,4105,ME,202601,2956.89,-0.0058,,Falmouth,"Portland-South Portland, ME",Cumberland County
-59372,4105,ME,202602,3000.0,0.0146,,Falmouth,"Portland-South Portland, ME",Cumberland County
-59373,4106,ME,202102,1718.16,,,South Portland,"Portland-South Portland, ME",Cumberland County
-59373,4106,ME,202103,1739.14,0.0122,,South Portland,"Portland-South Portland, ME",Cumberland County
-59373,4106,ME,202104,1790.71,0.0297,,South Portland,"Portland-South Portland, ME",Cumberland County
-59373,4106,ME,202105,1797.59,0.0038,,South Portland,"Portland-South Portland, ME",Cumberland County
-59373,4106,ME,202106,1852.87,0.0308,,South Portland,"Portland-South Portland, ME",Cumberland County
-59373,4106,ME,202107,1895.99,0.0233,,South Portland,"Portland-South Portland, ME",Cumberland County
-59373,4106,ME,202108,1953.6,0.0304,,South Portland,"Portland-South Portland, ME",Cumberland County
-59373,4106,ME,202109,1951.67,-0.001,,South Portland,"Portland-South Portland, ME",Cumberland County
-59373,4106,ME,202110,1943.33,-0.0043,,South Portland,"Portland-South Portland, ME",Cumberland County
-59373,4106,ME,202111,1920.87,-0.0116,,South Portland,"Portland-South Portland, ME",Cumberland County
-59373,4106,ME,202112,1937.59,0.0087,,South Portland,"Portland-South Portland, ME",Cumberland County
-59373,4106,ME,202201,1970.4,0.0169,,South Portland,"Portland-South Portland, ME",Cumberland County
-59373,4106,ME,202202,1996.11,0.0131,0.1618,South Portland,"Portland-South Portland, ME",Cumberland County
-59373,4106,ME,202203,2039.13,0.0216,0.1725,South Portland,"Portland-South Portland, ME",Cumberland County
-59373,4106,ME,202204,2050.72,0.0057,0.1452,South Portland,"Portland-South Portland, ME",Cumberland County
-59373,4106,ME,202205,2138.37,0.0427,0.1896,South Portland,"Portland-South Portland, ME",Cumberland County
-59373,4106,ME,202206,2178.15,0.0186,0.1756,South Portland,"Portland-South Portland, ME",Cumberland County
-59373,4106,ME,202207,2231.81,0.0246,0.1771,South Portland,"Portland-South Portland, ME",Cumberland County
-59373,4106,ME,202208,2226.83,-0.0022,0.1399,South Portland,"Portland-South Portland, ME",Cumberland County
-59373,4106,ME,202209,2208.1,-0.0084,0.1314,South Portland,"Portland-South Portland, ME",Cumberland County
-59373,4106,ME,202210,2177.93,-0.0137,0.1207,South Portland,"Portland-South Portland, ME",Cumberland County
-59373,4106,ME,202211,2117.6,-0.0277,0.1024,South Portland,"Portland-South Portland, ME",Cumberland County
-59373,4106,ME,202212,2089.32,-0.0134,0.0783,South Portland,"Portland-South Portland, ME",Cumberland County
-59373,4106,ME,202301,2098.9,0.0046,0.0652,South Portland,"Portland-South Portland, ME",Cumberland County
-59373,4106,ME,202302,2139.8,0.0195,0.072,South Portland,"Portland-South Portland, ME",Cumberland County
-59373,4106,ME,202303,2165.72,0.0121,0.0621,South Portland,"Portland-South Portland, ME",Cumberland County
-59373,4106,ME,202304,2189.94,0.0112,0.0679,South Portland,"Portland-South Portland, ME",Cumberland County
-59373,4106,ME,202305,2202.51,0.0057,0.03,South Portland,"Portland-South Portland, ME",Cumberland County
-59373,4106,ME,202306,2229.93,0.0125,0.0238,South Portland,"Portland-South Portland, ME",Cumberland County
-59373,4106,ME,202307,2247.76,0.008,0.0071,South Portland,"Portland-South Portland, ME",Cumberland County
-59373,4106,ME,202308,2252.76,0.0022,0.0116,South Portland,"Portland-South Portland, ME",Cumberland County
-59373,4106,ME,202309,2223.12,-0.0132,0.0068,South Portland,"Portland-South Portland, ME",Cumberland County
-59373,4106,ME,202310,2176.01,-0.0212,-0.0009,South Portland,"Portland-South Portland, ME",Cumberland County
-59373,4106,ME,202311,2160.37,-0.0072,0.0202,South Portland,"Portland-South Portland, ME",Cumberland County
-59373,4106,ME,202312,2154.37,-0.0028,0.0311,South Portland,"Portland-South Portland, ME",Cumberland County
-59373,4106,ME,202401,2188.21,0.0157,0.0426,South Portland,"Portland-South Portland, ME",Cumberland County
-59373,4106,ME,202402,2181.37,-0.0031,0.0194,South Portland,"Portland-South Portland, ME",Cumberland County
-59373,4106,ME,202403,2197.06,0.0072,0.0145,South Portland,"Portland-South Portland, ME",Cumberland County
-59373,4106,ME,202404,2206.03,0.0041,0.0073,South Portland,"Portland-South Portland, ME",Cumberland County
-59373,4106,ME,202405,2237.64,0.0143,0.016,South Portland,"Portland-South Portland, ME",Cumberland County
-59373,4106,ME,202406,2250.46,0.0057,0.0092,South Portland,"Portland-South Portland, ME",Cumberland County
-59373,4106,ME,202407,2245.41,-0.0022,-0.001,South Portland,"Portland-South Portland, ME",Cumberland County
-59373,4106,ME,202408,2279.43,0.0152,0.0118,South Portland,"Portland-South Portland, ME",Cumberland County
-59373,4106,ME,202409,2301.17,0.0095,0.0351,South Portland,"Portland-South Portland, ME",Cumberland County
-59373,4106,ME,202410,2332.08,0.0134,0.0717,South Portland,"Portland-South Portland, ME",Cumberland County
-59373,4106,ME,202411,2323.25,-0.0038,0.0754,South Portland,"Portland-South Portland, ME",Cumberland County
-59373,4106,ME,202412,2338.4,0.0065,0.0854,South Portland,"Portland-South Portland, ME",Cumberland County
-59373,4106,ME,202501,2325.96,-0.0053,0.063,South Portland,"Portland-South Portland, ME",Cumberland County
-59373,4106,ME,202502,2297.81,-0.0121,0.0534,South Portland,"Portland-South Portland, ME",Cumberland County
-59373,4106,ME,202503,2294.9,-0.0013,0.0445,South Portland,"Portland-South Portland, ME",Cumberland County
-59373,4106,ME,202504,2325.89,0.0135,0.0543,South Portland,"Portland-South Portland, ME",Cumberland County
-59373,4106,ME,202505,2382.29,0.0242,0.0646,South Portland,"Portland-South Portland, ME",Cumberland County
-59373,4106,ME,202506,2412.97,0.0129,0.0722,South Portland,"Portland-South Portland, ME",Cumberland County
-59373,4106,ME,202507,2425.19,0.0051,0.0801,South Portland,"Portland-South Portland, ME",Cumberland County
-59373,4106,ME,202508,2435.98,0.0044,0.0687,South Portland,"Portland-South Portland, ME",Cumberland County
-59373,4106,ME,202509,2437.06,0.0004,0.0591,South Portland,"Portland-South Portland, ME",Cumberland County
-59373,4106,ME,202510,2440.6,0.0015,0.0465,South Portland,"Portland-South Portland, ME",Cumberland County
-59373,4106,ME,202511,2420.12,-0.0084,0.0417,South Portland,"Portland-South Portland, ME",Cumberland County
-59373,4106,ME,202512,2400.34,-0.0082,0.0265,South Portland,"Portland-South Portland, ME",Cumberland County
-59373,4106,ME,202601,2366.96,-0.0139,0.0176,South Portland,"Portland-South Portland, ME",Cumberland County
-59373,4106,ME,202602,2362.37,-0.0019,0.0281,South Portland,"Portland-South Portland, ME",Cumberland County
-59383,4210,ME,202501,1576.59,,,Auburn,"Lewiston-Auburn, ME",Androscoggin County
-59383,4210,ME,202502,1617.68,0.0261,,Auburn,"Lewiston-Auburn, ME",Androscoggin County
-59383,4210,ME,202503,1664.24,0.0288,,Auburn,"Lewiston-Auburn, ME",Androscoggin County
-59383,4210,ME,202504,1642.14,-0.0133,,Auburn,"Lewiston-Auburn, ME",Androscoggin County
-59383,4210,ME,202505,1622.54,-0.0119,,Auburn,"Lewiston-Auburn, ME",Androscoggin County
-59383,4210,ME,202506,1630.33,0.0048,,Auburn,"Lewiston-Auburn, ME",Androscoggin County
-59383,4210,ME,202507,1626.22,-0.0025,,Auburn,"Lewiston-Auburn, ME",Androscoggin County
-59383,4210,ME,202508,1631.79,0.0034,,Auburn,"Lewiston-Auburn, ME",Androscoggin County
-59383,4210,ME,202509,1650.97,0.0118,,Auburn,"Lewiston-Auburn, ME",Androscoggin County
-59383,4210,ME,202510,1692.55,0.0252,,Auburn,"Lewiston-Auburn, ME",Androscoggin County
-59383,4210,ME,202511,1728.51,0.0212,,Auburn,"Lewiston-Auburn, ME",Androscoggin County
-59383,4210,ME,202512,1758.12,0.0171,,Auburn,"Lewiston-Auburn, ME",Androscoggin County
-59383,4210,ME,202601,1742.78,-0.0087,0.1054,Auburn,"Lewiston-Auburn, ME",Androscoggin County
-59383,4210,ME,202602,1673.33,-0.0398,0.0344,Auburn,"Lewiston-Auburn, ME",Androscoggin County
-59405,4240,ME,202402,1245.47,,,Lewiston,"Lewiston-Auburn, ME",Androscoggin County
-59405,4240,ME,202403,1267.79,0.0179,,Lewiston,"Lewiston-Auburn, ME",Androscoggin County
-59405,4240,ME,202404,1274.15,0.005,,Lewiston,"Lewiston-Auburn, ME",Androscoggin County
-59405,4240,ME,202405,1279.64,0.0043,,Lewiston,"Lewiston-Auburn, ME",Androscoggin County
-59405,4240,ME,202406,1290.81,0.0087,,Lewiston,"Lewiston-Auburn, ME",Androscoggin County
-59405,4240,ME,202407,1302.72,0.0092,,Lewiston,"Lewiston-Auburn, ME",Androscoggin County
-59405,4240,ME,202408,1324.09,0.0164,,Lewiston,"Lewiston-Auburn, ME",Androscoggin County
-59405,4240,ME,202409,1327.53,0.0026,,Lewiston,"Lewiston-Auburn, ME",Androscoggin County
-59405,4240,ME,202410,1328.16,0.0005,,Lewiston,"Lewiston-Auburn, ME",Androscoggin County
-59405,4240,ME,202411,1310.98,-0.0129,,Lewiston,"Lewiston-Auburn, ME",Androscoggin County
-59405,4240,ME,202412,1310.26,-0.0005,,Lewiston,"Lewiston-Auburn, ME",Androscoggin County
-59405,4240,ME,202501,1323.39,0.01,,Lewiston,"Lewiston-Auburn, ME",Androscoggin County
-59405,4240,ME,202502,1365.79,0.032,0.0966,Lewiston,"Lewiston-Auburn, ME",Androscoggin County
-59405,4240,ME,202503,1389.37,0.0173,0.0959,Lewiston,"Lewiston-Auburn, ME",Androscoggin County
-59405,4240,ME,202505,1374.43,-0.0108,0.0787,Lewiston,"Lewiston-Auburn, ME",Androscoggin County
-59405,4240,ME,202506,1386.15,0.0085,0.0832,Lewiston,"Lewiston-Auburn, ME",Androscoggin County
-59405,4240,ME,202507,1395.0,0.0064,0.0807,Lewiston,"Lewiston-Auburn, ME",Androscoggin County
-59405,4240,ME,202508,1394.99,-0.0,0.0708,Lewiston,"Lewiston-Auburn, ME",Androscoggin County
-59405,4240,ME,202509,1379.21,-0.0113,0.0416,Lewiston,"Lewiston-Auburn, ME",Androscoggin County
-59405,4240,ME,202510,1355.52,-0.0172,0.0211,Lewiston,"Lewiston-Auburn, ME",Androscoggin County
-59405,4240,ME,202511,1359.43,0.0029,0.0235,Lewiston,"Lewiston-Auburn, ME",Androscoggin County
-59405,4240,ME,202512,1398.3,0.0286,0.0666,Lewiston,"Lewiston-Auburn, ME",Androscoggin County
-59405,4240,ME,202601,1415.66,0.0124,0.0804,Lewiston,"Lewiston-Auburn, ME",Androscoggin County
-59405,4240,ME,202602,1398.06,-0.0124,0.0564,Lewiston,"Lewiston-Auburn, ME",Androscoggin County
-59444,4330,ME,202206,1215.95,,,Augusta,"Augusta-Waterville, ME",Kennebec County
-59444,4330,ME,202207,1204.18,-0.0097,,Augusta,"Augusta-Waterville, ME",Kennebec County
-59444,4330,ME,202208,1158.8,-0.0377,,Augusta,"Augusta-Waterville, ME",Kennebec County
-59444,4330,ME,202210,1171.89,0.0113,,Augusta,"Augusta-Waterville, ME",Kennebec County
-59444,4330,ME,202211,1178.66,0.0058,,Augusta,"Augusta-Waterville, ME",Kennebec County
-59444,4330,ME,202212,1175.71,-0.0025,,Augusta,"Augusta-Waterville, ME",Kennebec County
-59444,4330,ME,202301,1226.15,0.0429,,Augusta,"Augusta-Waterville, ME",Kennebec County
-59444,4330,ME,202302,1270.68,0.0363,,Augusta,"Augusta-Waterville, ME",Kennebec County
-59444,4330,ME,202303,1285.59,0.0117,,Augusta,"Augusta-Waterville, ME",Kennebec County
-59444,4330,ME,202304,1277.89,-0.006,,Augusta,"Augusta-Waterville, ME",Kennebec County
-59444,4330,ME,202305,1285.99,0.0063,,Augusta,"Augusta-Waterville, ME",Kennebec County
-59444,4330,ME,202306,1314.55,0.0222,,Augusta,"Augusta-Waterville, ME",Kennebec County
-59444,4330,ME,202307,1307.23,-0.0056,0.0751,Augusta,"Augusta-Waterville, ME",Kennebec County
-59444,4330,ME,202308,1324.18,0.013,0.0997,Augusta,"Augusta-Waterville, ME",Kennebec County
-59444,4330,ME,202309,1342.52,0.0139,0.1585,Augusta,"Augusta-Waterville, ME",Kennebec County
-59444,4330,ME,202310,1362.38,0.0148,0.1626,Augusta,"Augusta-Waterville, ME",Kennebec County
-59444,4330,ME,202311,1360.9,-0.0011,0.1546,Augusta,"Augusta-Waterville, ME",Kennebec County
-59444,4330,ME,202312,1336.5,-0.0179,0.1368,Augusta,"Augusta-Waterville, ME",Kennebec County
-59444,4330,ME,202401,1348.68,0.0091,0.0999,Augusta,"Augusta-Waterville, ME",Kennebec County
-59444,4330,ME,202402,1335.47,-0.0098,0.051,Augusta,"Augusta-Waterville, ME",Kennebec County
-59444,4330,ME,202403,1335.97,0.0004,0.0392,Augusta,"Augusta-Waterville, ME",Kennebec County
-59444,4330,ME,202404,1332.15,-0.0029,0.0425,Augusta,"Augusta-Waterville, ME",Kennebec County
-59444,4330,ME,202405,1347.44,0.0115,0.0478,Augusta,"Augusta-Waterville, ME",Kennebec County
-59444,4330,ME,202406,1378.1,0.0228,0.0483,Augusta,"Augusta-Waterville, ME",Kennebec County
-59444,4330,ME,202407,1382.74,0.0034,0.0578,Augusta,"Augusta-Waterville, ME",Kennebec County
-59444,4330,ME,202408,1418.94,0.0262,0.0716,Augusta,"Augusta-Waterville, ME",Kennebec County
-59444,4330,ME,202409,1425.24,0.0044,0.0616,Augusta,"Augusta-Waterville, ME",Kennebec County
-59444,4330,ME,202410,1439.09,0.0097,0.0563,Augusta,"Augusta-Waterville, ME",Kennebec County
-59444,4330,ME,202411,1406.58,-0.0226,0.0336,Augusta,"Augusta-Waterville, ME",Kennebec County
-59444,4330,ME,202412,1376.24,-0.0216,0.0297,Augusta,"Augusta-Waterville, ME",Kennebec County
-59444,4330,ME,202501,1371.75,-0.0033,0.0171,Augusta,"Augusta-Waterville, ME",Kennebec County
-59444,4330,ME,202502,1379.15,0.0054,0.0327,Augusta,"Augusta-Waterville, ME",Kennebec County
-59444,4330,ME,202503,1410.96,0.0231,0.0561,Augusta,"Augusta-Waterville, ME",Kennebec County
-59444,4330,ME,202504,1436.53,0.0181,0.0784,Augusta,"Augusta-Waterville, ME",Kennebec County
-59444,4330,ME,202505,1471.53,0.0244,0.0921,Augusta,"Augusta-Waterville, ME",Kennebec County
-59444,4330,ME,202506,1512.33,0.0277,0.0974,Augusta,"Augusta-Waterville, ME",Kennebec County
-59444,4330,ME,202507,1498.74,-0.009,0.0839,Augusta,"Augusta-Waterville, ME",Kennebec County
-59444,4330,ME,202508,1487.48,-0.0075,0.0483,Augusta,"Augusta-Waterville, ME",Kennebec County
-59444,4330,ME,202509,1477.2,-0.0069,0.0365,Augusta,"Augusta-Waterville, ME",Kennebec County
-59444,4330,ME,202510,1471.91,-0.0036,0.0228,Augusta,"Augusta-Waterville, ME",Kennebec County
-59444,4330,ME,202511,1477.47,0.0038,0.0504,Augusta,"Augusta-Waterville, ME",Kennebec County
-59444,4330,ME,202512,1452.91,-0.0166,0.0557,Augusta,"Augusta-Waterville, ME",Kennebec County
-59444,4330,ME,202601,1458.53,0.0039,0.0633,Augusta,"Augusta-Waterville, ME",Kennebec County
-59444,4330,ME,202602,1463.57,0.0035,0.0612,Augusta,"Augusta-Waterville, ME",Kennebec County
-59470,4401,ME,202012,1054.95,,,Bangor,"Bangor, ME",Penobscot County
-59470,4401,ME,202101,1052.68,-0.0021,,Bangor,"Bangor, ME",Penobscot County
-59470,4401,ME,202102,1071.91,0.0183,,Bangor,"Bangor, ME",Penobscot County
-59470,4401,ME,202103,1093.03,0.0197,,Bangor,"Bangor, ME",Penobscot County
-59470,4401,ME,202104,1109.46,0.015,,Bangor,"Bangor, ME",Penobscot County
-59470,4401,ME,202105,1125.65,0.0146,,Bangor,"Bangor, ME",Penobscot County
-59470,4401,ME,202106,1153.47,0.0247,,Bangor,"Bangor, ME",Penobscot County
-59470,4401,ME,202107,1190.31,0.0319,,Bangor,"Bangor, ME",Penobscot County
-59470,4401,ME,202108,1197.12,0.0057,,Bangor,"Bangor, ME",Penobscot County
-59470,4401,ME,202109,1196.44,-0.0006,,Bangor,"Bangor, ME",Penobscot County
-59470,4401,ME,202110,1194.28,-0.0018,,Bangor,"Bangor, ME",Penobscot County
-59470,4401,ME,202111,1199.24,0.0042,,Bangor,"Bangor, ME",Penobscot County
-59470,4401,ME,202112,1203.73,0.0037,0.141,Bangor,"Bangor, ME",Penobscot County
-59470,4401,ME,202201,1205.39,0.0014,0.1451,Bangor,"Bangor, ME",Penobscot County
-59470,4401,ME,202202,1209.35,0.0033,0.1282,Bangor,"Bangor, ME",Penobscot County
-59470,4401,ME,202203,1218.28,0.0074,0.1146,Bangor,"Bangor, ME",Penobscot County
-59470,4401,ME,202204,1230.2,0.0098,0.1088,Bangor,"Bangor, ME",Penobscot County
-59470,4401,ME,202205,1268.52,0.0311,0.1269,Bangor,"Bangor, ME",Penobscot County
-59470,4401,ME,202206,1280.47,0.0094,0.1101,Bangor,"Bangor, ME",Penobscot County
-59470,4401,ME,202207,1293.48,0.0102,0.0867,Bangor,"Bangor, ME",Penobscot County
-59470,4401,ME,202208,1289.76,-0.0029,0.0774,Bangor,"Bangor, ME",Penobscot County
-59470,4401,ME,202209,1306.94,0.0133,0.0924,Bangor,"Bangor, ME",Penobscot County
-59470,4401,ME,202210,1304.69,-0.0017,0.0924,Bangor,"Bangor, ME",Penobscot County
-59470,4401,ME,202211,1293.14,-0.0089,0.0783,Bangor,"Bangor, ME",Penobscot County
-59470,4401,ME,202212,1275.91,-0.0133,0.06,Bangor,"Bangor, ME",Penobscot County
-59470,4401,ME,202301,1269.5,-0.005,0.0532,Bangor,"Bangor, ME",Penobscot County
-59470,4401,ME,202302,1265.85,-0.0029,0.0467,Bangor,"Bangor, ME",Penobscot County
-59470,4401,ME,202303,1279.34,0.0107,0.0501,Bangor,"Bangor, ME",Penobscot County
-59470,4401,ME,202304,1305.37,0.0203,0.0611,Bangor,"Bangor, ME",Penobscot County
-59470,4401,ME,202305,1343.08,0.0289,0.0588,Bangor,"Bangor, ME",Penobscot County
-59470,4401,ME,202306,1369.14,0.0194,0.0693,Bangor,"Bangor, ME",Penobscot County
-59470,4401,ME,202307,1367.42,-0.0013,0.0572,Bangor,"Bangor, ME",Penobscot County
-59470,4401,ME,202308,1358.35,-0.0066,0.0532,Bangor,"Bangor, ME",Penobscot County
-59470,4401,ME,202309,1332.4,-0.0191,0.0195,Bangor,"Bangor, ME",Penobscot County
-59470,4401,ME,202310,1340.79,0.0063,0.0277,Bangor,"Bangor, ME",Penobscot County
-59470,4401,ME,202311,1348.74,0.0059,0.043,Bangor,"Bangor, ME",Penobscot County
-59470,4401,ME,202312,1364.76,0.0119,0.0696,Bangor,"Bangor, ME",Penobscot County
-59470,4401,ME,202401,1368.96,0.0031,0.0783,Bangor,"Bangor, ME",Penobscot County
-59470,4401,ME,202402,1390.5,0.0157,0.0985,Bangor,"Bangor, ME",Penobscot County
-59470,4401,ME,202403,1408.65,0.0131,0.1011,Bangor,"Bangor, ME",Penobscot County
-59470,4401,ME,202404,1416.89,0.0059,0.0854,Bangor,"Bangor, ME",Penobscot County
-59470,4401,ME,202405,1419.3,0.0017,0.0568,Bangor,"Bangor, ME",Penobscot County
-59470,4401,ME,202406,1431.06,0.0083,0.0452,Bangor,"Bangor, ME",Penobscot County
-59470,4401,ME,202407,1442.56,0.008,0.0549,Bangor,"Bangor, ME",Penobscot County
-59470,4401,ME,202408,1444.96,0.0017,0.0638,Bangor,"Bangor, ME",Penobscot County
-59470,4401,ME,202409,1441.1,-0.0027,0.0816,Bangor,"Bangor, ME",Penobscot County
-59470,4401,ME,202410,1423.32,-0.0123,0.0616,Bangor,"Bangor, ME",Penobscot County
-59470,4401,ME,202411,1424.85,0.0011,0.0564,Bangor,"Bangor, ME",Penobscot County
-59470,4401,ME,202412,1426.99,0.0015,0.0456,Bangor,"Bangor, ME",Penobscot County
-59470,4401,ME,202501,1427.94,0.0007,0.0431,Bangor,"Bangor, ME",Penobscot County
-59470,4401,ME,202502,1424.48,-0.0024,0.0244,Bangor,"Bangor, ME",Penobscot County
-59470,4401,ME,202503,1420.91,-0.0025,0.0087,Bangor,"Bangor, ME",Penobscot County
-59470,4401,ME,202504,1449.81,0.0203,0.0232,Bangor,"Bangor, ME",Penobscot County
-59470,4401,ME,202505,1468.47,0.0129,0.0346,Bangor,"Bangor, ME",Penobscot County
-59470,4401,ME,202506,1480.51,0.0082,0.0346,Bangor,"Bangor, ME",Penobscot County
-59470,4401,ME,202507,1484.27,0.0025,0.0289,Bangor,"Bangor, ME",Penobscot County
-59470,4401,ME,202508,1466.43,-0.012,0.0149,Bangor,"Bangor, ME",Penobscot County
-59470,4401,ME,202509,1486.53,0.0137,0.0315,Bangor,"Bangor, ME",Penobscot County
-59470,4401,ME,202510,1472.34,-0.0095,0.0344,Bangor,"Bangor, ME",Penobscot County
-59470,4401,ME,202511,1490.48,0.0123,0.0461,Bangor,"Bangor, ME",Penobscot County
-59470,4401,ME,202512,1453.85,-0.0246,0.0188,Bangor,"Bangor, ME",Penobscot County
-59470,4401,ME,202601,1468.65,0.0102,0.0285,Bangor,"Bangor, ME",Penobscot County
-59470,4401,ME,202602,1477.83,0.0063,0.0375,Bangor,"Bangor, ME",Penobscot County
-59476,4412,ME,202602,1533.33,,,Brewer,"Bangor, ME",Penobscot County
-59517,4468,ME,202601,1515.1,,,Old Town,"Bangor, ME",Penobscot County
-59517,4468,ME,202602,1573.0,0.0382,,Old Town,"Bangor, ME",Penobscot County
-59521,4473,ME,202510,2136.96,,,Orono,"Bangor, ME",Penobscot County
-59521,4473,ME,202511,2144.53,0.0035,,Orono,"Bangor, ME",Penobscot County
-59521,4473,ME,202512,2004.27,-0.0654,,Orono,"Bangor, ME",Penobscot County
-59521,4473,ME,202601,1978.72,-0.0128,,Orono,"Bangor, ME",Penobscot County
-59521,4473,ME,202602,1975.0,-0.0019,,Orono,"Bangor, ME",Penobscot County
-59698,4901,ME,202304,1117.12,,,Winslow,"Augusta-Waterville, ME",Kennebec County
-59698,4901,ME,202305,1097.28,-0.0178,,Winslow,"Augusta-Waterville, ME",Kennebec County
-59698,4901,ME,202306,1104.62,0.0067,,Winslow,"Augusta-Waterville, ME",Kennebec County
-59698,4901,ME,202307,1121.58,0.0154,,Winslow,"Augusta-Waterville, ME",Kennebec County
-59698,4901,ME,202308,1113.78,-0.007,,Winslow,"Augusta-Waterville, ME",Kennebec County
-59698,4901,ME,202309,1101.55,-0.011,,Winslow,"Augusta-Waterville, ME",Kennebec County
-59698,4901,ME,202310,1098.27,-0.003,,Winslow,"Augusta-Waterville, ME",Kennebec County
-59698,4901,ME,202311,1115.97,0.0161,,Winslow,"Augusta-Waterville, ME",Kennebec County
-59698,4901,ME,202312,1129.07,0.0117,,Winslow,"Augusta-Waterville, ME",Kennebec County
-59698,4901,ME,202401,1142.34,0.0118,,Winslow,"Augusta-Waterville, ME",Kennebec County
-59698,4901,ME,202402,1188.44,0.0404,,Winslow,"Augusta-Waterville, ME",Kennebec County
-59698,4901,ME,202403,1181.09,-0.0062,,Winslow,"Augusta-Waterville, ME",Kennebec County
-59698,4901,ME,202404,1208.47,0.0232,0.0818,Winslow,"Augusta-Waterville, ME",Kennebec County
-59698,4901,ME,202405,1193.16,-0.0127,0.0874,Winslow,"Augusta-Waterville, ME",Kennebec County
-59698,4901,ME,202406,1228.23,0.0294,0.1119,Winslow,"Augusta-Waterville, ME",Kennebec County
-59698,4901,ME,202407,1210.52,-0.0144,0.0793,Winslow,"Augusta-Waterville, ME",Kennebec County
-59698,4901,ME,202408,1202.72,-0.0064,0.0799,Winslow,"Augusta-Waterville, ME",Kennebec County
-59698,4901,ME,202409,1180.28,-0.0187,0.0715,Winslow,"Augusta-Waterville, ME",Kennebec County
-59698,4901,ME,202410,1199.31,0.0161,0.092,Winslow,"Augusta-Waterville, ME",Kennebec County
-59698,4901,ME,202412,1213.43,0.0118,0.0873,Winslow,"Augusta-Waterville, ME",Kennebec County
-59698,4901,ME,202501,1206.84,-0.0054,0.0689,Winslow,"Augusta-Waterville, ME",Kennebec County
-59698,4901,ME,202502,1182.69,-0.02,0.0353,Winslow,"Augusta-Waterville, ME",Kennebec County
-59698,4901,ME,202503,1196.53,0.0117,0.0068,Winslow,"Augusta-Waterville, ME",Kennebec County
-59698,4901,ME,202504,1209.51,0.0109,0.0241,Winslow,"Augusta-Waterville, ME",Kennebec County
-59698,4901,ME,202505,1249.24,0.0328,0.0337,Winslow,"Augusta-Waterville, ME",Kennebec County
-59698,4901,ME,202506,1259.83,0.0085,0.0559,Winslow,"Augusta-Waterville, ME",Kennebec County
-59698,4901,ME,202507,1252.46,-0.0059,0.0197,Winslow,"Augusta-Waterville, ME",Kennebec County
-59698,4901,ME,202508,1243.23,-0.0074,0.027,Winslow,"Augusta-Waterville, ME",Kennebec County
-59698,4901,ME,202509,1263.59,0.0164,0.0506,Winslow,"Augusta-Waterville, ME",Kennebec County
-59698,4901,ME,202510,1269.27,0.0045,0.0754,Winslow,"Augusta-Waterville, ME",Kennebec County
-59698,4901,ME,202511,1272.19,0.0023,0.0608,Winslow,"Augusta-Waterville, ME",Kennebec County
-59698,4901,ME,202512,1258.28,-0.0109,0.037,Winslow,"Augusta-Waterville, ME",Kennebec County
-59698,4901,ME,202601,1263.57,0.0042,0.047,Winslow,"Augusta-Waterville, ME",Kennebec County
-59698,4901,ME,202602,1272.08,0.0067,0.0756,Winslow,"Augusta-Waterville, ME",Kennebec County
+59282,3904,ME,202501,2382.14,,,Kittery,"Portland-South Portland, ME",York County
+59282,3904,ME,202502,2409.54,0.0115,,Kittery,"Portland-South Portland, ME",York County
+59282,3904,ME,202503,2479.09,0.0289,,Kittery,"Portland-South Portland, ME",York County
+59282,3904,ME,202504,2480.35,0.0005,,Kittery,"Portland-South Portland, ME",York County
+59282,3904,ME,202505,2522.26,0.0169,,Kittery,"Portland-South Portland, ME",York County
+59282,3904,ME,202506,2557.66,0.014,,Kittery,"Portland-South Portland, ME",York County
+59282,3904,ME,202507,2614.89,0.0224,,Kittery,"Portland-South Portland, ME",York County
+59282,3904,ME,202508,2641.53,0.0102,,Kittery,"Portland-South Portland, ME",York County
+59282,3904,ME,202509,2657.53,0.0061,,Kittery,"Portland-South Portland, ME",York County
+59282,3904,ME,202510,2595.81,-0.0232,,Kittery,"Portland-South Portland, ME",York County
+59282,3904,ME,202511,2580.93,-0.0057,,Kittery,"Portland-South Portland, ME",York County
+59282,3904,ME,202512,2557.61,-0.009,,Kittery,"Portland-South Portland, ME",York County
+59282,3904,ME,202601,2539.46,-0.0071,0.066,Kittery,"Portland-South Portland, ME",York County
+59282,3904,ME,202602,2493.92,-0.0179,0.035,Kittery,"Portland-South Portland, ME",York County
+59282,3904,ME,202603,2438.67,-0.0222,-0.0163,Kittery,"Portland-South Portland, ME",York County
+59294,4005,ME,202212,1613.19,,,Biddeford,"Portland-South Portland, ME",York County
+59294,4005,ME,202301,1603.44,-0.006,,Biddeford,"Portland-South Portland, ME",York County
+59294,4005,ME,202302,1613.95,0.0066,,Biddeford,"Portland-South Portland, ME",York County
+59294,4005,ME,202303,1657.6,0.027,,Biddeford,"Portland-South Portland, ME",York County
+59294,4005,ME,202304,1692.22,0.0209,,Biddeford,"Portland-South Portland, ME",York County
+59294,4005,ME,202305,1727.09,0.0206,,Biddeford,"Portland-South Portland, ME",York County
+59294,4005,ME,202306,1717.72,-0.0054,,Biddeford,"Portland-South Portland, ME",York County
+59294,4005,ME,202307,1758.36,0.0237,,Biddeford,"Portland-South Portland, ME",York County
+59294,4005,ME,202308,1759.04,0.0004,,Biddeford,"Portland-South Portland, ME",York County
+59294,4005,ME,202309,1787.57,0.0162,,Biddeford,"Portland-South Portland, ME",York County
+59294,4005,ME,202310,1759.61,-0.0156,,Biddeford,"Portland-South Portland, ME",York County
+59294,4005,ME,202311,1744.66,-0.0085,,Biddeford,"Portland-South Portland, ME",York County
+59294,4005,ME,202312,1756.06,0.0065,0.0886,Biddeford,"Portland-South Portland, ME",York County
+59294,4005,ME,202401,1772.64,0.0094,0.1055,Biddeford,"Portland-South Portland, ME",York County
+59294,4005,ME,202402,1798.34,0.0145,0.1142,Biddeford,"Portland-South Portland, ME",York County
+59294,4005,ME,202403,1792.15,-0.0034,0.0812,Biddeford,"Portland-South Portland, ME",York County
+59294,4005,ME,202404,1813.54,0.0119,0.0717,Biddeford,"Portland-South Portland, ME",York County
+59294,4005,ME,202405,1834.35,0.0115,0.0621,Biddeford,"Portland-South Portland, ME",York County
+59294,4005,ME,202406,1838.59,0.0023,0.0704,Biddeford,"Portland-South Portland, ME",York County
+59294,4005,ME,202407,1815.54,-0.0125,0.0325,Biddeford,"Portland-South Portland, ME",York County
+59294,4005,ME,202408,1821.77,0.0034,0.0357,Biddeford,"Portland-South Portland, ME",York County
+59294,4005,ME,202409,1817.15,-0.0025,0.0165,Biddeford,"Portland-South Portland, ME",York County
+59294,4005,ME,202410,1775.21,-0.0231,0.0089,Biddeford,"Portland-South Portland, ME",York County
+59294,4005,ME,202411,1817.44,0.0238,0.0417,Biddeford,"Portland-South Portland, ME",York County
+59294,4005,ME,202412,1774.02,-0.0239,0.0102,Biddeford,"Portland-South Portland, ME",York County
+59294,4005,ME,202501,1861.86,0.0495,0.0503,Biddeford,"Portland-South Portland, ME",York County
+59294,4005,ME,202502,1866.46,0.0025,0.0379,Biddeford,"Portland-South Portland, ME",York County
+59294,4005,ME,202503,1958.6,0.0494,0.0929,Biddeford,"Portland-South Portland, ME",York County
+59294,4005,ME,202504,1972.53,0.0071,0.0877,Biddeford,"Portland-South Portland, ME",York County
+59294,4005,ME,202505,1960.15,-0.0063,0.0686,Biddeford,"Portland-South Portland, ME",York County
+59294,4005,ME,202506,1940.64,-0.01,0.0555,Biddeford,"Portland-South Portland, ME",York County
+59294,4005,ME,202507,1932.73,-0.0041,0.0645,Biddeford,"Portland-South Portland, ME",York County
+59294,4005,ME,202508,1937.41,0.0024,0.0635,Biddeford,"Portland-South Portland, ME",York County
+59294,4005,ME,202509,1953.09,0.0081,0.0748,Biddeford,"Portland-South Portland, ME",York County
+59294,4005,ME,202510,1968.38,0.0078,0.1088,Biddeford,"Portland-South Portland, ME",York County
+59294,4005,ME,202511,1959.47,-0.0045,0.0781,Biddeford,"Portland-South Portland, ME",York County
+59294,4005,ME,202512,1958.06,-0.0007,0.1037,Biddeford,"Portland-South Portland, ME",York County
+59294,4005,ME,202601,1944.65,-0.0068,0.0445,Biddeford,"Portland-South Portland, ME",York County
+59294,4005,ME,202602,1955.61,0.0056,0.0478,Biddeford,"Portland-South Portland, ME",York County
+59294,4005,ME,202603,1975.48,0.0102,0.0086,Biddeford,"Portland-South Portland, ME",York County
+59300,4011,ME,202412,2081.38,,,Brunswick,"Portland-South Portland, ME",Cumberland County
+59300,4011,ME,202501,2086.78,0.0026,,Brunswick,"Portland-South Portland, ME",Cumberland County
+59300,4011,ME,202502,2171.38,0.0405,,Brunswick,"Portland-South Portland, ME",Cumberland County
+59300,4011,ME,202503,2206.57,0.0162,,Brunswick,"Portland-South Portland, ME",Cumberland County
+59300,4011,ME,202504,2252.98,0.021,,Brunswick,"Portland-South Portland, ME",Cumberland County
+59300,4011,ME,202505,2239.04,-0.0062,,Brunswick,"Portland-South Portland, ME",Cumberland County
+59300,4011,ME,202506,2250.83,0.0053,,Brunswick,"Portland-South Portland, ME",Cumberland County
+59300,4011,ME,202507,2264.93,0.0063,,Brunswick,"Portland-South Portland, ME",Cumberland County
+59300,4011,ME,202508,2237.59,-0.0121,,Brunswick,"Portland-South Portland, ME",Cumberland County
+59300,4011,ME,202509,2202.54,-0.0157,,Brunswick,"Portland-South Portland, ME",Cumberland County
+59300,4011,ME,202510,2190.77,-0.0053,,Brunswick,"Portland-South Portland, ME",Cumberland County
+59300,4011,ME,202511,2169.51,-0.0097,,Brunswick,"Portland-South Portland, ME",Cumberland County
+59300,4011,ME,202512,2135.88,-0.0155,0.0262,Brunswick,"Portland-South Portland, ME",Cumberland County
+59300,4011,ME,202601,2125.79,-0.0047,0.0187,Brunswick,"Portland-South Portland, ME",Cumberland County
+59300,4011,ME,202602,2158.35,0.0153,-0.006,Brunswick,"Portland-South Portland, ME",Cumberland County
+59300,4011,ME,202603,2194.5,0.0167,-0.0055,Brunswick,"Portland-South Portland, ME",Cumberland County
+59315,4032,ME,202601,2608.23,,,Freeport,"Portland-South Portland, ME",Cumberland County
+59315,4032,ME,202602,2617.9,0.0037,,Freeport,"Portland-South Portland, ME",Cumberland County
+59315,4032,ME,202603,2648.33,0.0116,,Freeport,"Portland-South Portland, ME",Cumberland County
+59319,4038,ME,202601,3147.8,,,Gorham,"Portland-South Portland, ME",Cumberland County
+59319,4038,ME,202603,2650.0,-0.1581,,Gorham,"Portland-South Portland, ME",Cumberland County
+59338,4064,ME,202503,1981.41,,,Old Orchard Beach,"Portland-South Portland, ME",York County
+59338,4064,ME,202504,2029.08,0.0241,,Old Orchard Beach,"Portland-South Portland, ME",York County
+59338,4064,ME,202505,2078.61,0.0244,,Old Orchard Beach,"Portland-South Portland, ME",York County
+59338,4064,ME,202506,2163.94,0.0411,,Old Orchard Beach,"Portland-South Portland, ME",York County
+59338,4064,ME,202507,2197.47,0.0155,,Old Orchard Beach,"Portland-South Portland, ME",York County
+59338,4064,ME,202508,2239.51,0.0191,,Old Orchard Beach,"Portland-South Portland, ME",York County
+59338,4064,ME,202509,2238.71,-0.0004,,Old Orchard Beach,"Portland-South Portland, ME",York County
+59338,4064,ME,202510,2193.44,-0.0202,,Old Orchard Beach,"Portland-South Portland, ME",York County
+59338,4064,ME,202511,2151.26,-0.0192,,Old Orchard Beach,"Portland-South Portland, ME",York County
+59338,4064,ME,202512,2086.67,-0.03,,Old Orchard Beach,"Portland-South Portland, ME",York County
+59338,4064,ME,202601,2087.43,0.0004,,Old Orchard Beach,"Portland-South Portland, ME",York County
+59338,4064,ME,202602,2011.77,-0.0362,,Old Orchard Beach,"Portland-South Portland, ME",York County
+59338,4064,ME,202603,2079.11,0.0335,0.0493,Old Orchard Beach,"Portland-South Portland, ME",York County
+59344,4072,ME,202601,2070.44,,,Saco,"Portland-South Portland, ME",York County
+59344,4072,ME,202602,2128.0,0.0278,,Saco,"Portland-South Portland, ME",York County
+59344,4072,ME,202603,2209.72,0.0384,,Saco,"Portland-South Portland, ME",York County
+59345,4073,ME,202508,1650.96,,,Sanford,"Portland-South Portland, ME",York County
+59345,4073,ME,202509,1646.21,-0.0029,,Sanford,"Portland-South Portland, ME",York County
+59345,4073,ME,202510,1703.73,0.0349,,Sanford,"Portland-South Portland, ME",York County
+59345,4073,ME,202511,1684.21,-0.0115,,Sanford,"Portland-South Portland, ME",York County
+59345,4073,ME,202512,1639.45,-0.0266,,Sanford,"Portland-South Portland, ME",York County
+59345,4073,ME,202601,1666.77,0.0167,,Sanford,"Portland-South Portland, ME",York County
+59345,4073,ME,202602,1664.23,-0.0015,,Sanford,"Portland-South Portland, ME",York County
+59345,4073,ME,202603,1691.67,0.0165,,Sanford,"Portland-South Portland, ME",York County
+59346,4074,ME,202408,2587.61,,,Scarborough,"Portland-South Portland, ME",Cumberland County
+59346,4074,ME,202409,2602.11,0.0056,,Scarborough,"Portland-South Portland, ME",Cumberland County
+59346,4074,ME,202410,2558.02,-0.0169,,Scarborough,"Portland-South Portland, ME",Cumberland County
+59346,4074,ME,202411,2445.89,-0.0438,,Scarborough,"Portland-South Portland, ME",Cumberland County
+59346,4074,ME,202412,2441.93,-0.0016,,Scarborough,"Portland-South Portland, ME",Cumberland County
+59346,4074,ME,202501,2511.73,0.0286,,Scarborough,"Portland-South Portland, ME",Cumberland County
+59346,4074,ME,202502,2639.13,0.0507,,Scarborough,"Portland-South Portland, ME",Cumberland County
+59346,4074,ME,202503,2675.47,0.0138,,Scarborough,"Portland-South Portland, ME",Cumberland County
+59346,4074,ME,202504,2700.74,0.0094,,Scarborough,"Portland-South Portland, ME",Cumberland County
+59346,4074,ME,202505,2664.21,-0.0135,,Scarborough,"Portland-South Portland, ME",Cumberland County
+59346,4074,ME,202506,2669.48,0.002,,Scarborough,"Portland-South Portland, ME",Cumberland County
+59346,4074,ME,202507,2631.45,-0.0142,,Scarborough,"Portland-South Portland, ME",Cumberland County
+59346,4074,ME,202508,2564.31,-0.0255,-0.009,Scarborough,"Portland-South Portland, ME",Cumberland County
+59346,4074,ME,202509,2512.72,-0.0201,-0.0344,Scarborough,"Portland-South Portland, ME",Cumberland County
+59346,4074,ME,202510,2486.35,-0.0105,-0.028,Scarborough,"Portland-South Portland, ME",Cumberland County
+59346,4074,ME,202511,2516.12,0.012,0.0287,Scarborough,"Portland-South Portland, ME",Cumberland County
+59346,4074,ME,202512,2647.97,0.0524,0.0844,Scarborough,"Portland-South Portland, ME",Cumberland County
+59346,4074,ME,202601,2783.06,0.051,0.108,Scarborough,"Portland-South Portland, ME",Cumberland County
+59346,4074,ME,202602,2839.69,0.0203,0.076,Scarborough,"Portland-South Portland, ME",Cumberland County
+59346,4074,ME,202603,2842.5,0.001,0.0624,Scarborough,"Portland-South Portland, ME",Cumberland County
+59361,4092,ME,202602,2258.51,,,Westbrook,"Portland-South Portland, ME",Cumberland County
+59361,4092,ME,202603,2316.58,0.0257,,Westbrook,"Portland-South Portland, ME",Cumberland County
+59365,4096,ME,202603,2391.25,,,Yarmouth,"Portland-South Portland, ME",Cumberland County
+59368,4101,ME,201602,1246.36,,,Portland,"Portland-South Portland, ME",Cumberland County
+59368,4101,ME,201603,1313.18,0.0536,,Portland,"Portland-South Portland, ME",Cumberland County
+59368,4101,ME,201604,1349.27,0.0275,,Portland,"Portland-South Portland, ME",Cumberland County
+59368,4101,ME,201605,1352.98,0.0027,,Portland,"Portland-South Portland, ME",Cumberland County
+59368,4101,ME,201606,1332.42,-0.0152,,Portland,"Portland-South Portland, ME",Cumberland County
+59368,4101,ME,201607,1329.75,-0.002,,Portland,"Portland-South Portland, ME",Cumberland County
+59368,4101,ME,201608,1349.87,0.0151,,Portland,"Portland-South Portland, ME",Cumberland County
+59368,4101,ME,201609,1342.37,-0.0056,,Portland,"Portland-South Portland, ME",Cumberland County
+59368,4101,ME,201610,1334.12,-0.0061,,Portland,"Portland-South Portland, ME",Cumberland County
+59368,4101,ME,201611,1285.69,-0.0363,,Portland,"Portland-South Portland, ME",Cumberland County
+59368,4101,ME,201612,1302.58,0.0131,,Portland,"Portland-South Portland, ME",Cumberland County
+59368,4101,ME,201701,1304.22,0.0013,,Portland,"Portland-South Portland, ME",Cumberland County
+59368,4101,ME,201702,1330.4,0.0201,0.0674,Portland,"Portland-South Portland, ME",Cumberland County
+59368,4101,ME,201703,1323.9,-0.0049,0.0082,Portland,"Portland-South Portland, ME",Cumberland County
+59368,4101,ME,201704,1326.33,0.0018,-0.017,Portland,"Portland-South Portland, ME",Cumberland County
+59368,4101,ME,201705,1350.27,0.018,-0.002,Portland,"Portland-South Portland, ME",Cumberland County
+59368,4101,ME,201706,1355.91,0.0042,0.0176,Portland,"Portland-South Portland, ME",Cumberland County
+59368,4101,ME,201707,1383.95,0.0207,0.0408,Portland,"Portland-South Portland, ME",Cumberland County
+59368,4101,ME,201708,1397.24,0.0096,0.0351,Portland,"Portland-South Portland, ME",Cumberland County
+59368,4101,ME,201709,1396.56,-0.0005,0.0404,Portland,"Portland-South Portland, ME",Cumberland County
+59368,4101,ME,201710,1390.33,-0.0045,0.0421,Portland,"Portland-South Portland, ME",Cumberland County
+59368,4101,ME,201711,1383.39,-0.005,0.076,Portland,"Portland-South Portland, ME",Cumberland County
+59368,4101,ME,201712,1379.35,-0.0029,0.0589,Portland,"Portland-South Portland, ME",Cumberland County
+59368,4101,ME,201801,1358.26,-0.0153,0.0414,Portland,"Portland-South Portland, ME",Cumberland County
+59368,4101,ME,201802,1397.74,0.0291,0.0506,Portland,"Portland-South Portland, ME",Cumberland County
+59368,4101,ME,201803,1421.33,0.0169,0.0736,Portland,"Portland-South Portland, ME",Cumberland County
+59368,4101,ME,201804,1462.55,0.029,0.1027,Portland,"Portland-South Portland, ME",Cumberland County
+59368,4101,ME,201805,1451.68,-0.0074,0.0751,Portland,"Portland-South Portland, ME",Cumberland County
+59368,4101,ME,201806,1454.73,0.0021,0.0729,Portland,"Portland-South Portland, ME",Cumberland County
+59368,4101,ME,201807,1455.8,0.0007,0.0519,Portland,"Portland-South Portland, ME",Cumberland County
+59368,4101,ME,201808,1452.48,-0.0023,0.0395,Portland,"Portland-South Portland, ME",Cumberland County
+59368,4101,ME,201809,1462.71,0.007,0.0474,Portland,"Portland-South Portland, ME",Cumberland County
+59368,4101,ME,201810,1468.85,0.0042,0.0565,Portland,"Portland-South Portland, ME",Cumberland County
+59368,4101,ME,201811,1449.08,-0.0135,0.0475,Portland,"Portland-South Portland, ME",Cumberland County
+59368,4101,ME,201812,1438.12,-0.0076,0.0426,Portland,"Portland-South Portland, ME",Cumberland County
+59368,4101,ME,201901,1427.37,-0.0075,0.0509,Portland,"Portland-South Portland, ME",Cumberland County
+59368,4101,ME,201902,1468.55,0.0289,0.0507,Portland,"Portland-South Portland, ME",Cumberland County
+59368,4101,ME,201903,1496.95,0.0193,0.0532,Portland,"Portland-South Portland, ME",Cumberland County
+59368,4101,ME,201904,1531.38,0.023,0.0471,Portland,"Portland-South Portland, ME",Cumberland County
+59368,4101,ME,201905,1536.72,0.0035,0.0586,Portland,"Portland-South Portland, ME",Cumberland County
+59368,4101,ME,201906,1545.49,0.0057,0.0624,Portland,"Portland-South Portland, ME",Cumberland County
+59368,4101,ME,201907,1570.52,0.0162,0.0788,Portland,"Portland-South Portland, ME",Cumberland County
+59368,4101,ME,201908,1555.36,-0.0096,0.0708,Portland,"Portland-South Portland, ME",Cumberland County
+59368,4101,ME,201909,1550.13,-0.0034,0.0598,Portland,"Portland-South Portland, ME",Cumberland County
+59368,4101,ME,201910,1528.94,-0.0137,0.0409,Portland,"Portland-South Portland, ME",Cumberland County
+59368,4101,ME,201911,1525.13,-0.0025,0.0525,Portland,"Portland-South Portland, ME",Cumberland County
+59368,4101,ME,201912,1509.17,-0.0105,0.0494,Portland,"Portland-South Portland, ME",Cumberland County
+59368,4101,ME,202001,1514.45,0.0035,0.061,Portland,"Portland-South Portland, ME",Cumberland County
+59368,4101,ME,202002,1557.38,0.0283,0.0605,Portland,"Portland-South Portland, ME",Cumberland County
+59368,4101,ME,202003,1602.23,0.0288,0.0703,Portland,"Portland-South Portland, ME",Cumberland County
+59368,4101,ME,202004,1607.74,0.0034,0.0499,Portland,"Portland-South Portland, ME",Cumberland County
+59368,4101,ME,202005,1601.36,-0.004,0.0421,Portland,"Portland-South Portland, ME",Cumberland County
+59368,4101,ME,202006,1610.63,0.0058,0.0421,Portland,"Portland-South Portland, ME",Cumberland County
+59368,4101,ME,202007,1643.46,0.0204,0.0464,Portland,"Portland-South Portland, ME",Cumberland County
+59368,4101,ME,202008,1663.2,0.012,0.0693,Portland,"Portland-South Portland, ME",Cumberland County
+59368,4101,ME,202009,1661.76,-0.0009,0.072,Portland,"Portland-South Portland, ME",Cumberland County
+59368,4101,ME,202010,1653.87,-0.0047,0.0817,Portland,"Portland-South Portland, ME",Cumberland County
+59368,4101,ME,202011,1663.41,0.0058,0.0907,Portland,"Portland-South Portland, ME",Cumberland County
+59368,4101,ME,202012,1647.32,-0.0097,0.0915,Portland,"Portland-South Portland, ME",Cumberland County
+59368,4101,ME,202101,1662.24,0.0091,0.0976,Portland,"Portland-South Portland, ME",Cumberland County
+59368,4101,ME,202102,1682.38,0.0121,0.0803,Portland,"Portland-South Portland, ME",Cumberland County
+59368,4101,ME,202103,1714.65,0.0192,0.0702,Portland,"Portland-South Portland, ME",Cumberland County
+59368,4101,ME,202104,1721.64,0.0041,0.0708,Portland,"Portland-South Portland, ME",Cumberland County
+59368,4101,ME,202105,1723.18,0.0009,0.0761,Portland,"Portland-South Portland, ME",Cumberland County
+59368,4101,ME,202106,1754.16,0.018,0.0891,Portland,"Portland-South Portland, ME",Cumberland County
+59368,4101,ME,202107,1797.09,0.0245,0.0935,Portland,"Portland-South Portland, ME",Cumberland County
+59368,4101,ME,202108,1823.28,0.0146,0.0962,Portland,"Portland-South Portland, ME",Cumberland County
+59368,4101,ME,202109,1846.15,0.0125,0.111,Portland,"Portland-South Portland, ME",Cumberland County
+59368,4101,ME,202110,1830.38,-0.0085,0.1067,Portland,"Portland-South Portland, ME",Cumberland County
+59368,4101,ME,202111,1842.44,0.0066,0.1076,Portland,"Portland-South Portland, ME",Cumberland County
+59368,4101,ME,202112,1829.88,-0.0068,0.1108,Portland,"Portland-South Portland, ME",Cumberland County
+59368,4101,ME,202201,1815.21,-0.008,0.092,Portland,"Portland-South Portland, ME",Cumberland County
+59368,4101,ME,202202,1836.08,0.0115,0.0914,Portland,"Portland-South Portland, ME",Cumberland County
+59368,4101,ME,202203,1863.72,0.0151,0.0869,Portland,"Portland-South Portland, ME",Cumberland County
+59368,4101,ME,202204,1928.5,0.0348,0.1202,Portland,"Portland-South Portland, ME",Cumberland County
+59368,4101,ME,202205,1947.61,0.0099,0.1302,Portland,"Portland-South Portland, ME",Cumberland County
+59368,4101,ME,202206,1965.05,0.009,0.1202,Portland,"Portland-South Portland, ME",Cumberland County
+59368,4101,ME,202207,1975.03,0.0051,0.099,Portland,"Portland-South Portland, ME",Cumberland County
+59368,4101,ME,202208,2008.96,0.0172,0.1018,Portland,"Portland-South Portland, ME",Cumberland County
+59368,4101,ME,202209,2008.2,-0.0004,0.0878,Portland,"Portland-South Portland, ME",Cumberland County
+59368,4101,ME,202210,2016.63,0.0042,0.1018,Portland,"Portland-South Portland, ME",Cumberland County
+59368,4101,ME,202211,2006.49,-0.005,0.089,Portland,"Portland-South Portland, ME",Cumberland County
+59368,4101,ME,202212,1993.24,-0.0066,0.0893,Portland,"Portland-South Portland, ME",Cumberland County
+59368,4101,ME,202301,1984.6,-0.0043,0.0933,Portland,"Portland-South Portland, ME",Cumberland County
+59368,4101,ME,202302,1965.29,-0.0097,0.0704,Portland,"Portland-South Portland, ME",Cumberland County
+59368,4101,ME,202303,2018.2,0.0269,0.0829,Portland,"Portland-South Portland, ME",Cumberland County
+59368,4101,ME,202304,2053.01,0.0173,0.0646,Portland,"Portland-South Portland, ME",Cumberland County
+59368,4101,ME,202305,2074.31,0.0104,0.0651,Portland,"Portland-South Portland, ME",Cumberland County
+59368,4101,ME,202306,2071.85,-0.0012,0.0544,Portland,"Portland-South Portland, ME",Cumberland County
+59368,4101,ME,202307,2087.09,0.0074,0.0567,Portland,"Portland-South Portland, ME",Cumberland County
+59368,4101,ME,202308,2119.24,0.0154,0.0549,Portland,"Portland-South Portland, ME",Cumberland County
+59368,4101,ME,202309,2121.04,0.0008,0.0562,Portland,"Portland-South Portland, ME",Cumberland County
+59368,4101,ME,202310,2100.23,-0.0098,0.0415,Portland,"Portland-South Portland, ME",Cumberland County
+59368,4101,ME,202311,2086.74,-0.0064,0.04,Portland,"Portland-South Portland, ME",Cumberland County
+59368,4101,ME,202312,2046.92,-0.0191,0.0269,Portland,"Portland-South Portland, ME",Cumberland County
+59368,4101,ME,202401,2045.55,-0.0007,0.0307,Portland,"Portland-South Portland, ME",Cumberland County
+59368,4101,ME,202402,2052.54,0.0034,0.0444,Portland,"Portland-South Portland, ME",Cumberland County
+59368,4101,ME,202403,2118.0,0.0319,0.0495,Portland,"Portland-South Portland, ME",Cumberland County
+59368,4101,ME,202404,2161.27,0.0204,0.0527,Portland,"Portland-South Portland, ME",Cumberland County
+59368,4101,ME,202405,2170.55,0.0043,0.0464,Portland,"Portland-South Portland, ME",Cumberland County
+59368,4101,ME,202406,2182.29,0.0054,0.0533,Portland,"Portland-South Portland, ME",Cumberland County
+59368,4101,ME,202407,2187.78,0.0025,0.0482,Portland,"Portland-South Portland, ME",Cumberland County
+59368,4101,ME,202408,2198.42,0.0049,0.0374,Portland,"Portland-South Portland, ME",Cumberland County
+59368,4101,ME,202409,2199.76,0.0006,0.0371,Portland,"Portland-South Portland, ME",Cumberland County
+59368,4101,ME,202410,2182.94,-0.0076,0.0394,Portland,"Portland-South Portland, ME",Cumberland County
+59368,4101,ME,202411,2184.21,0.0006,0.0467,Portland,"Portland-South Portland, ME",Cumberland County
+59368,4101,ME,202412,2163.83,-0.0093,0.0571,Portland,"Portland-South Portland, ME",Cumberland County
+59368,4101,ME,202501,2159.8,-0.0019,0.0558,Portland,"Portland-South Portland, ME",Cumberland County
+59368,4101,ME,202502,2168.88,0.0042,0.0567,Portland,"Portland-South Portland, ME",Cumberland County
+59368,4101,ME,202503,2201.31,0.015,0.0393,Portland,"Portland-South Portland, ME",Cumberland County
+59368,4101,ME,202504,2234.56,0.0151,0.0339,Portland,"Portland-South Portland, ME",Cumberland County
+59368,4101,ME,202505,2253.66,0.0085,0.0383,Portland,"Portland-South Portland, ME",Cumberland County
+59368,4101,ME,202506,2289.0,0.0157,0.0489,Portland,"Portland-South Portland, ME",Cumberland County
+59368,4101,ME,202507,2296.01,0.0031,0.0495,Portland,"Portland-South Portland, ME",Cumberland County
+59368,4101,ME,202508,2280.66,-0.0067,0.0374,Portland,"Portland-South Portland, ME",Cumberland County
+59368,4101,ME,202509,2246.87,-0.0148,0.0214,Portland,"Portland-South Portland, ME",Cumberland County
+59368,4101,ME,202510,2233.62,-0.0059,0.0232,Portland,"Portland-South Portland, ME",Cumberland County
+59368,4101,ME,202511,2248.35,0.0066,0.0294,Portland,"Portland-South Portland, ME",Cumberland County
+59368,4101,ME,202512,2255.17,0.003,0.0422,Portland,"Portland-South Portland, ME",Cumberland County
+59368,4101,ME,202601,2251.18,-0.0018,0.0423,Portland,"Portland-South Portland, ME",Cumberland County
+59368,4101,ME,202602,2244.06,-0.0032,0.0347,Portland,"Portland-South Portland, ME",Cumberland County
+59368,4101,ME,202603,2255.67,0.0052,0.0247,Portland,"Portland-South Portland, ME",Cumberland County
+59369,4102,ME,202106,1744.8,,,Portland,"Portland-South Portland, ME",Cumberland County
+59369,4102,ME,202107,1764.39,0.0112,,Portland,"Portland-South Portland, ME",Cumberland County
+59369,4102,ME,202108,1764.06,-0.0002,,Portland,"Portland-South Portland, ME",Cumberland County
+59369,4102,ME,202109,1765.89,0.001,,Portland,"Portland-South Portland, ME",Cumberland County
+59369,4102,ME,202110,1788.29,0.0127,,Portland,"Portland-South Portland, ME",Cumberland County
+59369,4102,ME,202111,1834.85,0.026,,Portland,"Portland-South Portland, ME",Cumberland County
+59369,4102,ME,202112,1859.65,0.0135,,Portland,"Portland-South Portland, ME",Cumberland County
+59369,4102,ME,202201,1855.96,-0.002,,Portland,"Portland-South Portland, ME",Cumberland County
+59369,4102,ME,202203,1818.68,-0.0201,,Portland,"Portland-South Portland, ME",Cumberland County
+59369,4102,ME,202204,1848.41,0.0163,,Portland,"Portland-South Portland, ME",Cumberland County
+59369,4102,ME,202205,1929.14,0.0437,,Portland,"Portland-South Portland, ME",Cumberland County
+59369,4102,ME,202206,1957.74,0.0148,,Portland,"Portland-South Portland, ME",Cumberland County
+59369,4102,ME,202207,1977.77,0.0102,0.1335,Portland,"Portland-South Portland, ME",Cumberland County
+59369,4102,ME,202208,1977.55,-0.0001,0.1208,Portland,"Portland-South Portland, ME",Cumberland County
+59369,4102,ME,202209,2000.33,0.0115,0.1339,Portland,"Portland-South Portland, ME",Cumberland County
+59369,4102,ME,202210,2026.11,0.0129,0.1474,Portland,"Portland-South Portland, ME",Cumberland County
+59369,4102,ME,202211,2043.77,0.0087,0.1429,Portland,"Portland-South Portland, ME",Cumberland County
+59369,4102,ME,202212,2003.4,-0.0198,0.0919,Portland,"Portland-South Portland, ME",Cumberland County
+59369,4102,ME,202301,1967.75,-0.0178,0.0581,Portland,"Portland-South Portland, ME",Cumberland County
+59369,4102,ME,202302,1996.18,0.0145,0.0756,Portland,"Portland-South Portland, ME",Cumberland County
+59369,4102,ME,202303,2018.4,0.0111,0.1098,Portland,"Portland-South Portland, ME",Cumberland County
+59369,4102,ME,202304,2051.38,0.0163,0.1098,Portland,"Portland-South Portland, ME",Cumberland County
+59369,4102,ME,202305,2047.94,-0.0017,0.0616,Portland,"Portland-South Portland, ME",Cumberland County
+59369,4102,ME,202306,2066.59,0.0091,0.0556,Portland,"Portland-South Portland, ME",Cumberland County
+59369,4102,ME,202307,2117.06,0.0244,0.0704,Portland,"Portland-South Portland, ME",Cumberland County
+59369,4102,ME,202308,2112.54,-0.0021,0.0683,Portland,"Portland-South Portland, ME",Cumberland County
+59369,4102,ME,202309,2133.17,0.0098,0.0664,Portland,"Portland-South Portland, ME",Cumberland County
+59369,4102,ME,202310,2074.08,-0.0277,0.0237,Portland,"Portland-South Portland, ME",Cumberland County
+59369,4102,ME,202311,2104.72,0.0148,0.0298,Portland,"Portland-South Portland, ME",Cumberland County
+59369,4102,ME,202312,2090.5,-0.0068,0.0435,Portland,"Portland-South Portland, ME",Cumberland County
+59369,4102,ME,202401,2103.66,0.0063,0.0691,Portland,"Portland-South Portland, ME",Cumberland County
+59369,4102,ME,202402,2082.59,-0.01,0.0433,Portland,"Portland-South Portland, ME",Cumberland County
+59369,4102,ME,202403,2099.83,0.0083,0.0403,Portland,"Portland-South Portland, ME",Cumberland County
+59369,4102,ME,202404,2117.8,0.0086,0.0324,Portland,"Portland-South Portland, ME",Cumberland County
+59369,4102,ME,202405,2137.58,0.0093,0.0438,Portland,"Portland-South Portland, ME",Cumberland County
+59369,4102,ME,202406,2141.65,0.0019,0.0363,Portland,"Portland-South Portland, ME",Cumberland County
+59369,4102,ME,202407,2132.63,-0.0042,0.0074,Portland,"Portland-South Portland, ME",Cumberland County
+59369,4102,ME,202408,2137.51,0.0023,0.0118,Portland,"Portland-South Portland, ME",Cumberland County
+59369,4102,ME,202409,2124.57,-0.0061,-0.004,Portland,"Portland-South Portland, ME",Cumberland County
+59369,4102,ME,202410,2136.95,0.0058,0.0303,Portland,"Portland-South Portland, ME",Cumberland County
+59369,4102,ME,202411,2145.87,0.0042,0.0195,Portland,"Portland-South Portland, ME",Cumberland County
+59369,4102,ME,202412,2124.67,-0.0099,0.0163,Portland,"Portland-South Portland, ME",Cumberland County
+59369,4102,ME,202501,2123.85,-0.0004,0.0096,Portland,"Portland-South Portland, ME",Cumberland County
+59369,4102,ME,202502,2129.48,0.0027,0.0225,Portland,"Portland-South Portland, ME",Cumberland County
+59369,4102,ME,202503,2162.96,0.0157,0.0301,Portland,"Portland-South Portland, ME",Cumberland County
+59369,4102,ME,202504,2196.44,0.0155,0.0371,Portland,"Portland-South Portland, ME",Cumberland County
+59369,4102,ME,202505,2207.54,0.0051,0.0327,Portland,"Portland-South Portland, ME",Cumberland County
+59369,4102,ME,202506,2192.81,-0.0067,0.0239,Portland,"Portland-South Portland, ME",Cumberland County
+59369,4102,ME,202507,2180.46,-0.0056,0.0224,Portland,"Portland-South Portland, ME",Cumberland County
+59369,4102,ME,202508,2187.42,0.0032,0.0234,Portland,"Portland-South Portland, ME",Cumberland County
+59369,4102,ME,202509,2229.64,0.0193,0.0495,Portland,"Portland-South Portland, ME",Cumberland County
+59369,4102,ME,202510,2238.7,0.0041,0.0476,Portland,"Portland-South Portland, ME",Cumberland County
+59369,4102,ME,202511,2227.78,-0.0049,0.0382,Portland,"Portland-South Portland, ME",Cumberland County
+59369,4102,ME,202512,2228.46,0.0003,0.0489,Portland,"Portland-South Portland, ME",Cumberland County
+59369,4102,ME,202601,2216.59,-0.0053,0.0437,Portland,"Portland-South Portland, ME",Cumberland County
+59369,4102,ME,202602,2220.94,0.002,0.0429,Portland,"Portland-South Portland, ME",Cumberland County
+59369,4102,ME,202603,2213.94,-0.0031,0.0236,Portland,"Portland-South Portland, ME",Cumberland County
+59370,4103,ME,202202,1951.1,,,Portland,"Portland-South Portland, ME",Cumberland County
+59370,4103,ME,202203,1956.0,0.0025,,Portland,"Portland-South Portland, ME",Cumberland County
+59370,4103,ME,202204,1970.67,0.0075,,Portland,"Portland-South Portland, ME",Cumberland County
+59370,4103,ME,202205,2058.11,0.0444,,Portland,"Portland-South Portland, ME",Cumberland County
+59370,4103,ME,202206,2076.19,0.0088,,Portland,"Portland-South Portland, ME",Cumberland County
+59370,4103,ME,202207,2140.08,0.0308,,Portland,"Portland-South Portland, ME",Cumberland County
+59370,4103,ME,202208,2133.0,-0.0033,,Portland,"Portland-South Portland, ME",Cumberland County
+59370,4103,ME,202209,2167.83,0.0163,,Portland,"Portland-South Portland, ME",Cumberland County
+59370,4103,ME,202210,2157.19,-0.0049,,Portland,"Portland-South Portland, ME",Cumberland County
+59370,4103,ME,202211,2146.7,-0.0049,,Portland,"Portland-South Portland, ME",Cumberland County
+59370,4103,ME,202212,2104.02,-0.0199,,Portland,"Portland-South Portland, ME",Cumberland County
+59370,4103,ME,202301,2065.48,-0.0183,,Portland,"Portland-South Portland, ME",Cumberland County
+59370,4103,ME,202302,2064.84,-0.0003,0.0583,Portland,"Portland-South Portland, ME",Cumberland County
+59370,4103,ME,202303,2094.2,0.0142,0.0707,Portland,"Portland-South Portland, ME",Cumberland County
+59370,4103,ME,202304,2105.72,0.0055,0.0685,Portland,"Portland-South Portland, ME",Cumberland County
+59370,4103,ME,202305,2146.37,0.0193,0.0429,Portland,"Portland-South Portland, ME",Cumberland County
+59370,4103,ME,202306,2187.71,0.0193,0.0537,Portland,"Portland-South Portland, ME",Cumberland County
+59370,4103,ME,202307,2248.63,0.0278,0.0507,Portland,"Portland-South Portland, ME",Cumberland County
+59370,4103,ME,202308,2249.48,0.0004,0.0546,Portland,"Portland-South Portland, ME",Cumberland County
+59370,4103,ME,202309,2264.14,0.0065,0.0444,Portland,"Portland-South Portland, ME",Cumberland County
+59370,4103,ME,202310,2253.78,-0.0046,0.0448,Portland,"Portland-South Portland, ME",Cumberland County
+59370,4103,ME,202311,2217.44,-0.0161,0.033,Portland,"Portland-South Portland, ME",Cumberland County
+59370,4103,ME,202312,2150.43,-0.0302,0.0221,Portland,"Portland-South Portland, ME",Cumberland County
+59370,4103,ME,202401,2128.15,-0.0104,0.0303,Portland,"Portland-South Portland, ME",Cumberland County
+59370,4103,ME,202402,2173.88,0.0215,0.0528,Portland,"Portland-South Portland, ME",Cumberland County
+59370,4103,ME,202403,2209.6,0.0164,0.0551,Portland,"Portland-South Portland, ME",Cumberland County
+59370,4103,ME,202404,2266.74,0.0259,0.0765,Portland,"Portland-South Portland, ME",Cumberland County
+59370,4103,ME,202405,2309.5,0.0189,0.076,Portland,"Portland-South Portland, ME",Cumberland County
+59370,4103,ME,202406,2330.02,0.0089,0.065,Portland,"Portland-South Portland, ME",Cumberland County
+59370,4103,ME,202407,2354.29,0.0104,0.047,Portland,"Portland-South Portland, ME",Cumberland County
+59370,4103,ME,202408,2356.9,0.0011,0.0478,Portland,"Portland-South Portland, ME",Cumberland County
+59370,4103,ME,202409,2392.45,0.0151,0.0567,Portland,"Portland-South Portland, ME",Cumberland County
+59370,4103,ME,202410,2346.39,-0.0193,0.0411,Portland,"Portland-South Portland, ME",Cumberland County
+59370,4103,ME,202411,2290.31,-0.0239,0.0329,Portland,"Portland-South Portland, ME",Cumberland County
+59370,4103,ME,202412,2236.17,-0.0236,0.0399,Portland,"Portland-South Portland, ME",Cumberland County
+59370,4103,ME,202501,2259.36,0.0104,0.0617,Portland,"Portland-South Portland, ME",Cumberland County
+59370,4103,ME,202502,2255.11,-0.0019,0.0374,Portland,"Portland-South Portland, ME",Cumberland County
+59370,4103,ME,202503,2281.22,0.0116,0.0324,Portland,"Portland-South Portland, ME",Cumberland County
+59370,4103,ME,202504,2267.8,-0.0059,0.0005,Portland,"Portland-South Portland, ME",Cumberland County
+59370,4103,ME,202505,2331.13,0.0279,0.0094,Portland,"Portland-South Portland, ME",Cumberland County
+59370,4103,ME,202506,2346.14,0.0064,0.0069,Portland,"Portland-South Portland, ME",Cumberland County
+59370,4103,ME,202507,2452.69,0.0454,0.0418,Portland,"Portland-South Portland, ME",Cumberland County
+59370,4103,ME,202508,2511.28,0.0239,0.0655,Portland,"Portland-South Portland, ME",Cumberland County
+59370,4103,ME,202509,2557.32,0.0183,0.0689,Portland,"Portland-South Portland, ME",Cumberland County
+59370,4103,ME,202510,2502.1,-0.0216,0.0664,Portland,"Portland-South Portland, ME",Cumberland County
+59370,4103,ME,202511,2467.18,-0.014,0.0772,Portland,"Portland-South Portland, ME",Cumberland County
+59370,4103,ME,202512,2370.64,-0.0391,0.0601,Portland,"Portland-South Portland, ME",Cumberland County
+59370,4103,ME,202601,2382.63,0.0051,0.0546,Portland,"Portland-South Portland, ME",Cumberland County
+59370,4103,ME,202602,2396.1,0.0057,0.0625,Portland,"Portland-South Portland, ME",Cumberland County
+59370,4103,ME,202603,2485.46,0.0373,0.0895,Portland,"Portland-South Portland, ME",Cumberland County
+59373,4106,ME,202102,1745.94,,,South Portland,"Portland-South Portland, ME",Cumberland County
+59373,4106,ME,202103,1765.66,0.0113,,South Portland,"Portland-South Portland, ME",Cumberland County
+59373,4106,ME,202104,1817.97,0.0296,,South Portland,"Portland-South Portland, ME",Cumberland County
+59373,4106,ME,202105,1821.43,0.0019,,South Portland,"Portland-South Portland, ME",Cumberland County
+59373,4106,ME,202106,1878.55,0.0314,,South Portland,"Portland-South Portland, ME",Cumberland County
+59373,4106,ME,202107,1922.35,0.0233,,South Portland,"Portland-South Portland, ME",Cumberland County
+59373,4106,ME,202108,1984.79,0.0325,,South Portland,"Portland-South Portland, ME",Cumberland County
+59373,4106,ME,202109,1982.81,-0.001,,South Portland,"Portland-South Portland, ME",Cumberland County
+59373,4106,ME,202110,1971.55,-0.0057,,South Portland,"Portland-South Portland, ME",Cumberland County
+59373,4106,ME,202111,1952.91,-0.0095,,South Portland,"Portland-South Portland, ME",Cumberland County
+59373,4106,ME,202112,1970.97,0.0092,,South Portland,"Portland-South Portland, ME",Cumberland County
+59373,4106,ME,202201,2005.17,0.0173,,South Portland,"Portland-South Portland, ME",Cumberland County
+59373,4106,ME,202202,2025.9,0.0103,0.1603,South Portland,"Portland-South Portland, ME",Cumberland County
+59373,4106,ME,202203,2072.11,0.0228,0.1736,South Portland,"Portland-South Portland, ME",Cumberland County
+59373,4106,ME,202204,2085.58,0.0065,0.1472,South Portland,"Portland-South Portland, ME",Cumberland County
+59373,4106,ME,202205,2175.66,0.0432,0.1945,South Portland,"Portland-South Portland, ME",Cumberland County
+59373,4106,ME,202206,2211.78,0.0166,0.1774,South Portland,"Portland-South Portland, ME",Cumberland County
+59373,4106,ME,202207,2265.93,0.0245,0.1787,South Portland,"Portland-South Portland, ME",Cumberland County
+59373,4106,ME,202208,2262.15,-0.0017,0.1397,South Portland,"Portland-South Portland, ME",Cumberland County
+59373,4106,ME,202209,2243.77,-0.0081,0.1316,South Portland,"Portland-South Portland, ME",Cumberland County
+59373,4106,ME,202210,2217.55,-0.0117,0.1248,South Portland,"Portland-South Portland, ME",Cumberland County
+59373,4106,ME,202211,2155.04,-0.0282,0.1035,South Portland,"Portland-South Portland, ME",Cumberland County
+59373,4106,ME,202212,2126.15,-0.0134,0.0787,South Portland,"Portland-South Portland, ME",Cumberland County
+59373,4106,ME,202301,2133.22,0.0033,0.0639,South Portland,"Portland-South Portland, ME",Cumberland County
+59373,4106,ME,202302,2174.78,0.0195,0.0735,South Portland,"Portland-South Portland, ME",Cumberland County
+59373,4106,ME,202303,2201.37,0.0122,0.0624,South Portland,"Portland-South Portland, ME",Cumberland County
+59373,4106,ME,202304,2225.58,0.011,0.0671,South Portland,"Portland-South Portland, ME",Cumberland County
+59373,4106,ME,202305,2235.64,0.0045,0.0276,South Portland,"Portland-South Portland, ME",Cumberland County
+59373,4106,ME,202306,2263.1,0.0123,0.0232,South Portland,"Portland-South Portland, ME",Cumberland County
+59373,4106,ME,202307,2281.16,0.008,0.0067,South Portland,"Portland-South Portland, ME",Cumberland County
+59373,4106,ME,202308,2288.82,0.0034,0.0118,South Portland,"Portland-South Portland, ME",Cumberland County
+59373,4106,ME,202309,2258.45,-0.0133,0.0065,South Portland,"Portland-South Portland, ME",Cumberland County
+59373,4106,ME,202310,2210.45,-0.0213,-0.0032,South Portland,"Portland-South Portland, ME",Cumberland County
+59373,4106,ME,202311,2194.72,-0.0071,0.0184,South Portland,"Portland-South Portland, ME",Cumberland County
+59373,4106,ME,202312,2189.26,-0.0025,0.0297,South Portland,"Portland-South Portland, ME",Cumberland County
+59373,4106,ME,202401,2223.0,0.0154,0.0421,South Portland,"Portland-South Portland, ME",Cumberland County
+59373,4106,ME,202402,2220.52,-0.0011,0.021,South Portland,"Portland-South Portland, ME",Cumberland County
+59373,4106,ME,202403,2235.57,0.0068,0.0155,South Portland,"Portland-South Portland, ME",Cumberland County
+59373,4106,ME,202404,2245.77,0.0046,0.0091,South Portland,"Portland-South Portland, ME",Cumberland County
+59373,4106,ME,202405,2274.17,0.0126,0.0172,South Portland,"Portland-South Portland, ME",Cumberland County
+59373,4106,ME,202406,2287.02,0.0056,0.0106,South Portland,"Portland-South Portland, ME",Cumberland County
+59373,4106,ME,202407,2280.85,-0.0027,-0.0001,South Portland,"Portland-South Portland, ME",Cumberland County
+59373,4106,ME,202408,2314.5,0.0148,0.0112,South Portland,"Portland-South Portland, ME",Cumberland County
+59373,4106,ME,202409,2337.61,0.01,0.0351,South Portland,"Portland-South Portland, ME",Cumberland County
+59373,4106,ME,202410,2369.03,0.0134,0.0717,South Portland,"Portland-South Portland, ME",Cumberland County
+59373,4106,ME,202411,2358.41,-0.0045,0.0746,South Portland,"Portland-South Portland, ME",Cumberland County
+59373,4106,ME,202412,2373.37,0.0063,0.0841,South Portland,"Portland-South Portland, ME",Cumberland County
+59373,4106,ME,202501,2356.31,-0.0072,0.06,South Portland,"Portland-South Portland, ME",Cumberland County
+59373,4106,ME,202502,2328.18,-0.0119,0.0485,South Portland,"Portland-South Portland, ME",Cumberland County
+59373,4106,ME,202503,2330.71,0.0011,0.0426,South Portland,"Portland-South Portland, ME",Cumberland County
+59373,4106,ME,202504,2366.82,0.0155,0.0539,South Portland,"Portland-South Portland, ME",Cumberland County
+59373,4106,ME,202505,2422.84,0.0237,0.0654,South Portland,"Portland-South Portland, ME",Cumberland County
+59373,4106,ME,202506,2443.77,0.0086,0.0685,South Portland,"Portland-South Portland, ME",Cumberland County
+59373,4106,ME,202507,2456.04,0.005,0.0768,South Portland,"Portland-South Portland, ME",Cumberland County
+59373,4106,ME,202508,2469.76,0.0056,0.0671,South Portland,"Portland-South Portland, ME",Cumberland County
+59373,4106,ME,202509,2480.14,0.0042,0.061,South Portland,"Portland-South Portland, ME",Cumberland County
+59373,4106,ME,202510,2483.99,0.0016,0.0485,South Portland,"Portland-South Portland, ME",Cumberland County
+59373,4106,ME,202511,2462.46,-0.0087,0.0441,South Portland,"Portland-South Portland, ME",Cumberland County
+59373,4106,ME,202512,2437.61,-0.0101,0.0271,South Portland,"Portland-South Portland, ME",Cumberland County
+59373,4106,ME,202601,2403.71,-0.0139,0.0201,South Portland,"Portland-South Portland, ME",Cumberland County
+59373,4106,ME,202602,2401.96,-0.0007,0.0317,South Portland,"Portland-South Portland, ME",Cumberland County
+59373,4106,ME,202603,2429.45,0.0114,0.0424,South Portland,"Portland-South Portland, ME",Cumberland County
+59383,4210,ME,202501,1535.16,,,Auburn,"Lewiston-Auburn, ME",Androscoggin County
+59383,4210,ME,202502,1573.76,0.0251,,Auburn,"Lewiston-Auburn, ME",Androscoggin County
+59383,4210,ME,202503,1610.58,0.0234,,Auburn,"Lewiston-Auburn, ME",Androscoggin County
+59383,4210,ME,202504,1594.25,-0.0101,,Auburn,"Lewiston-Auburn, ME",Androscoggin County
+59383,4210,ME,202505,1574.96,-0.0121,,Auburn,"Lewiston-Auburn, ME",Androscoggin County
+59383,4210,ME,202506,1587.55,0.008,,Auburn,"Lewiston-Auburn, ME",Androscoggin County
+59383,4210,ME,202507,1581.76,-0.0037,,Auburn,"Lewiston-Auburn, ME",Androscoggin County
+59383,4210,ME,202508,1588.24,0.0041,,Auburn,"Lewiston-Auburn, ME",Androscoggin County
+59383,4210,ME,202509,1602.45,0.0089,,Auburn,"Lewiston-Auburn, ME",Androscoggin County
+59383,4210,ME,202510,1645.47,0.0268,,Auburn,"Lewiston-Auburn, ME",Androscoggin County
+59383,4210,ME,202511,1680.56,0.0213,,Auburn,"Lewiston-Auburn, ME",Androscoggin County
+59383,4210,ME,202512,1708.67,0.0167,,Auburn,"Lewiston-Auburn, ME",Androscoggin County
+59383,4210,ME,202601,1692.66,-0.0094,0.1026,Auburn,"Lewiston-Auburn, ME",Androscoggin County
+59383,4210,ME,202602,1629.91,-0.0371,0.0357,Auburn,"Lewiston-Auburn, ME",Androscoggin County
+59383,4210,ME,202603,1606.67,-0.0143,-0.0024,Auburn,"Lewiston-Auburn, ME",Androscoggin County
+59405,4240,ME,202402,1295.96,,,Lewiston,"Lewiston-Auburn, ME",Androscoggin County
+59405,4240,ME,202403,1320.71,0.0191,,Lewiston,"Lewiston-Auburn, ME",Androscoggin County
+59405,4240,ME,202404,1326.11,0.0041,,Lewiston,"Lewiston-Auburn, ME",Androscoggin County
+59405,4240,ME,202405,1330.28,0.0031,,Lewiston,"Lewiston-Auburn, ME",Androscoggin County
+59405,4240,ME,202406,1340.73,0.0079,,Lewiston,"Lewiston-Auburn, ME",Androscoggin County
+59405,4240,ME,202407,1349.3,0.0064,,Lewiston,"Lewiston-Auburn, ME",Androscoggin County
+59405,4240,ME,202408,1371.79,0.0167,,Lewiston,"Lewiston-Auburn, ME",Androscoggin County
+59405,4240,ME,202409,1373.54,0.0013,,Lewiston,"Lewiston-Auburn, ME",Androscoggin County
+59405,4240,ME,202410,1379.61,0.0044,,Lewiston,"Lewiston-Auburn, ME",Androscoggin County
+59405,4240,ME,202411,1362.41,-0.0125,,Lewiston,"Lewiston-Auburn, ME",Androscoggin County
+59405,4240,ME,202412,1363.14,0.0005,,Lewiston,"Lewiston-Auburn, ME",Androscoggin County
+59405,4240,ME,202501,1377.38,0.0104,,Lewiston,"Lewiston-Auburn, ME",Androscoggin County
+59405,4240,ME,202502,1413.09,0.0259,0.0904,Lewiston,"Lewiston-Auburn, ME",Androscoggin County
+59405,4240,ME,202503,1429.21,0.0114,0.0821,Lewiston,"Lewiston-Auburn, ME",Androscoggin County
+59405,4240,ME,202505,1417.82,-0.008,0.0692,Lewiston,"Lewiston-Auburn, ME",Androscoggin County
+59405,4240,ME,202506,1436.22,0.013,0.0796,Lewiston,"Lewiston-Auburn, ME",Androscoggin County
+59405,4240,ME,202507,1444.27,0.0056,0.0772,Lewiston,"Lewiston-Auburn, ME",Androscoggin County
+59405,4240,ME,202508,1447.39,0.0022,0.0727,Lewiston,"Lewiston-Auburn, ME",Androscoggin County
+59405,4240,ME,202509,1432.21,-0.0105,0.044,Lewiston,"Lewiston-Auburn, ME",Androscoggin County
+59405,4240,ME,202510,1407.76,-0.0171,0.0249,Lewiston,"Lewiston-Auburn, ME",Androscoggin County
+59405,4240,ME,202511,1412.24,0.0032,0.0236,Lewiston,"Lewiston-Auburn, ME",Androscoggin County
+59405,4240,ME,202512,1451.33,0.0277,0.0653,Lewiston,"Lewiston-Auburn, ME",Androscoggin County
+59405,4240,ME,202601,1469.55,0.0126,0.0781,Lewiston,"Lewiston-Auburn, ME",Androscoggin County
+59405,4240,ME,202602,1450.29,-0.0131,0.0529,Lewiston,"Lewiston-Auburn, ME",Androscoggin County
+59405,4240,ME,202603,1436.02,-0.0098,0.0162,Lewiston,"Lewiston-Auburn, ME",Androscoggin County
+59444,4330,ME,202206,1277.11,,,Augusta,"Augusta-Waterville, ME",Kennebec County
+59444,4330,ME,202207,1264.87,-0.0096,,Augusta,"Augusta-Waterville, ME",Kennebec County
+59444,4330,ME,202208,1217.24,-0.0377,,Augusta,"Augusta-Waterville, ME",Kennebec County
+59444,4330,ME,202210,1234.91,0.0145,,Augusta,"Augusta-Waterville, ME",Kennebec County
+59444,4330,ME,202211,1242.22,0.0059,,Augusta,"Augusta-Waterville, ME",Kennebec County
+59444,4330,ME,202212,1239.62,-0.0021,,Augusta,"Augusta-Waterville, ME",Kennebec County
+59444,4330,ME,202301,1288.08,0.0391,,Augusta,"Augusta-Waterville, ME",Kennebec County
+59444,4330,ME,202302,1335.64,0.0369,,Augusta,"Augusta-Waterville, ME",Kennebec County
+59444,4330,ME,202303,1351.43,0.0118,,Augusta,"Augusta-Waterville, ME",Kennebec County
+59444,4330,ME,202304,1344.36,-0.0052,,Augusta,"Augusta-Waterville, ME",Kennebec County
+59444,4330,ME,202305,1352.74,0.0062,,Augusta,"Augusta-Waterville, ME",Kennebec County
+59444,4330,ME,202306,1382.72,0.0222,,Augusta,"Augusta-Waterville, ME",Kennebec County
+59444,4330,ME,202307,1371.44,-0.0082,0.0739,Augusta,"Augusta-Waterville, ME",Kennebec County
+59444,4330,ME,202308,1389.15,0.0129,0.0983,Augusta,"Augusta-Waterville, ME",Kennebec County
+59444,4330,ME,202309,1408.37,0.0138,0.157,Augusta,"Augusta-Waterville, ME",Kennebec County
+59444,4330,ME,202310,1425.5,0.0122,0.1543,Augusta,"Augusta-Waterville, ME",Kennebec County
+59444,4330,ME,202311,1424.51,-0.0007,0.1467,Augusta,"Augusta-Waterville, ME",Kennebec County
+59444,4330,ME,202312,1398.92,-0.018,0.1285,Augusta,"Augusta-Waterville, ME",Kennebec County
+59444,4330,ME,202401,1417.95,0.0136,0.1008,Augusta,"Augusta-Waterville, ME",Kennebec County
+59444,4330,ME,202402,1403.83,-0.01,0.0511,Augusta,"Augusta-Waterville, ME",Kennebec County
+59444,4330,ME,202403,1405.76,0.0014,0.0402,Augusta,"Augusta-Waterville, ME",Kennebec County
+59444,4330,ME,202404,1401.35,-0.0031,0.0424,Augusta,"Augusta-Waterville, ME",Kennebec County
+59444,4330,ME,202405,1417.52,0.0115,0.0479,Augusta,"Augusta-Waterville, ME",Kennebec County
+59444,4330,ME,202406,1448.01,0.0215,0.0472,Augusta,"Augusta-Waterville, ME",Kennebec County
+59444,4330,ME,202407,1455.28,0.005,0.0611,Augusta,"Augusta-Waterville, ME",Kennebec County
+59444,4330,ME,202408,1493.18,0.026,0.0749,Augusta,"Augusta-Waterville, ME",Kennebec County
+59444,4330,ME,202409,1500.69,0.005,0.0655,Augusta,"Augusta-Waterville, ME",Kennebec County
+59444,4330,ME,202410,1512.76,0.008,0.0612,Augusta,"Augusta-Waterville, ME",Kennebec County
+59444,4330,ME,202411,1479.33,-0.0221,0.0385,Augusta,"Augusta-Waterville, ME",Kennebec County
+59444,4330,ME,202412,1439.86,-0.0267,0.0293,Augusta,"Augusta-Waterville, ME",Kennebec County
+59444,4330,ME,202501,1434.55,-0.0037,0.0117,Augusta,"Augusta-Waterville, ME",Kennebec County
+59444,4330,ME,202502,1441.43,0.0048,0.0268,Augusta,"Augusta-Waterville, ME",Kennebec County
+59444,4330,ME,202503,1481.98,0.0281,0.0542,Augusta,"Augusta-Waterville, ME",Kennebec County
+59444,4330,ME,202504,1505.27,0.0157,0.0742,Augusta,"Augusta-Waterville, ME",Kennebec County
+59444,4330,ME,202505,1541.07,0.0238,0.0872,Augusta,"Augusta-Waterville, ME",Kennebec County
+59444,4330,ME,202506,1587.72,0.0303,0.0965,Augusta,"Augusta-Waterville, ME",Kennebec County
+59444,4330,ME,202507,1578.39,-0.0059,0.0846,Augusta,"Augusta-Waterville, ME",Kennebec County
+59444,4330,ME,202508,1567.8,-0.0067,0.05,Augusta,"Augusta-Waterville, ME",Kennebec County
+59444,4330,ME,202509,1554.34,-0.0086,0.0358,Augusta,"Augusta-Waterville, ME",Kennebec County
+59444,4330,ME,202510,1549.28,-0.0033,0.0241,Augusta,"Augusta-Waterville, ME",Kennebec County
+59444,4330,ME,202511,1554.6,0.0034,0.0509,Augusta,"Augusta-Waterville, ME",Kennebec County
+59444,4330,ME,202512,1526.64,-0.018,0.0603,Augusta,"Augusta-Waterville, ME",Kennebec County
+59444,4330,ME,202601,1530.75,0.0027,0.0671,Augusta,"Augusta-Waterville, ME",Kennebec County
+59444,4330,ME,202602,1535.69,0.0032,0.0654,Augusta,"Augusta-Waterville, ME",Kennebec County
+59444,4330,ME,202603,1561.24,0.0166,0.0535,Augusta,"Augusta-Waterville, ME",Kennebec County
+59470,4401,ME,202012,1038.05,,,Bangor,"Bangor, ME",Penobscot County
+59470,4401,ME,202101,1034.77,-0.0032,,Bangor,"Bangor, ME",Penobscot County
+59470,4401,ME,202102,1053.75,0.0183,,Bangor,"Bangor, ME",Penobscot County
+59470,4401,ME,202103,1074.52,0.0197,,Bangor,"Bangor, ME",Penobscot County
+59470,4401,ME,202104,1087.72,0.0123,,Bangor,"Bangor, ME",Penobscot County
+59470,4401,ME,202105,1103.68,0.0147,,Bangor,"Bangor, ME",Penobscot County
+59470,4401,ME,202106,1131.24,0.025,,Bangor,"Bangor, ME",Penobscot County
+59470,4401,ME,202107,1171.19,0.0353,,Bangor,"Bangor, ME",Penobscot County
+59470,4401,ME,202108,1176.55,0.0046,,Bangor,"Bangor, ME",Penobscot County
+59470,4401,ME,202109,1176.68,0.0001,,Bangor,"Bangor, ME",Penobscot County
+59470,4401,ME,202110,1168.77,-0.0067,,Bangor,"Bangor, ME",Penobscot County
+59470,4401,ME,202111,1176.77,0.0068,,Bangor,"Bangor, ME",Penobscot County
+59470,4401,ME,202112,1179.95,0.0027,0.1367,Bangor,"Bangor, ME",Penobscot County
+59470,4401,ME,202201,1186.39,0.0055,0.1465,Bangor,"Bangor, ME",Penobscot County
+59470,4401,ME,202202,1188.61,0.0019,0.128,Bangor,"Bangor, ME",Penobscot County
+59470,4401,ME,202203,1197.95,0.0079,0.1149,Bangor,"Bangor, ME",Penobscot County
+59470,4401,ME,202204,1209.55,0.0097,0.112,Bangor,"Bangor, ME",Penobscot County
+59470,4401,ME,202205,1246.92,0.0309,0.1298,Bangor,"Bangor, ME",Penobscot County
+59470,4401,ME,202206,1258.21,0.0091,0.1122,Bangor,"Bangor, ME",Penobscot County
+59470,4401,ME,202207,1270.92,0.0101,0.0851,Bangor,"Bangor, ME",Penobscot County
+59470,4401,ME,202208,1266.19,-0.0037,0.0762,Bangor,"Bangor, ME",Penobscot County
+59470,4401,ME,202209,1282.19,0.0126,0.0897,Bangor,"Bangor, ME",Penobscot County
+59470,4401,ME,202210,1280.23,-0.0015,0.0954,Bangor,"Bangor, ME",Penobscot County
+59470,4401,ME,202211,1269.91,-0.0081,0.0791,Bangor,"Bangor, ME",Penobscot County
+59470,4401,ME,202212,1254.37,-0.0122,0.0631,Bangor,"Bangor, ME",Penobscot County
+59470,4401,ME,202301,1247.89,-0.0052,0.0518,Bangor,"Bangor, ME",Penobscot County
+59470,4401,ME,202302,1247.14,-0.0006,0.0492,Bangor,"Bangor, ME",Penobscot County
+59470,4401,ME,202303,1260.24,0.0105,0.052,Bangor,"Bangor, ME",Penobscot County
+59470,4401,ME,202304,1285.36,0.0199,0.0627,Bangor,"Bangor, ME",Penobscot County
+59470,4401,ME,202305,1319.61,0.0266,0.0583,Bangor,"Bangor, ME",Penobscot County
+59470,4401,ME,202306,1344.84,0.0191,0.0689,Bangor,"Bangor, ME",Penobscot County
+59470,4401,ME,202307,1343.53,-0.001,0.0571,Bangor,"Bangor, ME",Penobscot County
+59470,4401,ME,202308,1334.62,-0.0066,0.054,Bangor,"Bangor, ME",Penobscot County
+59470,4401,ME,202309,1311.38,-0.0174,0.0228,Bangor,"Bangor, ME",Penobscot County
+59470,4401,ME,202310,1319.44,0.0061,0.0306,Bangor,"Bangor, ME",Penobscot County
+59470,4401,ME,202311,1328.05,0.0065,0.0458,Bangor,"Bangor, ME",Penobscot County
+59470,4401,ME,202312,1341.72,0.0103,0.0696,Bangor,"Bangor, ME",Penobscot County
+59470,4401,ME,202401,1345.72,0.003,0.0784,Bangor,"Bangor, ME",Penobscot County
+59470,4401,ME,202402,1366.12,0.0152,0.0954,Bangor,"Bangor, ME",Penobscot County
+59470,4401,ME,202403,1385.48,0.0142,0.0994,Bangor,"Bangor, ME",Penobscot County
+59470,4401,ME,202404,1394.02,0.0062,0.0845,Bangor,"Bangor, ME",Penobscot County
+59470,4401,ME,202405,1396.01,0.0014,0.0579,Bangor,"Bangor, ME",Penobscot County
+59470,4401,ME,202406,1405.79,0.007,0.0453,Bangor,"Bangor, ME",Penobscot County
+59470,4401,ME,202407,1417.58,0.0084,0.0551,Bangor,"Bangor, ME",Penobscot County
+59470,4401,ME,202408,1420.2,0.0018,0.0641,Bangor,"Bangor, ME",Penobscot County
+59470,4401,ME,202409,1416.91,-0.0023,0.0805,Bangor,"Bangor, ME",Penobscot County
+59470,4401,ME,202410,1399.95,-0.012,0.061,Bangor,"Bangor, ME",Penobscot County
+59470,4401,ME,202411,1395.59,-0.0031,0.0509,Bangor,"Bangor, ME",Penobscot County
+59470,4401,ME,202412,1398.09,0.0018,0.042,Bangor,"Bangor, ME",Penobscot County
+59470,4401,ME,202501,1399.09,0.0007,0.0397,Bangor,"Bangor, ME",Penobscot County
+59470,4401,ME,202502,1401.07,0.0014,0.0256,Bangor,"Bangor, ME",Penobscot County
+59470,4401,ME,202503,1397.71,-0.0024,0.0088,Bangor,"Bangor, ME",Penobscot County
+59470,4401,ME,202504,1423.78,0.0186,0.0213,Bangor,"Bangor, ME",Penobscot County
+59470,4401,ME,202505,1442.66,0.0133,0.0334,Bangor,"Bangor, ME",Penobscot County
+59470,4401,ME,202506,1453.64,0.0076,0.034,Bangor,"Bangor, ME",Penobscot County
+59470,4401,ME,202507,1458.31,0.0032,0.0287,Bangor,"Bangor, ME",Penobscot County
+59470,4401,ME,202508,1440.66,-0.0121,0.0144,Bangor,"Bangor, ME",Penobscot County
+59470,4401,ME,202509,1459.53,0.0131,0.0301,Bangor,"Bangor, ME",Penobscot County
+59470,4401,ME,202510,1451.62,-0.0054,0.0369,Bangor,"Bangor, ME",Penobscot County
+59470,4401,ME,202511,1471.55,0.0137,0.0544,Bangor,"Bangor, ME",Penobscot County
+59470,4401,ME,202512,1434.83,-0.025,0.0263,Bangor,"Bangor, ME",Penobscot County
+59470,4401,ME,202601,1443.67,0.0062,0.0319,Bangor,"Bangor, ME",Penobscot County
+59470,4401,ME,202602,1450.4,0.0047,0.0352,Bangor,"Bangor, ME",Penobscot County
+59470,4401,ME,202603,1493.0,0.0294,0.0682,Bangor,"Bangor, ME",Penobscot County
+59476,4412,ME,202602,1558.86,,,Brewer,"Bangor, ME",Penobscot County
+59476,4412,ME,202603,1556.25,-0.0017,,Brewer,"Bangor, ME",Penobscot County
+59500,4444,ME,202603,1150.0,,,Hampden,"Bangor, ME",Penobscot County
+59517,4468,ME,202601,1453.21,,,Old Town,"Bangor, ME",Penobscot County
+59517,4468,ME,202602,1508.35,0.0379,,Old Town,"Bangor, ME",Penobscot County
+59517,4468,ME,202603,1523.67,0.0102,,Old Town,"Bangor, ME",Penobscot County
+59521,4473,ME,202510,2012.22,,,Orono,"Bangor, ME",Penobscot County
+59521,4473,ME,202511,2019.69,0.0037,,Orono,"Bangor, ME",Penobscot County
+59521,4473,ME,202512,1881.7,-0.0683,,Orono,"Bangor, ME",Penobscot County
+59521,4473,ME,202601,1858.79,-0.0122,,Orono,"Bangor, ME",Penobscot County
+59521,4473,ME,202602,1854.9,-0.0021,,Orono,"Bangor, ME",Penobscot County
+59521,4473,ME,202603,1900.0,0.0243,,Orono,"Bangor, ME",Penobscot County
+59539,4530,ME,202603,1833.33,,,Bath,"Portland-South Portland, ME",Sagadahoc County
+59677,4841,ME,202603,1985.42,,,Rockland,,Knox County
+59698,4901,ME,202304,1177.45,,,Winslow,"Augusta-Waterville, ME",Kennebec County
+59698,4901,ME,202305,1157.49,-0.017,,Winslow,"Augusta-Waterville, ME",Kennebec County
+59698,4901,ME,202306,1165.16,0.0066,,Winslow,"Augusta-Waterville, ME",Kennebec County
+59698,4901,ME,202307,1183.87,0.0161,,Winslow,"Augusta-Waterville, ME",Kennebec County
+59698,4901,ME,202308,1172.09,-0.01,,Winslow,"Augusta-Waterville, ME",Kennebec County
+59698,4901,ME,202309,1159.71,-0.0106,,Winslow,"Augusta-Waterville, ME",Kennebec County
+59698,4901,ME,202310,1156.87,-0.0025,,Winslow,"Augusta-Waterville, ME",Kennebec County
+59698,4901,ME,202311,1180.96,0.0208,,Winslow,"Augusta-Waterville, ME",Kennebec County
+59698,4901,ME,202312,1194.04,0.0111,,Winslow,"Augusta-Waterville, ME",Kennebec County
+59698,4901,ME,202401,1208.4,0.012,,Winslow,"Augusta-Waterville, ME",Kennebec County
+59698,4901,ME,202402,1255.72,0.0392,,Winslow,"Augusta-Waterville, ME",Kennebec County
+59698,4901,ME,202403,1251.24,-0.0036,,Winslow,"Augusta-Waterville, ME",Kennebec County
+59698,4901,ME,202404,1279.68,0.0227,0.0868,Winslow,"Augusta-Waterville, ME",Kennebec County
+59698,4901,ME,202405,1262.48,-0.0134,0.0907,Winslow,"Augusta-Waterville, ME",Kennebec County
+59698,4901,ME,202406,1294.43,0.0253,0.1109,Winslow,"Augusta-Waterville, ME",Kennebec County
+59698,4901,ME,202407,1275.39,-0.0147,0.0773,Winslow,"Augusta-Waterville, ME",Kennebec County
+59698,4901,ME,202408,1267.16,-0.0065,0.0811,Winslow,"Augusta-Waterville, ME",Kennebec County
+59698,4901,ME,202409,1240.03,-0.0214,0.0693,Winslow,"Augusta-Waterville, ME",Kennebec County
+59698,4901,ME,202410,1259.24,0.0155,0.0885,Winslow,"Augusta-Waterville, ME",Kennebec County
+59698,4901,ME,202412,1281.11,0.0174,0.0848,Winslow,"Augusta-Waterville, ME",Kennebec County
+59698,4901,ME,202501,1276.6,-0.0035,0.0691,Winslow,"Augusta-Waterville, ME",Kennebec County
+59698,4901,ME,202502,1253.9,-0.0178,0.0376,Winslow,"Augusta-Waterville, ME",Kennebec County
+59698,4901,ME,202503,1269.92,0.0128,0.0113,Winslow,"Augusta-Waterville, ME",Kennebec County
+59698,4901,ME,202504,1278.82,0.007,0.022,Winslow,"Augusta-Waterville, ME",Kennebec County
+59698,4901,ME,202505,1317.28,0.0301,0.0294,Winslow,"Augusta-Waterville, ME",Kennebec County
+59698,4901,ME,202506,1326.72,0.0072,0.0509,Winslow,"Augusta-Waterville, ME",Kennebec County
+59698,4901,ME,202507,1321.8,-0.0037,0.0211,Winslow,"Augusta-Waterville, ME",Kennebec County
+59698,4901,ME,202508,1311.77,-0.0076,0.0285,Winslow,"Augusta-Waterville, ME",Kennebec County
+59698,4901,ME,202509,1334.02,0.017,0.0528,Winslow,"Augusta-Waterville, ME",Kennebec County
+59698,4901,ME,202510,1339.28,0.0039,0.08,Winslow,"Augusta-Waterville, ME",Kennebec County
+59698,4901,ME,202511,1344.07,0.0036,0.0674,Winslow,"Augusta-Waterville, ME",Kennebec County
+59698,4901,ME,202512,1329.17,-0.0111,0.0375,Winslow,"Augusta-Waterville, ME",Kennebec County
+59698,4901,ME,202601,1336.4,0.0054,0.0468,Winslow,"Augusta-Waterville, ME",Kennebec County
+59698,4901,ME,202602,1344.03,0.0057,0.0719,Winslow,"Augusta-Waterville, ME",Kennebec County
+59698,4901,ME,202603,1349.88,0.0044,0.063,Winslow,"Augusta-Waterville, ME",Kennebec County

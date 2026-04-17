@@ -1,855 +1,870 @@
 RegionID,RegionName,State,month_date_yyyymm,zori,zori_mm,zori_yy,City,Metro,CountyName
-100220,99501,AK,201607,1098.05,,,Anchorage,"Anchorage, AK",Anchorage Borough
-100220,99501,AK,201608,1098.11,0.0001,,Anchorage,"Anchorage, AK",Anchorage Borough
-100220,99501,AK,201609,1104.64,0.006,,Anchorage,"Anchorage, AK",Anchorage Borough
-100220,99501,AK,201610,1102.91,-0.0016,,Anchorage,"Anchorage, AK",Anchorage Borough
-100220,99501,AK,201611,1099.78,-0.0028,,Anchorage,"Anchorage, AK",Anchorage Borough
-100220,99501,AK,201612,1078.78,-0.0191,,Anchorage,"Anchorage, AK",Anchorage Borough
-100220,99501,AK,201701,1087.5,0.0081,,Anchorage,"Anchorage, AK",Anchorage Borough
-100220,99501,AK,201702,1079.12,-0.0077,,Anchorage,"Anchorage, AK",Anchorage Borough
-100220,99501,AK,201703,1106.03,0.0249,,Anchorage,"Anchorage, AK",Anchorage Borough
-100220,99501,AK,201704,1108.97,0.0027,,Anchorage,"Anchorage, AK",Anchorage Borough
-100220,99501,AK,201705,1119.84,0.0098,,Anchorage,"Anchorage, AK",Anchorage Borough
-100220,99501,AK,201706,1114.9,-0.0044,,Anchorage,"Anchorage, AK",Anchorage Borough
-100220,99501,AK,201707,1123.6,0.0078,0.0233,Anchorage,"Anchorage, AK",Anchorage Borough
-100220,99501,AK,201708,1118.35,-0.0047,0.0184,Anchorage,"Anchorage, AK",Anchorage Borough
-100220,99501,AK,201709,1110.01,-0.0075,0.0049,Anchorage,"Anchorage, AK",Anchorage Borough
-100220,99501,AK,201710,1089.79,-0.0182,-0.0119,Anchorage,"Anchorage, AK",Anchorage Borough
-100220,99501,AK,201711,1076.3,-0.0124,-0.0214,Anchorage,"Anchorage, AK",Anchorage Borough
-100220,99501,AK,201712,1071.53,-0.0044,-0.0067,Anchorage,"Anchorage, AK",Anchorage Borough
-100220,99501,AK,201801,1069.87,-0.0015,-0.0162,Anchorage,"Anchorage, AK",Anchorage Borough
-100220,99501,AK,201802,1072.81,0.0028,-0.0058,Anchorage,"Anchorage, AK",Anchorage Borough
-100220,99501,AK,201803,1074.87,0.0019,-0.0282,Anchorage,"Anchorage, AK",Anchorage Borough
-100220,99501,AK,201804,1095.53,0.0192,-0.0121,Anchorage,"Anchorage, AK",Anchorage Borough
-100220,99501,AK,201805,1124.69,0.0266,0.0043,Anchorage,"Anchorage, AK",Anchorage Borough
-100220,99501,AK,201806,1146.69,0.0196,0.0285,Anchorage,"Anchorage, AK",Anchorage Borough
-100220,99501,AK,201807,1133.08,-0.0119,0.0084,Anchorage,"Anchorage, AK",Anchorage Borough
-100220,99501,AK,201808,1113.61,-0.0172,-0.0042,Anchorage,"Anchorage, AK",Anchorage Borough
-100220,99501,AK,201809,1100.93,-0.0114,-0.0082,Anchorage,"Anchorage, AK",Anchorage Borough
-100220,99501,AK,201810,1088.87,-0.011,-0.0008,Anchorage,"Anchorage, AK",Anchorage Borough
-100220,99501,AK,201811,1086.93,-0.0018,0.0099,Anchorage,"Anchorage, AK",Anchorage Borough
-100220,99501,AK,201812,1079.55,-0.0068,0.0075,Anchorage,"Anchorage, AK",Anchorage Borough
-100220,99501,AK,201901,1091.52,0.0111,0.0202,Anchorage,"Anchorage, AK",Anchorage Borough
-100220,99501,AK,201902,1093.28,0.0016,0.0191,Anchorage,"Anchorage, AK",Anchorage Borough
-100220,99501,AK,201903,1108.21,0.0137,0.031,Anchorage,"Anchorage, AK",Anchorage Borough
-100220,99501,AK,201904,1125.67,0.0158,0.0275,Anchorage,"Anchorage, AK",Anchorage Borough
-100220,99501,AK,201905,1142.08,0.0146,0.0155,Anchorage,"Anchorage, AK",Anchorage Borough
-100220,99501,AK,201906,1153.36,0.0099,0.0058,Anchorage,"Anchorage, AK",Anchorage Borough
-100220,99501,AK,201907,1156.93,0.0031,0.0211,Anchorage,"Anchorage, AK",Anchorage Borough
-100220,99501,AK,201908,1143.4,-0.0117,0.0268,Anchorage,"Anchorage, AK",Anchorage Borough
-100220,99501,AK,201909,1144.48,0.0009,0.0396,Anchorage,"Anchorage, AK",Anchorage Borough
-100220,99501,AK,201910,1131.75,-0.0111,0.0394,Anchorage,"Anchorage, AK",Anchorage Borough
-100220,99501,AK,201911,1135.33,0.0032,0.0445,Anchorage,"Anchorage, AK",Anchorage Borough
-100220,99501,AK,201912,1134.78,-0.0005,0.0512,Anchorage,"Anchorage, AK",Anchorage Borough
-100220,99501,AK,202001,1145.47,0.0094,0.0494,Anchorage,"Anchorage, AK",Anchorage Borough
-100220,99501,AK,202002,1157.77,0.0107,0.059,Anchorage,"Anchorage, AK",Anchorage Borough
-100220,99501,AK,202003,1145.44,-0.0107,0.0336,Anchorage,"Anchorage, AK",Anchorage Borough
-100220,99501,AK,202004,1143.8,-0.0014,0.0161,Anchorage,"Anchorage, AK",Anchorage Borough
-100220,99501,AK,202005,1143.1,-0.0006,0.0009,Anchorage,"Anchorage, AK",Anchorage Borough
-100220,99501,AK,202006,1143.18,0.0001,-0.0088,Anchorage,"Anchorage, AK",Anchorage Borough
-100220,99501,AK,202007,1164.82,0.0189,0.0068,Anchorage,"Anchorage, AK",Anchorage Borough
-100220,99501,AK,202008,1166.16,0.0012,0.0199,Anchorage,"Anchorage, AK",Anchorage Borough
-100220,99501,AK,202009,1188.22,0.0189,0.0382,Anchorage,"Anchorage, AK",Anchorage Borough
-100220,99501,AK,202010,1203.09,0.0125,0.063,Anchorage,"Anchorage, AK",Anchorage Borough
-100220,99501,AK,202011,1195.65,-0.0062,0.0531,Anchorage,"Anchorage, AK",Anchorage Borough
-100220,99501,AK,202012,1201.6,0.005,0.0589,Anchorage,"Anchorage, AK",Anchorage Borough
-100220,99501,AK,202101,1182.79,-0.0157,0.0326,Anchorage,"Anchorage, AK",Anchorage Borough
-100220,99501,AK,202102,1212.91,0.0255,0.0476,Anchorage,"Anchorage, AK",Anchorage Borough
-100220,99501,AK,202103,1216.61,0.003,0.0621,Anchorage,"Anchorage, AK",Anchorage Borough
-100220,99501,AK,202104,1187.11,-0.0243,0.0379,Anchorage,"Anchorage, AK",Anchorage Borough
-100220,99501,AK,202105,1196.83,0.0082,0.047,Anchorage,"Anchorage, AK",Anchorage Borough
-100220,99501,AK,202106,1218.75,0.0183,0.0661,Anchorage,"Anchorage, AK",Anchorage Borough
-100220,99501,AK,202107,1263.44,0.0367,0.0847,Anchorage,"Anchorage, AK",Anchorage Borough
-100220,99501,AK,202108,1304.25,0.0323,0.1184,Anchorage,"Anchorage, AK",Anchorage Borough
-100220,99501,AK,202109,1303.41,-0.0006,0.0969,Anchorage,"Anchorage, AK",Anchorage Borough
-100220,99501,AK,202110,1328.53,0.0193,0.1043,Anchorage,"Anchorage, AK",Anchorage Borough
-100220,99501,AK,202111,1275.9,-0.0396,0.0671,Anchorage,"Anchorage, AK",Anchorage Borough
-100220,99501,AK,202201,1297.26,0.0167,0.0796,Anchorage,"Anchorage, AK",Anchorage Borough
-100220,99501,AK,202202,1341.36,0.034,0.1341,Anchorage,"Anchorage, AK",Anchorage Borough
-100220,99501,AK,202203,1371.97,0.0228,0.1311,Anchorage,"Anchorage, AK",Anchorage Borough
-100220,99501,AK,202204,1365.13,-0.005,0.1221,Anchorage,"Anchorage, AK",Anchorage Borough
-100220,99501,AK,202205,1370.59,0.004,0.1546,Anchorage,"Anchorage, AK",Anchorage Borough
-100220,99501,AK,202206,1402.22,0.0231,0.1716,Anchorage,"Anchorage, AK",Anchorage Borough
-100220,99501,AK,202207,1439.3,0.0264,0.181,Anchorage,"Anchorage, AK",Anchorage Borough
-100220,99501,AK,202208,1451.09,0.0082,0.1485,Anchorage,"Anchorage, AK",Anchorage Borough
-100220,99501,AK,202209,1435.09,-0.011,0.1003,Anchorage,"Anchorage, AK",Anchorage Borough
-100220,99501,AK,202210,1414.24,-0.0145,0.085,Anchorage,"Anchorage, AK",Anchorage Borough
-100220,99501,AK,202211,1422.7,0.006,0.0709,Anchorage,"Anchorage, AK",Anchorage Borough
-100220,99501,AK,202212,1433.38,0.0075,0.1234,Anchorage,"Anchorage, AK",Anchorage Borough
-100220,99501,AK,202301,1434.83,0.001,0.106,Anchorage,"Anchorage, AK",Anchorage Borough
-100220,99501,AK,202302,1436.31,0.001,0.0708,Anchorage,"Anchorage, AK",Anchorage Borough
-100220,99501,AK,202303,1444.92,0.006,0.0532,Anchorage,"Anchorage, AK",Anchorage Borough
-100220,99501,AK,202304,1472.35,0.019,0.0785,Anchorage,"Anchorage, AK",Anchorage Borough
-100220,99501,AK,202305,1501.46,0.0198,0.0955,Anchorage,"Anchorage, AK",Anchorage Borough
-100220,99501,AK,202306,1512.01,0.007,0.0783,Anchorage,"Anchorage, AK",Anchorage Borough
-100220,99501,AK,202307,1504.02,-0.0053,0.045,Anchorage,"Anchorage, AK",Anchorage Borough
-100220,99501,AK,202308,1502.64,-0.0009,0.0355,Anchorage,"Anchorage, AK",Anchorage Borough
-100220,99501,AK,202309,1518.12,0.0103,0.0579,Anchorage,"Anchorage, AK",Anchorage Borough
-100220,99501,AK,202310,1513.09,-0.0033,0.0699,Anchorage,"Anchorage, AK",Anchorage Borough
-100220,99501,AK,202311,1505.31,-0.0051,0.0581,Anchorage,"Anchorage, AK",Anchorage Borough
-100220,99501,AK,202312,1497.78,-0.005,0.0449,Anchorage,"Anchorage, AK",Anchorage Borough
-100220,99501,AK,202401,1499.84,0.0014,0.0453,Anchorage,"Anchorage, AK",Anchorage Borough
-100220,99501,AK,202402,1517.4,0.0117,0.0565,Anchorage,"Anchorage, AK",Anchorage Borough
-100220,99501,AK,202403,1521.89,0.003,0.0533,Anchorage,"Anchorage, AK",Anchorage Borough
-100220,99501,AK,202404,1545.03,0.0152,0.0494,Anchorage,"Anchorage, AK",Anchorage Borough
-100220,99501,AK,202405,1532.01,-0.0084,0.0203,Anchorage,"Anchorage, AK",Anchorage Borough
-100220,99501,AK,202406,1551.9,0.013,0.0264,Anchorage,"Anchorage, AK",Anchorage Borough
-100220,99501,AK,202407,1575.96,0.0155,0.0478,Anchorage,"Anchorage, AK",Anchorage Borough
-100220,99501,AK,202408,1618.99,0.0273,0.0774,Anchorage,"Anchorage, AK",Anchorage Borough
-100220,99501,AK,202409,1618.37,-0.0004,0.066,Anchorage,"Anchorage, AK",Anchorage Borough
-100220,99501,AK,202410,1609.9,-0.0052,0.064,Anchorage,"Anchorage, AK",Anchorage Borough
-100220,99501,AK,202411,1596.13,-0.0086,0.0603,Anchorage,"Anchorage, AK",Anchorage Borough
-100220,99501,AK,202412,1578.22,-0.0112,0.0537,Anchorage,"Anchorage, AK",Anchorage Borough
-100220,99501,AK,202501,1576.73,-0.0009,0.0513,Anchorage,"Anchorage, AK",Anchorage Borough
-100220,99501,AK,202502,1562.41,-0.0091,0.0297,Anchorage,"Anchorage, AK",Anchorage Borough
-100220,99501,AK,202503,1580.82,0.0118,0.0387,Anchorage,"Anchorage, AK",Anchorage Borough
-100220,99501,AK,202504,1594.17,0.0084,0.0318,Anchorage,"Anchorage, AK",Anchorage Borough
-100220,99501,AK,202505,1621.3,0.017,0.0583,Anchorage,"Anchorage, AK",Anchorage Borough
-100220,99501,AK,202506,1632.41,0.0069,0.0519,Anchorage,"Anchorage, AK",Anchorage Borough
-100220,99501,AK,202507,1667.49,0.0215,0.0581,Anchorage,"Anchorage, AK",Anchorage Borough
-100220,99501,AK,202508,1671.33,0.0023,0.0323,Anchorage,"Anchorage, AK",Anchorage Borough
-100220,99501,AK,202509,1681.62,0.0062,0.0391,Anchorage,"Anchorage, AK",Anchorage Borough
-100220,99501,AK,202510,1665.46,-0.0096,0.0345,Anchorage,"Anchorage, AK",Anchorage Borough
-100220,99501,AK,202511,1658.25,-0.0043,0.0389,Anchorage,"Anchorage, AK",Anchorage Borough
-100220,99501,AK,202512,1666.53,0.005,0.056,Anchorage,"Anchorage, AK",Anchorage Borough
-100220,99501,AK,202601,1646.5,-0.012,0.0442,Anchorage,"Anchorage, AK",Anchorage Borough
-100220,99501,AK,202602,1668.14,0.0131,0.0677,Anchorage,"Anchorage, AK",Anchorage Borough
-100221,99502,AK,202303,1456.2,,,Anchorage,"Anchorage, AK",Anchorage Borough
-100221,99502,AK,202304,1483.29,0.0186,,Anchorage,"Anchorage, AK",Anchorage Borough
-100221,99502,AK,202305,1453.37,-0.0202,,Anchorage,"Anchorage, AK",Anchorage Borough
-100221,99502,AK,202306,1473.13,0.0136,,Anchorage,"Anchorage, AK",Anchorage Borough
-100221,99502,AK,202307,1507.41,0.0233,,Anchorage,"Anchorage, AK",Anchorage Borough
-100221,99502,AK,202308,1507.18,-0.0002,,Anchorage,"Anchorage, AK",Anchorage Borough
-100221,99502,AK,202309,1517.82,0.0071,,Anchorage,"Anchorage, AK",Anchorage Borough
-100221,99502,AK,202310,1483.02,-0.0229,,Anchorage,"Anchorage, AK",Anchorage Borough
-100221,99502,AK,202311,1475.43,-0.0051,,Anchorage,"Anchorage, AK",Anchorage Borough
-100221,99502,AK,202312,1486.35,0.0074,,Anchorage,"Anchorage, AK",Anchorage Borough
-100221,99502,AK,202401,1491.55,0.0035,,Anchorage,"Anchorage, AK",Anchorage Borough
-100221,99502,AK,202402,1489.7,-0.0012,,Anchorage,"Anchorage, AK",Anchorage Borough
-100221,99502,AK,202403,1489.37,-0.0002,0.0228,Anchorage,"Anchorage, AK",Anchorage Borough
-100221,99502,AK,202404,1501.48,0.0081,0.0123,Anchorage,"Anchorage, AK",Anchorage Borough
-100221,99502,AK,202405,1530.27,0.0192,0.0529,Anchorage,"Anchorage, AK",Anchorage Borough
-100221,99502,AK,202406,1518.91,-0.0074,0.0311,Anchorage,"Anchorage, AK",Anchorage Borough
-100221,99502,AK,202407,1516.09,-0.0019,0.0058,Anchorage,"Anchorage, AK",Anchorage Borough
-100221,99502,AK,202408,1523.46,0.0049,0.0108,Anchorage,"Anchorage, AK",Anchorage Borough
-100221,99502,AK,202409,1551.71,0.0185,0.0223,Anchorage,"Anchorage, AK",Anchorage Borough
-100221,99502,AK,202410,1566.61,0.0096,0.0564,Anchorage,"Anchorage, AK",Anchorage Borough
-100221,99502,AK,202411,1548.03,-0.0119,0.0492,Anchorage,"Anchorage, AK",Anchorage Borough
-100221,99502,AK,202412,1503.14,-0.029,0.0113,Anchorage,"Anchorage, AK",Anchorage Borough
-100221,99502,AK,202501,1519.5,0.0109,0.0187,Anchorage,"Anchorage, AK",Anchorage Borough
-100221,99502,AK,202502,1539.95,0.0135,0.0337,Anchorage,"Anchorage, AK",Anchorage Borough
-100221,99502,AK,202503,1586.06,0.0299,0.0649,Anchorage,"Anchorage, AK",Anchorage Borough
-100221,99502,AK,202504,1554.07,-0.0202,0.035,Anchorage,"Anchorage, AK",Anchorage Borough
-100221,99502,AK,202505,1560.96,0.0044,0.0201,Anchorage,"Anchorage, AK",Anchorage Borough
-100221,99502,AK,202506,1565.98,0.0032,0.031,Anchorage,"Anchorage, AK",Anchorage Borough
-100221,99502,AK,202507,1571.55,0.0036,0.0366,Anchorage,"Anchorage, AK",Anchorage Borough
-100221,99502,AK,202508,1608.51,0.0235,0.0558,Anchorage,"Anchorage, AK",Anchorage Borough
-100221,99502,AK,202509,1635.92,0.017,0.0543,Anchorage,"Anchorage, AK",Anchorage Borough
-100221,99502,AK,202510,1674.33,0.0235,0.0688,Anchorage,"Anchorage, AK",Anchorage Borough
-100221,99502,AK,202511,1664.48,-0.0059,0.0752,Anchorage,"Anchorage, AK",Anchorage Borough
-100221,99502,AK,202512,1651.04,-0.0081,0.0984,Anchorage,"Anchorage, AK",Anchorage Borough
-100221,99502,AK,202601,1645.47,-0.0034,0.0829,Anchorage,"Anchorage, AK",Anchorage Borough
-100221,99502,AK,202602,1672.22,0.0163,0.0859,Anchorage,"Anchorage, AK",Anchorage Borough
-100222,99503,AK,202207,1188.82,,,Anchorage,"Anchorage, AK",Anchorage Borough
-100222,99503,AK,202208,1201.75,0.0109,,Anchorage,"Anchorage, AK",Anchorage Borough
-100222,99503,AK,202209,1222.28,0.0171,,Anchorage,"Anchorage, AK",Anchorage Borough
-100222,99503,AK,202210,1217.64,-0.0038,,Anchorage,"Anchorage, AK",Anchorage Borough
-100222,99503,AK,202211,1195.67,-0.018,,Anchorage,"Anchorage, AK",Anchorage Borough
-100222,99503,AK,202212,1211.32,0.0131,,Anchorage,"Anchorage, AK",Anchorage Borough
-100222,99503,AK,202301,1212.0,0.0006,,Anchorage,"Anchorage, AK",Anchorage Borough
-100222,99503,AK,202302,1256.72,0.0369,,Anchorage,"Anchorage, AK",Anchorage Borough
-100222,99503,AK,202303,1258.69,0.0016,,Anchorage,"Anchorage, AK",Anchorage Borough
-100222,99503,AK,202304,1246.52,-0.0097,,Anchorage,"Anchorage, AK",Anchorage Borough
-100222,99503,AK,202305,1253.23,0.0054,,Anchorage,"Anchorage, AK",Anchorage Borough
-100222,99503,AK,202306,1262.94,0.0077,,Anchorage,"Anchorage, AK",Anchorage Borough
-100222,99503,AK,202307,1289.28,0.0209,0.0845,Anchorage,"Anchorage, AK",Anchorage Borough
-100222,99503,AK,202308,1279.88,-0.0073,0.065,Anchorage,"Anchorage, AK",Anchorage Borough
-100222,99503,AK,202309,1284.53,0.0036,0.0509,Anchorage,"Anchorage, AK",Anchorage Borough
-100222,99503,AK,202310,1279.32,-0.0041,0.0507,Anchorage,"Anchorage, AK",Anchorage Borough
-100222,99503,AK,202311,1289.74,0.0081,0.0787,Anchorage,"Anchorage, AK",Anchorage Borough
-100222,99503,AK,202312,1294.27,0.0035,0.0685,Anchorage,"Anchorage, AK",Anchorage Borough
-100222,99503,AK,202401,1302.24,0.0062,0.0745,Anchorage,"Anchorage, AK",Anchorage Borough
-100222,99503,AK,202402,1308.72,0.005,0.0414,Anchorage,"Anchorage, AK",Anchorage Borough
-100222,99503,AK,202403,1312.51,0.0029,0.0428,Anchorage,"Anchorage, AK",Anchorage Borough
-100222,99503,AK,202404,1316.64,0.0031,0.0563,Anchorage,"Anchorage, AK",Anchorage Borough
-100222,99503,AK,202405,1313.17,-0.0026,0.0478,Anchorage,"Anchorage, AK",Anchorage Borough
-100222,99503,AK,202406,1322.81,0.0073,0.0474,Anchorage,"Anchorage, AK",Anchorage Borough
-100222,99503,AK,202407,1335.33,0.0095,0.0357,Anchorage,"Anchorage, AK",Anchorage Borough
-100222,99503,AK,202408,1347.67,0.0092,0.053,Anchorage,"Anchorage, AK",Anchorage Borough
-100222,99503,AK,202409,1343.56,-0.0031,0.046,Anchorage,"Anchorage, AK",Anchorage Borough
-100222,99503,AK,202410,1334.37,-0.0068,0.043,Anchorage,"Anchorage, AK",Anchorage Borough
-100222,99503,AK,202411,1341.28,0.0052,0.04,Anchorage,"Anchorage, AK",Anchorage Borough
-100222,99503,AK,202412,1343.35,0.0015,0.0379,Anchorage,"Anchorage, AK",Anchorage Borough
-100222,99503,AK,202501,1360.24,0.0126,0.0445,Anchorage,"Anchorage, AK",Anchorage Borough
-100222,99503,AK,202502,1358.3,-0.0014,0.0379,Anchorage,"Anchorage, AK",Anchorage Borough
-100222,99503,AK,202503,1367.66,0.0069,0.042,Anchorage,"Anchorage, AK",Anchorage Borough
-100222,99503,AK,202504,1380.41,0.0093,0.0484,Anchorage,"Anchorage, AK",Anchorage Borough
-100222,99503,AK,202505,1380.76,0.0002,0.0515,Anchorage,"Anchorage, AK",Anchorage Borough
-100222,99503,AK,202506,1380.85,0.0001,0.0439,Anchorage,"Anchorage, AK",Anchorage Borough
-100222,99503,AK,202507,1365.06,-0.0114,0.0223,Anchorage,"Anchorage, AK",Anchorage Borough
-100222,99503,AK,202508,1377.2,0.0089,0.0219,Anchorage,"Anchorage, AK",Anchorage Borough
-100222,99503,AK,202509,1389.87,0.0092,0.0345,Anchorage,"Anchorage, AK",Anchorage Borough
-100222,99503,AK,202510,1390.46,0.0004,0.042,Anchorage,"Anchorage, AK",Anchorage Borough
-100222,99503,AK,202511,1365.15,-0.0182,0.0178,Anchorage,"Anchorage, AK",Anchorage Borough
-100222,99503,AK,202512,1348.22,-0.0124,0.0036,Anchorage,"Anchorage, AK",Anchorage Borough
-100222,99503,AK,202601,1365.7,0.013,0.004,Anchorage,"Anchorage, AK",Anchorage Borough
-100222,99503,AK,202602,1383.43,0.013,0.0185,Anchorage,"Anchorage, AK",Anchorage Borough
-100223,99504,AK,201504,1435.74,,,Anchorage,"Anchorage, AK",Anchorage Borough
-100223,99504,AK,201505,1421.9,-0.0096,,Anchorage,"Anchorage, AK",Anchorage Borough
-100223,99504,AK,201506,1427.89,0.0042,,Anchorage,"Anchorage, AK",Anchorage Borough
-100223,99504,AK,201507,1423.78,-0.0029,,Anchorage,"Anchorage, AK",Anchorage Borough
-100223,99504,AK,201508,1413.17,-0.0075,,Anchorage,"Anchorage, AK",Anchorage Borough
-100223,99504,AK,201509,1415.69,0.0018,,Anchorage,"Anchorage, AK",Anchorage Borough
-100223,99504,AK,201510,1415.33,-0.0002,,Anchorage,"Anchorage, AK",Anchorage Borough
-100223,99504,AK,201511,1416.57,0.0009,,Anchorage,"Anchorage, AK",Anchorage Borough
-100223,99504,AK,201512,1410.23,-0.0045,,Anchorage,"Anchorage, AK",Anchorage Borough
-100223,99504,AK,201601,1404.26,-0.0042,,Anchorage,"Anchorage, AK",Anchorage Borough
-100223,99504,AK,201602,1401.66,-0.0019,,Anchorage,"Anchorage, AK",Anchorage Borough
-100223,99504,AK,201603,1397.8,-0.0028,,Anchorage,"Anchorage, AK",Anchorage Borough
-100223,99504,AK,201604,1417.52,0.0141,-0.0127,Anchorage,"Anchorage, AK",Anchorage Borough
-100223,99504,AK,201605,1417.27,-0.0002,-0.0033,Anchorage,"Anchorage, AK",Anchorage Borough
-100223,99504,AK,201606,1412.72,-0.0032,-0.0106,Anchorage,"Anchorage, AK",Anchorage Borough
-100223,99504,AK,201607,1384.64,-0.0199,-0.0275,Anchorage,"Anchorage, AK",Anchorage Borough
-100223,99504,AK,201608,1372.85,-0.0085,-0.0285,Anchorage,"Anchorage, AK",Anchorage Borough
-100223,99504,AK,201609,1362.47,-0.0076,-0.0376,Anchorage,"Anchorage, AK",Anchorage Borough
-100223,99504,AK,201610,1359.15,-0.0024,-0.0397,Anchorage,"Anchorage, AK",Anchorage Borough
-100223,99504,AK,201611,1350.14,-0.0066,-0.0469,Anchorage,"Anchorage, AK",Anchorage Borough
-100223,99504,AK,201612,1359.04,0.0066,-0.0363,Anchorage,"Anchorage, AK",Anchorage Borough
-100223,99504,AK,201701,1367.26,0.0061,-0.0263,Anchorage,"Anchorage, AK",Anchorage Borough
-100223,99504,AK,201702,1375.38,0.0059,-0.0187,Anchorage,"Anchorage, AK",Anchorage Borough
-100223,99504,AK,201703,1379.88,0.0033,-0.0128,Anchorage,"Anchorage, AK",Anchorage Borough
-100223,99504,AK,201704,1382.88,0.0022,-0.0244,Anchorage,"Anchorage, AK",Anchorage Borough
-100223,99504,AK,201705,1388.3,0.0039,-0.0204,Anchorage,"Anchorage, AK",Anchorage Borough
-100223,99504,AK,201706,1394.93,0.0048,-0.0126,Anchorage,"Anchorage, AK",Anchorage Borough
-100223,99504,AK,201707,1388.2,-0.0048,0.0026,Anchorage,"Anchorage, AK",Anchorage Borough
-100223,99504,AK,201708,1387.5,-0.0005,0.0107,Anchorage,"Anchorage, AK",Anchorage Borough
-100223,99504,AK,201709,1375.88,-0.0084,0.0098,Anchorage,"Anchorage, AK",Anchorage Borough
-100223,99504,AK,201710,1375.42,-0.0003,0.012,Anchorage,"Anchorage, AK",Anchorage Borough
-100223,99504,AK,201711,1369.39,-0.0044,0.0143,Anchorage,"Anchorage, AK",Anchorage Borough
-100223,99504,AK,201712,1352.5,-0.0123,-0.0048,Anchorage,"Anchorage, AK",Anchorage Borough
-100223,99504,AK,201801,1349.55,-0.0022,-0.013,Anchorage,"Anchorage, AK",Anchorage Borough
-100223,99504,AK,201802,1355.11,0.0041,-0.0147,Anchorage,"Anchorage, AK",Anchorage Borough
-100223,99504,AK,201803,1380.95,0.0191,0.0008,Anchorage,"Anchorage, AK",Anchorage Borough
-100223,99504,AK,201804,1392.41,0.0083,0.0069,Anchorage,"Anchorage, AK",Anchorage Borough
-100223,99504,AK,201805,1405.16,0.0092,0.0121,Anchorage,"Anchorage, AK",Anchorage Borough
-100223,99504,AK,201806,1407.96,0.002,0.0093,Anchorage,"Anchorage, AK",Anchorage Borough
-100223,99504,AK,201807,1414.87,0.0049,0.0192,Anchorage,"Anchorage, AK",Anchorage Borough
-100223,99504,AK,201808,1398.65,-0.0115,0.008,Anchorage,"Anchorage, AK",Anchorage Borough
-100223,99504,AK,201809,1395.45,-0.0023,0.0142,Anchorage,"Anchorage, AK",Anchorage Borough
-100223,99504,AK,201810,1387.87,-0.0054,0.0091,Anchorage,"Anchorage, AK",Anchorage Borough
-100223,99504,AK,201811,1393.58,0.0041,0.0177,Anchorage,"Anchorage, AK",Anchorage Borough
-100223,99504,AK,201812,1399.24,0.0041,0.0346,Anchorage,"Anchorage, AK",Anchorage Borough
-100223,99504,AK,201901,1411.98,0.0091,0.0463,Anchorage,"Anchorage, AK",Anchorage Borough
-100223,99504,AK,201902,1409.74,-0.0016,0.0403,Anchorage,"Anchorage, AK",Anchorage Borough
-100223,99504,AK,201903,1412.74,0.0021,0.023,Anchorage,"Anchorage, AK",Anchorage Borough
-100223,99504,AK,201904,1410.42,-0.0016,0.0129,Anchorage,"Anchorage, AK",Anchorage Borough
-100223,99504,AK,201905,1416.84,0.0045,0.0083,Anchorage,"Anchorage, AK",Anchorage Borough
-100223,99504,AK,201906,1408.44,-0.0059,0.0003,Anchorage,"Anchorage, AK",Anchorage Borough
-100223,99504,AK,201907,1416.26,0.0056,0.001,Anchorage,"Anchorage, AK",Anchorage Borough
-100223,99504,AK,201908,1420.56,0.003,0.0157,Anchorage,"Anchorage, AK",Anchorage Borough
-100223,99504,AK,201909,1417.72,-0.002,0.016,Anchorage,"Anchorage, AK",Anchorage Borough
-100223,99504,AK,201910,1389.47,-0.0199,0.0012,Anchorage,"Anchorage, AK",Anchorage Borough
-100223,99504,AK,201911,1407.51,0.013,0.01,Anchorage,"Anchorage, AK",Anchorage Borough
-100223,99504,AK,201912,1407.7,0.0001,0.006,Anchorage,"Anchorage, AK",Anchorage Borough
-100223,99504,AK,202001,1420.67,0.0092,0.0061,Anchorage,"Anchorage, AK",Anchorage Borough
-100223,99504,AK,202002,1405.89,-0.0104,-0.0027,Anchorage,"Anchorage, AK",Anchorage Borough
-100223,99504,AK,202003,1412.26,0.0045,-0.0003,Anchorage,"Anchorage, AK",Anchorage Borough
-100223,99504,AK,202004,1414.17,0.0014,0.0027,Anchorage,"Anchorage, AK",Anchorage Borough
-100223,99504,AK,202005,1413.51,-0.0005,-0.0023,Anchorage,"Anchorage, AK",Anchorage Borough
-100223,99504,AK,202006,1435.67,0.0157,0.0193,Anchorage,"Anchorage, AK",Anchorage Borough
-100223,99504,AK,202007,1450.44,0.0103,0.0241,Anchorage,"Anchorage, AK",Anchorage Borough
-100223,99504,AK,202008,1462.15,0.0081,0.0293,Anchorage,"Anchorage, AK",Anchorage Borough
-100223,99504,AK,202009,1464.09,0.0013,0.0327,Anchorage,"Anchorage, AK",Anchorage Borough
-100223,99504,AK,202010,1471.88,0.0053,0.0593,Anchorage,"Anchorage, AK",Anchorage Borough
-100223,99504,AK,202011,1463.75,-0.0055,0.04,Anchorage,"Anchorage, AK",Anchorage Borough
-100223,99504,AK,202012,1467.11,0.0023,0.0422,Anchorage,"Anchorage, AK",Anchorage Borough
-100223,99504,AK,202101,1465.39,-0.0012,0.0315,Anchorage,"Anchorage, AK",Anchorage Borough
-100223,99504,AK,202102,1477.46,0.0082,0.0509,Anchorage,"Anchorage, AK",Anchorage Borough
-100223,99504,AK,202103,1468.1,-0.0063,0.0395,Anchorage,"Anchorage, AK",Anchorage Borough
-100223,99504,AK,202104,1485.13,0.0116,0.0502,Anchorage,"Anchorage, AK",Anchorage Borough
-100223,99504,AK,202105,1513.1,0.0188,0.0705,Anchorage,"Anchorage, AK",Anchorage Borough
-100223,99504,AK,202106,1568.35,0.0365,0.0924,Anchorage,"Anchorage, AK",Anchorage Borough
-100223,99504,AK,202107,1595.36,0.0172,0.0999,Anchorage,"Anchorage, AK",Anchorage Borough
-100223,99504,AK,202108,1599.17,0.0024,0.0937,Anchorage,"Anchorage, AK",Anchorage Borough
-100223,99504,AK,202109,1582.99,-0.0101,0.0812,Anchorage,"Anchorage, AK",Anchorage Borough
-100223,99504,AK,202110,1571.82,-0.0071,0.0679,Anchorage,"Anchorage, AK",Anchorage Borough
-100223,99504,AK,202111,1568.15,-0.0023,0.0713,Anchorage,"Anchorage, AK",Anchorage Borough
-100223,99504,AK,202112,1551.08,-0.0109,0.0572,Anchorage,"Anchorage, AK",Anchorage Borough
-100223,99504,AK,202201,1535.18,-0.0103,0.0476,Anchorage,"Anchorage, AK",Anchorage Borough
-100223,99504,AK,202202,1544.57,0.0061,0.0454,Anchorage,"Anchorage, AK",Anchorage Borough
-100223,99504,AK,202203,1563.97,0.0126,0.0653,Anchorage,"Anchorage, AK",Anchorage Borough
-100223,99504,AK,202204,1600.1,0.0231,0.0774,Anchorage,"Anchorage, AK",Anchorage Borough
-100223,99504,AK,202205,1619.62,0.0122,0.0704,Anchorage,"Anchorage, AK",Anchorage Borough
-100223,99504,AK,202206,1652.26,0.0202,0.0535,Anchorage,"Anchorage, AK",Anchorage Borough
-100223,99504,AK,202207,1686.5,0.0207,0.0571,Anchorage,"Anchorage, AK",Anchorage Borough
-100223,99504,AK,202208,1709.26,0.0135,0.0688,Anchorage,"Anchorage, AK",Anchorage Borough
-100223,99504,AK,202209,1704.56,-0.0027,0.0768,Anchorage,"Anchorage, AK",Anchorage Borough
-100223,99504,AK,202210,1693.82,-0.0063,0.0776,Anchorage,"Anchorage, AK",Anchorage Borough
-100223,99504,AK,202211,1680.24,-0.008,0.0715,Anchorage,"Anchorage, AK",Anchorage Borough
-100223,99504,AK,202212,1683.65,0.002,0.0855,Anchorage,"Anchorage, AK",Anchorage Borough
-100223,99504,AK,202301,1682.9,-0.0004,0.0962,Anchorage,"Anchorage, AK",Anchorage Borough
-100223,99504,AK,202302,1710.03,0.0161,0.1071,Anchorage,"Anchorage, AK",Anchorage Borough
-100223,99504,AK,202303,1718.92,0.0052,0.0991,Anchorage,"Anchorage, AK",Anchorage Borough
-100223,99504,AK,202304,1740.23,0.0124,0.0876,Anchorage,"Anchorage, AK",Anchorage Borough
-100223,99504,AK,202305,1758.83,0.0107,0.086,Anchorage,"Anchorage, AK",Anchorage Borough
-100223,99504,AK,202306,1789.3,0.0173,0.0829,Anchorage,"Anchorage, AK",Anchorage Borough
-100223,99504,AK,202307,1814.81,0.0143,0.0761,Anchorage,"Anchorage, AK",Anchorage Borough
-100223,99504,AK,202308,1822.42,0.0042,0.0662,Anchorage,"Anchorage, AK",Anchorage Borough
-100223,99504,AK,202309,1842.24,0.0109,0.0808,Anchorage,"Anchorage, AK",Anchorage Borough
-100223,99504,AK,202310,1828.03,-0.0077,0.0792,Anchorage,"Anchorage, AK",Anchorage Borough
-100223,99504,AK,202311,1809.23,-0.0103,0.0768,Anchorage,"Anchorage, AK",Anchorage Borough
-100223,99504,AK,202312,1801.85,-0.0041,0.0702,Anchorage,"Anchorage, AK",Anchorage Borough
-100223,99504,AK,202401,1788.85,-0.0072,0.063,Anchorage,"Anchorage, AK",Anchorage Borough
-100223,99504,AK,202402,1804.29,0.0086,0.0551,Anchorage,"Anchorage, AK",Anchorage Borough
-100223,99504,AK,202403,1801.36,-0.0016,0.048,Anchorage,"Anchorage, AK",Anchorage Borough
-100223,99504,AK,202404,1848.06,0.0259,0.062,Anchorage,"Anchorage, AK",Anchorage Borough
-100223,99504,AK,202405,1853.21,0.0028,0.0537,Anchorage,"Anchorage, AK",Anchorage Borough
-100223,99504,AK,202406,1882.86,0.016,0.0523,Anchorage,"Anchorage, AK",Anchorage Borough
-100223,99504,AK,202407,1873.38,-0.005,0.0323,Anchorage,"Anchorage, AK",Anchorage Borough
-100223,99504,AK,202408,1890.45,0.0091,0.0373,Anchorage,"Anchorage, AK",Anchorage Borough
-100223,99504,AK,202409,1884.27,-0.0033,0.0228,Anchorage,"Anchorage, AK",Anchorage Borough
-100223,99504,AK,202410,1895.77,0.0061,0.0371,Anchorage,"Anchorage, AK",Anchorage Borough
-100223,99504,AK,202411,1906.16,0.0055,0.0536,Anchorage,"Anchorage, AK",Anchorage Borough
-100223,99504,AK,202412,1898.58,-0.004,0.0537,Anchorage,"Anchorage, AK",Anchorage Borough
-100223,99504,AK,202501,1902.85,0.0022,0.0637,Anchorage,"Anchorage, AK",Anchorage Borough
-100223,99504,AK,202502,1895.34,-0.0039,0.0505,Anchorage,"Anchorage, AK",Anchorage Borough
-100223,99504,AK,202503,1928.56,0.0175,0.0706,Anchorage,"Anchorage, AK",Anchorage Borough
-100223,99504,AK,202504,1923.73,-0.0025,0.0409,Anchorage,"Anchorage, AK",Anchorage Borough
-100223,99504,AK,202505,1940.67,0.0088,0.0472,Anchorage,"Anchorage, AK",Anchorage Borough
-100223,99504,AK,202506,1937.41,-0.0017,0.029,Anchorage,"Anchorage, AK",Anchorage Borough
-100223,99504,AK,202507,1957.27,0.0102,0.0448,Anchorage,"Anchorage, AK",Anchorage Borough
-100223,99504,AK,202508,1968.47,0.0057,0.0413,Anchorage,"Anchorage, AK",Anchorage Borough
-100223,99504,AK,202509,1977.75,0.0047,0.0496,Anchorage,"Anchorage, AK",Anchorage Borough
-100223,99504,AK,202510,1983.99,0.0032,0.0465,Anchorage,"Anchorage, AK",Anchorage Borough
-100223,99504,AK,202511,1995.62,0.0059,0.0469,Anchorage,"Anchorage, AK",Anchorage Borough
-100223,99504,AK,202512,1988.21,-0.0037,0.0472,Anchorage,"Anchorage, AK",Anchorage Borough
-100223,99504,AK,202601,1980.94,-0.0037,0.041,Anchorage,"Anchorage, AK",Anchorage Borough
-100223,99504,AK,202602,1966.77,-0.0072,0.0377,Anchorage,"Anchorage, AK",Anchorage Borough
-100226,99507,AK,201801,1255.69,,,Anchorage,"Anchorage, AK",Anchorage Borough
-100226,99507,AK,201802,1286.85,0.0248,,Anchorage,"Anchorage, AK",Anchorage Borough
-100226,99507,AK,201803,1275.02,-0.0092,,Anchorage,"Anchorage, AK",Anchorage Borough
-100226,99507,AK,201804,1308.76,0.0265,,Anchorage,"Anchorage, AK",Anchorage Borough
-100226,99507,AK,201805,1303.27,-0.0042,,Anchorage,"Anchorage, AK",Anchorage Borough
-100226,99507,AK,201806,1319.62,0.0125,,Anchorage,"Anchorage, AK",Anchorage Borough
-100226,99507,AK,201807,1296.62,-0.0174,,Anchorage,"Anchorage, AK",Anchorage Borough
-100226,99507,AK,201808,1302.74,0.0047,,Anchorage,"Anchorage, AK",Anchorage Borough
-100226,99507,AK,201809,1300.41,-0.0018,,Anchorage,"Anchorage, AK",Anchorage Borough
-100226,99507,AK,201810,1314.91,0.0111,,Anchorage,"Anchorage, AK",Anchorage Borough
-100226,99507,AK,201811,1319.41,0.0034,,Anchorage,"Anchorage, AK",Anchorage Borough
-100226,99507,AK,201812,1314.87,-0.0034,,Anchorage,"Anchorage, AK",Anchorage Borough
-100226,99507,AK,201902,1316.06,0.0009,0.0481,Anchorage,"Anchorage, AK",Anchorage Borough
-100226,99507,AK,201903,1327.52,0.0087,0.0316,Anchorage,"Anchorage, AK",Anchorage Borough
-100226,99507,AK,201904,1328.48,0.0007,0.0419,Anchorage,"Anchorage, AK",Anchorage Borough
-100226,99507,AK,201905,1320.19,-0.0062,0.0087,Anchorage,"Anchorage, AK",Anchorage Borough
-100226,99507,AK,201906,1317.32,-0.0022,0.0108,Anchorage,"Anchorage, AK",Anchorage Borough
-100226,99507,AK,201907,1326.91,0.0073,0.0055,Anchorage,"Anchorage, AK",Anchorage Borough
-100226,99507,AK,201908,1333.79,0.0052,0.0287,Anchorage,"Anchorage, AK",Anchorage Borough
-100226,99507,AK,201909,1320.54,-0.0099,0.0137,Anchorage,"Anchorage, AK",Anchorage Borough
-100226,99507,AK,201910,1323.55,0.0023,0.0178,Anchorage,"Anchorage, AK",Anchorage Borough
-100226,99507,AK,201911,1310.29,-0.01,-0.0035,Anchorage,"Anchorage, AK",Anchorage Borough
-100226,99507,AK,201912,1331.47,0.0162,0.0091,Anchorage,"Anchorage, AK",Anchorage Borough
-100226,99507,AK,202002,1358.17,0.0201,0.0329,Anchorage,"Anchorage, AK",Anchorage Borough
-100226,99507,AK,202003,1344.85,-0.0098,0.0219,Anchorage,"Anchorage, AK",Anchorage Borough
-100226,99507,AK,202004,1318.65,-0.0195,-0.0067,Anchorage,"Anchorage, AK",Anchorage Borough
-100226,99507,AK,202005,1313.17,-0.0042,-0.0115,Anchorage,"Anchorage, AK",Anchorage Borough
-100226,99507,AK,202006,1313.96,0.0006,-0.0047,Anchorage,"Anchorage, AK",Anchorage Borough
-100226,99507,AK,202007,1327.0,0.0099,0.0073,Anchorage,"Anchorage, AK",Anchorage Borough
-100226,99507,AK,202008,1336.52,0.0072,0.0072,Anchorage,"Anchorage, AK",Anchorage Borough
-100226,99507,AK,202009,1350.69,0.0106,0.0127,Anchorage,"Anchorage, AK",Anchorage Borough
-100226,99507,AK,202010,1354.23,0.0026,0.0255,Anchorage,"Anchorage, AK",Anchorage Borough
-100226,99507,AK,202011,1365.23,0.0081,0.0315,Anchorage,"Anchorage, AK",Anchorage Borough
-100226,99507,AK,202012,1362.81,-0.0018,0.0401,Anchorage,"Anchorage, AK",Anchorage Borough
-100226,99507,AK,202101,1357.75,-0.0037,0.0197,Anchorage,"Anchorage, AK",Anchorage Borough
-100226,99507,AK,202102,1352.47,-0.0039,-0.0042,Anchorage,"Anchorage, AK",Anchorage Borough
-100226,99507,AK,202103,1346.66,-0.0043,0.0013,Anchorage,"Anchorage, AK",Anchorage Borough
-100226,99507,AK,202104,1340.71,-0.0044,0.0167,Anchorage,"Anchorage, AK",Anchorage Borough
-100226,99507,AK,202105,1334.4,-0.0047,0.0162,Anchorage,"Anchorage, AK",Anchorage Borough
-100226,99507,AK,202106,1344.86,0.0078,0.0235,Anchorage,"Anchorage, AK",Anchorage Borough
-100226,99507,AK,202107,1382.44,0.0279,0.0418,Anchorage,"Anchorage, AK",Anchorage Borough
-100226,99507,AK,202108,1421.79,0.0285,0.0638,Anchorage,"Anchorage, AK",Anchorage Borough
-100226,99507,AK,202109,1458.76,0.026,0.08,Anchorage,"Anchorage, AK",Anchorage Borough
-100226,99507,AK,202110,1457.75,-0.0007,0.0764,Anchorage,"Anchorage, AK",Anchorage Borough
-100226,99507,AK,202111,1459.3,0.0011,0.0689,Anchorage,"Anchorage, AK",Anchorage Borough
-100226,99507,AK,202112,1440.0,-0.0132,0.0566,Anchorage,"Anchorage, AK",Anchorage Borough
-100226,99507,AK,202201,1450.9,0.0076,0.0686,Anchorage,"Anchorage, AK",Anchorage Borough
-100226,99507,AK,202202,1453.91,0.0021,0.075,Anchorage,"Anchorage, AK",Anchorage Borough
-100226,99507,AK,202203,1495.84,0.0288,0.1108,Anchorage,"Anchorage, AK",Anchorage Borough
-100226,99507,AK,202204,1534.91,0.0261,0.1448,Anchorage,"Anchorage, AK",Anchorage Borough
-100226,99507,AK,202205,1565.41,0.0199,0.1731,Anchorage,"Anchorage, AK",Anchorage Borough
-100226,99507,AK,202206,1586.28,0.0133,0.1795,Anchorage,"Anchorage, AK",Anchorage Borough
-100226,99507,AK,202207,1600.27,0.0088,0.1576,Anchorage,"Anchorage, AK",Anchorage Borough
-100226,99507,AK,202208,1622.54,0.0139,0.1412,Anchorage,"Anchorage, AK",Anchorage Borough
-100226,99507,AK,202209,1612.17,-0.0064,0.1052,Anchorage,"Anchorage, AK",Anchorage Borough
-100226,99507,AK,202210,1605.35,-0.0042,0.1013,Anchorage,"Anchorage, AK",Anchorage Borough
-100226,99507,AK,202211,1608.23,0.0018,0.1021,Anchorage,"Anchorage, AK",Anchorage Borough
-100226,99507,AK,202212,1618.4,0.0063,0.1239,Anchorage,"Anchorage, AK",Anchorage Borough
-100226,99507,AK,202301,1614.52,-0.0024,0.1128,Anchorage,"Anchorage, AK",Anchorage Borough
-100226,99507,AK,202302,1610.75,-0.0023,0.1079,Anchorage,"Anchorage, AK",Anchorage Borough
-100226,99507,AK,202303,1602.86,-0.0049,0.0715,Anchorage,"Anchorage, AK",Anchorage Borough
-100226,99507,AK,202304,1609.12,0.0039,0.0484,Anchorage,"Anchorage, AK",Anchorage Borough
-100226,99507,AK,202305,1614.12,0.0031,0.0311,Anchorage,"Anchorage, AK",Anchorage Borough
-100226,99507,AK,202306,1642.05,0.0173,0.0352,Anchorage,"Anchorage, AK",Anchorage Borough
-100226,99507,AK,202307,1684.15,0.0256,0.0524,Anchorage,"Anchorage, AK",Anchorage Borough
-100226,99507,AK,202308,1709.81,0.0152,0.0538,Anchorage,"Anchorage, AK",Anchorage Borough
-100226,99507,AK,202309,1717.8,0.0047,0.0655,Anchorage,"Anchorage, AK",Anchorage Borough
-100226,99507,AK,202310,1709.81,-0.0047,0.0651,Anchorage,"Anchorage, AK",Anchorage Borough
-100226,99507,AK,202311,1700.05,-0.0057,0.0571,Anchorage,"Anchorage, AK",Anchorage Borough
-100226,99507,AK,202312,1700.49,0.0003,0.0507,Anchorage,"Anchorage, AK",Anchorage Borough
-100226,99507,AK,202401,1710.61,0.0059,0.0595,Anchorage,"Anchorage, AK",Anchorage Borough
-100226,99507,AK,202402,1718.83,0.0048,0.0671,Anchorage,"Anchorage, AK",Anchorage Borough
-100226,99507,AK,202403,1725.44,0.0038,0.0765,Anchorage,"Anchorage, AK",Anchorage Borough
-100226,99507,AK,202404,1724.66,-0.0005,0.0718,Anchorage,"Anchorage, AK",Anchorage Borough
-100226,99507,AK,202405,1734.88,0.0059,0.0748,Anchorage,"Anchorage, AK",Anchorage Borough
-100226,99507,AK,202406,1743.32,0.0049,0.0617,Anchorage,"Anchorage, AK",Anchorage Borough
-100226,99507,AK,202407,1745.77,0.0014,0.0366,Anchorage,"Anchorage, AK",Anchorage Borough
-100226,99507,AK,202408,1750.84,0.0029,0.024,Anchorage,"Anchorage, AK",Anchorage Borough
-100226,99507,AK,202409,1747.28,-0.002,0.0172,Anchorage,"Anchorage, AK",Anchorage Borough
-100226,99507,AK,202410,1751.84,0.0026,0.0246,Anchorage,"Anchorage, AK",Anchorage Borough
-100226,99507,AK,202411,1739.35,-0.0071,0.0231,Anchorage,"Anchorage, AK",Anchorage Borough
-100226,99507,AK,202412,1736.4,-0.0017,0.0211,Anchorage,"Anchorage, AK",Anchorage Borough
-100226,99507,AK,202501,1713.84,-0.013,0.0019,Anchorage,"Anchorage, AK",Anchorage Borough
-100226,99507,AK,202502,1727.37,0.0079,0.005,Anchorage,"Anchorage, AK",Anchorage Borough
-100226,99507,AK,202503,1745.39,0.0104,0.0116,Anchorage,"Anchorage, AK",Anchorage Borough
-100226,99507,AK,202504,1781.71,0.0208,0.0331,Anchorage,"Anchorage, AK",Anchorage Borough
-100226,99507,AK,202505,1791.98,0.0058,0.0329,Anchorage,"Anchorage, AK",Anchorage Borough
-100226,99507,AK,202506,1787.71,-0.0024,0.0255,Anchorage,"Anchorage, AK",Anchorage Borough
-100226,99507,AK,202507,1792.93,0.0029,0.027,Anchorage,"Anchorage, AK",Anchorage Borough
-100226,99507,AK,202508,1819.27,0.0147,0.0391,Anchorage,"Anchorage, AK",Anchorage Borough
-100226,99507,AK,202509,1845.36,0.0143,0.0561,Anchorage,"Anchorage, AK",Anchorage Borough
-100226,99507,AK,202510,1853.37,0.0043,0.058,Anchorage,"Anchorage, AK",Anchorage Borough
-100226,99507,AK,202511,1838.51,-0.008,0.057,Anchorage,"Anchorage, AK",Anchorage Borough
-100226,99507,AK,202512,1852.7,0.0077,0.067,Anchorage,"Anchorage, AK",Anchorage Borough
-100226,99507,AK,202601,1846.46,-0.0034,0.0774,Anchorage,"Anchorage, AK",Anchorage Borough
-100226,99507,AK,202602,1881.92,0.0192,0.0895,Anchorage,"Anchorage, AK",Anchorage Borough
-100227,99508,AK,201610,961.55,,,Anchorage,"Anchorage, AK",Anchorage Borough
-100227,99508,AK,201611,952.18,-0.0097,,Anchorage,"Anchorage, AK",Anchorage Borough
-100227,99508,AK,201612,949.08,-0.0033,,Anchorage,"Anchorage, AK",Anchorage Borough
-100227,99508,AK,201701,951.51,0.0026,,Anchorage,"Anchorage, AK",Anchorage Borough
-100227,99508,AK,201702,959.95,0.0089,,Anchorage,"Anchorage, AK",Anchorage Borough
-100227,99508,AK,201703,967.83,0.0082,,Anchorage,"Anchorage, AK",Anchorage Borough
-100227,99508,AK,201704,973.3,0.0057,,Anchorage,"Anchorage, AK",Anchorage Borough
-100227,99508,AK,201705,975.15,0.0019,,Anchorage,"Anchorage, AK",Anchorage Borough
-100227,99508,AK,201706,962.07,-0.0134,,Anchorage,"Anchorage, AK",Anchorage Borough
-100227,99508,AK,201707,960.05,-0.0021,,Anchorage,"Anchorage, AK",Anchorage Borough
-100227,99508,AK,201708,957.43,-0.0027,,Anchorage,"Anchorage, AK",Anchorage Borough
-100227,99508,AK,201709,960.58,0.0033,,Anchorage,"Anchorage, AK",Anchorage Borough
-100227,99508,AK,201710,966.13,0.0058,0.0048,Anchorage,"Anchorage, AK",Anchorage Borough
-100227,99508,AK,201711,965.7,-0.0004,0.0142,Anchorage,"Anchorage, AK",Anchorage Borough
-100227,99508,AK,201712,969.83,0.0043,0.0219,Anchorage,"Anchorage, AK",Anchorage Borough
-100227,99508,AK,201801,960.36,-0.0098,0.0093,Anchorage,"Anchorage, AK",Anchorage Borough
-100227,99508,AK,201802,963.8,0.0036,0.004,Anchorage,"Anchorage, AK",Anchorage Borough
-100227,99508,AK,201803,958.0,-0.006,-0.0102,Anchorage,"Anchorage, AK",Anchorage Borough
-100227,99508,AK,201804,958.53,0.0005,-0.0152,Anchorage,"Anchorage, AK",Anchorage Borough
-100227,99508,AK,201805,964.43,0.0062,-0.011,Anchorage,"Anchorage, AK",Anchorage Borough
-100227,99508,AK,201806,979.16,0.0153,0.0178,Anchorage,"Anchorage, AK",Anchorage Borough
-100227,99508,AK,201807,989.4,0.0105,0.0306,Anchorage,"Anchorage, AK",Anchorage Borough
-100227,99508,AK,201808,988.13,-0.0013,0.0321,Anchorage,"Anchorage, AK",Anchorage Borough
-100227,99508,AK,201809,985.13,-0.003,0.0256,Anchorage,"Anchorage, AK",Anchorage Borough
-100227,99508,AK,201810,977.61,-0.0076,0.0119,Anchorage,"Anchorage, AK",Anchorage Borough
-100227,99508,AK,201811,950.42,-0.0278,-0.0158,Anchorage,"Anchorage, AK",Anchorage Borough
-100227,99508,AK,201812,954.2,0.004,-0.0161,Anchorage,"Anchorage, AK",Anchorage Borough
-100227,99508,AK,201901,957.26,0.0032,-0.0032,Anchorage,"Anchorage, AK",Anchorage Borough
-100227,99508,AK,201902,991.93,0.0362,0.0292,Anchorage,"Anchorage, AK",Anchorage Borough
-100227,99508,AK,201903,992.03,0.0001,0.0355,Anchorage,"Anchorage, AK",Anchorage Borough
-100227,99508,AK,201904,999.08,0.0071,0.0423,Anchorage,"Anchorage, AK",Anchorage Borough
-100227,99508,AK,201905,988.24,-0.0108,0.0247,Anchorage,"Anchorage, AK",Anchorage Borough
-100227,99508,AK,201906,992.49,0.0043,0.0136,Anchorage,"Anchorage, AK",Anchorage Borough
-100227,99508,AK,201907,992.9,0.0004,0.0035,Anchorage,"Anchorage, AK",Anchorage Borough
-100227,99508,AK,201908,999.24,0.0064,0.0112,Anchorage,"Anchorage, AK",Anchorage Borough
-100227,99508,AK,201909,992.06,-0.0072,0.007,Anchorage,"Anchorage, AK",Anchorage Borough
-100227,99508,AK,201910,988.11,-0.004,0.0107,Anchorage,"Anchorage, AK",Anchorage Borough
-100227,99508,AK,201911,982.47,-0.0057,0.0337,Anchorage,"Anchorage, AK",Anchorage Borough
-100227,99508,AK,201912,989.75,0.0074,0.0373,Anchorage,"Anchorage, AK",Anchorage Borough
-100227,99508,AK,202001,1006.85,0.0173,0.0518,Anchorage,"Anchorage, AK",Anchorage Borough
-100227,99508,AK,202002,1014.87,0.008,0.0231,Anchorage,"Anchorage, AK",Anchorage Borough
-100227,99508,AK,202003,1023.11,0.0081,0.0313,Anchorage,"Anchorage, AK",Anchorage Borough
-100227,99508,AK,202004,1017.98,-0.005,0.0189,Anchorage,"Anchorage, AK",Anchorage Borough
-100227,99508,AK,202005,1029.08,0.0109,0.0413,Anchorage,"Anchorage, AK",Anchorage Borough
-100227,99508,AK,202006,1028.45,-0.0006,0.0362,Anchorage,"Anchorage, AK",Anchorage Borough
-100227,99508,AK,202007,1030.65,0.0021,0.038,Anchorage,"Anchorage, AK",Anchorage Borough
-100227,99508,AK,202008,1031.55,0.0009,0.0323,Anchorage,"Anchorage, AK",Anchorage Borough
-100227,99508,AK,202009,1038.73,0.007,0.047,Anchorage,"Anchorage, AK",Anchorage Borough
-100227,99508,AK,202010,1040.31,0.0015,0.0528,Anchorage,"Anchorage, AK",Anchorage Borough
-100227,99508,AK,202011,1056.48,0.0155,0.0753,Anchorage,"Anchorage, AK",Anchorage Borough
-100227,99508,AK,202012,1054.55,-0.0018,0.0655,Anchorage,"Anchorage, AK",Anchorage Borough
-100227,99508,AK,202101,1048.63,-0.0056,0.0415,Anchorage,"Anchorage, AK",Anchorage Borough
-100227,99508,AK,202102,1004.23,-0.0423,-0.0105,Anchorage,"Anchorage, AK",Anchorage Borough
-100227,99508,AK,202103,1015.68,0.0114,-0.0073,Anchorage,"Anchorage, AK",Anchorage Borough
-100227,99508,AK,202104,1025.7,0.0099,0.0076,Anchorage,"Anchorage, AK",Anchorage Borough
-100227,99508,AK,202105,1074.16,0.0472,0.0438,Anchorage,"Anchorage, AK",Anchorage Borough
-100227,99508,AK,202106,1084.2,0.0094,0.0542,Anchorage,"Anchorage, AK",Anchorage Borough
-100227,99508,AK,202107,1111.82,0.0255,0.0788,Anchorage,"Anchorage, AK",Anchorage Borough
-100227,99508,AK,202108,1109.47,-0.0021,0.0755,Anchorage,"Anchorage, AK",Anchorage Borough
-100227,99508,AK,202109,1131.03,0.0194,0.0889,Anchorage,"Anchorage, AK",Anchorage Borough
-100227,99508,AK,202110,1144.01,0.0115,0.0997,Anchorage,"Anchorage, AK",Anchorage Borough
-100227,99508,AK,202111,1157.45,0.0117,0.0956,Anchorage,"Anchorage, AK",Anchorage Borough
-100227,99508,AK,202112,1144.2,-0.0114,0.085,Anchorage,"Anchorage, AK",Anchorage Borough
-100227,99508,AK,202201,1129.28,-0.013,0.0769,Anchorage,"Anchorage, AK",Anchorage Borough
-100227,99508,AK,202202,1134.44,0.0046,0.1297,Anchorage,"Anchorage, AK",Anchorage Borough
-100227,99508,AK,202203,1155.67,0.0187,0.1378,Anchorage,"Anchorage, AK",Anchorage Borough
-100227,99508,AK,202204,1183.36,0.024,0.1537,Anchorage,"Anchorage, AK",Anchorage Borough
-100227,99508,AK,202205,1193.38,0.0085,0.111,Anchorage,"Anchorage, AK",Anchorage Borough
-100227,99508,AK,202206,1219.06,0.0215,0.1244,Anchorage,"Anchorage, AK",Anchorage Borough
-100227,99508,AK,202207,1256.74,0.0309,0.1303,Anchorage,"Anchorage, AK",Anchorage Borough
-100227,99508,AK,202208,1302.71,0.0366,0.1742,Anchorage,"Anchorage, AK",Anchorage Borough
-100227,99508,AK,202209,1282.26,-0.0157,0.1337,Anchorage,"Anchorage, AK",Anchorage Borough
-100227,99508,AK,202210,1280.32,-0.0015,0.1191,Anchorage,"Anchorage, AK",Anchorage Borough
-100227,99508,AK,202211,1266.05,-0.0111,0.0938,Anchorage,"Anchorage, AK",Anchorage Borough
-100227,99508,AK,202212,1289.98,0.0189,0.1274,Anchorage,"Anchorage, AK",Anchorage Borough
-100227,99508,AK,202301,1273.12,-0.0131,0.1274,Anchorage,"Anchorage, AK",Anchorage Borough
-100227,99508,AK,202302,1282.05,0.007,0.1301,Anchorage,"Anchorage, AK",Anchorage Borough
-100227,99508,AK,202303,1308.27,0.0204,0.132,Anchorage,"Anchorage, AK",Anchorage Borough
-100227,99508,AK,202304,1307.8,-0.0004,0.1052,Anchorage,"Anchorage, AK",Anchorage Borough
-100227,99508,AK,202305,1315.76,0.0061,0.1025,Anchorage,"Anchorage, AK",Anchorage Borough
-100227,99508,AK,202306,1294.94,-0.0158,0.0622,Anchorage,"Anchorage, AK",Anchorage Borough
-100227,99508,AK,202307,1327.98,0.0255,0.0567,Anchorage,"Anchorage, AK",Anchorage Borough
-100227,99508,AK,202308,1352.18,0.0182,0.038,Anchorage,"Anchorage, AK",Anchorage Borough
-100227,99508,AK,202309,1370.75,0.0137,0.069,Anchorage,"Anchorage, AK",Anchorage Borough
-100227,99508,AK,202310,1386.43,0.0114,0.0829,Anchorage,"Anchorage, AK",Anchorage Borough
-100227,99508,AK,202311,1379.12,-0.0053,0.0893,Anchorage,"Anchorage, AK",Anchorage Borough
-100227,99508,AK,202312,1378.86,-0.0002,0.0689,Anchorage,"Anchorage, AK",Anchorage Borough
-100227,99508,AK,202401,1360.51,-0.0133,0.0686,Anchorage,"Anchorage, AK",Anchorage Borough
-100227,99508,AK,202402,1360.76,0.0002,0.0614,Anchorage,"Anchorage, AK",Anchorage Borough
-100227,99508,AK,202403,1362.5,0.0013,0.0415,Anchorage,"Anchorage, AK",Anchorage Borough
-100227,99508,AK,202404,1371.63,0.0067,0.0488,Anchorage,"Anchorage, AK",Anchorage Borough
-100227,99508,AK,202405,1380.15,0.0062,0.0489,Anchorage,"Anchorage, AK",Anchorage Borough
-100227,99508,AK,202406,1411.64,0.0228,0.0901,Anchorage,"Anchorage, AK",Anchorage Borough
-100227,99508,AK,202407,1419.95,0.0059,0.0693,Anchorage,"Anchorage, AK",Anchorage Borough
-100227,99508,AK,202408,1431.48,0.0081,0.0586,Anchorage,"Anchorage, AK",Anchorage Borough
-100227,99508,AK,202409,1433.29,0.0013,0.0456,Anchorage,"Anchorage, AK",Anchorage Borough
-100227,99508,AK,202410,1434.17,0.0006,0.0344,Anchorage,"Anchorage, AK",Anchorage Borough
-100227,99508,AK,202411,1429.55,-0.0032,0.0366,Anchorage,"Anchorage, AK",Anchorage Borough
-100227,99508,AK,202412,1413.05,-0.0115,0.0248,Anchorage,"Anchorage, AK",Anchorage Borough
-100227,99508,AK,202501,1422.57,0.0067,0.0456,Anchorage,"Anchorage, AK",Anchorage Borough
-100227,99508,AK,202502,1430.54,0.0056,0.0513,Anchorage,"Anchorage, AK",Anchorage Borough
-100227,99508,AK,202503,1439.22,0.0061,0.0563,Anchorage,"Anchorage, AK",Anchorage Borough
-100227,99508,AK,202504,1435.82,-0.0024,0.0468,Anchorage,"Anchorage, AK",Anchorage Borough
-100227,99508,AK,202505,1441.58,0.004,0.0445,Anchorage,"Anchorage, AK",Anchorage Borough
-100227,99508,AK,202506,1449.88,0.0058,0.0271,Anchorage,"Anchorage, AK",Anchorage Borough
-100227,99508,AK,202507,1461.01,0.0077,0.0289,Anchorage,"Anchorage, AK",Anchorage Borough
-100227,99508,AK,202508,1479.43,0.0126,0.0335,Anchorage,"Anchorage, AK",Anchorage Borough
-100227,99508,AK,202509,1496.5,0.0115,0.0441,Anchorage,"Anchorage, AK",Anchorage Borough
-100227,99508,AK,202510,1498.7,0.0015,0.045,Anchorage,"Anchorage, AK",Anchorage Borough
-100227,99508,AK,202511,1486.97,-0.0078,0.0402,Anchorage,"Anchorage, AK",Anchorage Borough
-100227,99508,AK,202512,1465.32,-0.0146,0.037,Anchorage,"Anchorage, AK",Anchorage Borough
-100227,99508,AK,202601,1474.06,0.006,0.0362,Anchorage,"Anchorage, AK",Anchorage Borough
-100227,99508,AK,202602,1478.57,0.0031,0.0336,Anchorage,"Anchorage, AK",Anchorage Borough
-100233,99515,AK,202312,1939.36,,,Anchorage,"Anchorage, AK",Anchorage Borough
-100233,99515,AK,202401,1913.87,-0.0131,,Anchorage,"Anchorage, AK",Anchorage Borough
-100233,99515,AK,202402,1931.39,0.0092,,Anchorage,"Anchorage, AK",Anchorage Borough
-100233,99515,AK,202403,1916.4,-0.0078,,Anchorage,"Anchorage, AK",Anchorage Borough
-100233,99515,AK,202404,1949.0,0.017,,Anchorage,"Anchorage, AK",Anchorage Borough
-100233,99515,AK,202405,1927.25,-0.0112,,Anchorage,"Anchorage, AK",Anchorage Borough
-100233,99515,AK,202406,1955.98,0.0149,,Anchorage,"Anchorage, AK",Anchorage Borough
-100233,99515,AK,202407,1977.2,0.0108,,Anchorage,"Anchorage, AK",Anchorage Borough
-100233,99515,AK,202408,2017.59,0.0204,,Anchorage,"Anchorage, AK",Anchorage Borough
-100233,99515,AK,202409,2040.19,0.0112,,Anchorage,"Anchorage, AK",Anchorage Borough
-100233,99515,AK,202410,2032.93,-0.0036,,Anchorage,"Anchorage, AK",Anchorage Borough
-100233,99515,AK,202411,2031.7,-0.0006,,Anchorage,"Anchorage, AK",Anchorage Borough
-100233,99515,AK,202412,2017.26,-0.0071,0.0402,Anchorage,"Anchorage, AK",Anchorage Borough
-100233,99515,AK,202503,2067.7,0.025,0.0804,Anchorage,"Anchorage, AK",Anchorage Borough
-100233,99515,AK,202504,2091.83,0.0117,0.0831,Anchorage,"Anchorage, AK",Anchorage Borough
-100233,99515,AK,202505,2104.61,0.0061,0.0982,Anchorage,"Anchorage, AK",Anchorage Borough
-100233,99515,AK,202506,2074.51,-0.0143,0.0644,Anchorage,"Anchorage, AK",Anchorage Borough
-100233,99515,AK,202507,2053.97,-0.0099,0.0658,Anchorage,"Anchorage, AK",Anchorage Borough
-100233,99515,AK,202508,2075.35,0.0104,0.061,Anchorage,"Anchorage, AK",Anchorage Borough
-100233,99515,AK,202509,2102.37,0.013,0.0633,Anchorage,"Anchorage, AK",Anchorage Borough
-100233,99515,AK,202510,2151.99,0.0236,0.0666,Anchorage,"Anchorage, AK",Anchorage Borough
-100233,99515,AK,202511,2151.45,-0.0003,0.0545,Anchorage,"Anchorage, AK",Anchorage Borough
-100233,99515,AK,202512,2190.16,0.018,0.0773,Anchorage,"Anchorage, AK",Anchorage Borough
-100233,99515,AK,202601,2127.85,-0.0285,0.0473,Anchorage,"Anchorage, AK",Anchorage Borough
-100233,99515,AK,202602,2178.33,0.0237,0.0798,Anchorage,"Anchorage, AK",Anchorage Borough
-100234,99516,AK,202602,3000.0,,,Anchorage,"Anchorage, AK",Anchorage Borough
-100235,99517,AK,202109,1187.79,,,Anchorage,"Anchorage, AK",Anchorage Borough
-100235,99517,AK,202110,1170.31,-0.0147,,Anchorage,"Anchorage, AK",Anchorage Borough
-100235,99517,AK,202111,1166.78,-0.003,,Anchorage,"Anchorage, AK",Anchorage Borough
-100235,99517,AK,202112,1171.82,0.0043,,Anchorage,"Anchorage, AK",Anchorage Borough
-100235,99517,AK,202201,1198.34,0.0226,,Anchorage,"Anchorage, AK",Anchorage Borough
-100235,99517,AK,202202,1202.64,0.0036,,Anchorage,"Anchorage, AK",Anchorage Borough
-100235,99517,AK,202203,1224.03,0.0178,,Anchorage,"Anchorage, AK",Anchorage Borough
-100235,99517,AK,202204,1242.05,0.0147,,Anchorage,"Anchorage, AK",Anchorage Borough
-100235,99517,AK,202205,1278.65,0.0295,,Anchorage,"Anchorage, AK",Anchorage Borough
-100235,99517,AK,202206,1290.68,0.0094,,Anchorage,"Anchorage, AK",Anchorage Borough
-100235,99517,AK,202207,1309.87,0.0149,,Anchorage,"Anchorage, AK",Anchorage Borough
-100235,99517,AK,202208,1292.93,-0.0129,,Anchorage,"Anchorage, AK",Anchorage Borough
-100235,99517,AK,202209,1322.21,0.0227,0.1132,Anchorage,"Anchorage, AK",Anchorage Borough
-100235,99517,AK,202210,1319.14,-0.0023,0.1272,Anchorage,"Anchorage, AK",Anchorage Borough
-100235,99517,AK,202211,1334.37,0.0116,0.1436,Anchorage,"Anchorage, AK",Anchorage Borough
-100235,99517,AK,202212,1308.68,-0.0193,0.1168,Anchorage,"Anchorage, AK",Anchorage Borough
-100235,99517,AK,202301,1316.0,0.0056,0.0982,Anchorage,"Anchorage, AK",Anchorage Borough
-100235,99517,AK,202302,1310.37,-0.0043,0.0896,Anchorage,"Anchorage, AK",Anchorage Borough
-100235,99517,AK,202303,1308.34,-0.0015,0.0689,Anchorage,"Anchorage, AK",Anchorage Borough
-100235,99517,AK,202304,1334.45,0.02,0.0744,Anchorage,"Anchorage, AK",Anchorage Borough
-100235,99517,AK,202305,1372.72,0.0287,0.0736,Anchorage,"Anchorage, AK",Anchorage Borough
-100235,99517,AK,202306,1399.43,0.0195,0.0843,Anchorage,"Anchorage, AK",Anchorage Borough
-100235,99517,AK,202307,1382.86,-0.0118,0.0557,Anchorage,"Anchorage, AK",Anchorage Borough
-100235,99517,AK,202308,1381.47,-0.001,0.0685,Anchorage,"Anchorage, AK",Anchorage Borough
-100235,99517,AK,202309,1389.96,0.0061,0.0512,Anchorage,"Anchorage, AK",Anchorage Borough
-100235,99517,AK,202310,1404.2,0.0102,0.0645,Anchorage,"Anchorage, AK",Anchorage Borough
-100235,99517,AK,202311,1418.23,0.01,0.0628,Anchorage,"Anchorage, AK",Anchorage Borough
-100235,99517,AK,202312,1395.84,-0.0158,0.0666,Anchorage,"Anchorage, AK",Anchorage Borough
-100235,99517,AK,202401,1381.48,-0.0103,0.0498,Anchorage,"Anchorage, AK",Anchorage Borough
-100235,99517,AK,202402,1359.95,-0.0156,0.0378,Anchorage,"Anchorage, AK",Anchorage Borough
-100235,99517,AK,202403,1398.45,0.0283,0.0689,Anchorage,"Anchorage, AK",Anchorage Borough
-100235,99517,AK,202404,1450.05,0.0369,0.0866,Anchorage,"Anchorage, AK",Anchorage Borough
-100235,99517,AK,202405,1463.88,0.0095,0.0664,Anchorage,"Anchorage, AK",Anchorage Borough
-100235,99517,AK,202406,1475.57,0.008,0.0544,Anchorage,"Anchorage, AK",Anchorage Borough
-100235,99517,AK,202407,1463.17,-0.0084,0.0581,Anchorage,"Anchorage, AK",Anchorage Borough
-100235,99517,AK,202408,1475.48,0.0084,0.068,Anchorage,"Anchorage, AK",Anchorage Borough
-100235,99517,AK,202409,1465.54,-0.0067,0.0544,Anchorage,"Anchorage, AK",Anchorage Borough
-100235,99517,AK,202410,1461.48,-0.0028,0.0408,Anchorage,"Anchorage, AK",Anchorage Borough
-100235,99517,AK,202411,1446.95,-0.0099,0.0202,Anchorage,"Anchorage, AK",Anchorage Borough
-100235,99517,AK,202412,1483.47,0.0252,0.0628,Anchorage,"Anchorage, AK",Anchorage Borough
-100235,99517,AK,202501,1503.02,0.0132,0.088,Anchorage,"Anchorage, AK",Anchorage Borough
-100235,99517,AK,202502,1515.19,0.0081,0.1141,Anchorage,"Anchorage, AK",Anchorage Borough
-100235,99517,AK,202503,1497.01,-0.012,0.0705,Anchorage,"Anchorage, AK",Anchorage Borough
-100235,99517,AK,202504,1479.17,-0.0119,0.0201,Anchorage,"Anchorage, AK",Anchorage Borough
-100235,99517,AK,202505,1504.25,0.017,0.0276,Anchorage,"Anchorage, AK",Anchorage Borough
-100235,99517,AK,202506,1496.71,-0.005,0.0143,Anchorage,"Anchorage, AK",Anchorage Borough
-100235,99517,AK,202507,1525.12,0.019,0.0423,Anchorage,"Anchorage, AK",Anchorage Borough
-100235,99517,AK,202508,1524.13,-0.0006,0.033,Anchorage,"Anchorage, AK",Anchorage Borough
-100235,99517,AK,202509,1536.52,0.0081,0.0484,Anchorage,"Anchorage, AK",Anchorage Borough
-100235,99517,AK,202510,1532.87,-0.0024,0.0488,Anchorage,"Anchorage, AK",Anchorage Borough
-100235,99517,AK,202511,1544.12,0.0073,0.0672,Anchorage,"Anchorage, AK",Anchorage Borough
-100235,99517,AK,202512,1519.35,-0.016,0.0242,Anchorage,"Anchorage, AK",Anchorage Borough
-100235,99517,AK,202601,1540.76,0.0141,0.0251,Anchorage,"Anchorage, AK",Anchorage Borough
-100235,99517,AK,202602,1539.33,-0.0009,0.0159,Anchorage,"Anchorage, AK",Anchorage Borough
-100236,99518,AK,202602,1575.0,,,Anchorage,"Anchorage, AK",Anchorage Borough
-100274,99577,AK,201602,1574.69,,,Eagle River,"Anchorage, AK",Anchorage Borough
-100274,99577,AK,201603,1579.3,0.0029,,Eagle River,"Anchorage, AK",Anchorage Borough
-100274,99577,AK,201604,1582.66,0.0021,,Eagle River,"Anchorage, AK",Anchorage Borough
-100274,99577,AK,201605,1579.89,-0.0018,,Eagle River,"Anchorage, AK",Anchorage Borough
-100274,99577,AK,201606,1572.96,-0.0044,,Eagle River,"Anchorage, AK",Anchorage Borough
-100274,99577,AK,201607,1579.53,0.0042,,Eagle River,"Anchorage, AK",Anchorage Borough
-100274,99577,AK,201608,1563.22,-0.0103,,Eagle River,"Anchorage, AK",Anchorage Borough
-100274,99577,AK,201609,1566.69,0.0022,,Eagle River,"Anchorage, AK",Anchorage Borough
-100274,99577,AK,201610,1555.05,-0.0074,,Eagle River,"Anchorage, AK",Anchorage Borough
-100274,99577,AK,201611,1543.89,-0.0072,,Eagle River,"Anchorage, AK",Anchorage Borough
-100274,99577,AK,201612,1517.16,-0.0173,,Eagle River,"Anchorage, AK",Anchorage Borough
-100274,99577,AK,201701,1512.79,-0.0029,,Eagle River,"Anchorage, AK",Anchorage Borough
-100274,99577,AK,201702,1535.0,0.0147,-0.0252,Eagle River,"Anchorage, AK",Anchorage Borough
-100274,99577,AK,201703,1545.36,0.0067,-0.0215,Eagle River,"Anchorage, AK",Anchorage Borough
-100274,99577,AK,201704,1563.18,0.0115,-0.0123,Eagle River,"Anchorage, AK",Anchorage Borough
-100274,99577,AK,201705,1563.07,-0.0001,-0.0106,Eagle River,"Anchorage, AK",Anchorage Borough
-100274,99577,AK,201706,1581.29,0.0117,0.0053,Eagle River,"Anchorage, AK",Anchorage Borough
-100274,99577,AK,201707,1576.69,-0.0029,-0.0018,Eagle River,"Anchorage, AK",Anchorage Borough
-100274,99577,AK,201708,1576.65,-0.0,0.0086,Eagle River,"Anchorage, AK",Anchorage Borough
-100274,99577,AK,201709,1552.21,-0.0155,-0.0092,Eagle River,"Anchorage, AK",Anchorage Borough
-100274,99577,AK,201710,1540.32,-0.0077,-0.0095,Eagle River,"Anchorage, AK",Anchorage Borough
-100274,99577,AK,201711,1529.64,-0.0069,-0.0092,Eagle River,"Anchorage, AK",Anchorage Borough
-100274,99577,AK,201712,1542.44,0.0084,0.0167,Eagle River,"Anchorage, AK",Anchorage Borough
-100274,99577,AK,201801,1547.92,0.0036,0.0232,Eagle River,"Anchorage, AK",Anchorage Borough
-100274,99577,AK,201802,1552.36,0.0029,0.0113,Eagle River,"Anchorage, AK",Anchorage Borough
-100274,99577,AK,201803,1565.68,0.0086,0.0132,Eagle River,"Anchorage, AK",Anchorage Borough
-100274,99577,AK,201804,1571.13,0.0035,0.0051,Eagle River,"Anchorage, AK",Anchorage Borough
-100274,99577,AK,201805,1598.42,0.0174,0.0226,Eagle River,"Anchorage, AK",Anchorage Borough
-100274,99577,AK,201806,1600.17,0.0011,0.0119,Eagle River,"Anchorage, AK",Anchorage Borough
-100274,99577,AK,201807,1614.32,0.0088,0.0239,Eagle River,"Anchorage, AK",Anchorage Borough
-100274,99577,AK,201808,1593.86,-0.0127,0.0109,Eagle River,"Anchorage, AK",Anchorage Borough
-100274,99577,AK,201809,1591.86,-0.0013,0.0255,Eagle River,"Anchorage, AK",Anchorage Borough
-100274,99577,AK,201810,1571.03,-0.0131,0.0199,Eagle River,"Anchorage, AK",Anchorage Borough
-100274,99577,AK,201811,1574.55,0.0022,0.0294,Eagle River,"Anchorage, AK",Anchorage Borough
-100274,99577,AK,201901,1582.11,0.0048,0.0257,Eagle River,"Anchorage, AK",Anchorage Borough
-100274,99577,AK,201902,1578.55,-0.0023,0.0198,Eagle River,"Anchorage, AK",Anchorage Borough
-100274,99577,AK,201903,1600.48,0.0139,0.031,Eagle River,"Anchorage, AK",Anchorage Borough
-100274,99577,AK,201904,1602.62,0.0013,0.0236,Eagle River,"Anchorage, AK",Anchorage Borough
-100274,99577,AK,201905,1614.79,0.0076,0.0278,Eagle River,"Anchorage, AK",Anchorage Borough
-100274,99577,AK,201906,1624.75,0.0062,0.0165,Eagle River,"Anchorage, AK",Anchorage Borough
-100274,99577,AK,201907,1626.15,0.0009,0.0162,Eagle River,"Anchorage, AK",Anchorage Borough
-100274,99577,AK,201908,1620.2,-0.0037,0.0036,Eagle River,"Anchorage, AK",Anchorage Borough
-100274,99577,AK,201909,1607.8,-0.0077,0.0087,Eagle River,"Anchorage, AK",Anchorage Borough
-100274,99577,AK,201910,1586.74,-0.0131,-0.0032,Eagle River,"Anchorage, AK",Anchorage Borough
-100274,99577,AK,201911,1574.0,-0.008,0.0019,Eagle River,"Anchorage, AK",Anchorage Borough
-100274,99577,AK,201912,1574.43,0.0003,-0.0001,Eagle River,"Anchorage, AK",Anchorage Borough
-100274,99577,AK,202001,1577.71,0.0021,-0.0028,Eagle River,"Anchorage, AK",Anchorage Borough
-100274,99577,AK,202002,1586.25,0.0054,0.0049,Eagle River,"Anchorage, AK",Anchorage Borough
-100274,99577,AK,202003,1597.08,0.0068,-0.0021,Eagle River,"Anchorage, AK",Anchorage Borough
-100274,99577,AK,202004,1615.93,0.0118,0.0083,Eagle River,"Anchorage, AK",Anchorage Borough
-100274,99577,AK,202005,1633.02,0.0106,0.0113,Eagle River,"Anchorage, AK",Anchorage Borough
-100274,99577,AK,202006,1691.01,0.0355,0.0408,Eagle River,"Anchorage, AK",Anchorage Borough
-100274,99577,AK,202007,1704.25,0.0078,0.048,Eagle River,"Anchorage, AK",Anchorage Borough
-100274,99577,AK,202008,1724.79,0.012,0.0646,Eagle River,"Anchorage, AK",Anchorage Borough
-100274,99577,AK,202009,1670.23,-0.0316,0.0388,Eagle River,"Anchorage, AK",Anchorage Borough
-100274,99577,AK,202010,1653.32,-0.0101,0.042,Eagle River,"Anchorage, AK",Anchorage Borough
-100274,99577,AK,202011,1638.05,-0.0092,0.0407,Eagle River,"Anchorage, AK",Anchorage Borough
-100274,99577,AK,202012,1635.05,-0.0018,0.0385,Eagle River,"Anchorage, AK",Anchorage Borough
-100274,99577,AK,202101,1644.43,0.0057,0.0423,Eagle River,"Anchorage, AK",Anchorage Borough
-100274,99577,AK,202102,1654.86,0.0063,0.0433,Eagle River,"Anchorage, AK",Anchorage Borough
-100274,99577,AK,202103,1657.84,0.0018,0.038,Eagle River,"Anchorage, AK",Anchorage Borough
-100274,99577,AK,202104,1684.17,0.0159,0.0422,Eagle River,"Anchorage, AK",Anchorage Borough
-100274,99577,AK,202105,1708.01,0.0142,0.0459,Eagle River,"Anchorage, AK",Anchorage Borough
-100274,99577,AK,202106,1739.3,0.0183,0.0286,Eagle River,"Anchorage, AK",Anchorage Borough
-100274,99577,AK,202107,1744.6,0.003,0.0237,Eagle River,"Anchorage, AK",Anchorage Borough
-100274,99577,AK,202108,1747.27,0.0015,0.013,Eagle River,"Anchorage, AK",Anchorage Borough
-100274,99577,AK,202109,1818.13,0.0406,0.0886,Eagle River,"Anchorage, AK",Anchorage Borough
-100274,99577,AK,202110,1846.98,0.0159,0.1171,Eagle River,"Anchorage, AK",Anchorage Borough
-100274,99577,AK,202111,1855.43,0.0046,0.1327,Eagle River,"Anchorage, AK",Anchorage Borough
-100274,99577,AK,202112,1794.06,-0.0331,0.0973,Eagle River,"Anchorage, AK",Anchorage Borough
-100274,99577,AK,202201,1747.04,-0.0262,0.0624,Eagle River,"Anchorage, AK",Anchorage Borough
-100274,99577,AK,202202,1751.14,0.0023,0.0582,Eagle River,"Anchorage, AK",Anchorage Borough
-100274,99577,AK,202203,1762.94,0.0067,0.0634,Eagle River,"Anchorage, AK",Anchorage Borough
-100274,99577,AK,202204,1799.39,0.0207,0.0684,Eagle River,"Anchorage, AK",Anchorage Borough
-100274,99577,AK,202205,1795.1,-0.0024,0.051,Eagle River,"Anchorage, AK",Anchorage Borough
-100274,99577,AK,202206,1798.75,0.002,0.0342,Eagle River,"Anchorage, AK",Anchorage Borough
-100274,99577,AK,202207,1837.85,0.0217,0.0535,Eagle River,"Anchorage, AK",Anchorage Borough
-100274,99577,AK,202208,1868.75,0.0168,0.0695,Eagle River,"Anchorage, AK",Anchorage Borough
-100274,99577,AK,202209,1853.37,-0.0082,0.0194,Eagle River,"Anchorage, AK",Anchorage Borough
-100274,99577,AK,202210,1853.57,0.0001,0.0036,Eagle River,"Anchorage, AK",Anchorage Borough
-100274,99577,AK,202211,1858.2,0.0025,0.0015,Eagle River,"Anchorage, AK",Anchorage Borough
-100274,99577,AK,202212,1897.29,0.021,0.0575,Eagle River,"Anchorage, AK",Anchorage Borough
-100274,99577,AK,202301,1889.32,-0.0042,0.0814,Eagle River,"Anchorage, AK",Anchorage Borough
-100274,99577,AK,202302,1911.08,0.0115,0.0913,Eagle River,"Anchorage, AK",Anchorage Borough
-100274,99577,AK,202303,1942.52,0.0164,0.1019,Eagle River,"Anchorage, AK",Anchorage Borough
-100274,99577,AK,202304,1968.57,0.0134,0.094,Eagle River,"Anchorage, AK",Anchorage Borough
-100274,99577,AK,202305,1989.65,0.0107,0.1084,Eagle River,"Anchorage, AK",Anchorage Borough
-100274,99577,AK,202306,2001.96,0.0062,0.113,Eagle River,"Anchorage, AK",Anchorage Borough
-100274,99577,AK,202307,2050.78,0.0244,0.1159,Eagle River,"Anchorage, AK",Anchorage Borough
-100274,99577,AK,202308,2060.42,0.0047,0.1026,Eagle River,"Anchorage, AK",Anchorage Borough
-100274,99577,AK,202309,2064.26,0.0019,0.1138,Eagle River,"Anchorage, AK",Anchorage Borough
-100274,99577,AK,202310,2014.37,-0.0242,0.0868,Eagle River,"Anchorage, AK",Anchorage Borough
-100274,99577,AK,202311,1991.86,-0.0112,0.0719,Eagle River,"Anchorage, AK",Anchorage Borough
-100274,99577,AK,202312,2012.92,0.0106,0.0609,Eagle River,"Anchorage, AK",Anchorage Borough
-100274,99577,AK,202401,2012.42,-0.0002,0.0652,Eagle River,"Anchorage, AK",Anchorage Borough
-100274,99577,AK,202402,2045.67,0.0165,0.0704,Eagle River,"Anchorage, AK",Anchorage Borough
-100274,99577,AK,202403,2026.77,-0.0092,0.0434,Eagle River,"Anchorage, AK",Anchorage Borough
-100274,99577,AK,202404,2050.13,0.0115,0.0414,Eagle River,"Anchorage, AK",Anchorage Borough
-100274,99577,AK,202405,2063.13,0.0063,0.0369,Eagle River,"Anchorage, AK",Anchorage Borough
-100274,99577,AK,202406,2093.18,0.0146,0.0456,Eagle River,"Anchorage, AK",Anchorage Borough
-100274,99577,AK,202407,2152.6,0.0284,0.0496,Eagle River,"Anchorage, AK",Anchorage Borough
-100274,99577,AK,202408,2149.07,-0.0016,0.043,Eagle River,"Anchorage, AK",Anchorage Borough
-100274,99577,AK,202409,2144.5,-0.0021,0.0389,Eagle River,"Anchorage, AK",Anchorage Borough
-100274,99577,AK,202410,2092.98,-0.024,0.039,Eagle River,"Anchorage, AK",Anchorage Borough
-100274,99577,AK,202411,1932.08,-0.0769,-0.03,Eagle River,"Anchorage, AK",Anchorage Borough
-100274,99577,AK,202412,1905.92,-0.0135,-0.0532,Eagle River,"Anchorage, AK",Anchorage Borough
-100274,99577,AK,202501,1941.24,0.0185,-0.0354,Eagle River,"Anchorage, AK",Anchorage Borough
-100274,99577,AK,202503,2223.24,0.1453,0.0868,Eagle River,"Anchorage, AK",Anchorage Borough
-100274,99577,AK,202504,2287.11,0.0287,0.1285,Eagle River,"Anchorage, AK",Anchorage Borough
-100274,99577,AK,202505,2311.76,0.0108,0.1276,Eagle River,"Anchorage, AK",Anchorage Borough
-100274,99577,AK,202506,2358.14,0.0201,0.143,Eagle River,"Anchorage, AK",Anchorage Borough
-100274,99577,AK,202507,2353.81,-0.0018,0.1245,Eagle River,"Anchorage, AK",Anchorage Borough
-100274,99577,AK,202508,2343.14,-0.0045,0.0885,Eagle River,"Anchorage, AK",Anchorage Borough
-100274,99577,AK,202509,2316.04,-0.0116,0.0777,Eagle River,"Anchorage, AK",Anchorage Borough
-100274,99577,AK,202510,2294.19,-0.0094,0.0698,Eagle River,"Anchorage, AK",Anchorage Borough
-100274,99577,AK,202511,2335.95,0.0182,0.1161,Eagle River,"Anchorage, AK",Anchorage Borough
-100274,99577,AK,202512,2308.0,-0.012,0.1946,Eagle River,"Anchorage, AK",Anchorage Borough
-100274,99577,AK,202601,2334.49,0.0115,0.2249,Eagle River,"Anchorage, AK",Anchorage Borough
-100274,99577,AK,202602,2297.36,-0.0159,0.1835,Eagle River,"Anchorage, AK",Anchorage Borough
-100326,99645,AK,202602,1630.0,,,Palmer,"Anchorage, AK",Matanuska Susitna Borough
-100334,99654,AK,202304,1566.05,,,Wasilla,"Anchorage, AK",Matanuska Susitna Borough
-100334,99654,AK,202305,1569.88,0.0024,,Wasilla,"Anchorage, AK",Matanuska Susitna Borough
-100334,99654,AK,202306,1591.44,0.0137,,Wasilla,"Anchorage, AK",Matanuska Susitna Borough
-100334,99654,AK,202307,1617.66,0.0165,,Wasilla,"Anchorage, AK",Matanuska Susitna Borough
-100334,99654,AK,202308,1625.15,0.0046,,Wasilla,"Anchorage, AK",Matanuska Susitna Borough
-100334,99654,AK,202309,1630.77,0.0035,,Wasilla,"Anchorage, AK",Matanuska Susitna Borough
-100334,99654,AK,202310,1609.86,-0.0128,,Wasilla,"Anchorage, AK",Matanuska Susitna Borough
-100334,99654,AK,202311,1623.07,0.0082,,Wasilla,"Anchorage, AK",Matanuska Susitna Borough
-100334,99654,AK,202312,1635.64,0.0077,,Wasilla,"Anchorage, AK",Matanuska Susitna Borough
-100334,99654,AK,202401,1661.32,0.0157,,Wasilla,"Anchorage, AK",Matanuska Susitna Borough
-100334,99654,AK,202402,1651.52,-0.0059,,Wasilla,"Anchorage, AK",Matanuska Susitna Borough
-100334,99654,AK,202403,1660.99,0.0057,,Wasilla,"Anchorage, AK",Matanuska Susitna Borough
-100334,99654,AK,202404,1679.7,0.0113,0.0726,Wasilla,"Anchorage, AK",Matanuska Susitna Borough
-100334,99654,AK,202405,1718.47,0.0231,0.0946,Wasilla,"Anchorage, AK",Matanuska Susitna Borough
-100334,99654,AK,202406,1723.89,0.0032,0.0832,Wasilla,"Anchorage, AK",Matanuska Susitna Borough
-100334,99654,AK,202407,1727.74,0.0022,0.068,Wasilla,"Anchorage, AK",Matanuska Susitna Borough
-100334,99654,AK,202408,1726.69,-0.0006,0.0625,Wasilla,"Anchorage, AK",Matanuska Susitna Borough
-100334,99654,AK,202409,1722.88,-0.0022,0.0565,Wasilla,"Anchorage, AK",Matanuska Susitna Borough
-100334,99654,AK,202410,1722.19,-0.0004,0.0698,Wasilla,"Anchorage, AK",Matanuska Susitna Borough
-100334,99654,AK,202411,1697.64,-0.0143,0.0459,Wasilla,"Anchorage, AK",Matanuska Susitna Borough
-100334,99654,AK,202412,1672.87,-0.0146,0.0228,Wasilla,"Anchorage, AK",Matanuska Susitna Borough
-100334,99654,AK,202501,1697.08,0.0145,0.0215,Wasilla,"Anchorage, AK",Matanuska Susitna Borough
-100334,99654,AK,202502,1741.04,0.0259,0.0542,Wasilla,"Anchorage, AK",Matanuska Susitna Borough
-100334,99654,AK,202503,1782.99,0.0241,0.0734,Wasilla,"Anchorage, AK",Matanuska Susitna Borough
-100334,99654,AK,202504,1789.65,0.0037,0.0655,Wasilla,"Anchorage, AK",Matanuska Susitna Borough
-100334,99654,AK,202505,1782.15,-0.0042,0.0371,Wasilla,"Anchorage, AK",Matanuska Susitna Borough
-100334,99654,AK,202506,1792.74,0.0059,0.0399,Wasilla,"Anchorage, AK",Matanuska Susitna Borough
-100334,99654,AK,202507,1768.84,-0.0133,0.0238,Wasilla,"Anchorage, AK",Matanuska Susitna Borough
-100334,99654,AK,202508,1766.88,-0.0011,0.0233,Wasilla,"Anchorage, AK",Matanuska Susitna Borough
-100334,99654,AK,202509,1777.22,0.0059,0.0315,Wasilla,"Anchorage, AK",Matanuska Susitna Borough
-100334,99654,AK,202510,1775.48,-0.001,0.0309,Wasilla,"Anchorage, AK",Matanuska Susitna Borough
-100334,99654,AK,202511,1782.19,0.0038,0.0498,Wasilla,"Anchorage, AK",Matanuska Susitna Borough
-100334,99654,AK,202512,1758.79,-0.0131,0.0514,Wasilla,"Anchorage, AK",Matanuska Susitna Borough
-100334,99654,AK,202601,1754.63,-0.0024,0.0339,Wasilla,"Anchorage, AK",Matanuska Susitna Borough
-100334,99654,AK,202602,1758.41,0.0022,0.01,Wasilla,"Anchorage, AK",Matanuska Susitna Borough
-100349,99669,AK,202602,1800.0,,,Soldotna,,Kenai Peninsula Borough
-100376,99701,AK,202306,1779.04,,,Fairbanks,"Fairbanks, AK",Fairbanks North Star Borough
-100376,99701,AK,202307,1780.57,0.0009,,Fairbanks,"Fairbanks, AK",Fairbanks North Star Borough
-100376,99701,AK,202308,1759.63,-0.0118,,Fairbanks,"Fairbanks, AK",Fairbanks North Star Borough
-100376,99701,AK,202309,1776.15,0.0094,,Fairbanks,"Fairbanks, AK",Fairbanks North Star Borough
-100376,99701,AK,202310,1788.49,0.0069,,Fairbanks,"Fairbanks, AK",Fairbanks North Star Borough
-100376,99701,AK,202311,1773.01,-0.0087,,Fairbanks,"Fairbanks, AK",Fairbanks North Star Borough
-100376,99701,AK,202312,1763.83,-0.0052,,Fairbanks,"Fairbanks, AK",Fairbanks North Star Borough
-100376,99701,AK,202401,1743.45,-0.0116,,Fairbanks,"Fairbanks, AK",Fairbanks North Star Borough
-100376,99701,AK,202402,1714.13,-0.0168,,Fairbanks,"Fairbanks, AK",Fairbanks North Star Borough
-100376,99701,AK,202403,1761.07,0.0274,,Fairbanks,"Fairbanks, AK",Fairbanks North Star Borough
-100376,99701,AK,202404,1774.81,0.0078,,Fairbanks,"Fairbanks, AK",Fairbanks North Star Borough
-100376,99701,AK,202405,1840.04,0.0368,,Fairbanks,"Fairbanks, AK",Fairbanks North Star Borough
-100376,99701,AK,202406,1825.62,-0.0078,0.0262,Fairbanks,"Fairbanks, AK",Fairbanks North Star Borough
-100376,99701,AK,202407,1820.03,-0.0031,0.0222,Fairbanks,"Fairbanks, AK",Fairbanks North Star Borough
-100376,99701,AK,202408,1803.59,-0.009,0.025,Fairbanks,"Fairbanks, AK",Fairbanks North Star Borough
-100376,99701,AK,202409,1782.55,-0.0117,0.0036,Fairbanks,"Fairbanks, AK",Fairbanks North Star Borough
-100376,99701,AK,202410,1811.2,0.0161,0.0127,Fairbanks,"Fairbanks, AK",Fairbanks North Star Borough
-100376,99701,AK,202411,1819.17,0.0044,0.026,Fairbanks,"Fairbanks, AK",Fairbanks North Star Borough
-100376,99701,AK,202412,1821.82,0.0015,0.0329,Fairbanks,"Fairbanks, AK",Fairbanks North Star Borough
-100376,99701,AK,202501,1794.83,-0.0148,0.0295,Fairbanks,"Fairbanks, AK",Fairbanks North Star Borough
-100376,99701,AK,202502,1787.96,-0.0038,0.0431,Fairbanks,"Fairbanks, AK",Fairbanks North Star Borough
-100376,99701,AK,202503,1816.33,0.0159,0.0314,Fairbanks,"Fairbanks, AK",Fairbanks North Star Borough
-100376,99701,AK,202504,1845.34,0.016,0.0397,Fairbanks,"Fairbanks, AK",Fairbanks North Star Borough
-100376,99701,AK,202505,1870.7,0.0137,0.0167,Fairbanks,"Fairbanks, AK",Fairbanks North Star Borough
-100376,99701,AK,202506,1882.04,0.0061,0.0309,Fairbanks,"Fairbanks, AK",Fairbanks North Star Borough
-100376,99701,AK,202507,1880.07,-0.001,0.033,Fairbanks,"Fairbanks, AK",Fairbanks North Star Borough
-100376,99701,AK,202508,1842.14,-0.0202,0.0214,Fairbanks,"Fairbanks, AK",Fairbanks North Star Borough
-100376,99701,AK,202509,1846.85,0.0026,0.0361,Fairbanks,"Fairbanks, AK",Fairbanks North Star Borough
-100376,99701,AK,202510,1811.91,-0.0189,0.0004,Fairbanks,"Fairbanks, AK",Fairbanks North Star Borough
-100376,99701,AK,202511,1821.19,0.0051,0.0011,Fairbanks,"Fairbanks, AK",Fairbanks North Star Borough
-100376,99701,AK,202512,1791.65,-0.0162,-0.0166,Fairbanks,"Fairbanks, AK",Fairbanks North Star Borough
-100376,99701,AK,202601,1804.06,0.0069,0.0051,Fairbanks,"Fairbanks, AK",Fairbanks North Star Borough
-100376,99701,AK,202602,1833.67,0.0164,0.0256,Fairbanks,"Fairbanks, AK",Fairbanks North Star Borough
-100380,99705,AK,202303,1686.57,,,North Pole,"Fairbanks, AK",Fairbanks North Star Borough
-100380,99705,AK,202304,1680.73,-0.0035,,North Pole,"Fairbanks, AK",Fairbanks North Star Borough
-100380,99705,AK,202305,1673.76,-0.0041,,North Pole,"Fairbanks, AK",Fairbanks North Star Borough
-100380,99705,AK,202306,1673.79,0.0,,North Pole,"Fairbanks, AK",Fairbanks North Star Borough
-100380,99705,AK,202307,1676.85,0.0018,,North Pole,"Fairbanks, AK",Fairbanks North Star Borough
-100380,99705,AK,202308,1675.93,-0.0006,,North Pole,"Fairbanks, AK",Fairbanks North Star Borough
-100380,99705,AK,202309,1680.43,0.0027,,North Pole,"Fairbanks, AK",Fairbanks North Star Borough
-100380,99705,AK,202310,1699.73,0.0115,,North Pole,"Fairbanks, AK",Fairbanks North Star Borough
-100380,99705,AK,202311,1739.74,0.0235,,North Pole,"Fairbanks, AK",Fairbanks North Star Borough
-100380,99705,AK,202312,1740.01,0.0002,,North Pole,"Fairbanks, AK",Fairbanks North Star Borough
-100380,99705,AK,202401,1766.58,0.0153,,North Pole,"Fairbanks, AK",Fairbanks North Star Borough
-100380,99705,AK,202402,1761.96,-0.0026,,North Pole,"Fairbanks, AK",Fairbanks North Star Borough
-100380,99705,AK,202403,1787.46,0.0145,0.0598,North Pole,"Fairbanks, AK",Fairbanks North Star Borough
-100380,99705,AK,202404,1768.78,-0.0105,0.0524,North Pole,"Fairbanks, AK",Fairbanks North Star Borough
-100380,99705,AK,202405,1762.02,-0.0038,0.0527,North Pole,"Fairbanks, AK",Fairbanks North Star Borough
-100380,99705,AK,202406,1754.82,-0.0041,0.0484,North Pole,"Fairbanks, AK",Fairbanks North Star Borough
-100380,99705,AK,202407,1779.46,0.014,0.0612,North Pole,"Fairbanks, AK",Fairbanks North Star Borough
-100380,99705,AK,202408,1792.56,0.0074,0.0696,North Pole,"Fairbanks, AK",Fairbanks North Star Borough
-100380,99705,AK,202409,1796.43,0.0022,0.069,North Pole,"Fairbanks, AK",Fairbanks North Star Borough
-100380,99705,AK,202410,1777.95,-0.0103,0.046,North Pole,"Fairbanks, AK",Fairbanks North Star Borough
-100380,99705,AK,202411,1765.7,-0.0069,0.0149,North Pole,"Fairbanks, AK",Fairbanks North Star Borough
-100380,99705,AK,202412,1813.65,0.0272,0.0423,North Pole,"Fairbanks, AK",Fairbanks North Star Borough
-100380,99705,AK,202501,1837.6,0.0132,0.0402,North Pole,"Fairbanks, AK",Fairbanks North Star Borough
-100380,99705,AK,202502,1886.96,0.0269,0.0709,North Pole,"Fairbanks, AK",Fairbanks North Star Borough
-100380,99705,AK,202503,1863.71,-0.0123,0.0427,North Pole,"Fairbanks, AK",Fairbanks North Star Borough
-100380,99705,AK,202504,1885.31,0.0116,0.0659,North Pole,"Fairbanks, AK",Fairbanks North Star Borough
-100380,99705,AK,202505,1869.95,-0.0081,0.0612,North Pole,"Fairbanks, AK",Fairbanks North Star Borough
-100380,99705,AK,202506,1852.04,-0.0096,0.0554,North Pole,"Fairbanks, AK",Fairbanks North Star Borough
-100380,99705,AK,202507,1837.87,-0.0077,0.0328,North Pole,"Fairbanks, AK",Fairbanks North Star Borough
-100380,99705,AK,202508,1832.89,-0.0027,0.0225,North Pole,"Fairbanks, AK",Fairbanks North Star Borough
-100380,99705,AK,202509,1848.34,0.0084,0.0289,North Pole,"Fairbanks, AK",Fairbanks North Star Borough
-100380,99705,AK,202510,1842.93,-0.0029,0.0365,North Pole,"Fairbanks, AK",Fairbanks North Star Borough
-100380,99705,AK,202511,1842.72,-0.0001,0.0436,North Pole,"Fairbanks, AK",Fairbanks North Star Borough
-100380,99705,AK,202512,1900.93,0.0316,0.0481,North Pole,"Fairbanks, AK",Fairbanks North Star Borough
-100380,99705,AK,202601,1926.57,0.0135,0.0484,North Pole,"Fairbanks, AK",Fairbanks North Star Borough
-100380,99705,AK,202602,1994.44,0.0352,0.057,North Pole,"Fairbanks, AK",Fairbanks North Star Borough
-100384,99709,AK,202602,1750.0,,,Fairbanks,"Fairbanks, AK",Fairbanks North Star Borough
-422747,99623,AK,202503,1613.73,,,Meadow Lakes,"Anchorage, AK",Matanuska Susitna Borough
-422747,99623,AK,202504,1637.7,0.0149,,Meadow Lakes,"Anchorage, AK",Matanuska Susitna Borough
-422747,99623,AK,202505,1639.28,0.001,,Meadow Lakes,"Anchorage, AK",Matanuska Susitna Borough
-422747,99623,AK,202506,1697.13,0.0353,,Meadow Lakes,"Anchorage, AK",Matanuska Susitna Borough
-422747,99623,AK,202507,1700.81,0.0022,,Meadow Lakes,"Anchorage, AK",Matanuska Susitna Borough
-422747,99623,AK,202508,1715.55,0.0087,,Meadow Lakes,"Anchorage, AK",Matanuska Susitna Borough
-422747,99623,AK,202509,1666.63,-0.0285,,Meadow Lakes,"Anchorage, AK",Matanuska Susitna Borough
-422747,99623,AK,202510,1636.36,-0.0182,,Meadow Lakes,"Anchorage, AK",Matanuska Susitna Borough
-422747,99623,AK,202511,1626.69,-0.0059,,Meadow Lakes,"Anchorage, AK",Matanuska Susitna Borough
-422747,99623,AK,202512,1593.91,-0.0202,,Meadow Lakes,"Anchorage, AK",Matanuska Susitna Borough
-422747,99623,AK,202601,1603.17,0.0058,,Meadow Lakes,"Anchorage, AK",Matanuska Susitna Borough
-422747,99623,AK,202602,1620.83,0.011,,Meadow Lakes,"Anchorage, AK",Matanuska Susitna Borough
+100220,99501,AK,201607,1112.95,,,Anchorage,"Anchorage, AK",Anchorage Borough
+100220,99501,AK,201608,1112.04,-0.0008,,Anchorage,"Anchorage, AK",Anchorage Borough
+100220,99501,AK,201609,1117.12,0.0046,,Anchorage,"Anchorage, AK",Anchorage Borough
+100220,99501,AK,201610,1115.17,-0.0017,,Anchorage,"Anchorage, AK",Anchorage Borough
+100220,99501,AK,201611,1111.91,-0.0029,,Anchorage,"Anchorage, AK",Anchorage Borough
+100220,99501,AK,201612,1091.71,-0.0182,,Anchorage,"Anchorage, AK",Anchorage Borough
+100220,99501,AK,201701,1100.6,0.0081,,Anchorage,"Anchorage, AK",Anchorage Borough
+100220,99501,AK,201702,1092.77,-0.0071,,Anchorage,"Anchorage, AK",Anchorage Borough
+100220,99501,AK,201703,1120.49,0.0254,,Anchorage,"Anchorage, AK",Anchorage Borough
+100220,99501,AK,201704,1126.66,0.0055,,Anchorage,"Anchorage, AK",Anchorage Borough
+100220,99501,AK,201705,1136.86,0.0091,,Anchorage,"Anchorage, AK",Anchorage Borough
+100220,99501,AK,201706,1131.7,-0.0045,,Anchorage,"Anchorage, AK",Anchorage Borough
+100220,99501,AK,201707,1137.65,0.0053,0.0222,Anchorage,"Anchorage, AK",Anchorage Borough
+100220,99501,AK,201708,1133.03,-0.0041,0.0189,Anchorage,"Anchorage, AK",Anchorage Borough
+100220,99501,AK,201709,1124.33,-0.0077,0.0065,Anchorage,"Anchorage, AK",Anchorage Borough
+100220,99501,AK,201710,1103.38,-0.0186,-0.0106,Anchorage,"Anchorage, AK",Anchorage Borough
+100220,99501,AK,201711,1085.82,-0.0159,-0.0235,Anchorage,"Anchorage, AK",Anchorage Borough
+100220,99501,AK,201712,1080.94,-0.0045,-0.0099,Anchorage,"Anchorage, AK",Anchorage Borough
+100220,99501,AK,201801,1079.69,-0.0012,-0.019,Anchorage,"Anchorage, AK",Anchorage Borough
+100220,99501,AK,201802,1086.11,0.0059,-0.0061,Anchorage,"Anchorage, AK",Anchorage Borough
+100220,99501,AK,201803,1085.09,-0.0009,-0.0316,Anchorage,"Anchorage, AK",Anchorage Borough
+100220,99501,AK,201804,1105.84,0.0191,-0.0185,Anchorage,"Anchorage, AK",Anchorage Borough
+100220,99501,AK,201805,1135.91,0.0272,-0.0008,Anchorage,"Anchorage, AK",Anchorage Borough
+100220,99501,AK,201806,1161.48,0.0225,0.0263,Anchorage,"Anchorage, AK",Anchorage Borough
+100220,99501,AK,201807,1147.75,-0.0118,0.0089,Anchorage,"Anchorage, AK",Anchorage Borough
+100220,99501,AK,201808,1127.51,-0.0176,-0.0049,Anchorage,"Anchorage, AK",Anchorage Borough
+100220,99501,AK,201809,1114.39,-0.0116,-0.0088,Anchorage,"Anchorage, AK",Anchorage Borough
+100220,99501,AK,201810,1101.96,-0.0112,-0.0013,Anchorage,"Anchorage, AK",Anchorage Borough
+100220,99501,AK,201811,1099.39,-0.0023,0.0125,Anchorage,"Anchorage, AK",Anchorage Borough
+100220,99501,AK,201812,1091.89,-0.0068,0.0101,Anchorage,"Anchorage, AK",Anchorage Borough
+100220,99501,AK,201901,1109.16,0.0158,0.0273,Anchorage,"Anchorage, AK",Anchorage Borough
+100220,99501,AK,201902,1111.63,0.0022,0.0235,Anchorage,"Anchorage, AK",Anchorage Borough
+100220,99501,AK,201903,1127.44,0.0142,0.039,Anchorage,"Anchorage, AK",Anchorage Borough
+100220,99501,AK,201904,1139.83,0.011,0.0307,Anchorage,"Anchorage, AK",Anchorage Borough
+100220,99501,AK,201905,1156.39,0.0145,0.018,Anchorage,"Anchorage, AK",Anchorage Borough
+100220,99501,AK,201906,1170.21,0.0119,0.0075,Anchorage,"Anchorage, AK",Anchorage Borough
+100220,99501,AK,201907,1173.69,0.003,0.0226,Anchorage,"Anchorage, AK",Anchorage Borough
+100220,99501,AK,201908,1159.61,-0.012,0.0285,Anchorage,"Anchorage, AK",Anchorage Borough
+100220,99501,AK,201909,1157.69,-0.0017,0.0389,Anchorage,"Anchorage, AK",Anchorage Borough
+100220,99501,AK,201910,1144.89,-0.0111,0.039,Anchorage,"Anchorage, AK",Anchorage Borough
+100220,99501,AK,201911,1148.76,0.0034,0.0449,Anchorage,"Anchorage, AK",Anchorage Borough
+100220,99501,AK,201912,1148.27,-0.0004,0.0516,Anchorage,"Anchorage, AK",Anchorage Borough
+100220,99501,AK,202001,1159.65,0.0099,0.0455,Anchorage,"Anchorage, AK",Anchorage Borough
+100220,99501,AK,202002,1171.71,0.0104,0.054,Anchorage,"Anchorage, AK",Anchorage Borough
+100220,99501,AK,202003,1159.17,-0.0107,0.0281,Anchorage,"Anchorage, AK",Anchorage Borough
+100220,99501,AK,202004,1156.94,-0.0019,0.015,Anchorage,"Anchorage, AK",Anchorage Borough
+100220,99501,AK,202005,1155.65,-0.0011,-0.0006,Anchorage,"Anchorage, AK",Anchorage Borough
+100220,99501,AK,202006,1155.71,0.0,-0.0124,Anchorage,"Anchorage, AK",Anchorage Borough
+100220,99501,AK,202007,1176.94,0.0184,0.0028,Anchorage,"Anchorage, AK",Anchorage Borough
+100220,99501,AK,202008,1178.7,0.0015,0.0165,Anchorage,"Anchorage, AK",Anchorage Borough
+100220,99501,AK,202009,1201.03,0.0189,0.0374,Anchorage,"Anchorage, AK",Anchorage Borough
+100220,99501,AK,202010,1215.97,0.0124,0.0621,Anchorage,"Anchorage, AK",Anchorage Borough
+100220,99501,AK,202011,1208.42,-0.0062,0.0519,Anchorage,"Anchorage, AK",Anchorage Borough
+100220,99501,AK,202012,1214.84,0.0053,0.058,Anchorage,"Anchorage, AK",Anchorage Borough
+100220,99501,AK,202101,1196.67,-0.015,0.0319,Anchorage,"Anchorage, AK",Anchorage Borough
+100220,99501,AK,202102,1227.57,0.0258,0.0477,Anchorage,"Anchorage, AK",Anchorage Borough
+100220,99501,AK,202103,1231.03,0.0028,0.062,Anchorage,"Anchorage, AK",Anchorage Borough
+100220,99501,AK,202104,1200.78,-0.0246,0.0379,Anchorage,"Anchorage, AK",Anchorage Borough
+100220,99501,AK,202105,1211.7,0.0091,0.0485,Anchorage,"Anchorage, AK",Anchorage Borough
+100220,99501,AK,202106,1233.77,0.0182,0.0675,Anchorage,"Anchorage, AK",Anchorage Borough
+100220,99501,AK,202107,1279.23,0.0368,0.0869,Anchorage,"Anchorage, AK",Anchorage Borough
+100220,99501,AK,202108,1319.43,0.0314,0.1194,Anchorage,"Anchorage, AK",Anchorage Borough
+100220,99501,AK,202109,1318.87,-0.0004,0.0981,Anchorage,"Anchorage, AK",Anchorage Borough
+100220,99501,AK,202110,1344.07,0.0191,0.1053,Anchorage,"Anchorage, AK",Anchorage Borough
+100220,99501,AK,202111,1290.77,-0.0397,0.0681,Anchorage,"Anchorage, AK",Anchorage Borough
+100220,99501,AK,202201,1312.19,0.0166,0.0801,Anchorage,"Anchorage, AK",Anchorage Borough
+100220,99501,AK,202202,1356.18,0.0335,0.1333,Anchorage,"Anchorage, AK",Anchorage Borough
+100220,99501,AK,202203,1385.42,0.0216,0.1286,Anchorage,"Anchorage, AK",Anchorage Borough
+100220,99501,AK,202204,1380.13,-0.0038,0.1211,Anchorage,"Anchorage, AK",Anchorage Borough
+100220,99501,AK,202205,1385.87,0.0042,0.1541,Anchorage,"Anchorage, AK",Anchorage Borough
+100220,99501,AK,202206,1417.83,0.0231,0.1701,Anchorage,"Anchorage, AK",Anchorage Borough
+100220,99501,AK,202207,1455.0,0.0262,0.1793,Anchorage,"Anchorage, AK",Anchorage Borough
+100220,99501,AK,202208,1467.0,0.0083,0.1468,Anchorage,"Anchorage, AK",Anchorage Borough
+100220,99501,AK,202209,1451.68,-0.0104,0.1002,Anchorage,"Anchorage, AK",Anchorage Borough
+100220,99501,AK,202210,1431.41,-0.014,0.0853,Anchorage,"Anchorage, AK",Anchorage Borough
+100220,99501,AK,202211,1439.95,0.006,0.0713,Anchorage,"Anchorage, AK",Anchorage Borough
+100220,99501,AK,202212,1449.69,0.0068,0.1231,Anchorage,"Anchorage, AK",Anchorage Borough
+100220,99501,AK,202301,1449.98,0.0002,0.105,Anchorage,"Anchorage, AK",Anchorage Borough
+100220,99501,AK,202302,1453.06,0.0021,0.0714,Anchorage,"Anchorage, AK",Anchorage Borough
+100220,99501,AK,202303,1461.77,0.006,0.0551,Anchorage,"Anchorage, AK",Anchorage Borough
+100220,99501,AK,202304,1489.89,0.0192,0.0795,Anchorage,"Anchorage, AK",Anchorage Borough
+100220,99501,AK,202305,1517.49,0.0185,0.095,Anchorage,"Anchorage, AK",Anchorage Borough
+100220,99501,AK,202306,1528.45,0.0072,0.078,Anchorage,"Anchorage, AK",Anchorage Borough
+100220,99501,AK,202307,1520.04,-0.0055,0.0447,Anchorage,"Anchorage, AK",Anchorage Borough
+100220,99501,AK,202308,1517.03,-0.002,0.0341,Anchorage,"Anchorage, AK",Anchorage Borough
+100220,99501,AK,202309,1532.75,0.0104,0.0558,Anchorage,"Anchorage, AK",Anchorage Borough
+100220,99501,AK,202310,1527.9,-0.0032,0.0674,Anchorage,"Anchorage, AK",Anchorage Borough
+100220,99501,AK,202311,1521.97,-0.0039,0.057,Anchorage,"Anchorage, AK",Anchorage Borough
+100220,99501,AK,202312,1513.86,-0.0053,0.0443,Anchorage,"Anchorage, AK",Anchorage Borough
+100220,99501,AK,202401,1515.31,0.001,0.0451,Anchorage,"Anchorage, AK",Anchorage Borough
+100220,99501,AK,202402,1532.82,0.0116,0.0549,Anchorage,"Anchorage, AK",Anchorage Borough
+100220,99501,AK,202403,1537.25,0.0029,0.0516,Anchorage,"Anchorage, AK",Anchorage Borough
+100220,99501,AK,202404,1561.33,0.0157,0.0479,Anchorage,"Anchorage, AK",Anchorage Borough
+100220,99501,AK,202405,1548.52,-0.0082,0.0204,Anchorage,"Anchorage, AK",Anchorage Borough
+100220,99501,AK,202406,1568.26,0.0127,0.026,Anchorage,"Anchorage, AK",Anchorage Borough
+100220,99501,AK,202407,1591.34,0.0147,0.0469,Anchorage,"Anchorage, AK",Anchorage Borough
+100220,99501,AK,202408,1634.2,0.0269,0.0772,Anchorage,"Anchorage, AK",Anchorage Borough
+100220,99501,AK,202409,1633.25,-0.0006,0.0656,Anchorage,"Anchorage, AK",Anchorage Borough
+100220,99501,AK,202410,1627.16,-0.0037,0.065,Anchorage,"Anchorage, AK",Anchorage Borough
+100220,99501,AK,202411,1612.92,-0.0088,0.0598,Anchorage,"Anchorage, AK",Anchorage Borough
+100220,99501,AK,202412,1595.87,-0.0106,0.0542,Anchorage,"Anchorage, AK",Anchorage Borough
+100220,99501,AK,202501,1592.76,-0.0019,0.0511,Anchorage,"Anchorage, AK",Anchorage Borough
+100220,99501,AK,202502,1577.44,-0.0096,0.0291,Anchorage,"Anchorage, AK",Anchorage Borough
+100220,99501,AK,202503,1597.52,0.0127,0.0392,Anchorage,"Anchorage, AK",Anchorage Borough
+100220,99501,AK,202504,1610.86,0.0084,0.0317,Anchorage,"Anchorage, AK",Anchorage Borough
+100220,99501,AK,202505,1638.42,0.0171,0.0581,Anchorage,"Anchorage, AK",Anchorage Borough
+100220,99501,AK,202506,1645.16,0.0041,0.049,Anchorage,"Anchorage, AK",Anchorage Borough
+100220,99501,AK,202507,1680.41,0.0214,0.056,Anchorage,"Anchorage, AK",Anchorage Borough
+100220,99501,AK,202508,1684.77,0.0026,0.0309,Anchorage,"Anchorage, AK",Anchorage Borough
+100220,99501,AK,202509,1697.34,0.0075,0.0392,Anchorage,"Anchorage, AK",Anchorage Borough
+100220,99501,AK,202510,1681.04,-0.0096,0.0331,Anchorage,"Anchorage, AK",Anchorage Borough
+100220,99501,AK,202511,1674.23,-0.004,0.038,Anchorage,"Anchorage, AK",Anchorage Borough
+100220,99501,AK,202512,1682.75,0.0051,0.0544,Anchorage,"Anchorage, AK",Anchorage Borough
+100220,99501,AK,202601,1662.65,-0.0119,0.0439,Anchorage,"Anchorage, AK",Anchorage Borough
+100220,99501,AK,202602,1684.29,0.013,0.0677,Anchorage,"Anchorage, AK",Anchorage Borough
+100220,99501,AK,202603,1679.33,-0.0029,0.0512,Anchorage,"Anchorage, AK",Anchorage Borough
+100221,99502,AK,202303,1472.43,,,Anchorage,"Anchorage, AK",Anchorage Borough
+100221,99502,AK,202304,1501.2,0.0195,,Anchorage,"Anchorage, AK",Anchorage Borough
+100221,99502,AK,202305,1471.52,-0.0198,,Anchorage,"Anchorage, AK",Anchorage Borough
+100221,99502,AK,202306,1490.15,0.0127,,Anchorage,"Anchorage, AK",Anchorage Borough
+100221,99502,AK,202307,1505.95,0.0106,,Anchorage,"Anchorage, AK",Anchorage Borough
+100221,99502,AK,202308,1503.69,-0.0015,,Anchorage,"Anchorage, AK",Anchorage Borough
+100221,99502,AK,202309,1511.85,0.0054,,Anchorage,"Anchorage, AK",Anchorage Borough
+100221,99502,AK,202310,1490.58,-0.0141,,Anchorage,"Anchorage, AK",Anchorage Borough
+100221,99502,AK,202311,1482.32,-0.0055,,Anchorage,"Anchorage, AK",Anchorage Borough
+100221,99502,AK,202312,1495.18,0.0087,,Anchorage,"Anchorage, AK",Anchorage Borough
+100221,99502,AK,202401,1503.39,0.0055,,Anchorage,"Anchorage, AK",Anchorage Borough
+100221,99502,AK,202402,1505.19,0.0012,,Anchorage,"Anchorage, AK",Anchorage Borough
+100221,99502,AK,202403,1504.03,-0.0008,0.0215,Anchorage,"Anchorage, AK",Anchorage Borough
+100221,99502,AK,202404,1515.2,0.0074,0.0093,Anchorage,"Anchorage, AK",Anchorage Borough
+100221,99502,AK,202405,1549.95,0.0229,0.0533,Anchorage,"Anchorage, AK",Anchorage Borough
+100221,99502,AK,202406,1537.55,-0.008,0.0318,Anchorage,"Anchorage, AK",Anchorage Borough
+100221,99502,AK,202407,1532.55,-0.0033,0.0177,Anchorage,"Anchorage, AK",Anchorage Borough
+100221,99502,AK,202408,1535.52,0.0019,0.0212,Anchorage,"Anchorage, AK",Anchorage Borough
+100221,99502,AK,202409,1565.85,0.0198,0.0357,Anchorage,"Anchorage, AK",Anchorage Borough
+100221,99502,AK,202410,1583.66,0.0114,0.0624,Anchorage,"Anchorage, AK",Anchorage Borough
+100221,99502,AK,202411,1560.78,-0.0144,0.0529,Anchorage,"Anchorage, AK",Anchorage Borough
+100221,99502,AK,202412,1515.47,-0.029,0.0136,Anchorage,"Anchorage, AK",Anchorage Borough
+100221,99502,AK,202501,1531.75,0.0107,0.0189,Anchorage,"Anchorage, AK",Anchorage Borough
+100221,99502,AK,202502,1548.87,0.0112,0.029,Anchorage,"Anchorage, AK",Anchorage Borough
+100221,99502,AK,202503,1595.36,0.03,0.0607,Anchorage,"Anchorage, AK",Anchorage Borough
+100221,99502,AK,202504,1564.78,-0.0192,0.0327,Anchorage,"Anchorage, AK",Anchorage Borough
+100221,99502,AK,202505,1577.0,0.0078,0.0175,Anchorage,"Anchorage, AK",Anchorage Borough
+100221,99502,AK,202506,1580.59,0.0023,0.028,Anchorage,"Anchorage, AK",Anchorage Borough
+100221,99502,AK,202507,1586.27,0.0036,0.0351,Anchorage,"Anchorage, AK",Anchorage Borough
+100221,99502,AK,202508,1622.83,0.023,0.0569,Anchorage,"Anchorage, AK",Anchorage Borough
+100221,99502,AK,202509,1652.51,0.0183,0.0553,Anchorage,"Anchorage, AK",Anchorage Borough
+100221,99502,AK,202510,1691.66,0.0237,0.0682,Anchorage,"Anchorage, AK",Anchorage Borough
+100221,99502,AK,202511,1678.23,-0.0079,0.0753,Anchorage,"Anchorage, AK",Anchorage Borough
+100221,99502,AK,202512,1663.08,-0.009,0.0974,Anchorage,"Anchorage, AK",Anchorage Borough
+100221,99502,AK,202601,1656.56,-0.0039,0.0815,Anchorage,"Anchorage, AK",Anchorage Borough
+100221,99502,AK,202602,1676.17,0.0118,0.0822,Anchorage,"Anchorage, AK",Anchorage Borough
+100221,99502,AK,202603,1668.33,-0.0047,0.0457,Anchorage,"Anchorage, AK",Anchorage Borough
+100222,99503,AK,202207,1188.63,,,Anchorage,"Anchorage, AK",Anchorage Borough
+100222,99503,AK,202208,1199.97,0.0095,,Anchorage,"Anchorage, AK",Anchorage Borough
+100222,99503,AK,202209,1220.03,0.0167,,Anchorage,"Anchorage, AK",Anchorage Borough
+100222,99503,AK,202210,1215.69,-0.0036,,Anchorage,"Anchorage, AK",Anchorage Borough
+100222,99503,AK,202211,1194.86,-0.0171,,Anchorage,"Anchorage, AK",Anchorage Borough
+100222,99503,AK,202212,1209.81,0.0125,,Anchorage,"Anchorage, AK",Anchorage Borough
+100222,99503,AK,202301,1210.31,0.0004,,Anchorage,"Anchorage, AK",Anchorage Borough
+100222,99503,AK,202302,1254.04,0.0361,,Anchorage,"Anchorage, AK",Anchorage Borough
+100222,99503,AK,202303,1256.71,0.0021,,Anchorage,"Anchorage, AK",Anchorage Borough
+100222,99503,AK,202304,1244.99,-0.0093,,Anchorage,"Anchorage, AK",Anchorage Borough
+100222,99503,AK,202305,1251.67,0.0054,,Anchorage,"Anchorage, AK",Anchorage Borough
+100222,99503,AK,202306,1259.1,0.0059,,Anchorage,"Anchorage, AK",Anchorage Borough
+100222,99503,AK,202307,1284.7,0.0203,0.0808,Anchorage,"Anchorage, AK",Anchorage Borough
+100222,99503,AK,202308,1275.46,-0.0072,0.0629,Anchorage,"Anchorage, AK",Anchorage Borough
+100222,99503,AK,202309,1282.75,0.0057,0.0514,Anchorage,"Anchorage, AK",Anchorage Borough
+100222,99503,AK,202310,1278.15,-0.0036,0.0514,Anchorage,"Anchorage, AK",Anchorage Borough
+100222,99503,AK,202311,1289.65,0.009,0.0793,Anchorage,"Anchorage, AK",Anchorage Borough
+100222,99503,AK,202312,1294.55,0.0038,0.07,Anchorage,"Anchorage, AK",Anchorage Borough
+100222,99503,AK,202401,1302.68,0.0063,0.0763,Anchorage,"Anchorage, AK",Anchorage Borough
+100222,99503,AK,202402,1308.46,0.0044,0.0434,Anchorage,"Anchorage, AK",Anchorage Borough
+100222,99503,AK,202403,1312.07,0.0028,0.0441,Anchorage,"Anchorage, AK",Anchorage Borough
+100222,99503,AK,202404,1316.15,0.0031,0.0572,Anchorage,"Anchorage, AK",Anchorage Borough
+100222,99503,AK,202405,1313.28,-0.0022,0.0492,Anchorage,"Anchorage, AK",Anchorage Borough
+100222,99503,AK,202406,1322.82,0.0073,0.0506,Anchorage,"Anchorage, AK",Anchorage Borough
+100222,99503,AK,202407,1335.24,0.0094,0.0393,Anchorage,"Anchorage, AK",Anchorage Borough
+100222,99503,AK,202408,1346.74,0.0086,0.0559,Anchorage,"Anchorage, AK",Anchorage Borough
+100222,99503,AK,202409,1342.8,-0.0029,0.0468,Anchorage,"Anchorage, AK",Anchorage Borough
+100222,99503,AK,202410,1333.86,-0.0067,0.0436,Anchorage,"Anchorage, AK",Anchorage Borough
+100222,99503,AK,202411,1341.7,0.0059,0.0404,Anchorage,"Anchorage, AK",Anchorage Borough
+100222,99503,AK,202412,1344.76,0.0023,0.0388,Anchorage,"Anchorage, AK",Anchorage Borough
+100222,99503,AK,202501,1361.47,0.0124,0.0451,Anchorage,"Anchorage, AK",Anchorage Borough
+100222,99503,AK,202502,1359.02,-0.0018,0.0386,Anchorage,"Anchorage, AK",Anchorage Borough
+100222,99503,AK,202503,1368.2,0.0067,0.0428,Anchorage,"Anchorage, AK",Anchorage Borough
+100222,99503,AK,202504,1381.34,0.0096,0.0495,Anchorage,"Anchorage, AK",Anchorage Borough
+100222,99503,AK,202505,1382.38,0.0007,0.0526,Anchorage,"Anchorage, AK",Anchorage Borough
+100222,99503,AK,202506,1381.95,-0.0003,0.0447,Anchorage,"Anchorage, AK",Anchorage Borough
+100222,99503,AK,202507,1366.37,-0.0113,0.0233,Anchorage,"Anchorage, AK",Anchorage Borough
+100222,99503,AK,202508,1378.34,0.0088,0.0235,Anchorage,"Anchorage, AK",Anchorage Borough
+100222,99503,AK,202509,1391.29,0.0094,0.0361,Anchorage,"Anchorage, AK",Anchorage Borough
+100222,99503,AK,202510,1391.8,0.0004,0.0434,Anchorage,"Anchorage, AK",Anchorage Borough
+100222,99503,AK,202511,1366.31,-0.0183,0.0183,Anchorage,"Anchorage, AK",Anchorage Borough
+100222,99503,AK,202512,1350.06,-0.0119,0.0039,Anchorage,"Anchorage, AK",Anchorage Borough
+100222,99503,AK,202601,1367.68,0.0131,0.0046,Anchorage,"Anchorage, AK",Anchorage Borough
+100222,99503,AK,202602,1385.52,0.013,0.0195,Anchorage,"Anchorage, AK",Anchorage Borough
+100222,99503,AK,202603,1399.34,0.01,0.0228,Anchorage,"Anchorage, AK",Anchorage Borough
+100223,99504,AK,201504,1426.99,,,Anchorage,"Anchorage, AK",Anchorage Borough
+100223,99504,AK,201505,1413.76,-0.0093,,Anchorage,"Anchorage, AK",Anchorage Borough
+100223,99504,AK,201506,1420.27,0.0046,,Anchorage,"Anchorage, AK",Anchorage Borough
+100223,99504,AK,201507,1418.11,-0.0015,,Anchorage,"Anchorage, AK",Anchorage Borough
+100223,99504,AK,201508,1409.75,-0.0059,,Anchorage,"Anchorage, AK",Anchorage Borough
+100223,99504,AK,201509,1411.4,0.0012,,Anchorage,"Anchorage, AK",Anchorage Borough
+100223,99504,AK,201510,1409.32,-0.0015,,Anchorage,"Anchorage, AK",Anchorage Borough
+100223,99504,AK,201511,1408.72,-0.0004,,Anchorage,"Anchorage, AK",Anchorage Borough
+100223,99504,AK,201512,1401.53,-0.0051,,Anchorage,"Anchorage, AK",Anchorage Borough
+100223,99504,AK,201601,1391.02,-0.0075,,Anchorage,"Anchorage, AK",Anchorage Borough
+100223,99504,AK,201602,1388.3,-0.002,,Anchorage,"Anchorage, AK",Anchorage Borough
+100223,99504,AK,201603,1385.48,-0.002,,Anchorage,"Anchorage, AK",Anchorage Borough
+100223,99504,AK,201604,1409.4,0.0173,-0.0123,Anchorage,"Anchorage, AK",Anchorage Borough
+100223,99504,AK,201605,1409.01,-0.0003,-0.0034,Anchorage,"Anchorage, AK",Anchorage Borough
+100223,99504,AK,201606,1404.85,-0.0029,-0.0109,Anchorage,"Anchorage, AK",Anchorage Borough
+100223,99504,AK,201607,1377.68,-0.0193,-0.0285,Anchorage,"Anchorage, AK",Anchorage Borough
+100223,99504,AK,201608,1365.34,-0.009,-0.0315,Anchorage,"Anchorage, AK",Anchorage Borough
+100223,99504,AK,201609,1369.49,0.003,-0.0297,Anchorage,"Anchorage, AK",Anchorage Borough
+100223,99504,AK,201610,1365.5,-0.0029,-0.0311,Anchorage,"Anchorage, AK",Anchorage Borough
+100223,99504,AK,201611,1356.61,-0.0065,-0.037,Anchorage,"Anchorage, AK",Anchorage Borough
+100223,99504,AK,201612,1349.94,-0.0049,-0.0368,Anchorage,"Anchorage, AK",Anchorage Borough
+100223,99504,AK,201701,1357.44,0.0056,-0.0241,Anchorage,"Anchorage, AK",Anchorage Borough
+100223,99504,AK,201702,1365.65,0.006,-0.0163,Anchorage,"Anchorage, AK",Anchorage Borough
+100223,99504,AK,201703,1370.95,0.0039,-0.0105,Anchorage,"Anchorage, AK",Anchorage Borough
+100223,99504,AK,201704,1374.17,0.0024,-0.025,Anchorage,"Anchorage, AK",Anchorage Borough
+100223,99504,AK,201705,1378.44,0.0031,-0.0217,Anchorage,"Anchorage, AK",Anchorage Borough
+100223,99504,AK,201706,1384.98,0.0047,-0.0141,Anchorage,"Anchorage, AK",Anchorage Borough
+100223,99504,AK,201707,1378.79,-0.0045,0.0008,Anchorage,"Anchorage, AK",Anchorage Borough
+100223,99504,AK,201708,1380.04,0.0009,0.0108,Anchorage,"Anchorage, AK",Anchorage Borough
+100223,99504,AK,201709,1369.24,-0.0078,-0.0002,Anchorage,"Anchorage, AK",Anchorage Borough
+100223,99504,AK,201710,1368.34,-0.0007,0.0021,Anchorage,"Anchorage, AK",Anchorage Borough
+100223,99504,AK,201711,1361.95,-0.0047,0.0039,Anchorage,"Anchorage, AK",Anchorage Borough
+100223,99504,AK,201712,1344.58,-0.0128,-0.004,Anchorage,"Anchorage, AK",Anchorage Borough
+100223,99504,AK,201801,1341.5,-0.0023,-0.0117,Anchorage,"Anchorage, AK",Anchorage Borough
+100223,99504,AK,201802,1346.57,0.0038,-0.014,Anchorage,"Anchorage, AK",Anchorage Borough
+100223,99504,AK,201803,1370.66,0.0179,-0.0002,Anchorage,"Anchorage, AK",Anchorage Borough
+100223,99504,AK,201804,1382.4,0.0086,0.006,Anchorage,"Anchorage, AK",Anchorage Borough
+100223,99504,AK,201805,1394.67,0.0089,0.0118,Anchorage,"Anchorage, AK",Anchorage Borough
+100223,99504,AK,201806,1398.91,0.003,0.0101,Anchorage,"Anchorage, AK",Anchorage Borough
+100223,99504,AK,201807,1407.25,0.006,0.0206,Anchorage,"Anchorage, AK",Anchorage Borough
+100223,99504,AK,201808,1391.38,-0.0113,0.0082,Anchorage,"Anchorage, AK",Anchorage Borough
+100223,99504,AK,201809,1389.18,-0.0016,0.0146,Anchorage,"Anchorage, AK",Anchorage Borough
+100223,99504,AK,201810,1379.68,-0.0068,0.0083,Anchorage,"Anchorage, AK",Anchorage Borough
+100223,99504,AK,201811,1385.38,0.0041,0.0172,Anchorage,"Anchorage, AK",Anchorage Borough
+100223,99504,AK,201812,1389.82,0.0032,0.0336,Anchorage,"Anchorage, AK",Anchorage Borough
+100223,99504,AK,201901,1402.46,0.0091,0.0454,Anchorage,"Anchorage, AK",Anchorage Borough
+100223,99504,AK,201902,1401.61,-0.0006,0.0409,Anchorage,"Anchorage, AK",Anchorage Borough
+100223,99504,AK,201903,1404.18,0.0018,0.0245,Anchorage,"Anchorage, AK",Anchorage Borough
+100223,99504,AK,201904,1401.53,-0.0019,0.0138,Anchorage,"Anchorage, AK",Anchorage Borough
+100223,99504,AK,201905,1406.42,0.0035,0.0084,Anchorage,"Anchorage, AK",Anchorage Borough
+100223,99504,AK,201906,1398.46,-0.0057,-0.0003,Anchorage,"Anchorage, AK",Anchorage Borough
+100223,99504,AK,201907,1406.91,0.006,-0.0002,Anchorage,"Anchorage, AK",Anchorage Borough
+100223,99504,AK,201908,1410.16,0.0023,0.0135,Anchorage,"Anchorage, AK",Anchorage Borough
+100223,99504,AK,201909,1407.73,-0.0017,0.0134,Anchorage,"Anchorage, AK",Anchorage Borough
+100223,99504,AK,201910,1378.98,-0.0204,-0.0005,Anchorage,"Anchorage, AK",Anchorage Borough
+100223,99504,AK,201911,1397.92,0.0137,0.009,Anchorage,"Anchorage, AK",Anchorage Borough
+100223,99504,AK,201912,1398.28,0.0003,0.0061,Anchorage,"Anchorage, AK",Anchorage Borough
+100223,99504,AK,202001,1411.76,0.0096,0.0066,Anchorage,"Anchorage, AK",Anchorage Borough
+100223,99504,AK,202002,1396.52,-0.0108,-0.0036,Anchorage,"Anchorage, AK",Anchorage Borough
+100223,99504,AK,202003,1402.38,0.0042,-0.0013,Anchorage,"Anchorage, AK",Anchorage Borough
+100223,99504,AK,202004,1405.03,0.0019,0.0025,Anchorage,"Anchorage, AK",Anchorage Borough
+100223,99504,AK,202005,1404.61,-0.0003,-0.0013,Anchorage,"Anchorage, AK",Anchorage Borough
+100223,99504,AK,202006,1426.04,0.0153,0.0197,Anchorage,"Anchorage, AK",Anchorage Borough
+100223,99504,AK,202007,1439.16,0.0092,0.0229,Anchorage,"Anchorage, AK",Anchorage Borough
+100223,99504,AK,202008,1449.84,0.0074,0.0281,Anchorage,"Anchorage, AK",Anchorage Borough
+100223,99504,AK,202009,1452.04,0.0015,0.0315,Anchorage,"Anchorage, AK",Anchorage Borough
+100223,99504,AK,202010,1460.42,0.0058,0.0591,Anchorage,"Anchorage, AK",Anchorage Borough
+100223,99504,AK,202011,1453.0,-0.0051,0.0394,Anchorage,"Anchorage, AK",Anchorage Borough
+100223,99504,AK,202012,1456.32,0.0023,0.0415,Anchorage,"Anchorage, AK",Anchorage Borough
+100223,99504,AK,202101,1454.18,-0.0015,0.0301,Anchorage,"Anchorage, AK",Anchorage Borough
+100223,99504,AK,202102,1466.14,0.0082,0.0499,Anchorage,"Anchorage, AK",Anchorage Borough
+100223,99504,AK,202103,1457.47,-0.0059,0.0393,Anchorage,"Anchorage, AK",Anchorage Borough
+100223,99504,AK,202104,1474.23,0.0115,0.0493,Anchorage,"Anchorage, AK",Anchorage Borough
+100223,99504,AK,202105,1501.59,0.0186,0.069,Anchorage,"Anchorage, AK",Anchorage Borough
+100223,99504,AK,202106,1555.88,0.0362,0.091,Anchorage,"Anchorage, AK",Anchorage Borough
+100223,99504,AK,202107,1582.9,0.0174,0.0999,Anchorage,"Anchorage, AK",Anchorage Borough
+100223,99504,AK,202108,1587.1,0.0027,0.0947,Anchorage,"Anchorage, AK",Anchorage Borough
+100223,99504,AK,202109,1566.19,-0.0132,0.0786,Anchorage,"Anchorage, AK",Anchorage Borough
+100223,99504,AK,202110,1554.5,-0.0075,0.0644,Anchorage,"Anchorage, AK",Anchorage Borough
+100223,99504,AK,202111,1552.2,-0.0015,0.0683,Anchorage,"Anchorage, AK",Anchorage Borough
+100223,99504,AK,202112,1541.93,-0.0066,0.0588,Anchorage,"Anchorage, AK",Anchorage Borough
+100223,99504,AK,202201,1529.46,-0.0081,0.0518,Anchorage,"Anchorage, AK",Anchorage Borough
+100223,99504,AK,202202,1537.85,0.0055,0.0489,Anchorage,"Anchorage, AK",Anchorage Borough
+100223,99504,AK,202203,1555.38,0.0114,0.0672,Anchorage,"Anchorage, AK",Anchorage Borough
+100223,99504,AK,202204,1589.27,0.0218,0.078,Anchorage,"Anchorage, AK",Anchorage Borough
+100223,99504,AK,202205,1608.42,0.012,0.0711,Anchorage,"Anchorage, AK",Anchorage Borough
+100223,99504,AK,202206,1640.57,0.02,0.0544,Anchorage,"Anchorage, AK",Anchorage Borough
+100223,99504,AK,202207,1672.61,0.0195,0.0567,Anchorage,"Anchorage, AK",Anchorage Borough
+100223,99504,AK,202208,1695.26,0.0135,0.0682,Anchorage,"Anchorage, AK",Anchorage Borough
+100223,99504,AK,202209,1689.79,-0.0032,0.0789,Anchorage,"Anchorage, AK",Anchorage Borough
+100223,99504,AK,202210,1680.73,-0.0054,0.0812,Anchorage,"Anchorage, AK",Anchorage Borough
+100223,99504,AK,202211,1667.29,-0.008,0.0741,Anchorage,"Anchorage, AK",Anchorage Borough
+100223,99504,AK,202212,1671.04,0.0023,0.0837,Anchorage,"Anchorage, AK",Anchorage Borough
+100223,99504,AK,202301,1669.97,-0.0006,0.0919,Anchorage,"Anchorage, AK",Anchorage Borough
+100223,99504,AK,202302,1697.66,0.0166,0.1039,Anchorage,"Anchorage, AK",Anchorage Borough
+100223,99504,AK,202303,1706.41,0.0052,0.0971,Anchorage,"Anchorage, AK",Anchorage Borough
+100223,99504,AK,202304,1728.77,0.0131,0.0878,Anchorage,"Anchorage, AK",Anchorage Borough
+100223,99504,AK,202305,1744.96,0.0094,0.0849,Anchorage,"Anchorage, AK",Anchorage Borough
+100223,99504,AK,202306,1775.81,0.0177,0.0824,Anchorage,"Anchorage, AK",Anchorage Borough
+100223,99504,AK,202307,1800.3,0.0138,0.0763,Anchorage,"Anchorage, AK",Anchorage Borough
+100223,99504,AK,202308,1808.93,0.0048,0.0671,Anchorage,"Anchorage, AK",Anchorage Borough
+100223,99504,AK,202309,1827.33,0.0102,0.0814,Anchorage,"Anchorage, AK",Anchorage Borough
+100223,99504,AK,202310,1809.69,-0.0097,0.0767,Anchorage,"Anchorage, AK",Anchorage Borough
+100223,99504,AK,202311,1791.56,-0.01,0.0745,Anchorage,"Anchorage, AK",Anchorage Borough
+100223,99504,AK,202312,1785.35,-0.0035,0.0684,Anchorage,"Anchorage, AK",Anchorage Borough
+100223,99504,AK,202401,1776.68,-0.0049,0.0639,Anchorage,"Anchorage, AK",Anchorage Borough
+100223,99504,AK,202402,1791.89,0.0086,0.0555,Anchorage,"Anchorage, AK",Anchorage Borough
+100223,99504,AK,202403,1789.55,-0.0013,0.0487,Anchorage,"Anchorage, AK",Anchorage Borough
+100223,99504,AK,202404,1834.49,0.0251,0.0612,Anchorage,"Anchorage, AK",Anchorage Borough
+100223,99504,AK,202405,1840.47,0.0033,0.0547,Anchorage,"Anchorage, AK",Anchorage Borough
+100223,99504,AK,202406,1868.82,0.0154,0.0524,Anchorage,"Anchorage, AK",Anchorage Borough
+100223,99504,AK,202407,1859.06,-0.0052,0.0326,Anchorage,"Anchorage, AK",Anchorage Borough
+100223,99504,AK,202408,1874.9,0.0085,0.0365,Anchorage,"Anchorage, AK",Anchorage Borough
+100223,99504,AK,202409,1869.27,-0.003,0.023,Anchorage,"Anchorage, AK",Anchorage Borough
+100223,99504,AK,202410,1879.04,0.0052,0.0383,Anchorage,"Anchorage, AK",Anchorage Borough
+100223,99504,AK,202411,1884.83,0.0031,0.0521,Anchorage,"Anchorage, AK",Anchorage Borough
+100223,99504,AK,202412,1875.17,-0.0051,0.0503,Anchorage,"Anchorage, AK",Anchorage Borough
+100223,99504,AK,202501,1878.21,0.0016,0.0571,Anchorage,"Anchorage, AK",Anchorage Borough
+100223,99504,AK,202502,1876.78,-0.0008,0.0474,Anchorage,"Anchorage, AK",Anchorage Borough
+100223,99504,AK,202503,1909.59,0.0175,0.0671,Anchorage,"Anchorage, AK",Anchorage Borough
+100223,99504,AK,202504,1907.23,-0.0012,0.0397,Anchorage,"Anchorage, AK",Anchorage Borough
+100223,99504,AK,202505,1922.74,0.0081,0.0447,Anchorage,"Anchorage, AK",Anchorage Borough
+100223,99504,AK,202506,1920.7,-0.0011,0.0278,Anchorage,"Anchorage, AK",Anchorage Borough
+100223,99504,AK,202507,1941.56,0.0109,0.0444,Anchorage,"Anchorage, AK",Anchorage Borough
+100223,99504,AK,202508,1951.68,0.0052,0.041,Anchorage,"Anchorage, AK",Anchorage Borough
+100223,99504,AK,202509,1960.68,0.0046,0.0489,Anchorage,"Anchorage, AK",Anchorage Borough
+100223,99504,AK,202510,1964.98,0.0022,0.0457,Anchorage,"Anchorage, AK",Anchorage Borough
+100223,99504,AK,202511,1976.31,0.0058,0.0485,Anchorage,"Anchorage, AK",Anchorage Borough
+100223,99504,AK,202512,1967.82,-0.0043,0.0494,Anchorage,"Anchorage, AK",Anchorage Borough
+100223,99504,AK,202601,1960.81,-0.0036,0.044,Anchorage,"Anchorage, AK",Anchorage Borough
+100223,99504,AK,202602,1947.11,-0.007,0.0375,Anchorage,"Anchorage, AK",Anchorage Borough
+100223,99504,AK,202603,1958.67,0.0059,0.0257,Anchorage,"Anchorage, AK",Anchorage Borough
+100226,99507,AK,201801,1346.66,,,Anchorage,"Anchorage, AK",Anchorage Borough
+100226,99507,AK,201802,1380.01,0.0248,,Anchorage,"Anchorage, AK",Anchorage Borough
+100226,99507,AK,201803,1366.97,-0.0095,,Anchorage,"Anchorage, AK",Anchorage Borough
+100226,99507,AK,201804,1403.33,0.0266,,Anchorage,"Anchorage, AK",Anchorage Borough
+100226,99507,AK,201805,1397.32,-0.0043,,Anchorage,"Anchorage, AK",Anchorage Borough
+100226,99507,AK,201806,1415.43,0.013,,Anchorage,"Anchorage, AK",Anchorage Borough
+100226,99507,AK,201807,1391.11,-0.0172,,Anchorage,"Anchorage, AK",Anchorage Borough
+100226,99507,AK,201808,1397.85,0.0048,,Anchorage,"Anchorage, AK",Anchorage Borough
+100226,99507,AK,201809,1395.24,-0.0019,,Anchorage,"Anchorage, AK",Anchorage Borough
+100226,99507,AK,201810,1410.66,0.0111,,Anchorage,"Anchorage, AK",Anchorage Borough
+100226,99507,AK,201811,1418.86,0.0058,,Anchorage,"Anchorage, AK",Anchorage Borough
+100226,99507,AK,201812,1414.44,-0.0031,,Anchorage,"Anchorage, AK",Anchorage Borough
+100226,99507,AK,201902,1412.3,-0.0015,0.0487,Anchorage,"Anchorage, AK",Anchorage Borough
+100226,99507,AK,201903,1423.64,0.008,0.0316,Anchorage,"Anchorage, AK",Anchorage Borough
+100226,99507,AK,201904,1424.65,0.0007,0.0422,Anchorage,"Anchorage, AK",Anchorage Borough
+100226,99507,AK,201905,1415.76,-0.0062,0.0089,Anchorage,"Anchorage, AK",Anchorage Borough
+100226,99507,AK,201906,1413.12,-0.0019,0.0113,Anchorage,"Anchorage, AK",Anchorage Borough
+100226,99507,AK,201907,1423.36,0.0072,0.0056,Anchorage,"Anchorage, AK",Anchorage Borough
+100226,99507,AK,201908,1430.95,0.0053,0.0286,Anchorage,"Anchorage, AK",Anchorage Borough
+100226,99507,AK,201909,1416.47,-0.0101,0.0133,Anchorage,"Anchorage, AK",Anchorage Borough
+100226,99507,AK,201910,1417.82,0.001,0.0162,Anchorage,"Anchorage, AK",Anchorage Borough
+100226,99507,AK,201911,1403.25,-0.0103,-0.0053,Anchorage,"Anchorage, AK",Anchorage Borough
+100226,99507,AK,201912,1428.38,0.0179,0.0067,Anchorage,"Anchorage, AK",Anchorage Borough
+100226,99507,AK,202002,1459.22,0.0216,0.0317,Anchorage,"Anchorage, AK",Anchorage Borough
+100226,99507,AK,202003,1442.54,-0.0114,0.0214,Anchorage,"Anchorage, AK",Anchorage Borough
+100226,99507,AK,202004,1414.49,-0.0194,-0.0064,Anchorage,"Anchorage, AK",Anchorage Borough
+100226,99507,AK,202005,1408.69,-0.0041,-0.0112,Anchorage,"Anchorage, AK",Anchorage Borough
+100226,99507,AK,202006,1409.43,0.0005,-0.0045,Anchorage,"Anchorage, AK",Anchorage Borough
+100226,99507,AK,202007,1422.86,0.0095,0.0069,Anchorage,"Anchorage, AK",Anchorage Borough
+100226,99507,AK,202008,1431.08,0.0058,0.0054,Anchorage,"Anchorage, AK",Anchorage Borough
+100226,99507,AK,202009,1446.08,0.0105,0.0106,Anchorage,"Anchorage, AK",Anchorage Borough
+100226,99507,AK,202010,1450.07,0.0028,0.0237,Anchorage,"Anchorage, AK",Anchorage Borough
+100226,99507,AK,202011,1464.01,0.0096,0.0326,Anchorage,"Anchorage, AK",Anchorage Borough
+100226,99507,AK,202012,1461.2,-0.0019,0.0413,Anchorage,"Anchorage, AK",Anchorage Borough
+100226,99507,AK,202101,1458.81,-0.0016,0.0213,Anchorage,"Anchorage, AK",Anchorage Borough
+100226,99507,AK,202102,1451.54,-0.005,-0.0053,Anchorage,"Anchorage, AK",Anchorage Borough
+100226,99507,AK,202103,1445.58,-0.0041,0.0021,Anchorage,"Anchorage, AK",Anchorage Borough
+100226,99507,AK,202104,1436.08,-0.0066,0.0153,Anchorage,"Anchorage, AK",Anchorage Borough
+100226,99507,AK,202105,1429.98,-0.0042,0.0151,Anchorage,"Anchorage, AK",Anchorage Borough
+100226,99507,AK,202106,1441.35,0.008,0.0226,Anchorage,"Anchorage, AK",Anchorage Borough
+100226,99507,AK,202107,1481.26,0.0277,0.041,Anchorage,"Anchorage, AK",Anchorage Borough
+100226,99507,AK,202108,1523.88,0.0288,0.0648,Anchorage,"Anchorage, AK",Anchorage Borough
+100226,99507,AK,202109,1562.95,0.0256,0.0808,Anchorage,"Anchorage, AK",Anchorage Borough
+100226,99507,AK,202110,1562.11,-0.0005,0.0773,Anchorage,"Anchorage, AK",Anchorage Borough
+100226,99507,AK,202111,1564.04,0.0012,0.0683,Anchorage,"Anchorage, AK",Anchorage Borough
+100226,99507,AK,202112,1543.41,-0.0132,0.0563,Anchorage,"Anchorage, AK",Anchorage Borough
+100226,99507,AK,202201,1554.94,0.0075,0.0659,Anchorage,"Anchorage, AK",Anchorage Borough
+100226,99507,AK,202202,1557.99,0.002,0.0733,Anchorage,"Anchorage, AK",Anchorage Borough
+100226,99507,AK,202203,1603.17,0.029,0.109,Anchorage,"Anchorage, AK",Anchorage Borough
+100226,99507,AK,202204,1643.97,0.0254,0.1448,Anchorage,"Anchorage, AK",Anchorage Borough
+100226,99507,AK,202205,1676.41,0.0197,0.1723,Anchorage,"Anchorage, AK",Anchorage Borough
+100226,99507,AK,202206,1695.97,0.0117,0.1767,Anchorage,"Anchorage, AK",Anchorage Borough
+100226,99507,AK,202207,1712.25,0.0096,0.1559,Anchorage,"Anchorage, AK",Anchorage Borough
+100226,99507,AK,202208,1733.65,0.0125,0.1377,Anchorage,"Anchorage, AK",Anchorage Borough
+100226,99507,AK,202209,1726.08,-0.0044,0.1044,Anchorage,"Anchorage, AK",Anchorage Borough
+100226,99507,AK,202210,1718.38,-0.0045,0.1,Anchorage,"Anchorage, AK",Anchorage Borough
+100226,99507,AK,202211,1723.38,0.0029,0.1019,Anchorage,"Anchorage, AK",Anchorage Borough
+100226,99507,AK,202212,1732.45,0.0053,0.1225,Anchorage,"Anchorage, AK",Anchorage Borough
+100226,99507,AK,202301,1728.07,-0.0025,0.1113,Anchorage,"Anchorage, AK",Anchorage Borough
+100226,99507,AK,202302,1725.11,-0.0017,0.1073,Anchorage,"Anchorage, AK",Anchorage Borough
+100226,99507,AK,202303,1717.28,-0.0045,0.0712,Anchorage,"Anchorage, AK",Anchorage Borough
+100226,99507,AK,202304,1723.76,0.0038,0.0485,Anchorage,"Anchorage, AK",Anchorage Borough
+100226,99507,AK,202305,1728.21,0.0026,0.0309,Anchorage,"Anchorage, AK",Anchorage Borough
+100226,99507,AK,202306,1759.07,0.0179,0.0372,Anchorage,"Anchorage, AK",Anchorage Borough
+100226,99507,AK,202307,1804.37,0.0258,0.0538,Anchorage,"Anchorage, AK",Anchorage Borough
+100226,99507,AK,202308,1832.57,0.0156,0.0571,Anchorage,"Anchorage, AK",Anchorage Borough
+100226,99507,AK,202309,1840.53,0.0043,0.0663,Anchorage,"Anchorage, AK",Anchorage Borough
+100226,99507,AK,202310,1831.59,-0.0049,0.0659,Anchorage,"Anchorage, AK",Anchorage Borough
+100226,99507,AK,202311,1820.19,-0.0062,0.0562,Anchorage,"Anchorage, AK",Anchorage Borough
+100226,99507,AK,202312,1819.82,-0.0002,0.0504,Anchorage,"Anchorage, AK",Anchorage Borough
+100226,99507,AK,202401,1831.43,0.0064,0.0598,Anchorage,"Anchorage, AK",Anchorage Borough
+100226,99507,AK,202402,1838.76,0.004,0.0659,Anchorage,"Anchorage, AK",Anchorage Borough
+100226,99507,AK,202403,1846.23,0.0041,0.0751,Anchorage,"Anchorage, AK",Anchorage Borough
+100226,99507,AK,202404,1845.57,-0.0004,0.0707,Anchorage,"Anchorage, AK",Anchorage Borough
+100226,99507,AK,202405,1858.85,0.0072,0.0756,Anchorage,"Anchorage, AK",Anchorage Borough
+100226,99507,AK,202406,1868.05,0.005,0.062,Anchorage,"Anchorage, AK",Anchorage Borough
+100226,99507,AK,202407,1869.53,0.0008,0.0361,Anchorage,"Anchorage, AK",Anchorage Borough
+100226,99507,AK,202408,1874.43,0.0026,0.0228,Anchorage,"Anchorage, AK",Anchorage Borough
+100226,99507,AK,202409,1870.62,-0.002,0.0163,Anchorage,"Anchorage, AK",Anchorage Borough
+100226,99507,AK,202410,1876.76,0.0033,0.0247,Anchorage,"Anchorage, AK",Anchorage Borough
+100226,99507,AK,202411,1864.0,-0.0068,0.0241,Anchorage,"Anchorage, AK",Anchorage Borough
+100226,99507,AK,202412,1862.26,-0.0009,0.0233,Anchorage,"Anchorage, AK",Anchorage Borough
+100226,99507,AK,202501,1841.32,-0.0112,0.0054,Anchorage,"Anchorage, AK",Anchorage Borough
+100226,99507,AK,202502,1854.46,0.0071,0.0085,Anchorage,"Anchorage, AK",Anchorage Borough
+100226,99507,AK,202503,1867.64,0.0071,0.0116,Anchorage,"Anchorage, AK",Anchorage Borough
+100226,99507,AK,202504,1902.84,0.0188,0.031,Anchorage,"Anchorage, AK",Anchorage Borough
+100226,99507,AK,202505,1914.28,0.006,0.0298,Anchorage,"Anchorage, AK",Anchorage Borough
+100226,99507,AK,202506,1914.67,0.0002,0.025,Anchorage,"Anchorage, AK",Anchorage Borough
+100226,99507,AK,202507,1920.08,0.0028,0.027,Anchorage,"Anchorage, AK",Anchorage Borough
+100226,99507,AK,202508,1948.26,0.0147,0.0394,Anchorage,"Anchorage, AK",Anchorage Borough
+100226,99507,AK,202509,1976.4,0.0144,0.0565,Anchorage,"Anchorage, AK",Anchorage Borough
+100226,99507,AK,202510,1985.18,0.0044,0.0578,Anchorage,"Anchorage, AK",Anchorage Borough
+100226,99507,AK,202511,1969.27,-0.008,0.0565,Anchorage,"Anchorage, AK",Anchorage Borough
+100226,99507,AK,202512,1983.68,0.0073,0.0652,Anchorage,"Anchorage, AK",Anchorage Borough
+100226,99507,AK,202601,1976.75,-0.0035,0.0736,Anchorage,"Anchorage, AK",Anchorage Borough
+100226,99507,AK,202602,2011.71,0.0177,0.0848,Anchorage,"Anchorage, AK",Anchorage Borough
+100226,99507,AK,202603,1986.23,-0.0127,0.0635,Anchorage,"Anchorage, AK",Anchorage Borough
+100227,99508,AK,201610,1002.6,,,Anchorage,"Anchorage, AK",Anchorage Borough
+100227,99508,AK,201611,992.91,-0.0097,,Anchorage,"Anchorage, AK",Anchorage Borough
+100227,99508,AK,201612,992.96,0.0,,Anchorage,"Anchorage, AK",Anchorage Borough
+100227,99508,AK,201701,995.31,0.0024,,Anchorage,"Anchorage, AK",Anchorage Borough
+100227,99508,AK,201702,1004.04,0.0088,,Anchorage,"Anchorage, AK",Anchorage Borough
+100227,99508,AK,201703,1012.37,0.0083,,Anchorage,"Anchorage, AK",Anchorage Borough
+100227,99508,AK,201704,1018.03,0.0056,,Anchorage,"Anchorage, AK",Anchorage Borough
+100227,99508,AK,201705,1019.97,0.0019,,Anchorage,"Anchorage, AK",Anchorage Borough
+100227,99508,AK,201706,1007.18,-0.0125,,Anchorage,"Anchorage, AK",Anchorage Borough
+100227,99508,AK,201707,1004.98,-0.0022,,Anchorage,"Anchorage, AK",Anchorage Borough
+100227,99508,AK,201708,1002.1,-0.0029,,Anchorage,"Anchorage, AK",Anchorage Borough
+100227,99508,AK,201709,1004.33,0.0022,,Anchorage,"Anchorage, AK",Anchorage Borough
+100227,99508,AK,201710,1010.05,0.0057,0.0074,Anchorage,"Anchorage, AK",Anchorage Borough
+100227,99508,AK,201711,1009.91,-0.0001,0.0171,Anchorage,"Anchorage, AK",Anchorage Borough
+100227,99508,AK,201712,1013.17,0.0032,0.0204,Anchorage,"Anchorage, AK",Anchorage Borough
+100227,99508,AK,201801,1003.25,-0.0098,0.008,Anchorage,"Anchorage, AK",Anchorage Borough
+100227,99508,AK,201802,1004.16,0.0009,0.0001,Anchorage,"Anchorage, AK",Anchorage Borough
+100227,99508,AK,201803,998.93,-0.0052,-0.0133,Anchorage,"Anchorage, AK",Anchorage Borough
+100227,99508,AK,201804,999.56,0.0006,-0.0181,Anchorage,"Anchorage, AK",Anchorage Borough
+100227,99508,AK,201805,1007.79,0.0082,-0.0119,Anchorage,"Anchorage, AK",Anchorage Borough
+100227,99508,AK,201806,1023.2,0.0153,0.0159,Anchorage,"Anchorage, AK",Anchorage Borough
+100227,99508,AK,201807,1033.87,0.0104,0.0287,Anchorage,"Anchorage, AK",Anchorage Borough
+100227,99508,AK,201808,1032.47,-0.0014,0.0303,Anchorage,"Anchorage, AK",Anchorage Borough
+100227,99508,AK,201809,1029.38,-0.003,0.0249,Anchorage,"Anchorage, AK",Anchorage Borough
+100227,99508,AK,201810,1021.7,-0.0075,0.0115,Anchorage,"Anchorage, AK",Anchorage Borough
+100227,99508,AK,201811,993.59,-0.0275,-0.0162,Anchorage,"Anchorage, AK",Anchorage Borough
+100227,99508,AK,201812,997.44,0.0039,-0.0155,Anchorage,"Anchorage, AK",Anchorage Borough
+100227,99508,AK,201901,1000.15,0.0027,-0.0031,Anchorage,"Anchorage, AK",Anchorage Borough
+100227,99508,AK,201902,1035.93,0.0358,0.0316,Anchorage,"Anchorage, AK",Anchorage Borough
+100227,99508,AK,201903,1036.55,0.0006,0.0377,Anchorage,"Anchorage, AK",Anchorage Borough
+100227,99508,AK,201904,1044.0,0.0072,0.0445,Anchorage,"Anchorage, AK",Anchorage Borough
+100227,99508,AK,201905,1031.77,-0.0117,0.0238,Anchorage,"Anchorage, AK",Anchorage Borough
+100227,99508,AK,201906,1035.54,0.0037,0.0121,Anchorage,"Anchorage, AK",Anchorage Borough
+100227,99508,AK,201907,1035.87,0.0003,0.0019,Anchorage,"Anchorage, AK",Anchorage Borough
+100227,99508,AK,201908,1043.21,0.0071,0.0104,Anchorage,"Anchorage, AK",Anchorage Borough
+100227,99508,AK,201909,1035.94,-0.007,0.0064,Anchorage,"Anchorage, AK",Anchorage Borough
+100227,99508,AK,201910,1031.91,-0.0039,0.01,Anchorage,"Anchorage, AK",Anchorage Borough
+100227,99508,AK,201911,1027.93,-0.0039,0.0346,Anchorage,"Anchorage, AK",Anchorage Borough
+100227,99508,AK,201912,1035.23,0.0071,0.0379,Anchorage,"Anchorage, AK",Anchorage Borough
+100227,99508,AK,202001,1052.96,0.0171,0.0528,Anchorage,"Anchorage, AK",Anchorage Borough
+100227,99508,AK,202002,1058.83,0.0056,0.0221,Anchorage,"Anchorage, AK",Anchorage Borough
+100227,99508,AK,202003,1067.68,0.0084,0.03,Anchorage,"Anchorage, AK",Anchorage Borough
+100227,99508,AK,202004,1062.56,-0.0048,0.0178,Anchorage,"Anchorage, AK",Anchorage Borough
+100227,99508,AK,202005,1074.89,0.0116,0.0418,Anchorage,"Anchorage, AK",Anchorage Borough
+100227,99508,AK,202006,1072.99,-0.0018,0.0362,Anchorage,"Anchorage, AK",Anchorage Borough
+100227,99508,AK,202007,1075.35,0.0022,0.0381,Anchorage,"Anchorage, AK",Anchorage Borough
+100227,99508,AK,202008,1075.9,0.0005,0.0313,Anchorage,"Anchorage, AK",Anchorage Borough
+100227,99508,AK,202009,1081.8,0.0055,0.0443,Anchorage,"Anchorage, AK",Anchorage Borough
+100227,99508,AK,202010,1083.29,0.0014,0.0498,Anchorage,"Anchorage, AK",Anchorage Borough
+100227,99508,AK,202011,1100.18,0.0156,0.0703,Anchorage,"Anchorage, AK",Anchorage Borough
+100227,99508,AK,202012,1101.13,0.0009,0.0637,Anchorage,"Anchorage, AK",Anchorage Borough
+100227,99508,AK,202101,1096.33,-0.0044,0.0412,Anchorage,"Anchorage, AK",Anchorage Borough
+100227,99508,AK,202102,1050.43,-0.0419,-0.0079,Anchorage,"Anchorage, AK",Anchorage Borough
+100227,99508,AK,202103,1062.55,0.0115,-0.0048,Anchorage,"Anchorage, AK",Anchorage Borough
+100227,99508,AK,202104,1071.09,0.008,0.008,Anchorage,"Anchorage, AK",Anchorage Borough
+100227,99508,AK,202105,1121.7,0.0473,0.0435,Anchorage,"Anchorage, AK",Anchorage Borough
+100227,99508,AK,202106,1131.8,0.009,0.0548,Anchorage,"Anchorage, AK",Anchorage Borough
+100227,99508,AK,202107,1161.43,0.0262,0.08,Anchorage,"Anchorage, AK",Anchorage Borough
+100227,99508,AK,202108,1157.47,-0.0034,0.0758,Anchorage,"Anchorage, AK",Anchorage Borough
+100227,99508,AK,202109,1180.49,0.0199,0.0912,Anchorage,"Anchorage, AK",Anchorage Borough
+100227,99508,AK,202110,1194.51,0.0119,0.1027,Anchorage,"Anchorage, AK",Anchorage Borough
+100227,99508,AK,202111,1210.47,0.0134,0.1002,Anchorage,"Anchorage, AK",Anchorage Borough
+100227,99508,AK,202112,1196.62,-0.0114,0.0867,Anchorage,"Anchorage, AK",Anchorage Borough
+100227,99508,AK,202201,1180.47,-0.0135,0.0768,Anchorage,"Anchorage, AK",Anchorage Borough
+100227,99508,AK,202202,1185.77,0.0045,0.1288,Anchorage,"Anchorage, AK",Anchorage Borough
+100227,99508,AK,202203,1207.7,0.0185,0.1366,Anchorage,"Anchorage, AK",Anchorage Borough
+100227,99508,AK,202204,1236.66,0.024,0.1546,Anchorage,"Anchorage, AK",Anchorage Borough
+100227,99508,AK,202205,1250.52,0.0112,0.1148,Anchorage,"Anchorage, AK",Anchorage Borough
+100227,99508,AK,202206,1277.2,0.0213,0.1285,Anchorage,"Anchorage, AK",Anchorage Borough
+100227,99508,AK,202207,1317.68,0.0317,0.1345,Anchorage,"Anchorage, AK",Anchorage Borough
+100227,99508,AK,202208,1362.61,0.0341,0.1772,Anchorage,"Anchorage, AK",Anchorage Borough
+100227,99508,AK,202209,1341.38,-0.0156,0.1363,Anchorage,"Anchorage, AK",Anchorage Borough
+100227,99508,AK,202210,1338.11,-0.0024,0.1202,Anchorage,"Anchorage, AK",Anchorage Borough
+100227,99508,AK,202211,1322.89,-0.0114,0.0929,Anchorage,"Anchorage, AK",Anchorage Borough
+100227,99508,AK,202212,1347.63,0.0187,0.1262,Anchorage,"Anchorage, AK",Anchorage Borough
+100227,99508,AK,202301,1330.05,-0.013,0.1267,Anchorage,"Anchorage, AK",Anchorage Borough
+100227,99508,AK,202302,1338.59,0.0064,0.1289,Anchorage,"Anchorage, AK",Anchorage Borough
+100227,99508,AK,202303,1368.03,0.022,0.1328,Anchorage,"Anchorage, AK",Anchorage Borough
+100227,99508,AK,202304,1367.96,-0.0001,0.1062,Anchorage,"Anchorage, AK",Anchorage Borough
+100227,99508,AK,202305,1378.19,0.0075,0.1021,Anchorage,"Anchorage, AK",Anchorage Borough
+100227,99508,AK,202306,1354.58,-0.0171,0.0606,Anchorage,"Anchorage, AK",Anchorage Borough
+100227,99508,AK,202307,1390.84,0.0268,0.0555,Anchorage,"Anchorage, AK",Anchorage Borough
+100227,99508,AK,202308,1414.7,0.0172,0.0382,Anchorage,"Anchorage, AK",Anchorage Borough
+100227,99508,AK,202309,1433.94,0.0136,0.069,Anchorage,"Anchorage, AK",Anchorage Borough
+100227,99508,AK,202310,1448.49,0.0101,0.0825,Anchorage,"Anchorage, AK",Anchorage Borough
+100227,99508,AK,202311,1439.76,-0.006,0.0883,Anchorage,"Anchorage, AK",Anchorage Borough
+100227,99508,AK,202312,1439.47,-0.0002,0.0681,Anchorage,"Anchorage, AK",Anchorage Borough
+100227,99508,AK,202401,1419.2,-0.0141,0.067,Anchorage,"Anchorage, AK",Anchorage Borough
+100227,99508,AK,202402,1420.37,0.0008,0.0611,Anchorage,"Anchorage, AK",Anchorage Borough
+100227,99508,AK,202403,1422.92,0.0018,0.0401,Anchorage,"Anchorage, AK",Anchorage Borough
+100227,99508,AK,202404,1434.29,0.008,0.0485,Anchorage,"Anchorage, AK",Anchorage Borough
+100227,99508,AK,202405,1443.93,0.0067,0.0477,Anchorage,"Anchorage, AK",Anchorage Borough
+100227,99508,AK,202406,1476.39,0.0225,0.0899,Anchorage,"Anchorage, AK",Anchorage Borough
+100227,99508,AK,202407,1484.62,0.0056,0.0674,Anchorage,"Anchorage, AK",Anchorage Borough
+100227,99508,AK,202408,1496.3,0.0079,0.0577,Anchorage,"Anchorage, AK",Anchorage Borough
+100227,99508,AK,202409,1498.0,0.0011,0.0447,Anchorage,"Anchorage, AK",Anchorage Borough
+100227,99508,AK,202410,1498.44,0.0003,0.0345,Anchorage,"Anchorage, AK",Anchorage Borough
+100227,99508,AK,202411,1493.97,-0.003,0.0377,Anchorage,"Anchorage, AK",Anchorage Borough
+100227,99508,AK,202412,1473.27,-0.0139,0.0235,Anchorage,"Anchorage, AK",Anchorage Borough
+100227,99508,AK,202501,1479.74,0.0044,0.0427,Anchorage,"Anchorage, AK",Anchorage Borough
+100227,99508,AK,202502,1486.71,0.0047,0.0467,Anchorage,"Anchorage, AK",Anchorage Borough
+100227,99508,AK,202503,1494.3,0.0051,0.0502,Anchorage,"Anchorage, AK",Anchorage Borough
+100227,99508,AK,202504,1494.76,0.0003,0.0422,Anchorage,"Anchorage, AK",Anchorage Borough
+100227,99508,AK,202505,1501.66,0.0046,0.04,Anchorage,"Anchorage, AK",Anchorage Borough
+100227,99508,AK,202506,1513.75,0.0081,0.0253,Anchorage,"Anchorage, AK",Anchorage Borough
+100227,99508,AK,202507,1524.78,0.0073,0.0271,Anchorage,"Anchorage, AK",Anchorage Borough
+100227,99508,AK,202508,1543.51,0.0123,0.0316,Anchorage,"Anchorage, AK",Anchorage Borough
+100227,99508,AK,202509,1561.51,0.0117,0.0424,Anchorage,"Anchorage, AK",Anchorage Borough
+100227,99508,AK,202510,1563.26,0.0011,0.0433,Anchorage,"Anchorage, AK",Anchorage Borough
+100227,99508,AK,202511,1550.81,-0.008,0.038,Anchorage,"Anchorage, AK",Anchorage Borough
+100227,99508,AK,202512,1528.9,-0.0141,0.0378,Anchorage,"Anchorage, AK",Anchorage Borough
+100227,99508,AK,202601,1537.44,0.0056,0.039,Anchorage,"Anchorage, AK",Anchorage Borough
+100227,99508,AK,202602,1543.15,0.0037,0.038,Anchorage,"Anchorage, AK",Anchorage Borough
+100227,99508,AK,202603,1567.28,0.0156,0.0488,Anchorage,"Anchorage, AK",Anchorage Borough
+100233,99515,AK,202312,1837.55,,,Anchorage,"Anchorage, AK",Anchorage Borough
+100233,99515,AK,202401,1812.88,-0.0134,,Anchorage,"Anchorage, AK",Anchorage Borough
+100233,99515,AK,202402,1831.41,0.0102,,Anchorage,"Anchorage, AK",Anchorage Borough
+100233,99515,AK,202403,1817.94,-0.0074,,Anchorage,"Anchorage, AK",Anchorage Borough
+100233,99515,AK,202404,1849.36,0.0173,,Anchorage,"Anchorage, AK",Anchorage Borough
+100233,99515,AK,202405,1828.68,-0.0112,,Anchorage,"Anchorage, AK",Anchorage Borough
+100233,99515,AK,202406,1858.01,0.016,,Anchorage,"Anchorage, AK",Anchorage Borough
+100233,99515,AK,202407,1878.75,0.0112,,Anchorage,"Anchorage, AK",Anchorage Borough
+100233,99515,AK,202408,1917.68,0.0207,,Anchorage,"Anchorage, AK",Anchorage Borough
+100233,99515,AK,202409,1938.02,0.0106,,Anchorage,"Anchorage, AK",Anchorage Borough
+100233,99515,AK,202410,1930.88,-0.0037,,Anchorage,"Anchorage, AK",Anchorage Borough
+100233,99515,AK,202411,1929.34,-0.0008,,Anchorage,"Anchorage, AK",Anchorage Borough
+100233,99515,AK,202412,1914.49,-0.0077,0.0419,Anchorage,"Anchorage, AK",Anchorage Borough
+100233,99515,AK,202503,1966.52,0.0272,0.0847,Anchorage,"Anchorage, AK",Anchorage Borough
+100233,99515,AK,202504,1988.33,0.0111,0.0857,Anchorage,"Anchorage, AK",Anchorage Borough
+100233,99515,AK,202505,1995.32,0.0035,0.0976,Anchorage,"Anchorage, AK",Anchorage Borough
+100233,99515,AK,202506,1967.41,-0.014,0.0638,Anchorage,"Anchorage, AK",Anchorage Borough
+100233,99515,AK,202507,1949.86,-0.0089,0.0663,Anchorage,"Anchorage, AK",Anchorage Borough
+100233,99515,AK,202508,1970.86,0.0108,0.0607,Anchorage,"Anchorage, AK",Anchorage Borough
+100233,99515,AK,202509,1996.15,0.0128,0.0625,Anchorage,"Anchorage, AK",Anchorage Borough
+100233,99515,AK,202510,2043.04,0.0235,0.0654,Anchorage,"Anchorage, AK",Anchorage Borough
+100233,99515,AK,202511,2042.53,-0.0002,0.0539,Anchorage,"Anchorage, AK",Anchorage Borough
+100233,99515,AK,202512,2079.53,0.0181,0.077,Anchorage,"Anchorage, AK",Anchorage Borough
+100233,99515,AK,202601,2020.44,-0.0284,0.0472,Anchorage,"Anchorage, AK",Anchorage Borough
+100233,99515,AK,202602,2064.33,0.0217,0.0783,Anchorage,"Anchorage, AK",Anchorage Borough
+100233,99515,AK,202603,2038.33,-0.0126,0.0365,Anchorage,"Anchorage, AK",Anchorage Borough
+100235,99517,AK,202109,1254.35,,,Anchorage,"Anchorage, AK",Anchorage Borough
+100235,99517,AK,202110,1236.35,-0.0144,,Anchorage,"Anchorage, AK",Anchorage Borough
+100235,99517,AK,202111,1232.82,-0.0029,,Anchorage,"Anchorage, AK",Anchorage Borough
+100235,99517,AK,202112,1238.44,0.0046,,Anchorage,"Anchorage, AK",Anchorage Borough
+100235,99517,AK,202201,1265.73,0.022,,Anchorage,"Anchorage, AK",Anchorage Borough
+100235,99517,AK,202202,1269.98,0.0034,,Anchorage,"Anchorage, AK",Anchorage Borough
+100235,99517,AK,202203,1292.3,0.0176,,Anchorage,"Anchorage, AK",Anchorage Borough
+100235,99517,AK,202204,1310.97,0.0144,,Anchorage,"Anchorage, AK",Anchorage Borough
+100235,99517,AK,202205,1347.88,0.0281,,Anchorage,"Anchorage, AK",Anchorage Borough
+100235,99517,AK,202206,1360.7,0.0095,,Anchorage,"Anchorage, AK",Anchorage Borough
+100235,99517,AK,202207,1381.04,0.0149,,Anchorage,"Anchorage, AK",Anchorage Borough
+100235,99517,AK,202208,1364.89,-0.0117,,Anchorage,"Anchorage, AK",Anchorage Borough
+100235,99517,AK,202209,1395.13,0.0222,0.1122,Anchorage,"Anchorage, AK",Anchorage Borough
+100235,99517,AK,202210,1392.19,-0.0021,0.126,Anchorage,"Anchorage, AK",Anchorage Borough
+100235,99517,AK,202211,1410.73,0.0133,0.1443,Anchorage,"Anchorage, AK",Anchorage Borough
+100235,99517,AK,202212,1383.93,-0.019,0.1175,Anchorage,"Anchorage, AK",Anchorage Borough
+100235,99517,AK,202301,1391.5,0.0055,0.0994,Anchorage,"Anchorage, AK",Anchorage Borough
+100235,99517,AK,202302,1383.29,-0.0059,0.0892,Anchorage,"Anchorage, AK",Anchorage Borough
+100235,99517,AK,202303,1381.26,-0.0015,0.0688,Anchorage,"Anchorage, AK",Anchorage Borough
+100235,99517,AK,202304,1408.94,0.02,0.0747,Anchorage,"Anchorage, AK",Anchorage Borough
+100235,99517,AK,202305,1449.01,0.0284,0.075,Anchorage,"Anchorage, AK",Anchorage Borough
+100235,99517,AK,202306,1477.0,0.0193,0.0855,Anchorage,"Anchorage, AK",Anchorage Borough
+100235,99517,AK,202307,1459.35,-0.012,0.0567,Anchorage,"Anchorage, AK",Anchorage Borough
+100235,99517,AK,202308,1460.79,0.001,0.0703,Anchorage,"Anchorage, AK",Anchorage Borough
+100235,99517,AK,202309,1468.08,0.005,0.0523,Anchorage,"Anchorage, AK",Anchorage Borough
+100235,99517,AK,202310,1483.26,0.0103,0.0654,Anchorage,"Anchorage, AK",Anchorage Borough
+100235,99517,AK,202311,1495.67,0.0084,0.0602,Anchorage,"Anchorage, AK",Anchorage Borough
+100235,99517,AK,202312,1474.03,-0.0145,0.0651,Anchorage,"Anchorage, AK",Anchorage Borough
+100235,99517,AK,202401,1459.06,-0.0102,0.0485,Anchorage,"Anchorage, AK",Anchorage Borough
+100235,99517,AK,202402,1436.15,-0.0157,0.0382,Anchorage,"Anchorage, AK",Anchorage Borough
+100235,99517,AK,202403,1476.06,0.0278,0.0686,Anchorage,"Anchorage, AK",Anchorage Borough
+100235,99517,AK,202404,1528.82,0.0357,0.0851,Anchorage,"Anchorage, AK",Anchorage Borough
+100235,99517,AK,202405,1542.76,0.0091,0.0647,Anchorage,"Anchorage, AK",Anchorage Borough
+100235,99517,AK,202406,1555.32,0.0081,0.053,Anchorage,"Anchorage, AK",Anchorage Borough
+100235,99517,AK,202407,1543.69,-0.0075,0.0578,Anchorage,"Anchorage, AK",Anchorage Borough
+100235,99517,AK,202408,1557.84,0.0092,0.0664,Anchorage,"Anchorage, AK",Anchorage Borough
+100235,99517,AK,202409,1547.67,-0.0065,0.0542,Anchorage,"Anchorage, AK",Anchorage Borough
+100235,99517,AK,202410,1543.17,-0.0029,0.0404,Anchorage,"Anchorage, AK",Anchorage Borough
+100235,99517,AK,202411,1527.14,-0.0104,0.021,Anchorage,"Anchorage, AK",Anchorage Borough
+100235,99517,AK,202412,1564.97,0.0248,0.0617,Anchorage,"Anchorage, AK",Anchorage Borough
+100235,99517,AK,202501,1585.37,0.013,0.0866,Anchorage,"Anchorage, AK",Anchorage Borough
+100235,99517,AK,202502,1597.88,0.0079,0.1126,Anchorage,"Anchorage, AK",Anchorage Borough
+100235,99517,AK,202503,1579.2,-0.0117,0.0699,Anchorage,"Anchorage, AK",Anchorage Borough
+100235,99517,AK,202504,1560.58,-0.0118,0.0208,Anchorage,"Anchorage, AK",Anchorage Borough
+100235,99517,AK,202505,1586.95,0.0169,0.0286,Anchorage,"Anchorage, AK",Anchorage Borough
+100235,99517,AK,202506,1578.81,-0.0051,0.0151,Anchorage,"Anchorage, AK",Anchorage Borough
+100235,99517,AK,202507,1608.64,0.0189,0.0421,Anchorage,"Anchorage, AK",Anchorage Borough
+100235,99517,AK,202508,1607.78,-0.0005,0.0321,Anchorage,"Anchorage, AK",Anchorage Borough
+100235,99517,AK,202509,1621.11,0.0083,0.0474,Anchorage,"Anchorage, AK",Anchorage Borough
+100235,99517,AK,202510,1617.43,-0.0023,0.0481,Anchorage,"Anchorage, AK",Anchorage Borough
+100235,99517,AK,202511,1629.31,0.0073,0.0669,Anchorage,"Anchorage, AK",Anchorage Borough
+100235,99517,AK,202512,1603.06,-0.0161,0.0243,Anchorage,"Anchorage, AK",Anchorage Borough
+100235,99517,AK,202601,1625.1,0.0137,0.0251,Anchorage,"Anchorage, AK",Anchorage Borough
+100235,99517,AK,202602,1623.03,-0.0013,0.0157,Anchorage,"Anchorage, AK",Anchorage Borough
+100235,99517,AK,202603,1631.38,0.0051,0.033,Anchorage,"Anchorage, AK",Anchorage Borough
+100236,99518,AK,202602,1703.58,,,Anchorage,"Anchorage, AK",Anchorage Borough
+100236,99518,AK,202603,1730.0,0.0155,,Anchorage,"Anchorage, AK",Anchorage Borough
+100274,99577,AK,201602,1513.14,,,Eagle River,"Anchorage, AK",Anchorage Borough
+100274,99577,AK,201603,1516.5,0.0022,,Eagle River,"Anchorage, AK",Anchorage Borough
+100274,99577,AK,201604,1518.08,0.001,,Eagle River,"Anchorage, AK",Anchorage Borough
+100274,99577,AK,201605,1512.22,-0.0039,,Eagle River,"Anchorage, AK",Anchorage Borough
+100274,99577,AK,201606,1505.61,-0.0044,,Eagle River,"Anchorage, AK",Anchorage Borough
+100274,99577,AK,201607,1508.58,0.002,,Eagle River,"Anchorage, AK",Anchorage Borough
+100274,99577,AK,201608,1499.45,-0.006,,Eagle River,"Anchorage, AK",Anchorage Borough
+100274,99577,AK,201609,1503.28,0.0025,,Eagle River,"Anchorage, AK",Anchorage Borough
+100274,99577,AK,201610,1486.35,-0.0113,,Eagle River,"Anchorage, AK",Anchorage Borough
+100274,99577,AK,201611,1473.24,-0.0088,,Eagle River,"Anchorage, AK",Anchorage Borough
+100274,99577,AK,201612,1451.59,-0.0147,,Eagle River,"Anchorage, AK",Anchorage Borough
+100274,99577,AK,201701,1457.87,0.0043,,Eagle River,"Anchorage, AK",Anchorage Borough
+100274,99577,AK,201702,1476.47,0.0128,-0.0242,Eagle River,"Anchorage, AK",Anchorage Borough
+100274,99577,AK,201703,1482.93,0.0044,-0.0221,Eagle River,"Anchorage, AK",Anchorage Borough
+100274,99577,AK,201704,1494.88,0.0081,-0.0153,Eagle River,"Anchorage, AK",Anchorage Borough
+100274,99577,AK,201705,1496.65,0.0012,-0.0103,Eagle River,"Anchorage, AK",Anchorage Borough
+100274,99577,AK,201706,1512.5,0.0106,0.0046,Eagle River,"Anchorage, AK",Anchorage Borough
+100274,99577,AK,201707,1510.94,-0.001,0.0016,Eagle River,"Anchorage, AK",Anchorage Borough
+100274,99577,AK,201708,1508.52,-0.0016,0.006,Eagle River,"Anchorage, AK",Anchorage Borough
+100274,99577,AK,201709,1491.96,-0.011,-0.0075,Eagle River,"Anchorage, AK",Anchorage Borough
+100274,99577,AK,201710,1481.23,-0.0072,-0.0034,Eagle River,"Anchorage, AK",Anchorage Borough
+100274,99577,AK,201711,1480.12,-0.0008,0.0047,Eagle River,"Anchorage, AK",Anchorage Borough
+100274,99577,AK,201712,1483.57,0.0023,0.022,Eagle River,"Anchorage, AK",Anchorage Borough
+100274,99577,AK,201801,1491.36,0.0053,0.023,Eagle River,"Anchorage, AK",Anchorage Borough
+100274,99577,AK,201802,1489.29,-0.0014,0.0087,Eagle River,"Anchorage, AK",Anchorage Borough
+100274,99577,AK,201803,1504.11,0.01,0.0143,Eagle River,"Anchorage, AK",Anchorage Borough
+100274,99577,AK,201804,1504.84,0.0005,0.0067,Eagle River,"Anchorage, AK",Anchorage Borough
+100274,99577,AK,201805,1525.78,0.0139,0.0195,Eagle River,"Anchorage, AK",Anchorage Borough
+100274,99577,AK,201806,1526.71,0.0006,0.0094,Eagle River,"Anchorage, AK",Anchorage Borough
+100274,99577,AK,201807,1541.98,0.01,0.0205,Eagle River,"Anchorage, AK",Anchorage Borough
+100274,99577,AK,201808,1528.12,-0.009,0.013,Eagle River,"Anchorage, AK",Anchorage Borough
+100274,99577,AK,201809,1527.42,-0.0005,0.0238,Eagle River,"Anchorage, AK",Anchorage Borough
+100274,99577,AK,201810,1503.94,-0.0154,0.0153,Eagle River,"Anchorage, AK",Anchorage Borough
+100274,99577,AK,201811,1497.98,-0.004,0.0121,Eagle River,"Anchorage, AK",Anchorage Borough
+100274,99577,AK,201901,1493.71,-0.0029,0.0068,Eagle River,"Anchorage, AK",Anchorage Borough
+100274,99577,AK,201902,1497.65,0.0026,0.0042,Eagle River,"Anchorage, AK",Anchorage Borough
+100274,99577,AK,201903,1515.56,0.012,0.0176,Eagle River,"Anchorage, AK",Anchorage Borough
+100274,99577,AK,201904,1531.73,0.0107,0.0184,Eagle River,"Anchorage, AK",Anchorage Borough
+100274,99577,AK,201905,1540.71,0.0059,0.0238,Eagle River,"Anchorage, AK",Anchorage Borough
+100274,99577,AK,201906,1548.74,0.0052,0.015,Eagle River,"Anchorage, AK",Anchorage Borough
+100274,99577,AK,201907,1545.68,-0.002,0.0124,Eagle River,"Anchorage, AK",Anchorage Borough
+100274,99577,AK,201908,1541.96,-0.0024,-0.0,Eagle River,"Anchorage, AK",Anchorage Borough
+100274,99577,AK,201909,1532.0,-0.0065,0.0025,Eagle River,"Anchorage, AK",Anchorage Borough
+100274,99577,AK,201910,1520.48,-0.0075,-0.0045,Eagle River,"Anchorage, AK",Anchorage Borough
+100274,99577,AK,201911,1509.92,-0.0069,0.004,Eagle River,"Anchorage, AK",Anchorage Borough
+100274,99577,AK,201912,1509.06,-0.0006,0.0074,Eagle River,"Anchorage, AK",Anchorage Borough
+100274,99577,AK,202001,1510.28,0.0008,0.0111,Eagle River,"Anchorage, AK",Anchorage Borough
+100274,99577,AK,202002,1527.01,0.0111,0.0196,Eagle River,"Anchorage, AK",Anchorage Borough
+100274,99577,AK,202003,1536.91,0.0065,0.0141,Eagle River,"Anchorage, AK",Anchorage Borough
+100274,99577,AK,202004,1556.2,0.0125,0.016,Eagle River,"Anchorage, AK",Anchorage Borough
+100274,99577,AK,202005,1562.24,0.0039,0.014,Eagle River,"Anchorage, AK",Anchorage Borough
+100274,99577,AK,202006,1573.74,0.0074,0.0161,Eagle River,"Anchorage, AK",Anchorage Borough
+100274,99577,AK,202007,1577.22,0.0022,0.0204,Eagle River,"Anchorage, AK",Anchorage Borough
+100274,99577,AK,202008,1591.95,0.0093,0.0324,Eagle River,"Anchorage, AK",Anchorage Borough
+100274,99577,AK,202009,1584.96,-0.0044,0.0346,Eagle River,"Anchorage, AK",Anchorage Borough
+100274,99577,AK,202010,1575.29,-0.0061,0.036,Eagle River,"Anchorage, AK",Anchorage Borough
+100274,99577,AK,202011,1561.61,-0.0087,0.0342,Eagle River,"Anchorage, AK",Anchorage Borough
+100274,99577,AK,202012,1559.23,-0.0015,0.0333,Eagle River,"Anchorage, AK",Anchorage Borough
+100274,99577,AK,202101,1567.82,0.0055,0.0381,Eagle River,"Anchorage, AK",Anchorage Borough
+100274,99577,AK,202102,1582.37,0.0093,0.0363,Eagle River,"Anchorage, AK",Anchorage Borough
+100274,99577,AK,202103,1587.09,0.003,0.0326,Eagle River,"Anchorage, AK",Anchorage Borough
+100274,99577,AK,202104,1606.12,0.012,0.0321,Eagle River,"Anchorage, AK",Anchorage Borough
+100274,99577,AK,202105,1620.53,0.009,0.0373,Eagle River,"Anchorage, AK",Anchorage Borough
+100274,99577,AK,202106,1629.81,0.0057,0.0356,Eagle River,"Anchorage, AK",Anchorage Borough
+100274,99577,AK,202107,1635.75,0.0036,0.0371,Eagle River,"Anchorage, AK",Anchorage Borough
+100274,99577,AK,202108,1638.29,0.0016,0.0291,Eagle River,"Anchorage, AK",Anchorage Borough
+100274,99577,AK,202110,1736.92,0.0602,0.0959,Eagle River,"Anchorage, AK",Anchorage Borough
+100274,99577,AK,202111,1753.58,0.0096,0.1132,Eagle River,"Anchorage, AK",Anchorage Borough
+100274,99577,AK,202112,1699.05,-0.0311,0.088,Eagle River,"Anchorage, AK",Anchorage Borough
+100274,99577,AK,202201,1665.3,-0.0199,0.068,Eagle River,"Anchorage, AK",Anchorage Borough
+100274,99577,AK,202202,1659.7,-0.0034,0.0586,Eagle River,"Anchorage, AK",Anchorage Borough
+100274,99577,AK,202203,1668.24,0.0051,0.0543,Eagle River,"Anchorage, AK",Anchorage Borough
+100274,99577,AK,202204,1704.6,0.0218,0.074,Eagle River,"Anchorage, AK",Anchorage Borough
+100274,99577,AK,202205,1713.28,0.0051,0.0667,Eagle River,"Anchorage, AK",Anchorage Borough
+100274,99577,AK,202206,1720.46,0.0042,0.0617,Eagle River,"Anchorage, AK",Anchorage Borough
+100274,99577,AK,202207,1752.32,0.0185,0.0752,Eagle River,"Anchorage, AK",Anchorage Borough
+100274,99577,AK,202208,1781.54,0.0167,0.0891,Eagle River,"Anchorage, AK",Anchorage Borough
+100274,99577,AK,202209,1788.44,0.0039,0.0917,Eagle River,"Anchorage, AK",Anchorage Borough
+100274,99577,AK,202210,1786.2,-0.0013,0.0284,Eagle River,"Anchorage, AK",Anchorage Borough
+100274,99577,AK,202211,1773.92,-0.0069,0.0116,Eagle River,"Anchorage, AK",Anchorage Borough
+100274,99577,AK,202212,1787.27,0.0075,0.0519,Eagle River,"Anchorage, AK",Anchorage Borough
+100274,99577,AK,202301,1793.11,0.0033,0.0767,Eagle River,"Anchorage, AK",Anchorage Borough
+100274,99577,AK,202302,1828.3,0.0196,0.1016,Eagle River,"Anchorage, AK",Anchorage Borough
+100274,99577,AK,202303,1865.31,0.0202,0.1181,Eagle River,"Anchorage, AK",Anchorage Borough
+100274,99577,AK,202304,1883.96,0.01,0.1052,Eagle River,"Anchorage, AK",Anchorage Borough
+100274,99577,AK,202305,1906.07,0.0117,0.1125,Eagle River,"Anchorage, AK",Anchorage Borough
+100274,99577,AK,202306,1919.89,0.0073,0.1159,Eagle River,"Anchorage, AK",Anchorage Borough
+100274,99577,AK,202307,1961.88,0.0219,0.1196,Eagle River,"Anchorage, AK",Anchorage Borough
+100274,99577,AK,202308,1964.76,0.0015,0.1028,Eagle River,"Anchorage, AK",Anchorage Borough
+100274,99577,AK,202309,1960.26,-0.0023,0.0961,Eagle River,"Anchorage, AK",Anchorage Borough
+100274,99577,AK,202310,1926.5,-0.0172,0.0785,Eagle River,"Anchorage, AK",Anchorage Borough
+100274,99577,AK,202311,1920.25,-0.0032,0.0825,Eagle River,"Anchorage, AK",Anchorage Borough
+100274,99577,AK,202312,1937.06,0.0088,0.0838,Eagle River,"Anchorage, AK",Anchorage Borough
+100274,99577,AK,202401,1932.32,-0.0024,0.0776,Eagle River,"Anchorage, AK",Anchorage Borough
+100274,99577,AK,202402,1942.84,0.0054,0.0626,Eagle River,"Anchorage, AK",Anchorage Borough
+100274,99577,AK,202403,1929.97,-0.0066,0.0347,Eagle River,"Anchorage, AK",Anchorage Borough
+100274,99577,AK,202404,1943.09,0.0068,0.0314,Eagle River,"Anchorage, AK",Anchorage Borough
+100274,99577,AK,202405,1953.49,0.0054,0.0249,Eagle River,"Anchorage, AK",Anchorage Borough
+100274,99577,AK,202406,1981.08,0.0141,0.0319,Eagle River,"Anchorage, AK",Anchorage Borough
+100274,99577,AK,202407,2030.43,0.0249,0.0349,Eagle River,"Anchorage, AK",Anchorage Borough
+100274,99577,AK,202408,2031.08,0.0003,0.0338,Eagle River,"Anchorage, AK",Anchorage Borough
+100274,99577,AK,202409,2029.33,-0.0009,0.0352,Eagle River,"Anchorage, AK",Anchorage Borough
+100274,99577,AK,202410,1991.61,-0.0186,0.0338,Eagle River,"Anchorage, AK",Anchorage Borough
+100274,99577,AK,202411,1975.59,-0.008,0.0288,Eagle River,"Anchorage, AK",Anchorage Borough
+100274,99577,AK,202412,1930.69,-0.0227,-0.0033,Eagle River,"Anchorage, AK",Anchorage Borough
+100274,99577,AK,202501,1933.26,0.0013,0.0005,Eagle River,"Anchorage, AK",Anchorage Borough
+100274,99577,AK,202502,1982.07,0.0252,0.0202,Eagle River,"Anchorage, AK",Anchorage Borough
+100274,99577,AK,202503,2039.62,0.029,0.0568,Eagle River,"Anchorage, AK",Anchorage Borough
+100274,99577,AK,202504,2089.2,0.0243,0.0752,Eagle River,"Anchorage, AK",Anchorage Borough
+100274,99577,AK,202505,2109.77,0.0098,0.08,Eagle River,"Anchorage, AK",Anchorage Borough
+100274,99577,AK,202506,2138.39,0.0136,0.0794,Eagle River,"Anchorage, AK",Anchorage Borough
+100274,99577,AK,202507,2135.64,-0.0013,0.0518,Eagle River,"Anchorage, AK",Anchorage Borough
+100274,99577,AK,202508,2124.19,-0.0054,0.0458,Eagle River,"Anchorage, AK",Anchorage Borough
+100274,99577,AK,202509,2101.81,-0.0105,0.0357,Eagle River,"Anchorage, AK",Anchorage Borough
+100274,99577,AK,202510,2096.67,-0.0024,0.0527,Eagle River,"Anchorage, AK",Anchorage Borough
+100274,99577,AK,202511,2143.6,0.0224,0.085,Eagle River,"Anchorage, AK",Anchorage Borough
+100274,99577,AK,202512,2146.08,0.0012,0.1116,Eagle River,"Anchorage, AK",Anchorage Borough
+100274,99577,AK,202601,2181.94,0.0167,0.1286,Eagle River,"Anchorage, AK",Anchorage Borough
+100274,99577,AK,202602,2138.1,-0.0201,0.0787,Eagle River,"Anchorage, AK",Anchorage Borough
+100274,99577,AK,202603,2171.28,0.0155,0.0645,Eagle River,"Anchorage, AK",Anchorage Borough
+100326,99645,AK,202602,1723.1,,,Palmer,"Anchorage, AK",Matanuska Susitna Borough
+100326,99645,AK,202603,1762.5,0.0229,,Palmer,"Anchorage, AK",Matanuska Susitna Borough
+100334,99654,AK,202304,1455.08,,,Wasilla,"Anchorage, AK",Matanuska Susitna Borough
+100334,99654,AK,202305,1458.48,0.0023,,Wasilla,"Anchorage, AK",Matanuska Susitna Borough
+100334,99654,AK,202306,1477.91,0.0133,,Wasilla,"Anchorage, AK",Matanuska Susitna Borough
+100334,99654,AK,202307,1501.54,0.016,,Wasilla,"Anchorage, AK",Matanuska Susitna Borough
+100334,99654,AK,202308,1508.44,0.0046,,Wasilla,"Anchorage, AK",Matanuska Susitna Borough
+100334,99654,AK,202309,1514.13,0.0038,,Wasilla,"Anchorage, AK",Matanuska Susitna Borough
+100334,99654,AK,202310,1494.98,-0.0127,,Wasilla,"Anchorage, AK",Matanuska Susitna Borough
+100334,99654,AK,202311,1507.26,0.0082,,Wasilla,"Anchorage, AK",Matanuska Susitna Borough
+100334,99654,AK,202312,1516.73,0.0063,,Wasilla,"Anchorage, AK",Matanuska Susitna Borough
+100334,99654,AK,202401,1540.6,0.0157,,Wasilla,"Anchorage, AK",Matanuska Susitna Borough
+100334,99654,AK,202402,1531.77,-0.0057,,Wasilla,"Anchorage, AK",Matanuska Susitna Borough
+100334,99654,AK,202403,1542.91,0.0073,,Wasilla,"Anchorage, AK",Matanuska Susitna Borough
+100334,99654,AK,202404,1560.25,0.0112,0.0723,Wasilla,"Anchorage, AK",Matanuska Susitna Borough
+100334,99654,AK,202405,1596.02,0.0229,0.0943,Wasilla,"Anchorage, AK",Matanuska Susitna Borough
+100334,99654,AK,202406,1602.03,0.0038,0.084,Wasilla,"Anchorage, AK",Matanuska Susitna Borough
+100334,99654,AK,202407,1604.92,0.0018,0.0688,Wasilla,"Anchorage, AK",Matanuska Susitna Borough
+100334,99654,AK,202408,1604.36,-0.0003,0.0636,Wasilla,"Anchorage, AK",Matanuska Susitna Borough
+100334,99654,AK,202409,1600.39,-0.0025,0.057,Wasilla,"Anchorage, AK",Matanuska Susitna Borough
+100334,99654,AK,202410,1600.28,-0.0001,0.0704,Wasilla,"Anchorage, AK",Matanuska Susitna Borough
+100334,99654,AK,202411,1578.1,-0.0139,0.047,Wasilla,"Anchorage, AK",Matanuska Susitna Borough
+100334,99654,AK,202412,1554.52,-0.0149,0.0249,Wasilla,"Anchorage, AK",Matanuska Susitna Borough
+100334,99654,AK,202501,1576.98,0.0144,0.0236,Wasilla,"Anchorage, AK",Matanuska Susitna Borough
+100334,99654,AK,202502,1616.56,0.0251,0.0554,Wasilla,"Anchorage, AK",Matanuska Susitna Borough
+100334,99654,AK,202503,1658.23,0.0258,0.0747,Wasilla,"Anchorage, AK",Matanuska Susitna Borough
+100334,99654,AK,202504,1664.31,0.0037,0.0667,Wasilla,"Anchorage, AK",Matanuska Susitna Borough
+100334,99654,AK,202505,1657.57,-0.0041,0.0386,Wasilla,"Anchorage, AK",Matanuska Susitna Borough
+100334,99654,AK,202506,1664.06,0.0039,0.0387,Wasilla,"Anchorage, AK",Matanuska Susitna Borough
+100334,99654,AK,202507,1642.14,-0.0132,0.0232,Wasilla,"Anchorage, AK",Matanuska Susitna Borough
+100334,99654,AK,202508,1640.46,-0.001,0.0225,Wasilla,"Anchorage, AK",Matanuska Susitna Borough
+100334,99654,AK,202509,1650.72,0.0063,0.0314,Wasilla,"Anchorage, AK",Matanuska Susitna Borough
+100334,99654,AK,202510,1649.16,-0.0009,0.0305,Wasilla,"Anchorage, AK",Matanuska Susitna Borough
+100334,99654,AK,202511,1655.38,0.0038,0.049,Wasilla,"Anchorage, AK",Matanuska Susitna Borough
+100334,99654,AK,202512,1633.69,-0.0131,0.0509,Wasilla,"Anchorage, AK",Matanuska Susitna Borough
+100334,99654,AK,202601,1629.7,-0.0024,0.0334,Wasilla,"Anchorage, AK",Matanuska Susitna Borough
+100334,99654,AK,202602,1633.29,0.0022,0.0103,Wasilla,"Anchorage, AK",Matanuska Susitna Borough
+100334,99654,AK,202603,1658.97,0.0157,0.0004,Wasilla,"Anchorage, AK",Matanuska Susitna Borough
+100376,99701,AK,202306,1791.84,,,Fairbanks,"Fairbanks, AK",Fairbanks North Star Borough
+100376,99701,AK,202307,1794.63,0.0016,,Fairbanks,"Fairbanks, AK",Fairbanks North Star Borough
+100376,99701,AK,202308,1773.18,-0.012,,Fairbanks,"Fairbanks, AK",Fairbanks North Star Borough
+100376,99701,AK,202309,1789.58,0.0092,,Fairbanks,"Fairbanks, AK",Fairbanks North Star Borough
+100376,99701,AK,202310,1801.94,0.0069,,Fairbanks,"Fairbanks, AK",Fairbanks North Star Borough
+100376,99701,AK,202311,1785.96,-0.0089,,Fairbanks,"Fairbanks, AK",Fairbanks North Star Borough
+100376,99701,AK,202312,1777.19,-0.0049,,Fairbanks,"Fairbanks, AK",Fairbanks North Star Borough
+100376,99701,AK,202401,1753.95,-0.0131,,Fairbanks,"Fairbanks, AK",Fairbanks North Star Borough
+100376,99701,AK,202402,1724.94,-0.0165,,Fairbanks,"Fairbanks, AK",Fairbanks North Star Borough
+100376,99701,AK,202403,1772.12,0.0273,,Fairbanks,"Fairbanks, AK",Fairbanks North Star Borough
+100376,99701,AK,202404,1787.6,0.0087,,Fairbanks,"Fairbanks, AK",Fairbanks North Star Borough
+100376,99701,AK,202405,1852.31,0.0362,,Fairbanks,"Fairbanks, AK",Fairbanks North Star Borough
+100376,99701,AK,202406,1837.64,-0.0079,0.0256,Fairbanks,"Fairbanks, AK",Fairbanks North Star Borough
+100376,99701,AK,202407,1833.59,-0.0022,0.0217,Fairbanks,"Fairbanks, AK",Fairbanks North Star Borough
+100376,99701,AK,202408,1818.68,-0.0081,0.0257,Fairbanks,"Fairbanks, AK",Fairbanks North Star Borough
+100376,99701,AK,202409,1796.54,-0.0122,0.0039,Fairbanks,"Fairbanks, AK",Fairbanks North Star Borough
+100376,99701,AK,202410,1822.81,0.0146,0.0116,Fairbanks,"Fairbanks, AK",Fairbanks North Star Borough
+100376,99701,AK,202411,1830.68,0.0043,0.025,Fairbanks,"Fairbanks, AK",Fairbanks North Star Borough
+100376,99701,AK,202412,1829.24,-0.0008,0.0293,Fairbanks,"Fairbanks, AK",Fairbanks North Star Borough
+100376,99701,AK,202501,1804.2,-0.0137,0.0287,Fairbanks,"Fairbanks, AK",Fairbanks North Star Borough
+100376,99701,AK,202502,1796.52,-0.0043,0.0415,Fairbanks,"Fairbanks, AK",Fairbanks North Star Borough
+100376,99701,AK,202503,1828.78,0.018,0.032,Fairbanks,"Fairbanks, AK",Fairbanks North Star Borough
+100376,99701,AK,202504,1856.75,0.0153,0.0387,Fairbanks,"Fairbanks, AK",Fairbanks North Star Borough
+100376,99701,AK,202505,1884.84,0.0151,0.0176,Fairbanks,"Fairbanks, AK",Fairbanks North Star Borough
+100376,99701,AK,202506,1896.72,0.0063,0.0321,Fairbanks,"Fairbanks, AK",Fairbanks North Star Borough
+100376,99701,AK,202507,1894.91,-0.001,0.0334,Fairbanks,"Fairbanks, AK",Fairbanks North Star Borough
+100376,99701,AK,202508,1853.74,-0.0217,0.0193,Fairbanks,"Fairbanks, AK",Fairbanks North Star Borough
+100376,99701,AK,202509,1859.14,0.0029,0.0348,Fairbanks,"Fairbanks, AK",Fairbanks North Star Borough
+100376,99701,AK,202510,1824.54,-0.0186,0.0009,Fairbanks,"Fairbanks, AK",Fairbanks North Star Borough
+100376,99701,AK,202511,1834.33,0.0054,0.002,Fairbanks,"Fairbanks, AK",Fairbanks North Star Borough
+100376,99701,AK,202512,1804.19,-0.0164,-0.0137,Fairbanks,"Fairbanks, AK",Fairbanks North Star Borough
+100376,99701,AK,202601,1815.75,0.0064,0.0064,Fairbanks,"Fairbanks, AK",Fairbanks North Star Borough
+100376,99701,AK,202602,1845.15,0.0162,0.0271,Fairbanks,"Fairbanks, AK",Fairbanks North Star Borough
+100376,99701,AK,202603,1858.43,0.0072,0.0162,Fairbanks,"Fairbanks, AK",Fairbanks North Star Borough
+100380,99705,AK,202303,1601.69,,,North Pole,"Fairbanks, AK",Fairbanks North Star Borough
+100380,99705,AK,202304,1602.69,0.0006,,North Pole,"Fairbanks, AK",Fairbanks North Star Borough
+100380,99705,AK,202305,1587.1,-0.0097,,North Pole,"Fairbanks, AK",Fairbanks North Star Borough
+100380,99705,AK,202306,1586.9,-0.0001,,North Pole,"Fairbanks, AK",Fairbanks North Star Borough
+100380,99705,AK,202307,1590.54,0.0023,,North Pole,"Fairbanks, AK",Fairbanks North Star Borough
+100380,99705,AK,202308,1593.56,0.0019,,North Pole,"Fairbanks, AK",Fairbanks North Star Borough
+100380,99705,AK,202309,1597.81,0.0027,,North Pole,"Fairbanks, AK",Fairbanks North Star Borough
+100380,99705,AK,202310,1615.67,0.0112,,North Pole,"Fairbanks, AK",Fairbanks North Star Borough
+100380,99705,AK,202311,1649.53,0.021,,North Pole,"Fairbanks, AK",Fairbanks North Star Borough
+100380,99705,AK,202312,1651.07,0.0009,,North Pole,"Fairbanks, AK",Fairbanks North Star Borough
+100380,99705,AK,202401,1673.07,0.0133,,North Pole,"Fairbanks, AK",Fairbanks North Star Borough
+100380,99705,AK,202402,1667.91,-0.0031,,North Pole,"Fairbanks, AK",Fairbanks North Star Borough
+100380,99705,AK,202403,1690.52,0.0136,0.0555,North Pole,"Fairbanks, AK",Fairbanks North Star Borough
+100380,99705,AK,202404,1675.34,-0.009,0.0453,North Pole,"Fairbanks, AK",Fairbanks North Star Borough
+100380,99705,AK,202405,1669.87,-0.0033,0.0522,North Pole,"Fairbanks, AK",Fairbanks North Star Borough
+100380,99705,AK,202406,1663.24,-0.004,0.0481,North Pole,"Fairbanks, AK",Fairbanks North Star Borough
+100380,99705,AK,202407,1687.3,0.0145,0.0608,North Pole,"Fairbanks, AK",Fairbanks North Star Borough
+100380,99705,AK,202408,1699.66,0.0073,0.0666,North Pole,"Fairbanks, AK",Fairbanks North Star Borough
+100380,99705,AK,202409,1705.17,0.0032,0.0672,North Pole,"Fairbanks, AK",Fairbanks North Star Borough
+100380,99705,AK,202410,1689.29,-0.0093,0.0456,North Pole,"Fairbanks, AK",Fairbanks North Star Borough
+100380,99705,AK,202411,1680.21,-0.0054,0.0186,North Pole,"Fairbanks, AK",Fairbanks North Star Borough
+100380,99705,AK,202412,1718.43,0.0227,0.0408,North Pole,"Fairbanks, AK",Fairbanks North Star Borough
+100380,99705,AK,202501,1734.69,0.0095,0.0368,North Pole,"Fairbanks, AK",Fairbanks North Star Borough
+100380,99705,AK,202502,1777.51,0.0247,0.0657,North Pole,"Fairbanks, AK",Fairbanks North Star Borough
+100380,99705,AK,202503,1762.57,-0.0084,0.0426,North Pole,"Fairbanks, AK",Fairbanks North Star Borough
+100380,99705,AK,202504,1784.87,0.0126,0.0654,North Pole,"Fairbanks, AK",Fairbanks North Star Borough
+100380,99705,AK,202505,1769.02,-0.0089,0.0594,North Pole,"Fairbanks, AK",Fairbanks North Star Borough
+100380,99705,AK,202506,1749.78,-0.0109,0.052,North Pole,"Fairbanks, AK",Fairbanks North Star Borough
+100380,99705,AK,202507,1738.78,-0.0063,0.0305,North Pole,"Fairbanks, AK",Fairbanks North Star Borough
+100380,99705,AK,202508,1738.26,-0.0003,0.0227,North Pole,"Fairbanks, AK",Fairbanks North Star Borough
+100380,99705,AK,202509,1754.9,0.0096,0.0292,North Pole,"Fairbanks, AK",Fairbanks North Star Borough
+100380,99705,AK,202510,1750.87,-0.0023,0.0365,North Pole,"Fairbanks, AK",Fairbanks North Star Borough
+100380,99705,AK,202511,1747.53,-0.0019,0.0401,North Pole,"Fairbanks, AK",Fairbanks North Star Borough
+100380,99705,AK,202512,1801.31,0.0308,0.0482,North Pole,"Fairbanks, AK",Fairbanks North Star Borough
+100380,99705,AK,202601,1822.81,0.0119,0.0508,North Pole,"Fairbanks, AK",Fairbanks North Star Borough
+100380,99705,AK,202602,1878.45,0.0305,0.0568,North Pole,"Fairbanks, AK",Fairbanks North Star Borough
+100380,99705,AK,202603,1852.08,-0.014,0.0508,North Pole,"Fairbanks, AK",Fairbanks North Star Borough
+100384,99709,AK,202602,1813.8,,,Fairbanks,"Fairbanks, AK",Fairbanks North Star Borough
+100384,99709,AK,202603,1766.67,-0.026,,Fairbanks,"Fairbanks, AK",Fairbanks North Star Borough
+100459,99801,AK,202603,2011.25,,,Juneau,"Juneau, AK",Juneau Borough
+422747,99623,AK,202503,1541.21,,,Meadow Lakes,"Anchorage, AK",Matanuska Susitna Borough
+422747,99623,AK,202504,1563.16,0.0142,,Meadow Lakes,"Anchorage, AK",Matanuska Susitna Borough
+422747,99623,AK,202505,1556.29,-0.0044,,Meadow Lakes,"Anchorage, AK",Matanuska Susitna Borough
+422747,99623,AK,202506,1612.41,0.0361,,Meadow Lakes,"Anchorage, AK",Matanuska Susitna Borough
+422747,99623,AK,202507,1616.4,0.0025,,Meadow Lakes,"Anchorage, AK",Matanuska Susitna Borough
+422747,99623,AK,202508,1641.76,0.0157,,Meadow Lakes,"Anchorage, AK",Matanuska Susitna Borough
+422747,99623,AK,202509,1594.53,-0.0288,,Meadow Lakes,"Anchorage, AK",Matanuska Susitna Borough
+422747,99623,AK,202510,1566.75,-0.0174,,Meadow Lakes,"Anchorage, AK",Matanuska Susitna Borough
+422747,99623,AK,202511,1558.06,-0.0055,,Meadow Lakes,"Anchorage, AK",Matanuska Susitna Borough
+422747,99623,AK,202512,1527.54,-0.0196,,Meadow Lakes,"Anchorage, AK",Matanuska Susitna Borough
+422747,99623,AK,202601,1536.21,0.0057,,Meadow Lakes,"Anchorage, AK",Matanuska Susitna Borough
+422747,99623,AK,202602,1551.28,0.0098,,Meadow Lakes,"Anchorage, AK",Matanuska Susitna Borough
+422747,99623,AK,202603,1590.0,0.025,0.0317,Meadow Lakes,"Anchorage, AK",Matanuska Susitna Borough
