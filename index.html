@@ -9,26 +9,19 @@
 <script src="https://cdnjs.cloudflare.com/ajax/libs/html2canvas/1.4.1/html2canvas.min.js"></script>
 <script src="https://d3js.org/d3.v7.min.js"></script>
 <script src="https://cdn.jsdelivr.net/npm/topojson-client@3"></script>
-<link href="https://fonts.googleapis.com/css2?family=DM+Mono:wght@300;400;500&family=Syne:wght@700;800&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700;800&display=swap" rel="stylesheet">
 <style>
   *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
   :root {
-    --bg: #f8f9fc; --surface: #ffffff; --surface2: #f0f2f7; --border: #dde1ea;
-    --muted: #b0b8cc; --subtle: #6b7a99; --text: #1a2340; --text-dim: #4a5568;
-    --accent: #1e3a6e; --accent2: #2d5be3; --danger: #dc2626;
+    --bg: #e8f0f8; --surface: #ffffff; --surface2: #edf5fc; --border: #d4e4f0;
+    --muted: #7a9bb8; --subtle: #4a7aaa; --text: #1a3a5c; --text-dim: #4a7aaa;
+    --accent: #2d5f8a; --accent2: #1a3a5c; --danger: #dc2626;
   }
-  body { background: var(--bg); color: var(--text); font-family: 'DM Mono', monospace; min-height: 100vh; padding: 32px 24px; }
+  body { background: var(--bg); color: var(--text); font-family: 'DM Sans', system-ui, sans-serif; min-height: 100vh; padding: 32px 24px; }
   ::-webkit-scrollbar { width: 5px; background: var(--surface2); }
   ::-webkit-scrollbar-thumb { background: var(--border); border-radius: 3px; }
 
-  .header { margin-bottom: 28px; display: flex; justify-content: space-between; align-items: flex-start; }
-  .header-left { }
-  .header-logo { height: 64px; width: auto; opacity: 0.9; }
-  .header h1 {
-    font-family: 'Syne', sans-serif; font-size: clamp(22px,4vw,34px); font-weight: 800;
-    letter-spacing: -0.02em; color: var(--accent); margin-bottom: 6px;
-  }
-  .header p { color: var(--subtle); font-size: 11px; letter-spacing: 0.12em; }
+  .header { display: none; }
 
   /* US Map */
   .us-map-wrap { max-width: 760px; margin: 0 auto 20px; }
@@ -37,17 +30,17 @@
     fill: var(--surface); stroke: var(--border); stroke-width: 1; cursor: pointer;
     transition: fill 0.15s, stroke 0.15s;
   }
-  .us-map-wrap svg path:hover { fill: rgba(30,58,110,0.12); stroke: var(--accent); }
+  .us-map-wrap svg path:hover { fill: rgba(26,58,92,0.12); stroke: var(--accent); }
   .us-map-wrap svg path.active { fill: var(--accent); stroke: var(--accent); }
   .map-tooltip {
     position: fixed; pointer-events: none; background: var(--text); color: #fff;
-    font-family: 'DM Mono', monospace; font-size: 11px; padding: 5px 10px;
+    font-family: 'DM Sans', system-ui, sans-serif; font-size: 11px; padding: 5px 10px;
     border-radius: 4px; display: none; z-index: 9999; white-space: nowrap;
   }
 
   /* State picker */
   .state-screen { max-width: 700px; margin: 0 auto; }
-  .state-screen h2 { font-family: 'Syne', sans-serif; font-size: 18px; font-weight: 700; color: var(--text); margin-bottom: 6px; }
+  .state-screen h2 { font-family: 'DM Sans', system-ui, sans-serif; font-size: 18px; font-weight: 700; color: var(--text); margin-bottom: 6px; }
   .state-screen p { font-size: 11px; color: var(--subtle); letter-spacing: 0.08em; margin-bottom: 24px; }
   .state-select-wrap {
     display: flex; align-items: center; gap: 12px; justify-content: center;
@@ -60,7 +53,7 @@
     border: 1px solid var(--border);
     border-radius: 8px;
     padding: 10px 14px;
-    font-family: 'DM Mono', monospace;
+    font-family: 'DM Sans', system-ui, sans-serif;
     font-size: 13px;
     font-weight: 500;
     color: var(--text);
@@ -75,13 +68,13 @@
     padding-right: 32px;
   }
   .state-select:hover { border-color: var(--accent); }
-  .state-select:focus { outline: none; border-color: var(--accent2); box-shadow: 0 0 0 3px rgba(45,91,227,0.12); }
+  .state-select:focus { outline: none; border-color: var(--accent2); box-shadow: 0 0 0 3px rgba(45,95,138,0.12); }
 
   /* Loading */
-  .progress-wrap { background: var(--surface); border: 1px solid var(--border); border-radius: 12px; padding: 32px 24px; text-align: center; max-width: 480px; margin: 0 auto; box-shadow: 0 2px 16px rgba(30,58,110,0.08); }
+  .progress-wrap { background: var(--surface); border: 1px solid var(--border); border-radius: 12px; padding: 32px 24px; text-align: center; max-width: 480px; margin: 0 auto; box-shadow: 0 2px 16px rgba(26,58,92,0.08); }
   .progress-label { font-size: 13px; color: var(--text-dim); margin-bottom: 16px; }
   .progress-bar-bg { height: 4px; background: var(--border); border-radius: 2px; overflow: hidden; }
-  .progress-bar-fill { height: 100%; background: linear-gradient(90deg,#1e3a6e,#2d5be3); border-radius: 2px; transition: width 0.3s; width: 0%; }
+  .progress-bar-fill { height: 100%; background: linear-gradient(90deg,#1a3a5c,#2d5f8a); border-radius: 2px; transition: width 0.3s; width: 0%; }
 
   /* Mode toggle */
   .top-bar { display: flex; align-items: center; gap: 16px; margin-bottom: 24px; flex-wrap: wrap; }
@@ -96,7 +89,7 @@
   .change-state-btn:hover { border-color: var(--accent); color: var(--accent); }
   .state-badge {
     font-size: 11px; color: var(--accent); letter-spacing: 0.1em;
-    background: rgba(30,58,110,0.07); border: 1px solid rgba(30,58,110,0.18);
+    background: rgba(26,58,92,0.07); border: 1px solid rgba(26,58,92,0.18);
     border-radius: 6px; padding: 7px 12px;
   }
 
@@ -109,7 +102,7 @@
   .select-box.placeholder { color: var(--subtle); }
   .select-arrow { color: var(--subtle); font-size: 10px; flex-shrink: 0; margin-left: 8px; }
   .select-wrapper { position: relative; }
-  .dropdown { position: absolute; top: calc(100% + 4px); left: 0; right: 0; background: var(--surface); border: 1px solid var(--border); border-radius: 8px; z-index: 1000; max-height: 320px; overflow: hidden; display: flex; flex-direction: column; box-shadow: 0 8px 32px rgba(30,58,110,0.12); }
+  .dropdown { position: absolute; top: calc(100% + 4px); left: 0; right: 0; background: var(--surface); border: 1px solid var(--border); border-radius: 8px; z-index: 1000; max-height: 320px; overflow: hidden; display: flex; flex-direction: column; box-shadow: 0 8px 32px rgba(26,58,92,0.12); }
   .dropdown-search { background: var(--surface2); border: none; border-bottom: 1px solid var(--border); padding: 10px 14px; color: var(--text); font-size: 12px; font-family: inherit; outline: none; }
   .dropdown-list { overflow-y: auto; flex: 1; }
   .dropdown-item { padding: 9px 14px; cursor: pointer; font-size: 12px; color: var(--text-dim); transition: background 0.1s,color 0.1s; display: flex; justify-content: space-between; align-items: center; }
@@ -119,11 +112,11 @@
   .dropdown-empty { padding: 14px; color: var(--muted); font-size: 12px; text-align: center; }
 
   /* Content */
-  .chart-card { background: var(--surface); border: 1px solid var(--border); border-radius: 12px; padding: 24px 20px 20px; box-shadow: 0 2px 12px rgba(30,58,110,0.06); }
+  .chart-card { background: var(--surface); border: 1px solid var(--border); border-radius: 12px; padding: 24px 20px 20px; box-shadow: 0 2px 12px rgba(26,58,92,0.06); }
   .chart-footer { display: flex; justify-content: space-between; align-items: center; margin-top: 12px; padding-top: 10px; border-top: 1px solid var(--border); }
   .chart-source { font-size: 10px; color: var(--muted); letter-spacing: 0.08em; }
   .chart-footer-logo { height: 28px; width: auto; opacity: 0.7; }
-  .chart-title { font-family: 'Syne', sans-serif; font-size: 16px; font-weight: 700; color: var(--text); margin-bottom: 4px; }
+  .chart-title { font-family: 'DM Sans', system-ui, sans-serif; font-size: 16px; font-weight: 700; color: var(--text); margin-bottom: 4px; }
   .chart-subtitle { font-size: 11px; color: var(--subtle); margin-bottom: 20px; }
   .chart-wrap { position: relative; height: 300px; }
   .stats-row { display: flex; gap: 28px; flex-wrap: wrap; margin-top: 20px; padding-top: 16px; border-top: 1px solid var(--surface2); }
@@ -144,11 +137,11 @@
   /* Summary card (hidden, used for JPEG render) */
   #summary-card {
     position: fixed; left: -9999px; top: 0;
-    width: 900px; background: #0d1b3e; padding: 32px;
-    font-family: 'DM Mono', monospace; color: #e2e8f0;
+    width: 900px; background: #1a3a5c; padding: 32px;
+    font-family: 'DM Sans', system-ui, sans-serif; color: #e2e8f0;
   }
-  .sc-header { margin-bottom: 18px; border-bottom: 1px solid #2a2d3a; padding-bottom: 14px; }
-  .sc-title { font-family: 'Syne', sans-serif; font-size: 26px; font-weight: 800;
+  .sc-header { margin-bottom: 18px; border-bottom: 1px solid #2d5f8a; padding-bottom: 14px; }
+  .sc-title { font-family: 'DM Sans', system-ui, sans-serif; font-size: 26px; font-weight: 800;
     background: linear-gradient(90deg,#38bdf8,#818cf8);
     -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text; margin-bottom: 4px; }
   .sc-sub { font-size: 11px; color: #475569; letter-spacing: 0.1em; }
@@ -261,7 +254,7 @@
     </div>
   </div>
 
-  <div id="summary-sentence" style="display:none;margin-bottom:18px;padding:14px 18px;background:rgba(30,58,110,0.04);border:1px solid rgba(30,58,110,0.12);border-radius:10px;font-size:13px;line-height:1.7;color:var(--text-dim);"></div>
+  <div id="summary-sentence" style="display:none;margin-bottom:18px;padding:14px 18px;background:rgba(26,58,92,0.04);border:1px solid rgba(26,58,92,0.12);border-radius:10px;font-size:13px;line-height:1.7;color:var(--text-dim);"></div>
 
   <div id="main-layout" style="display:none">
     <div id="chart-panel">
@@ -674,7 +667,12 @@ function renderGeoList(list) {
     div.onclick = () => selectGeo(item.key, item.name);
     c.appendChild(div);
   });
-  if (list.length > limit) c.innerHTML += '<div class="dropdown-empty">+'+(list.length-limit)+' more — type to filter</div>';
+  if (list.length > limit) {
+    const more = document.createElement('div');
+    more.className = 'dropdown-empty';
+    more.textContent = '+' + (list.length - limit) + ' more — type to filter';
+    c.appendChild(more);
+  }
 }
 
 function filterGeoList() {
@@ -737,6 +735,13 @@ function buildMetricList() {
     document.getElementById('metric-label').textContent = 'Select a metric...';
     document.getElementById('metric-label').style.color = 'var(--subtle)';
     document.getElementById('metric-box').classList.add('placeholder');
+  }
+  // Auto-select first metric if none selected
+  if (!selectedMetric && metrics.length) {
+    selectedMetric = metrics[0];
+    document.getElementById('metric-label').textContent = metrics[0].label;
+    document.getElementById('metric-label').style.color = '';
+    document.getElementById('metric-box').classList.remove('placeholder');
   }
   metrics.forEach(m => {
     const div = document.createElement('div');
@@ -816,16 +821,16 @@ function renderContent() {
         legend: { display: false },
         tooltip: {
           backgroundColor:'#ffffff', borderColor:'#dde1ea', borderWidth:1,
-          titleColor:'#6b7a99', bodyColor:'#1e3a6e',
-          titleFont:{family:"'DM Mono',monospace",size:11},
-          bodyFont:{family:"'DM Mono',monospace",size:13,weight:'500'},
+          titleColor:'#4a7aaa', bodyColor:'#1a3a5c',
+          titleFont:{family:"'DM Sans',sans-serif",size:11},
+          bodyFont:{family:"'DM Sans',sans-serif",size:13,weight:'500'},
           padding:10,
           callbacks:{ title:items=>items[0].label, label:item=>formatValue(item.raw,selectedMetric.format) }
         }
       },
       scales: {
         x: { grid:{display:false}, border:{color:'#dde1ea'},
-          ticks:{color:'#6b7a99',font:{family:"'DM Mono',monospace",size:10},maxRotation:0,
+          ticks:{color:'#4a7aaa',font:{family:"'DM Sans',sans-serif",size:10},maxRotation:0,
             callback:function(val,i){
               const labels = this.chart.data.labels;
               const label = labels ? labels[i] : null;
@@ -834,7 +839,7 @@ function renderContent() {
               return '';
             }} },
         y: { grid:{color:'#eef0f5'}, border:{display:false},
-          ticks:{color:'#6b7a99',font:{family:"'DM Mono',monospace",size:10},
+          ticks:{color:'#4a7aaa',font:{family:"'DM Sans',sans-serif",size:10},
             callback:v=>formatValue(v,selectedMetric.format)} }
       }
     }
