@@ -1,167 +1,180 @@
 RegionID,RegionName,State,month_date_yyyymm,zori,zori_mm,zori_yy,City,Metro,CountyName
-59768,5001,VT,202602,1914.51,,,Hartford,"Lebanon, NH-VT",Windsor County
-59768,5001,VT,202603,1937.5,0.012,,Hartford,"Lebanon, NH-VT",Windsor County
-59840,5201,VT,202603,1406.25,,,Bennington,"Bennington, VT",Bennington County
-59851,5301,VT,202505,1702.51,,,Brattleboro,,Windham County
-59851,5301,VT,202506,1716.3,0.0081,,Brattleboro,,Windham County
-59851,5301,VT,202507,1725.82,0.0055,,Brattleboro,,Windham County
-59851,5301,VT,202508,1755.24,0.017,,Brattleboro,,Windham County
-59851,5301,VT,202510,1775.11,0.0113,,Brattleboro,,Windham County
-59851,5301,VT,202511,1749.37,-0.0145,,Brattleboro,,Windham County
-59851,5301,VT,202601,1659.38,-0.0514,,Brattleboro,,Windham County
-59851,5301,VT,202602,1658.68,-0.0004,,Brattleboro,,Windham County
-59851,5301,VT,202603,1716.67,0.035,,Brattleboro,,Windham County
-59876,5401,VT,201708,1445.36,,,Burlington,"Burlington-South Burlington, VT",Chittenden County
-59876,5401,VT,201709,1453.47,0.0056,,Burlington,"Burlington-South Burlington, VT",Chittenden County
-59876,5401,VT,201710,1429.33,-0.0166,,Burlington,"Burlington-South Burlington, VT",Chittenden County
-59876,5401,VT,201711,1420.62,-0.0061,,Burlington,"Burlington-South Burlington, VT",Chittenden County
-59876,5401,VT,201712,1412.21,-0.0059,,Burlington,"Burlington-South Burlington, VT",Chittenden County
-59876,5401,VT,201801,1427.16,0.0106,,Burlington,"Burlington-South Burlington, VT",Chittenden County
-59876,5401,VT,201802,1437.85,0.0075,,Burlington,"Burlington-South Burlington, VT",Chittenden County
-59876,5401,VT,201803,1451.15,0.0093,,Burlington,"Burlington-South Burlington, VT",Chittenden County
-59876,5401,VT,201804,1453.83,0.0018,,Burlington,"Burlington-South Burlington, VT",Chittenden County
-59876,5401,VT,201805,1436.98,-0.0116,,Burlington,"Burlington-South Burlington, VT",Chittenden County
-59876,5401,VT,201806,1445.91,0.0062,,Burlington,"Burlington-South Burlington, VT",Chittenden County
-59876,5401,VT,201807,1423.75,-0.0153,,Burlington,"Burlington-South Burlington, VT",Chittenden County
-59876,5401,VT,201808,1457.47,0.0237,0.0084,Burlington,"Burlington-South Burlington, VT",Chittenden County
-59876,5401,VT,201809,1461.66,0.0029,0.0056,Burlington,"Burlington-South Burlington, VT",Chittenden County
-59876,5401,VT,201810,1483.96,0.0153,0.0382,Burlington,"Burlington-South Burlington, VT",Chittenden County
-59876,5401,VT,201811,1478.22,-0.0039,0.0405,Burlington,"Burlington-South Burlington, VT",Chittenden County
-59876,5401,VT,201812,1472.55,-0.0038,0.0427,Burlington,"Burlington-South Burlington, VT",Chittenden County
-59876,5401,VT,201901,1474.34,0.0012,0.0331,Burlington,"Burlington-South Burlington, VT",Chittenden County
-59876,5401,VT,201902,1469.1,-0.0036,0.0217,Burlington,"Burlington-South Burlington, VT",Chittenden County
-59876,5401,VT,201903,1462.74,-0.0043,0.008,Burlington,"Burlington-South Burlington, VT",Chittenden County
-59876,5401,VT,201904,1471.31,0.0059,0.012,Burlington,"Burlington-South Burlington, VT",Chittenden County
-59876,5401,VT,201905,1461.54,-0.0066,0.0171,Burlington,"Burlington-South Burlington, VT",Chittenden County
-59876,5401,VT,201906,1475.0,0.0092,0.0201,Burlington,"Burlington-South Burlington, VT",Chittenden County
-59876,5401,VT,201907,1458.18,-0.0114,0.0242,Burlington,"Burlington-South Burlington, VT",Chittenden County
-59876,5401,VT,201908,1487.02,0.0198,0.0203,Burlington,"Burlington-South Burlington, VT",Chittenden County
-59876,5401,VT,201909,1502.43,0.0104,0.0279,Burlington,"Burlington-South Burlington, VT",Chittenden County
-59876,5401,VT,201910,1528.88,0.0176,0.0303,Burlington,"Burlington-South Burlington, VT",Chittenden County
-59876,5401,VT,201911,1530.57,0.0011,0.0354,Burlington,"Burlington-South Burlington, VT",Chittenden County
-59876,5401,VT,201912,1513.75,-0.011,0.028,Burlington,"Burlington-South Burlington, VT",Chittenden County
-59876,5401,VT,202001,1508.03,-0.0038,0.0229,Burlington,"Burlington-South Burlington, VT",Chittenden County
-59876,5401,VT,202002,1497.84,-0.0068,0.0196,Burlington,"Burlington-South Burlington, VT",Chittenden County
-59876,5401,VT,202003,1508.16,0.0069,0.0311,Burlington,"Burlington-South Burlington, VT",Chittenden County
-59876,5401,VT,202004,1491.9,-0.0108,0.014,Burlington,"Burlington-South Burlington, VT",Chittenden County
-59876,5401,VT,202005,1495.5,0.0024,0.0232,Burlington,"Burlington-South Burlington, VT",Chittenden County
-59876,5401,VT,202006,1501.6,0.0041,0.018,Burlington,"Burlington-South Burlington, VT",Chittenden County
-59876,5401,VT,202007,1518.2,0.0111,0.0412,Burlington,"Burlington-South Burlington, VT",Chittenden County
-59876,5401,VT,202008,1551.14,0.0217,0.0431,Burlington,"Burlington-South Burlington, VT",Chittenden County
-59876,5401,VT,202009,1566.34,0.0098,0.0425,Burlington,"Burlington-South Burlington, VT",Chittenden County
-59876,5401,VT,202010,1588.39,0.0141,0.0389,Burlington,"Burlington-South Burlington, VT",Chittenden County
-59876,5401,VT,202012,1565.22,-0.0146,0.0226,Burlington,"Burlington-South Burlington, VT",Chittenden County
-59876,5401,VT,202101,1551.97,-0.0085,0.0252,Burlington,"Burlington-South Burlington, VT",Chittenden County
-59876,5401,VT,202102,1553.8,0.0012,0.0304,Burlington,"Burlington-South Burlington, VT",Chittenden County
-59876,5401,VT,202103,1547.86,-0.0038,0.0334,Burlington,"Burlington-South Burlington, VT",Chittenden County
-59876,5401,VT,202104,1568.14,0.0131,0.0398,Burlington,"Burlington-South Burlington, VT",Chittenden County
-59876,5401,VT,202105,1601.8,0.0215,0.0737,Burlington,"Burlington-South Burlington, VT",Chittenden County
-59876,5401,VT,202106,1637.24,0.0221,0.0948,Burlington,"Burlington-South Burlington, VT",Chittenden County
-59876,5401,VT,202107,1657.94,0.0126,0.1041,Burlington,"Burlington-South Burlington, VT",Chittenden County
-59876,5401,VT,202108,1685.42,0.0166,0.1101,Burlington,"Burlington-South Burlington, VT",Chittenden County
-59876,5401,VT,202109,1687.33,0.0011,0.0878,Burlington,"Burlington-South Burlington, VT",Chittenden County
-59876,5401,VT,202110,1698.2,0.0064,0.0842,Burlington,"Burlington-South Burlington, VT",Chittenden County
-59876,5401,VT,202111,1681.54,-0.0098,0.0586,Burlington,"Burlington-South Burlington, VT",Chittenden County
-59876,5401,VT,202112,1692.28,0.0064,0.0812,Burlington,"Burlington-South Burlington, VT",Chittenden County
-59876,5401,VT,202201,1694.95,0.0016,0.0921,Burlington,"Burlington-South Burlington, VT",Chittenden County
-59876,5401,VT,202202,1712.98,0.0106,0.1024,Burlington,"Burlington-South Burlington, VT",Chittenden County
-59876,5401,VT,202203,1720.49,0.0044,0.1115,Burlington,"Burlington-South Burlington, VT",Chittenden County
-59876,5401,VT,202204,1744.98,0.0142,0.1128,Burlington,"Burlington-South Burlington, VT",Chittenden County
-59876,5401,VT,202205,1802.75,0.0331,0.1255,Burlington,"Burlington-South Burlington, VT",Chittenden County
-59876,5401,VT,202206,1842.63,0.0221,0.1254,Burlington,"Burlington-South Burlington, VT",Chittenden County
-59876,5401,VT,202207,1871.61,0.0157,0.1289,Burlington,"Burlington-South Burlington, VT",Chittenden County
-59876,5401,VT,202208,1887.23,0.0083,0.1197,Burlington,"Burlington-South Burlington, VT",Chittenden County
-59876,5401,VT,202209,1889.87,0.0014,0.12,Burlington,"Burlington-South Burlington, VT",Chittenden County
-59876,5401,VT,202210,1905.33,0.0082,0.122,Burlington,"Burlington-South Burlington, VT",Chittenden County
-59876,5401,VT,202211,1888.99,-0.0086,0.1234,Burlington,"Burlington-South Burlington, VT",Chittenden County
-59876,5401,VT,202212,1887.65,-0.0007,0.1154,Burlington,"Burlington-South Burlington, VT",Chittenden County
-59876,5401,VT,202301,1881.8,-0.0031,0.1102,Burlington,"Burlington-South Burlington, VT",Chittenden County
-59876,5401,VT,202302,1896.11,0.0076,0.1069,Burlington,"Burlington-South Burlington, VT",Chittenden County
-59876,5401,VT,202303,1916.69,0.0109,0.114,Burlington,"Burlington-South Burlington, VT",Chittenden County
-59876,5401,VT,202304,1922.68,0.0031,0.1018,Burlington,"Burlington-South Burlington, VT",Chittenden County
-59876,5401,VT,202305,1922.38,-0.0002,0.0664,Burlington,"Burlington-South Burlington, VT",Chittenden County
-59876,5401,VT,202306,1953.34,0.0161,0.0601,Burlington,"Burlington-South Burlington, VT",Chittenden County
-59876,5401,VT,202307,1978.29,0.0128,0.057,Burlington,"Burlington-South Burlington, VT",Chittenden County
-59876,5401,VT,202308,1992.91,0.0074,0.056,Burlington,"Burlington-South Burlington, VT",Chittenden County
-59876,5401,VT,202309,1985.47,-0.0037,0.0506,Burlington,"Burlington-South Burlington, VT",Chittenden County
-59876,5401,VT,202310,1993.28,0.0039,0.0462,Burlington,"Burlington-South Burlington, VT",Chittenden County
-59876,5401,VT,202311,1992.21,-0.0005,0.0546,Burlington,"Burlington-South Burlington, VT",Chittenden County
-59876,5401,VT,202312,1979.37,-0.0064,0.0486,Burlington,"Burlington-South Burlington, VT",Chittenden County
-59876,5401,VT,202401,1980.05,0.0003,0.0522,Burlington,"Burlington-South Burlington, VT",Chittenden County
-59876,5401,VT,202402,1972.85,-0.0036,0.0405,Burlington,"Burlington-South Burlington, VT",Chittenden County
-59876,5401,VT,202403,1985.33,0.0063,0.0358,Burlington,"Burlington-South Burlington, VT",Chittenden County
-59876,5401,VT,202404,1988.78,0.0017,0.0344,Burlington,"Burlington-South Burlington, VT",Chittenden County
-59876,5401,VT,202405,2022.75,0.0171,0.0522,Burlington,"Burlington-South Burlington, VT",Chittenden County
-59876,5401,VT,202406,2036.66,0.0069,0.0427,Burlington,"Burlington-South Burlington, VT",Chittenden County
-59876,5401,VT,202407,2044.93,0.0041,0.0337,Burlington,"Burlington-South Burlington, VT",Chittenden County
-59876,5401,VT,202408,2052.49,0.0037,0.0299,Burlington,"Burlington-South Burlington, VT",Chittenden County
-59876,5401,VT,202409,2071.57,0.0093,0.0434,Burlington,"Burlington-South Burlington, VT",Chittenden County
-59876,5401,VT,202410,2071.86,0.0001,0.0394,Burlington,"Burlington-South Burlington, VT",Chittenden County
-59876,5401,VT,202411,2056.89,-0.0072,0.0325,Burlington,"Burlington-South Burlington, VT",Chittenden County
-59876,5401,VT,202412,2030.73,-0.0127,0.0259,Burlington,"Burlington-South Burlington, VT",Chittenden County
-59876,5401,VT,202501,2032.94,0.0011,0.0267,Burlington,"Burlington-South Burlington, VT",Chittenden County
-59876,5401,VT,202502,2025.95,-0.0034,0.0269,Burlington,"Burlington-South Burlington, VT",Chittenden County
-59876,5401,VT,202503,2049.61,0.0117,0.0324,Burlington,"Burlington-South Burlington, VT",Chittenden County
-59876,5401,VT,202504,2048.15,-0.0007,0.0299,Burlington,"Burlington-South Burlington, VT",Chittenden County
-59876,5401,VT,202505,2061.64,0.0066,0.0192,Burlington,"Burlington-South Burlington, VT",Chittenden County
-59876,5401,VT,202506,2068.7,0.0034,0.0157,Burlington,"Burlington-South Burlington, VT",Chittenden County
-59876,5401,VT,202507,2065.73,-0.0014,0.0102,Burlington,"Burlington-South Burlington, VT",Chittenden County
-59876,5401,VT,202508,2079.57,0.0067,0.0132,Burlington,"Burlington-South Burlington, VT",Chittenden County
-59876,5401,VT,202509,2084.83,0.0025,0.0064,Burlington,"Burlington-South Burlington, VT",Chittenden County
-59876,5401,VT,202510,2098.89,0.0067,0.013,Burlington,"Burlington-South Burlington, VT",Chittenden County
-59876,5401,VT,202511,2089.48,-0.0045,0.0158,Burlington,"Burlington-South Burlington, VT",Chittenden County
-59876,5401,VT,202512,2019.88,-0.0333,-0.0053,Burlington,"Burlington-South Burlington, VT",Chittenden County
-59876,5401,VT,202601,2005.33,-0.0072,-0.0136,Burlington,"Burlington-South Burlington, VT",Chittenden County
-59876,5401,VT,202602,2004.5,-0.0004,-0.0106,Burlington,"Burlington-South Burlington, VT",Chittenden County
-59876,5401,VT,202603,2060.35,0.0279,0.0052,Burlington,"Burlington-South Burlington, VT",Chittenden County
-59878,5403,VT,202401,2367.2,,,South Burlington,"Burlington-South Burlington, VT",Chittenden County
-59878,5403,VT,202402,2349.77,-0.0074,,South Burlington,"Burlington-South Burlington, VT",Chittenden County
-59878,5403,VT,202403,2424.38,0.0318,,South Burlington,"Burlington-South Burlington, VT",Chittenden County
-59878,5403,VT,202404,2437.14,0.0053,,South Burlington,"Burlington-South Burlington, VT",Chittenden County
-59878,5403,VT,202405,2452.08,0.0061,,South Burlington,"Burlington-South Burlington, VT",Chittenden County
-59878,5403,VT,202406,2399.91,-0.0213,,South Burlington,"Burlington-South Burlington, VT",Chittenden County
-59878,5403,VT,202407,2444.15,0.0184,,South Burlington,"Burlington-South Burlington, VT",Chittenden County
-59878,5403,VT,202408,2549.93,0.0433,,South Burlington,"Burlington-South Burlington, VT",Chittenden County
-59878,5403,VT,202409,2613.3,0.0249,,South Burlington,"Burlington-South Burlington, VT",Chittenden County
-59878,5403,VT,202410,2578.71,-0.0132,,South Burlington,"Burlington-South Burlington, VT",Chittenden County
-59878,5403,VT,202411,2438.83,-0.0542,,South Burlington,"Burlington-South Burlington, VT",Chittenden County
-59878,5403,VT,202412,2413.41,-0.0104,,South Burlington,"Burlington-South Burlington, VT",Chittenden County
-59878,5403,VT,202501,2422.17,0.0036,0.0232,South Burlington,"Burlington-South Burlington, VT",Chittenden County
-59878,5403,VT,202502,2523.87,0.042,0.0741,South Burlington,"Burlington-South Burlington, VT",Chittenden County
-59878,5403,VT,202503,2506.39,-0.0069,0.0338,South Burlington,"Burlington-South Burlington, VT",Chittenden County
-59878,5403,VT,202504,2551.58,0.018,0.047,South Burlington,"Burlington-South Burlington, VT",Chittenden County
-59878,5403,VT,202505,2510.76,-0.016,0.0239,South Burlington,"Burlington-South Burlington, VT",Chittenden County
-59878,5403,VT,202506,2512.59,0.0007,0.0469,South Burlington,"Burlington-South Burlington, VT",Chittenden County
-59878,5403,VT,202507,2495.01,-0.007,0.0208,South Burlington,"Burlington-South Burlington, VT",Chittenden County
-59878,5403,VT,202508,2464.1,-0.0124,-0.0337,South Burlington,"Burlington-South Burlington, VT",Chittenden County
-59878,5403,VT,202509,2496.94,0.0133,-0.0445,South Burlington,"Burlington-South Burlington, VT",Chittenden County
-59878,5403,VT,202510,2551.94,0.022,-0.0104,South Burlington,"Burlington-South Burlington, VT",Chittenden County
-59878,5403,VT,202511,2580.39,0.0111,0.058,South Burlington,"Burlington-South Burlington, VT",Chittenden County
-59878,5403,VT,202512,2510.11,-0.0272,0.0401,South Burlington,"Burlington-South Burlington, VT",Chittenden County
-59878,5403,VT,202601,2472.54,-0.015,0.0208,South Burlington,"Burlington-South Burlington, VT",Chittenden County
-59878,5403,VT,202602,2469.28,-0.0013,-0.0216,South Burlington,"Burlington-South Burlington, VT",Chittenden County
-59878,5403,VT,202603,2533.33,0.0259,0.0108,South Burlington,"Burlington-South Burlington, VT",Chittenden County
-59879,5404,VT,202502,2086.4,,,Winooski,"Burlington-South Burlington, VT",Chittenden County
-59879,5404,VT,202503,2058.62,-0.0133,,Winooski,"Burlington-South Burlington, VT",Chittenden County
-59879,5404,VT,202504,2125.1,0.0323,,Winooski,"Burlington-South Burlington, VT",Chittenden County
-59879,5404,VT,202505,2139.24,0.0067,,Winooski,"Burlington-South Burlington, VT",Chittenden County
-59879,5404,VT,202506,2133.77,-0.0026,,Winooski,"Burlington-South Burlington, VT",Chittenden County
-59879,5404,VT,202507,2130.25,-0.0016,,Winooski,"Burlington-South Burlington, VT",Chittenden County
-59879,5404,VT,202508,2185.46,0.0259,,Winooski,"Burlington-South Burlington, VT",Chittenden County
-59879,5404,VT,202509,2209.94,0.0112,,Winooski,"Burlington-South Burlington, VT",Chittenden County
-59879,5404,VT,202510,2182.79,-0.0123,,Winooski,"Burlington-South Burlington, VT",Chittenden County
-59879,5404,VT,202511,2125.83,-0.0261,,Winooski,"Burlington-South Burlington, VT",Chittenden County
-59879,5404,VT,202512,2141.26,0.0073,,Winooski,"Burlington-South Burlington, VT",Chittenden County
-59879,5404,VT,202601,2175.72,0.0161,,Winooski,"Burlington-South Burlington, VT",Chittenden County
-59879,5404,VT,202602,2190.84,0.007,0.0501,Winooski,"Burlington-South Burlington, VT",Chittenden County
-59879,5404,VT,202603,2185.93,-0.0022,0.0618,Winooski,"Burlington-South Burlington, VT",Chittenden County
-59890,5446,VT,202603,2225.0,,,Colchester,"Burlington-South Burlington, VT",Chittenden County
-59896,5452,VT,202602,1856.75,,,Essex,"Burlington-South Burlington, VT",Chittenden County
-59896,5452,VT,202603,1950.0,0.0502,,Essex,"Burlington-South Burlington, VT",Chittenden County
-59934,5495,VT,202602,2150.9,,,Williston,"Burlington-South Burlington, VT",Chittenden County
-59934,5495,VT,202603,2216.25,0.0304,,Williston,"Burlington-South Burlington, VT",Chittenden County
-59945,5641,VT,202511,1285.67,,,Barre,"Barre, VT",Washington County
-59945,5641,VT,202512,1281.97,-0.0029,,Barre,"Barre, VT",Washington County
-59945,5641,VT,202601,1334.63,0.0411,,Barre,"Barre, VT",Washington County
-59945,5641,VT,202602,1358.44,0.0178,,Barre,"Barre, VT",Washington County
-59945,5641,VT,202603,1390.0,0.0232,,Barre,"Barre, VT",Washington County
+59768,5001,VT,202602,1866.68,,,Hartford,"Lebanon, NH-VT",Windsor County
+59768,5001,VT,202603,1886.01,0.0104,,Hartford,"Lebanon, NH-VT",Windsor County
+59768,5001,VT,202604,1875.0,-0.0058,,Hartford,"Lebanon, NH-VT",Windsor County
+59829,5149,VT,202604,2300.0,,,Ludlow,"Lebanon, NH-VT",Windsor County
+59836,5156,VT,202604,1350.0,,,Springfield,"Lebanon, NH-VT",Windsor County
+59851,5301,VT,202505,1694.6,,,Brattleboro,,Windham County
+59851,5301,VT,202506,1711.26,0.0098,,Brattleboro,,Windham County
+59851,5301,VT,202507,1715.27,0.0023,,Brattleboro,,Windham County
+59851,5301,VT,202508,1723.82,0.005,,Brattleboro,,Windham County
+59851,5301,VT,202510,1721.92,-0.0011,,Brattleboro,,Windham County
+59851,5301,VT,202511,1705.34,-0.0096,,Brattleboro,,Windham County
+59851,5301,VT,202601,1632.74,-0.0426,,Brattleboro,,Windham County
+59851,5301,VT,202602,1644.43,0.0072,,Brattleboro,,Windham County
+59851,5301,VT,202603,1717.96,0.0447,,Brattleboro,,Windham County
+59851,5301,VT,202604,1844.44,0.0736,,Brattleboro,,Windham County
+59876,5401,VT,201708,1424.39,,,Burlington,"Burlington-South Burlington, VT",Chittenden County
+59876,5401,VT,201709,1433.47,0.0064,,Burlington,"Burlington-South Burlington, VT",Chittenden County
+59876,5401,VT,201710,1409.77,-0.0165,,Burlington,"Burlington-South Burlington, VT",Chittenden County
+59876,5401,VT,201711,1401.37,-0.006,,Burlington,"Burlington-South Burlington, VT",Chittenden County
+59876,5401,VT,201712,1393.04,-0.0059,,Burlington,"Burlington-South Burlington, VT",Chittenden County
+59876,5401,VT,201801,1408.0,0.0107,,Burlington,"Burlington-South Burlington, VT",Chittenden County
+59876,5401,VT,201802,1418.44,0.0074,,Burlington,"Burlington-South Burlington, VT",Chittenden County
+59876,5401,VT,201803,1431.07,0.0089,,Burlington,"Burlington-South Burlington, VT",Chittenden County
+59876,5401,VT,201804,1433.59,0.0018,,Burlington,"Burlington-South Burlington, VT",Chittenden County
+59876,5401,VT,201805,1416.86,-0.0117,,Burlington,"Burlington-South Burlington, VT",Chittenden County
+59876,5401,VT,201806,1425.95,0.0064,,Burlington,"Burlington-South Burlington, VT",Chittenden County
+59876,5401,VT,201807,1401.68,-0.017,,Burlington,"Burlington-South Burlington, VT",Chittenden County
+59876,5401,VT,201808,1436.19,0.0246,0.0083,Burlington,"Burlington-South Burlington, VT",Chittenden County
+59876,5401,VT,201809,1440.73,0.0032,0.0051,Burlington,"Burlington-South Burlington, VT",Chittenden County
+59876,5401,VT,201810,1465.05,0.0169,0.0392,Burlington,"Burlington-South Burlington, VT",Chittenden County
+59876,5401,VT,201811,1458.43,-0.0045,0.0407,Burlington,"Burlington-South Burlington, VT",Chittenden County
+59876,5401,VT,201812,1452.71,-0.0039,0.0428,Burlington,"Burlington-South Burlington, VT",Chittenden County
+59876,5401,VT,201901,1454.48,0.0012,0.033,Burlington,"Burlington-South Burlington, VT",Chittenden County
+59876,5401,VT,201902,1449.53,-0.0034,0.0219,Burlington,"Burlington-South Burlington, VT",Chittenden County
+59876,5401,VT,201903,1443.26,-0.0043,0.0085,Burlington,"Burlington-South Burlington, VT",Chittenden County
+59876,5401,VT,201904,1449.59,0.0044,0.0112,Burlington,"Burlington-South Burlington, VT",Chittenden County
+59876,5401,VT,201905,1440.2,-0.0065,0.0165,Burlington,"Burlington-South Burlington, VT",Chittenden County
+59876,5401,VT,201906,1453.14,0.009,0.0191,Burlington,"Burlington-South Burlington, VT",Chittenden County
+59876,5401,VT,201907,1438.64,-0.01,0.0264,Burlington,"Burlington-South Burlington, VT",Chittenden County
+59876,5401,VT,201908,1466.28,0.0192,0.021,Burlington,"Burlington-South Burlington, VT",Chittenden County
+59876,5401,VT,201909,1481.27,0.0102,0.0281,Burlington,"Burlington-South Burlington, VT",Chittenden County
+59876,5401,VT,201910,1507.1,0.0174,0.0287,Burlington,"Burlington-South Burlington, VT",Chittenden County
+59876,5401,VT,201911,1508.16,0.0007,0.0341,Burlington,"Burlington-South Burlington, VT",Chittenden County
+59876,5401,VT,201912,1491.39,-0.0111,0.0266,Burlington,"Burlington-South Burlington, VT",Chittenden County
+59876,5401,VT,202001,1492.24,0.0006,0.026,Burlington,"Burlington-South Burlington, VT",Chittenden County
+59876,5401,VT,202002,1482.83,-0.0063,0.023,Burlington,"Burlington-South Burlington, VT",Chittenden County
+59876,5401,VT,202003,1493.47,0.0072,0.0348,Burlington,"Burlington-South Burlington, VT",Chittenden County
+59876,5401,VT,202004,1471.67,-0.0146,0.0152,Burlington,"Burlington-South Burlington, VT",Chittenden County
+59876,5401,VT,202005,1475.99,0.0029,0.0249,Burlington,"Burlington-South Burlington, VT",Chittenden County
+59876,5401,VT,202006,1484.6,0.0058,0.0217,Burlington,"Burlington-South Burlington, VT",Chittenden County
+59876,5401,VT,202007,1502.1,0.0118,0.0441,Burlington,"Burlington-South Burlington, VT",Chittenden County
+59876,5401,VT,202008,1534.1,0.0213,0.0463,Burlington,"Burlington-South Burlington, VT",Chittenden County
+59876,5401,VT,202009,1546.67,0.0082,0.0442,Burlington,"Burlington-South Burlington, VT",Chittenden County
+59876,5401,VT,202010,1567.28,0.0133,0.0399,Burlington,"Burlington-South Burlington, VT",Chittenden County
+59876,5401,VT,202012,1541.89,-0.0162,0.0224,Burlington,"Burlington-South Burlington, VT",Chittenden County
+59876,5401,VT,202101,1528.31,-0.0088,0.0248,Burlington,"Burlington-South Burlington, VT",Chittenden County
+59876,5401,VT,202102,1532.04,0.0024,0.0267,Burlington,"Burlington-South Burlington, VT",Chittenden County
+59876,5401,VT,202103,1525.95,-0.004,0.0291,Burlington,"Burlington-South Burlington, VT",Chittenden County
+59876,5401,VT,202104,1547.68,0.0142,0.0363,Burlington,"Burlington-South Burlington, VT",Chittenden County
+59876,5401,VT,202105,1581.85,0.0221,0.0749,Burlington,"Burlington-South Burlington, VT",Chittenden County
+59876,5401,VT,202106,1616.82,0.0221,0.0954,Burlington,"Burlington-South Burlington, VT",Chittenden County
+59876,5401,VT,202107,1637.23,0.0126,0.1028,Burlington,"Burlington-South Burlington, VT",Chittenden County
+59876,5401,VT,202108,1663.66,0.0161,0.1076,Burlington,"Burlington-South Burlington, VT",Chittenden County
+59876,5401,VT,202109,1666.0,0.0014,0.086,Burlington,"Burlington-South Burlington, VT",Chittenden County
+59876,5401,VT,202110,1675.35,0.0056,0.0832,Burlington,"Burlington-South Burlington, VT",Chittenden County
+59876,5401,VT,202111,1658.94,-0.0098,0.0585,Burlington,"Burlington-South Burlington, VT",Chittenden County
+59876,5401,VT,202112,1670.36,0.0069,0.0833,Burlington,"Burlington-South Burlington, VT",Chittenden County
+59876,5401,VT,202201,1672.43,0.0012,0.0943,Burlington,"Burlington-South Burlington, VT",Chittenden County
+59876,5401,VT,202202,1690.68,0.0109,0.1035,Burlington,"Burlington-South Burlington, VT",Chittenden County
+59876,5401,VT,202203,1697.9,0.0043,0.1127,Burlington,"Burlington-South Burlington, VT",Chittenden County
+59876,5401,VT,202204,1723.53,0.0151,0.1136,Burlington,"Burlington-South Burlington, VT",Chittenden County
+59876,5401,VT,202205,1781.11,0.0334,0.126,Burlington,"Burlington-South Burlington, VT",Chittenden County
+59876,5401,VT,202206,1819.5,0.0216,0.1254,Burlington,"Burlington-South Burlington, VT",Chittenden County
+59876,5401,VT,202207,1849.37,0.0164,0.1296,Burlington,"Burlington-South Burlington, VT",Chittenden County
+59876,5401,VT,202208,1863.69,0.0077,0.1202,Burlington,"Burlington-South Burlington, VT",Chittenden County
+59876,5401,VT,202209,1866.29,0.0014,0.1202,Burlington,"Burlington-South Burlington, VT",Chittenden County
+59876,5401,VT,202210,1879.0,0.0068,0.1216,Burlington,"Burlington-South Burlington, VT",Chittenden County
+59876,5401,VT,202211,1863.11,-0.0085,0.1231,Burlington,"Burlington-South Burlington, VT",Chittenden County
+59876,5401,VT,202212,1861.93,-0.0006,0.1147,Burlington,"Burlington-South Burlington, VT",Chittenden County
+59876,5401,VT,202301,1854.53,-0.004,0.1089,Burlington,"Burlington-South Burlington, VT",Chittenden County
+59876,5401,VT,202302,1867.25,0.0069,0.1044,Burlington,"Burlington-South Burlington, VT",Chittenden County
+59876,5401,VT,202303,1886.39,0.0103,0.111,Burlington,"Burlington-South Burlington, VT",Chittenden County
+59876,5401,VT,202304,1893.58,0.0038,0.0987,Burlington,"Burlington-South Burlington, VT",Chittenden County
+59876,5401,VT,202305,1897.7,0.0022,0.0655,Burlington,"Burlington-South Burlington, VT",Chittenden County
+59876,5401,VT,202306,1928.17,0.0161,0.0597,Burlington,"Burlington-South Burlington, VT",Chittenden County
+59876,5401,VT,202307,1951.81,0.0123,0.0554,Burlington,"Burlington-South Burlington, VT",Chittenden County
+59876,5401,VT,202308,1963.31,0.0059,0.0535,Burlington,"Burlington-South Burlington, VT",Chittenden County
+59876,5401,VT,202309,1956.85,-0.0033,0.0485,Burlington,"Burlington-South Burlington, VT",Chittenden County
+59876,5401,VT,202310,1965.42,0.0044,0.046,Burlington,"Burlington-South Burlington, VT",Chittenden County
+59876,5401,VT,202311,1963.67,-0.0009,0.054,Burlington,"Burlington-South Burlington, VT",Chittenden County
+59876,5401,VT,202312,1950.87,-0.0065,0.0478,Burlington,"Burlington-South Burlington, VT",Chittenden County
+59876,5401,VT,202401,1951.13,0.0001,0.0521,Burlington,"Burlington-South Burlington, VT",Chittenden County
+59876,5401,VT,202402,1944.75,-0.0033,0.0415,Burlington,"Burlington-South Burlington, VT",Chittenden County
+59876,5401,VT,202403,1956.28,0.0059,0.037,Burlington,"Burlington-South Burlington, VT",Chittenden County
+59876,5401,VT,202404,1959.39,0.0016,0.0348,Burlington,"Burlington-South Burlington, VT",Chittenden County
+59876,5401,VT,202405,1990.61,0.0159,0.049,Burlington,"Burlington-South Burlington, VT",Chittenden County
+59876,5401,VT,202406,2001.74,0.0056,0.0382,Burlington,"Burlington-South Burlington, VT",Chittenden County
+59876,5401,VT,202407,2009.6,0.0039,0.0296,Burlington,"Burlington-South Burlington, VT",Chittenden County
+59876,5401,VT,202408,2018.74,0.0045,0.0282,Burlington,"Burlington-South Burlington, VT",Chittenden County
+59876,5401,VT,202409,2040.8,0.0109,0.0429,Burlington,"Burlington-South Burlington, VT",Chittenden County
+59876,5401,VT,202410,2041.06,0.0001,0.0385,Burlington,"Burlington-South Burlington, VT",Chittenden County
+59876,5401,VT,202411,2025.64,-0.0076,0.0316,Burlington,"Burlington-South Burlington, VT",Chittenden County
+59876,5401,VT,202412,2003.3,-0.011,0.0269,Burlington,"Burlington-South Burlington, VT",Chittenden County
+59876,5401,VT,202501,2004.07,0.0004,0.0271,Burlington,"Burlington-South Burlington, VT",Chittenden County
+59876,5401,VT,202502,1998.43,-0.0028,0.0276,Burlington,"Burlington-South Burlington, VT",Chittenden County
+59876,5401,VT,202503,2016.27,0.0089,0.0307,Burlington,"Burlington-South Burlington, VT",Chittenden County
+59876,5401,VT,202504,2012.41,-0.0019,0.0271,Burlington,"Burlington-South Burlington, VT",Chittenden County
+59876,5401,VT,202505,2019.75,0.0036,0.0146,Burlington,"Burlington-South Burlington, VT",Chittenden County
+59876,5401,VT,202506,2025.52,0.0029,0.0119,Burlington,"Burlington-South Burlington, VT",Chittenden County
+59876,5401,VT,202507,2025.65,0.0001,0.008,Burlington,"Burlington-South Burlington, VT",Chittenden County
+59876,5401,VT,202508,2043.49,0.0088,0.0123,Burlington,"Burlington-South Burlington, VT",Chittenden County
+59876,5401,VT,202509,2050.67,0.0035,0.0048,Burlington,"Burlington-South Burlington, VT",Chittenden County
+59876,5401,VT,202510,2065.63,0.0073,0.012,Burlington,"Burlington-South Burlington, VT",Chittenden County
+59876,5401,VT,202511,2055.72,-0.0048,0.0149,Burlington,"Burlington-South Burlington, VT",Chittenden County
+59876,5401,VT,202512,1988.34,-0.0328,-0.0075,Burlington,"Burlington-South Burlington, VT",Chittenden County
+59876,5401,VT,202601,1973.23,-0.0076,-0.0154,Burlington,"Burlington-South Burlington, VT",Chittenden County
+59876,5401,VT,202602,1972.56,-0.0003,-0.0129,Burlington,"Burlington-South Burlington, VT",Chittenden County
+59876,5401,VT,202603,2026.51,0.0273,0.0051,Burlington,"Burlington-South Burlington, VT",Chittenden County
+59876,5401,VT,202604,2032.92,0.0032,0.0102,Burlington,"Burlington-South Burlington, VT",Chittenden County
+59878,5403,VT,202401,2420.88,,,South Burlington,"Burlington-South Burlington, VT",Chittenden County
+59878,5403,VT,202402,2402.52,-0.0076,,South Burlington,"Burlington-South Burlington, VT",Chittenden County
+59878,5403,VT,202403,2477.09,0.031,,South Burlington,"Burlington-South Burlington, VT",Chittenden County
+59878,5403,VT,202404,2489.6,0.0051,,South Burlington,"Burlington-South Burlington, VT",Chittenden County
+59878,5403,VT,202405,2506.76,0.0069,,South Burlington,"Burlington-South Burlington, VT",Chittenden County
+59878,5403,VT,202406,2454.49,-0.0209,,South Burlington,"Burlington-South Burlington, VT",Chittenden County
+59878,5403,VT,202407,2499.78,0.0185,,South Burlington,"Burlington-South Burlington, VT",Chittenden County
+59878,5403,VT,202408,2599.92,0.0401,,South Burlington,"Burlington-South Burlington, VT",Chittenden County
+59878,5403,VT,202409,2653.12,0.0205,,South Burlington,"Burlington-South Burlington, VT",Chittenden County
+59878,5403,VT,202410,2630.86,-0.0084,,South Burlington,"Burlington-South Burlington, VT",Chittenden County
+59878,5403,VT,202411,2500.45,-0.0496,,South Burlington,"Burlington-South Burlington, VT",Chittenden County
+59878,5403,VT,202412,2483.04,-0.007,,South Burlington,"Burlington-South Burlington, VT",Chittenden County
+59878,5403,VT,202501,2478.07,-0.002,0.0236,South Burlington,"Burlington-South Burlington, VT",Chittenden County
+59878,5403,VT,202502,2574.51,0.0389,0.0716,South Burlington,"Burlington-South Burlington, VT",Chittenden County
+59878,5403,VT,202503,2560.71,-0.0054,0.0338,South Burlington,"Burlington-South Burlington, VT",Chittenden County
+59878,5403,VT,202504,2610.23,0.0193,0.0485,South Burlington,"Burlington-South Burlington, VT",Chittenden County
+59878,5403,VT,202505,2567.31,-0.0164,0.0242,South Burlington,"Burlington-South Burlington, VT",Chittenden County
+59878,5403,VT,202506,2568.62,0.0005,0.0465,South Burlington,"Burlington-South Burlington, VT",Chittenden County
+59878,5403,VT,202507,2552.51,-0.0063,0.0211,South Burlington,"Burlington-South Burlington, VT",Chittenden County
+59878,5403,VT,202508,2523.1,-0.0115,-0.0295,South Burlington,"Burlington-South Burlington, VT",Chittenden County
+59878,5403,VT,202509,2550.05,0.0107,-0.0388,South Burlington,"Burlington-South Burlington, VT",Chittenden County
+59878,5403,VT,202510,2602.03,0.0204,-0.011,South Burlington,"Burlington-South Burlington, VT",Chittenden County
+59878,5403,VT,202511,2634.01,0.0123,0.0534,South Burlington,"Burlington-South Burlington, VT",Chittenden County
+59878,5403,VT,202512,2568.36,-0.0249,0.0344,South Burlington,"Burlington-South Burlington, VT",Chittenden County
+59878,5403,VT,202601,2528.96,-0.0153,0.0205,South Burlington,"Burlington-South Burlington, VT",Chittenden County
+59878,5403,VT,202602,2522.87,-0.0024,-0.0201,South Burlington,"Burlington-South Burlington, VT",Chittenden County
+59878,5403,VT,202603,2589.28,0.0263,0.0112,South Burlington,"Burlington-South Burlington, VT",Chittenden County
+59878,5403,VT,202604,2615.28,0.01,0.0019,South Burlington,"Burlington-South Burlington, VT",Chittenden County
+59879,5404,VT,202502,2001.06,,,Winooski,"Burlington-South Burlington, VT",Chittenden County
+59879,5404,VT,202503,1974.49,-0.0133,,Winooski,"Burlington-South Burlington, VT",Chittenden County
+59879,5404,VT,202504,2039.29,0.0328,,Winooski,"Burlington-South Burlington, VT",Chittenden County
+59879,5404,VT,202505,2053.21,0.0068,,Winooski,"Burlington-South Burlington, VT",Chittenden County
+59879,5404,VT,202506,2048.47,-0.0023,,Winooski,"Burlington-South Burlington, VT",Chittenden County
+59879,5404,VT,202507,2032.64,-0.0077,,Winooski,"Burlington-South Burlington, VT",Chittenden County
+59879,5404,VT,202508,2088.1,0.0273,,Winooski,"Burlington-South Burlington, VT",Chittenden County
+59879,5404,VT,202509,2111.49,0.0112,,Winooski,"Burlington-South Burlington, VT",Chittenden County
+59879,5404,VT,202510,2097.64,-0.0066,,Winooski,"Burlington-South Burlington, VT",Chittenden County
+59879,5404,VT,202511,2041.6,-0.0267,,Winooski,"Burlington-South Burlington, VT",Chittenden County
+59879,5404,VT,202512,2056.96,0.0075,,Winooski,"Burlington-South Burlington, VT",Chittenden County
+59879,5404,VT,202601,2090.2,0.0162,,Winooski,"Burlington-South Burlington, VT",Chittenden County
+59879,5404,VT,202602,2105.5,0.0073,0.0522,Winooski,"Burlington-South Burlington, VT",Chittenden County
+59879,5404,VT,202603,2100.77,-0.0022,0.064,Winooski,"Burlington-South Burlington, VT",Chittenden County
+59879,5404,VT,202604,2126.67,0.0123,0.0428,Winooski,"Burlington-South Burlington, VT",Chittenden County
+59890,5446,VT,202603,2105.27,,,Colchester,"Burlington-South Burlington, VT",Chittenden County
+59890,5446,VT,202604,2122.5,0.0082,,Colchester,"Burlington-South Burlington, VT",Chittenden County
+59896,5452,VT,202602,1848.28,,,Essex,"Burlington-South Burlington, VT",Chittenden County
+59896,5452,VT,202603,1946.58,0.0532,,Essex,"Burlington-South Burlington, VT",Chittenden County
+59896,5452,VT,202604,1897.22,-0.0254,,Essex,"Burlington-South Burlington, VT",Chittenden County
+59923,5482,VT,202604,1950.0,,,Shelburne,"Burlington-South Burlington, VT",Chittenden County
+59938,5602,VT,202604,1597.5,,,Montpelier,"Barre, VT",Washington County
+59945,5641,VT,202511,1249.21,,,Barre,"Barre, VT",Washington County
+59945,5641,VT,202512,1244.83,-0.0035,,Barre,"Barre, VT",Washington County
+59945,5641,VT,202601,1288.81,0.0353,,Barre,"Barre, VT",Washington County
+59945,5641,VT,202602,1311.12,0.0173,,Barre,"Barre, VT",Washington County
+59945,5641,VT,202603,1339.13,0.0214,,Barre,"Barre, VT",Washington County
+59945,5641,VT,202604,1425.0,0.0641,,Barre,"Barre, VT",Washington County
+59959,5661,VT,202604,1733.33,,,Morristown,,Lamoille County
+59969,5672,VT,202604,2350.0,,,Stowe,,Lamoille County
+59980,5701,VT,202604,1500.0,,,Rutland,"Rutland, VT",Rutland County
+399516,5408,VT,202604,2775.0,,,Burlington,"Burlington-South Burlington, VT",Chittenden County

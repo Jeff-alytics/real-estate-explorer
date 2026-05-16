@@ -1,537 +1,546 @@
 RegionID,RegionName,State,month_date_yyyymm,zori,zori_mm,zori_yy,City,Metro,CountyName
-93851,82001,WY,201605,813.4,,,Cheyenne,"Cheyenne, WY",Laramie County
-93851,82001,WY,201606,813.46,0.0001,,Cheyenne,"Cheyenne, WY",Laramie County
-93851,82001,WY,201607,808.06,-0.0066,,Cheyenne,"Cheyenne, WY",Laramie County
-93851,82001,WY,201608,812.64,0.0057,,Cheyenne,"Cheyenne, WY",Laramie County
-93851,82001,WY,201609,813.73,0.0013,,Cheyenne,"Cheyenne, WY",Laramie County
-93851,82001,WY,201610,811.92,-0.0022,,Cheyenne,"Cheyenne, WY",Laramie County
-93851,82001,WY,201611,806.78,-0.0063,,Cheyenne,"Cheyenne, WY",Laramie County
-93851,82001,WY,201612,803.45,-0.0041,,Cheyenne,"Cheyenne, WY",Laramie County
-93851,82001,WY,201701,801.72,-0.0021,,Cheyenne,"Cheyenne, WY",Laramie County
-93851,82001,WY,201702,803.97,0.0028,,Cheyenne,"Cheyenne, WY",Laramie County
-93851,82001,WY,201703,807.04,0.0038,,Cheyenne,"Cheyenne, WY",Laramie County
-93851,82001,WY,201704,812.98,0.0074,,Cheyenne,"Cheyenne, WY",Laramie County
-93851,82001,WY,201705,816.42,0.0042,0.0037,Cheyenne,"Cheyenne, WY",Laramie County
-93851,82001,WY,201706,817.75,0.0016,0.0053,Cheyenne,"Cheyenne, WY",Laramie County
-93851,82001,WY,201707,812.36,-0.0066,0.0053,Cheyenne,"Cheyenne, WY",Laramie County
-93851,82001,WY,201708,816.07,0.0046,0.0042,Cheyenne,"Cheyenne, WY",Laramie County
-93851,82001,WY,201709,811.96,-0.005,-0.0022,Cheyenne,"Cheyenne, WY",Laramie County
-93851,82001,WY,201710,820.8,0.0109,0.0109,Cheyenne,"Cheyenne, WY",Laramie County
-93851,82001,WY,201711,816.98,-0.0047,0.0126,Cheyenne,"Cheyenne, WY",Laramie County
-93851,82001,WY,201712,822.86,0.0072,0.0242,Cheyenne,"Cheyenne, WY",Laramie County
-93851,82001,WY,201801,820.39,-0.003,0.0233,Cheyenne,"Cheyenne, WY",Laramie County
-93851,82001,WY,201802,821.42,0.0013,0.0217,Cheyenne,"Cheyenne, WY",Laramie County
-93851,82001,WY,201803,816.73,-0.0057,0.012,Cheyenne,"Cheyenne, WY",Laramie County
-93851,82001,WY,201804,819.46,0.0033,0.008,Cheyenne,"Cheyenne, WY",Laramie County
-93851,82001,WY,201805,823.4,0.0048,0.0085,Cheyenne,"Cheyenne, WY",Laramie County
-93851,82001,WY,201806,826.44,0.0037,0.0106,Cheyenne,"Cheyenne, WY",Laramie County
-93851,82001,WY,201807,831.9,0.0066,0.0241,Cheyenne,"Cheyenne, WY",Laramie County
-93851,82001,WY,201808,836.34,0.0053,0.0248,Cheyenne,"Cheyenne, WY",Laramie County
-93851,82001,WY,201809,846.65,0.0123,0.0427,Cheyenne,"Cheyenne, WY",Laramie County
-93851,82001,WY,201810,841.72,-0.0058,0.0255,Cheyenne,"Cheyenne, WY",Laramie County
-93851,82001,WY,201811,844.96,0.0039,0.0343,Cheyenne,"Cheyenne, WY",Laramie County
-93851,82001,WY,201812,843.26,-0.002,0.0248,Cheyenne,"Cheyenne, WY",Laramie County
-93851,82001,WY,201901,851.65,0.0099,0.0381,Cheyenne,"Cheyenne, WY",Laramie County
-93851,82001,WY,201902,848.09,-0.0042,0.0325,Cheyenne,"Cheyenne, WY",Laramie County
-93851,82001,WY,201903,853.0,0.0058,0.0444,Cheyenne,"Cheyenne, WY",Laramie County
-93851,82001,WY,201904,852.26,-0.0009,0.04,Cheyenne,"Cheyenne, WY",Laramie County
-93851,82001,WY,201905,858.48,0.0073,0.0426,Cheyenne,"Cheyenne, WY",Laramie County
-93851,82001,WY,201906,863.43,0.0058,0.0448,Cheyenne,"Cheyenne, WY",Laramie County
-93851,82001,WY,201907,870.7,0.0084,0.0466,Cheyenne,"Cheyenne, WY",Laramie County
-93851,82001,WY,201908,879.08,0.0096,0.0511,Cheyenne,"Cheyenne, WY",Laramie County
-93851,82001,WY,201909,884.01,0.0056,0.0441,Cheyenne,"Cheyenne, WY",Laramie County
-93851,82001,WY,201910,887.2,0.0036,0.054,Cheyenne,"Cheyenne, WY",Laramie County
-93851,82001,WY,201911,883.95,-0.0037,0.0461,Cheyenne,"Cheyenne, WY",Laramie County
-93851,82001,WY,201912,883.1,-0.001,0.0472,Cheyenne,"Cheyenne, WY",Laramie County
-93851,82001,WY,202001,887.5,0.005,0.0421,Cheyenne,"Cheyenne, WY",Laramie County
-93851,82001,WY,202002,897.93,0.0118,0.0588,Cheyenne,"Cheyenne, WY",Laramie County
-93851,82001,WY,202003,892.21,-0.0064,0.046,Cheyenne,"Cheyenne, WY",Laramie County
-93851,82001,WY,202004,886.29,-0.0066,0.0399,Cheyenne,"Cheyenne, WY",Laramie County
-93851,82001,WY,202005,884.78,-0.0017,0.0306,Cheyenne,"Cheyenne, WY",Laramie County
-93851,82001,WY,202006,898.89,0.016,0.0411,Cheyenne,"Cheyenne, WY",Laramie County
-93851,82001,WY,202007,911.3,0.0138,0.0466,Cheyenne,"Cheyenne, WY",Laramie County
-93851,82001,WY,202008,920.98,0.0106,0.0477,Cheyenne,"Cheyenne, WY",Laramie County
-93851,82001,WY,202009,925.76,0.0052,0.0472,Cheyenne,"Cheyenne, WY",Laramie County
-93851,82001,WY,202010,930.71,0.0053,0.049,Cheyenne,"Cheyenne, WY",Laramie County
-93851,82001,WY,202011,934.48,0.0041,0.0572,Cheyenne,"Cheyenne, WY",Laramie County
-93851,82001,WY,202012,955.33,0.0223,0.0818,Cheyenne,"Cheyenne, WY",Laramie County
-93851,82001,WY,202101,950.98,-0.0046,0.0715,Cheyenne,"Cheyenne, WY",Laramie County
-93851,82001,WY,202102,945.88,-0.0054,0.0534,Cheyenne,"Cheyenne, WY",Laramie County
-93851,82001,WY,202103,934.75,-0.0118,0.0477,Cheyenne,"Cheyenne, WY",Laramie County
-93851,82001,WY,202104,938.12,0.0036,0.0585,Cheyenne,"Cheyenne, WY",Laramie County
-93851,82001,WY,202105,951.91,0.0147,0.0759,Cheyenne,"Cheyenne, WY",Laramie County
-93851,82001,WY,202106,963.76,0.0124,0.0722,Cheyenne,"Cheyenne, WY",Laramie County
-93851,82001,WY,202107,985.57,0.0226,0.0815,Cheyenne,"Cheyenne, WY",Laramie County
-93851,82001,WY,202108,991.36,0.0059,0.0764,Cheyenne,"Cheyenne, WY",Laramie County
-93851,82001,WY,202109,1002.1,0.0108,0.0825,Cheyenne,"Cheyenne, WY",Laramie County
-93851,82001,WY,202110,1012.49,0.0104,0.0879,Cheyenne,"Cheyenne, WY",Laramie County
-93851,82001,WY,202111,1026.85,0.0142,0.0988,Cheyenne,"Cheyenne, WY",Laramie County
-93851,82001,WY,202112,1026.0,-0.0008,0.074,Cheyenne,"Cheyenne, WY",Laramie County
-93851,82001,WY,202201,1012.24,-0.0134,0.0644,Cheyenne,"Cheyenne, WY",Laramie County
-93851,82001,WY,202202,1011.41,-0.0008,0.0693,Cheyenne,"Cheyenne, WY",Laramie County
-93851,82001,WY,202203,1015.72,0.0043,0.0866,Cheyenne,"Cheyenne, WY",Laramie County
-93851,82001,WY,202204,1037.1,0.021,0.1055,Cheyenne,"Cheyenne, WY",Laramie County
-93851,82001,WY,202205,1045.49,0.0081,0.0983,Cheyenne,"Cheyenne, WY",Laramie County
-93851,82001,WY,202206,1052.75,0.0069,0.0923,Cheyenne,"Cheyenne, WY",Laramie County
-93851,82001,WY,202207,1054.88,0.002,0.0703,Cheyenne,"Cheyenne, WY",Laramie County
-93851,82001,WY,202208,1068.85,0.0132,0.0782,Cheyenne,"Cheyenne, WY",Laramie County
-93851,82001,WY,202209,1066.11,-0.0026,0.0639,Cheyenne,"Cheyenne, WY",Laramie County
-93851,82001,WY,202210,1069.17,0.0029,0.056,Cheyenne,"Cheyenne, WY",Laramie County
-93851,82001,WY,202211,1056.81,-0.0116,0.0292,Cheyenne,"Cheyenne, WY",Laramie County
-93851,82001,WY,202212,1066.84,0.0095,0.0398,Cheyenne,"Cheyenne, WY",Laramie County
-93851,82001,WY,202301,1082.71,0.0149,0.0696,Cheyenne,"Cheyenne, WY",Laramie County
-93851,82001,WY,202302,1090.14,0.0069,0.0778,Cheyenne,"Cheyenne, WY",Laramie County
-93851,82001,WY,202303,1093.28,0.0029,0.0764,Cheyenne,"Cheyenne, WY",Laramie County
-93851,82001,WY,202304,1084.21,-0.0083,0.0454,Cheyenne,"Cheyenne, WY",Laramie County
-93851,82001,WY,202305,1085.68,0.0014,0.0384,Cheyenne,"Cheyenne, WY",Laramie County
-93851,82001,WY,202306,1091.08,0.005,0.0364,Cheyenne,"Cheyenne, WY",Laramie County
-93851,82001,WY,202307,1093.86,0.0025,0.0369,Cheyenne,"Cheyenne, WY",Laramie County
-93851,82001,WY,202308,1104.1,0.0094,0.033,Cheyenne,"Cheyenne, WY",Laramie County
-93851,82001,WY,202309,1101.4,-0.0024,0.0331,Cheyenne,"Cheyenne, WY",Laramie County
-93851,82001,WY,202310,1108.11,0.0061,0.0364,Cheyenne,"Cheyenne, WY",Laramie County
-93851,82001,WY,202311,1104.26,-0.0035,0.0449,Cheyenne,"Cheyenne, WY",Laramie County
-93851,82001,WY,202312,1117.94,0.0124,0.0479,Cheyenne,"Cheyenne, WY",Laramie County
-93851,82001,WY,202401,1124.46,0.0058,0.0386,Cheyenne,"Cheyenne, WY",Laramie County
-93851,82001,WY,202402,1134.26,0.0087,0.0405,Cheyenne,"Cheyenne, WY",Laramie County
-93851,82001,WY,202403,1138.36,0.0036,0.0412,Cheyenne,"Cheyenne, WY",Laramie County
-93851,82001,WY,202404,1140.98,0.0023,0.0524,Cheyenne,"Cheyenne, WY",Laramie County
-93851,82001,WY,202405,1139.85,-0.001,0.0499,Cheyenne,"Cheyenne, WY",Laramie County
-93851,82001,WY,202406,1138.27,-0.0014,0.0433,Cheyenne,"Cheyenne, WY",Laramie County
-93851,82001,WY,202407,1138.83,0.0005,0.0411,Cheyenne,"Cheyenne, WY",Laramie County
-93851,82001,WY,202408,1148.25,0.0083,0.04,Cheyenne,"Cheyenne, WY",Laramie County
-93851,82001,WY,202409,1151.44,0.0028,0.0454,Cheyenne,"Cheyenne, WY",Laramie County
-93851,82001,WY,202410,1157.24,0.005,0.0443,Cheyenne,"Cheyenne, WY",Laramie County
-93851,82001,WY,202411,1154.91,-0.002,0.0459,Cheyenne,"Cheyenne, WY",Laramie County
-93851,82001,WY,202412,1151.03,-0.0034,0.0296,Cheyenne,"Cheyenne, WY",Laramie County
-93851,82001,WY,202501,1146.94,-0.0036,0.02,Cheyenne,"Cheyenne, WY",Laramie County
-93851,82001,WY,202502,1161.08,0.0123,0.0236,Cheyenne,"Cheyenne, WY",Laramie County
-93851,82001,WY,202503,1177.19,0.0139,0.0341,Cheyenne,"Cheyenne, WY",Laramie County
-93851,82001,WY,202504,1196.37,0.0163,0.0485,Cheyenne,"Cheyenne, WY",Laramie County
-93851,82001,WY,202505,1206.46,0.0084,0.0584,Cheyenne,"Cheyenne, WY",Laramie County
-93851,82001,WY,202506,1217.08,0.0088,0.0692,Cheyenne,"Cheyenne, WY",Laramie County
-93851,82001,WY,202507,1224.82,0.0064,0.0755,Cheyenne,"Cheyenne, WY",Laramie County
-93851,82001,WY,202508,1211.7,-0.0107,0.0553,Cheyenne,"Cheyenne, WY",Laramie County
-93851,82001,WY,202509,1205.91,-0.0048,0.0473,Cheyenne,"Cheyenne, WY",Laramie County
-93851,82001,WY,202510,1211.23,0.0044,0.0467,Cheyenne,"Cheyenne, WY",Laramie County
-93851,82001,WY,202511,1212.87,0.0014,0.0502,Cheyenne,"Cheyenne, WY",Laramie County
-93851,82001,WY,202512,1204.31,-0.0071,0.0463,Cheyenne,"Cheyenne, WY",Laramie County
-93851,82001,WY,202601,1214.67,0.0086,0.0591,Cheyenne,"Cheyenne, WY",Laramie County
-93851,82001,WY,202602,1218.85,0.0034,0.0498,Cheyenne,"Cheyenne, WY",Laramie County
-93851,82001,WY,202603,1249.59,0.0252,0.0615,Cheyenne,"Cheyenne, WY",Laramie County
-93856,82007,WY,202110,1324.69,,,Cheyenne,"Cheyenne, WY",Laramie County
-93856,82007,WY,202111,1305.2,-0.0147,,Cheyenne,"Cheyenne, WY",Laramie County
-93856,82007,WY,202112,1280.13,-0.0192,,Cheyenne,"Cheyenne, WY",Laramie County
-93856,82007,WY,202201,1303.42,0.0182,,Cheyenne,"Cheyenne, WY",Laramie County
-93856,82007,WY,202202,1340.64,0.0286,,Cheyenne,"Cheyenne, WY",Laramie County
-93856,82007,WY,202203,1318.94,-0.0162,,Cheyenne,"Cheyenne, WY",Laramie County
-93856,82007,WY,202204,1315.01,-0.003,,Cheyenne,"Cheyenne, WY",Laramie County
-93856,82007,WY,202205,1318.71,0.0028,,Cheyenne,"Cheyenne, WY",Laramie County
-93856,82007,WY,202206,1354.89,0.0274,,Cheyenne,"Cheyenne, WY",Laramie County
-93856,82007,WY,202207,1358.07,0.0023,,Cheyenne,"Cheyenne, WY",Laramie County
-93856,82007,WY,202208,1365.75,0.0057,,Cheyenne,"Cheyenne, WY",Laramie County
-93856,82007,WY,202209,1362.94,-0.0021,,Cheyenne,"Cheyenne, WY",Laramie County
-93856,82007,WY,202210,1370.7,0.0057,0.0347,Cheyenne,"Cheyenne, WY",Laramie County
-93856,82007,WY,202211,1355.85,-0.0108,0.0388,Cheyenne,"Cheyenne, WY",Laramie County
-93856,82007,WY,202212,1328.91,-0.0199,0.0381,Cheyenne,"Cheyenne, WY",Laramie County
-93856,82007,WY,202301,1337.75,0.0067,0.0263,Cheyenne,"Cheyenne, WY",Laramie County
-93856,82007,WY,202302,1355.47,0.0132,0.0111,Cheyenne,"Cheyenne, WY",Laramie County
-93856,82007,WY,202303,1392.78,0.0275,0.056,Cheyenne,"Cheyenne, WY",Laramie County
-93856,82007,WY,202304,1375.65,-0.0123,0.0461,Cheyenne,"Cheyenne, WY",Laramie County
-93856,82007,WY,202305,1370.63,-0.0037,0.0394,Cheyenne,"Cheyenne, WY",Laramie County
-93856,82007,WY,202306,1356.43,-0.0104,0.0011,Cheyenne,"Cheyenne, WY",Laramie County
-93856,82007,WY,202307,1384.37,0.0206,0.0194,Cheyenne,"Cheyenne, WY",Laramie County
-93856,82007,WY,202308,1400.37,0.0116,0.0253,Cheyenne,"Cheyenne, WY",Laramie County
-93856,82007,WY,202309,1421.03,0.0148,0.0426,Cheyenne,"Cheyenne, WY",Laramie County
-93856,82007,WY,202310,1418.56,-0.0017,0.0349,Cheyenne,"Cheyenne, WY",Laramie County
-93856,82007,WY,202311,1413.69,-0.0034,0.0427,Cheyenne,"Cheyenne, WY",Laramie County
-93856,82007,WY,202312,1410.41,-0.0023,0.0613,Cheyenne,"Cheyenne, WY",Laramie County
-93856,82007,WY,202401,1422.8,0.0088,0.0636,Cheyenne,"Cheyenne, WY",Laramie County
-93856,82007,WY,202402,1433.23,0.0073,0.0574,Cheyenne,"Cheyenne, WY",Laramie County
-93856,82007,WY,202403,1433.42,0.0001,0.0292,Cheyenne,"Cheyenne, WY",Laramie County
-93856,82007,WY,202404,1436.28,0.002,0.0441,Cheyenne,"Cheyenne, WY",Laramie County
-93856,82007,WY,202405,1444.59,0.0058,0.054,Cheyenne,"Cheyenne, WY",Laramie County
-93856,82007,WY,202406,1457.95,0.0092,0.0748,Cheyenne,"Cheyenne, WY",Laramie County
-93856,82007,WY,202407,1459.08,0.0008,0.054,Cheyenne,"Cheyenne, WY",Laramie County
-93856,82007,WY,202408,1460.47,0.001,0.0429,Cheyenne,"Cheyenne, WY",Laramie County
-93856,82007,WY,202409,1458.49,-0.0014,0.0264,Cheyenne,"Cheyenne, WY",Laramie County
-93856,82007,WY,202410,1461.61,0.0021,0.0303,Cheyenne,"Cheyenne, WY",Laramie County
-93856,82007,WY,202411,1459.75,-0.0013,0.0326,Cheyenne,"Cheyenne, WY",Laramie County
-93856,82007,WY,202412,1467.24,0.0051,0.0403,Cheyenne,"Cheyenne, WY",Laramie County
-93856,82007,WY,202501,1470.81,0.0024,0.0337,Cheyenne,"Cheyenne, WY",Laramie County
-93856,82007,WY,202502,1489.88,0.013,0.0395,Cheyenne,"Cheyenne, WY",Laramie County
-93856,82007,WY,202503,1488.84,-0.0007,0.0387,Cheyenne,"Cheyenne, WY",Laramie County
-93856,82007,WY,202504,1485.42,-0.0023,0.0342,Cheyenne,"Cheyenne, WY",Laramie County
-93856,82007,WY,202505,1481.8,-0.0024,0.0258,Cheyenne,"Cheyenne, WY",Laramie County
-93856,82007,WY,202506,1490.26,0.0057,0.0222,Cheyenne,"Cheyenne, WY",Laramie County
-93856,82007,WY,202507,1510.71,0.0137,0.0354,Cheyenne,"Cheyenne, WY",Laramie County
-93856,82007,WY,202508,1528.45,0.0117,0.0466,Cheyenne,"Cheyenne, WY",Laramie County
-93856,82007,WY,202509,1544.91,0.0108,0.0593,Cheyenne,"Cheyenne, WY",Laramie County
-93856,82007,WY,202510,1538.14,-0.0044,0.0524,Cheyenne,"Cheyenne, WY",Laramie County
-93856,82007,WY,202511,1552.14,0.0091,0.0633,Cheyenne,"Cheyenne, WY",Laramie County
-93856,82007,WY,202512,1546.95,-0.0033,0.0543,Cheyenne,"Cheyenne, WY",Laramie County
-93856,82007,WY,202601,1552.42,0.0035,0.0555,Cheyenne,"Cheyenne, WY",Laramie County
-93856,82007,WY,202602,1539.43,-0.0084,0.0333,Cheyenne,"Cheyenne, WY",Laramie County
-93856,82007,WY,202603,1564.44,0.0162,0.0508,Cheyenne,"Cheyenne, WY",Laramie County
-93858,82009,WY,201606,1097.6,,,Cheyenne,"Cheyenne, WY",Laramie County
-93858,82009,WY,201607,1090.78,-0.0062,,Cheyenne,"Cheyenne, WY",Laramie County
-93858,82009,WY,201608,1095.63,0.0044,,Cheyenne,"Cheyenne, WY",Laramie County
-93858,82009,WY,201609,1127.86,0.0294,,Cheyenne,"Cheyenne, WY",Laramie County
-93858,82009,WY,201610,1122.78,-0.0045,,Cheyenne,"Cheyenne, WY",Laramie County
-93858,82009,WY,201611,1119.67,-0.0028,,Cheyenne,"Cheyenne, WY",Laramie County
-93858,82009,WY,201612,1108.4,-0.0101,,Cheyenne,"Cheyenne, WY",Laramie County
-93858,82009,WY,201701,1111.9,0.0032,,Cheyenne,"Cheyenne, WY",Laramie County
-93858,82009,WY,201702,1126.71,0.0133,,Cheyenne,"Cheyenne, WY",Laramie County
-93858,82009,WY,201703,1131.7,0.0044,,Cheyenne,"Cheyenne, WY",Laramie County
-93858,82009,WY,201704,1145.0,0.0117,,Cheyenne,"Cheyenne, WY",Laramie County
-93858,82009,WY,201705,1139.12,-0.0051,,Cheyenne,"Cheyenne, WY",Laramie County
-93858,82009,WY,201706,1130.94,-0.0072,0.0304,Cheyenne,"Cheyenne, WY",Laramie County
-93858,82009,WY,201707,1118.09,-0.0114,0.025,Cheyenne,"Cheyenne, WY",Laramie County
-93858,82009,WY,201708,1126.82,0.0078,0.0285,Cheyenne,"Cheyenne, WY",Laramie County
-93858,82009,WY,201709,1131.02,0.0037,0.0028,Cheyenne,"Cheyenne, WY",Laramie County
-93858,82009,WY,201710,1136.72,0.005,0.0124,Cheyenne,"Cheyenne, WY",Laramie County
-93858,82009,WY,201711,1140.53,0.0033,0.0186,Cheyenne,"Cheyenne, WY",Laramie County
-93858,82009,WY,201712,1128.73,-0.0103,0.0183,Cheyenne,"Cheyenne, WY",Laramie County
-93858,82009,WY,201801,1125.73,-0.0027,0.0124,Cheyenne,"Cheyenne, WY",Laramie County
-93858,82009,WY,201802,1125.07,-0.0006,-0.0015,Cheyenne,"Cheyenne, WY",Laramie County
-93858,82009,WY,201803,1133.81,0.0078,0.0019,Cheyenne,"Cheyenne, WY",Laramie County
-93858,82009,WY,201804,1131.15,-0.0023,-0.0121,Cheyenne,"Cheyenne, WY",Laramie County
-93858,82009,WY,201805,1133.01,0.0016,-0.0054,Cheyenne,"Cheyenne, WY",Laramie County
-93858,82009,WY,201806,1142.33,0.0082,0.0101,Cheyenne,"Cheyenne, WY",Laramie County
-93858,82009,WY,201807,1159.27,0.0148,0.0368,Cheyenne,"Cheyenne, WY",Laramie County
-93858,82009,WY,201808,1162.47,0.0028,0.0316,Cheyenne,"Cheyenne, WY",Laramie County
-93858,82009,WY,201809,1179.89,0.015,0.0432,Cheyenne,"Cheyenne, WY",Laramie County
-93858,82009,WY,201810,1191.87,0.0102,0.0485,Cheyenne,"Cheyenne, WY",Laramie County
-93858,82009,WY,201811,1202.61,0.009,0.0544,Cheyenne,"Cheyenne, WY",Laramie County
-93858,82009,WY,201812,1195.72,-0.0057,0.0593,Cheyenne,"Cheyenne, WY",Laramie County
-93858,82009,WY,201901,1197.61,0.0016,0.0639,Cheyenne,"Cheyenne, WY",Laramie County
-93858,82009,WY,201902,1199.11,0.0013,0.0658,Cheyenne,"Cheyenne, WY",Laramie County
-93858,82009,WY,201903,1192.3,-0.0057,0.0516,Cheyenne,"Cheyenne, WY",Laramie County
-93858,82009,WY,201904,1193.46,0.001,0.0551,Cheyenne,"Cheyenne, WY",Laramie County
-93858,82009,WY,201905,1201.31,0.0066,0.0603,Cheyenne,"Cheyenne, WY",Laramie County
-93858,82009,WY,201906,1218.05,0.0139,0.0663,Cheyenne,"Cheyenne, WY",Laramie County
-93858,82009,WY,201907,1217.32,-0.0006,0.0501,Cheyenne,"Cheyenne, WY",Laramie County
-93858,82009,WY,201908,1218.71,0.0011,0.0484,Cheyenne,"Cheyenne, WY",Laramie County
-93858,82009,WY,201909,1228.4,0.008,0.0411,Cheyenne,"Cheyenne, WY",Laramie County
-93858,82009,WY,201910,1242.37,0.0114,0.0424,Cheyenne,"Cheyenne, WY",Laramie County
-93858,82009,WY,201911,1234.58,-0.0063,0.0266,Cheyenne,"Cheyenne, WY",Laramie County
-93858,82009,WY,201912,1228.93,-0.0046,0.0278,Cheyenne,"Cheyenne, WY",Laramie County
-93858,82009,WY,202001,1248.43,0.0159,0.0424,Cheyenne,"Cheyenne, WY",Laramie County
-93858,82009,WY,202002,1270.97,0.0181,0.0599,Cheyenne,"Cheyenne, WY",Laramie County
-93858,82009,WY,202003,1276.65,0.0045,0.0708,Cheyenne,"Cheyenne, WY",Laramie County
-93858,82009,WY,202004,1265.11,-0.009,0.06,Cheyenne,"Cheyenne, WY",Laramie County
-93858,82009,WY,202005,1268.28,0.0025,0.0557,Cheyenne,"Cheyenne, WY",Laramie County
-93858,82009,WY,202006,1266.44,-0.0014,0.0397,Cheyenne,"Cheyenne, WY",Laramie County
-93858,82009,WY,202007,1263.46,-0.0024,0.0379,Cheyenne,"Cheyenne, WY",Laramie County
-93858,82009,WY,202008,1277.29,0.0109,0.0481,Cheyenne,"Cheyenne, WY",Laramie County
-93858,82009,WY,202009,1283.61,0.0049,0.0449,Cheyenne,"Cheyenne, WY",Laramie County
-93858,82009,WY,202010,1287.12,0.0027,0.036,Cheyenne,"Cheyenne, WY",Laramie County
-93858,82009,WY,202011,1272.28,-0.0115,0.0305,Cheyenne,"Cheyenne, WY",Laramie County
-93858,82009,WY,202012,1278.52,0.0049,0.0404,Cheyenne,"Cheyenne, WY",Laramie County
-93858,82009,WY,202101,1279.19,0.0005,0.0246,Cheyenne,"Cheyenne, WY",Laramie County
-93858,82009,WY,202102,1282.39,0.0025,0.009,Cheyenne,"Cheyenne, WY",Laramie County
-93858,82009,WY,202103,1290.03,0.006,0.0105,Cheyenne,"Cheyenne, WY",Laramie County
-93858,82009,WY,202104,1320.66,0.0237,0.0439,Cheyenne,"Cheyenne, WY",Laramie County
-93858,82009,WY,202105,1336.0,0.0116,0.0534,Cheyenne,"Cheyenne, WY",Laramie County
-93858,82009,WY,202106,1335.9,-0.0001,0.0548,Cheyenne,"Cheyenne, WY",Laramie County
-93858,82009,WY,202107,1347.3,0.0085,0.0664,Cheyenne,"Cheyenne, WY",Laramie County
-93858,82009,WY,202108,1373.21,0.0192,0.0751,Cheyenne,"Cheyenne, WY",Laramie County
-93858,82009,WY,202109,1400.05,0.0195,0.0907,Cheyenne,"Cheyenne, WY",Laramie County
-93858,82009,WY,202110,1408.43,0.006,0.0942,Cheyenne,"Cheyenne, WY",Laramie County
-93858,82009,WY,202111,1378.77,-0.0211,0.0837,Cheyenne,"Cheyenne, WY",Laramie County
-93858,82009,WY,202112,1387.1,0.006,0.0849,Cheyenne,"Cheyenne, WY",Laramie County
-93858,82009,WY,202201,1403.55,0.0119,0.0972,Cheyenne,"Cheyenne, WY",Laramie County
-93858,82009,WY,202202,1446.59,0.0307,0.128,Cheyenne,"Cheyenne, WY",Laramie County
-93858,82009,WY,202203,1469.27,0.0157,0.1389,Cheyenne,"Cheyenne, WY",Laramie County
-93858,82009,WY,202204,1457.71,-0.0079,0.1038,Cheyenne,"Cheyenne, WY",Laramie County
-93858,82009,WY,202205,1467.64,0.0068,0.0985,Cheyenne,"Cheyenne, WY",Laramie County
-93858,82009,WY,202206,1463.74,-0.0027,0.0957,Cheyenne,"Cheyenne, WY",Laramie County
-93858,82009,WY,202207,1472.47,0.006,0.0929,Cheyenne,"Cheyenne, WY",Laramie County
-93858,82009,WY,202208,1469.56,-0.002,0.0702,Cheyenne,"Cheyenne, WY",Laramie County
-93858,82009,WY,202209,1475.09,0.0038,0.0536,Cheyenne,"Cheyenne, WY",Laramie County
-93858,82009,WY,202210,1479.8,0.0032,0.0507,Cheyenne,"Cheyenne, WY",Laramie County
-93858,82009,WY,202211,1482.73,0.002,0.0754,Cheyenne,"Cheyenne, WY",Laramie County
-93858,82009,WY,202212,1473.67,-0.0061,0.0624,Cheyenne,"Cheyenne, WY",Laramie County
-93858,82009,WY,202301,1478.41,0.0032,0.0533,Cheyenne,"Cheyenne, WY",Laramie County
-93858,82009,WY,202302,1477.54,-0.0006,0.0214,Cheyenne,"Cheyenne, WY",Laramie County
-93858,82009,WY,202303,1505.8,0.0191,0.0249,Cheyenne,"Cheyenne, WY",Laramie County
-93858,82009,WY,202304,1516.76,0.0073,0.0405,Cheyenne,"Cheyenne, WY",Laramie County
-93858,82009,WY,202305,1540.77,0.0158,0.0498,Cheyenne,"Cheyenne, WY",Laramie County
-93858,82009,WY,202306,1541.18,0.0003,0.0529,Cheyenne,"Cheyenne, WY",Laramie County
-93858,82009,WY,202307,1555.6,0.0094,0.0565,Cheyenne,"Cheyenne, WY",Laramie County
-93858,82009,WY,202308,1560.41,0.0031,0.0618,Cheyenne,"Cheyenne, WY",Laramie County
-93858,82009,WY,202309,1560.08,-0.0002,0.0576,Cheyenne,"Cheyenne, WY",Laramie County
-93858,82009,WY,202310,1567.67,0.0049,0.0594,Cheyenne,"Cheyenne, WY",Laramie County
-93858,82009,WY,202311,1569.54,0.0012,0.0585,Cheyenne,"Cheyenne, WY",Laramie County
-93858,82009,WY,202312,1598.21,0.0183,0.0845,Cheyenne,"Cheyenne, WY",Laramie County
-93858,82009,WY,202401,1576.25,-0.0137,0.0662,Cheyenne,"Cheyenne, WY",Laramie County
-93858,82009,WY,202402,1581.89,0.0036,0.0706,Cheyenne,"Cheyenne, WY",Laramie County
-93858,82009,WY,202403,1567.72,-0.009,0.0411,Cheyenne,"Cheyenne, WY",Laramie County
-93858,82009,WY,202404,1560.18,-0.0048,0.0286,Cheyenne,"Cheyenne, WY",Laramie County
-93858,82009,WY,202405,1575.07,0.0095,0.0223,Cheyenne,"Cheyenne, WY",Laramie County
-93858,82009,WY,202406,1584.19,0.0058,0.0279,Cheyenne,"Cheyenne, WY",Laramie County
-93858,82009,WY,202407,1633.76,0.0313,0.0502,Cheyenne,"Cheyenne, WY",Laramie County
-93858,82009,WY,202408,1626.48,-0.0045,0.0423,Cheyenne,"Cheyenne, WY",Laramie County
-93858,82009,WY,202409,1637.86,0.007,0.0499,Cheyenne,"Cheyenne, WY",Laramie County
-93858,82009,WY,202410,1628.86,-0.0055,0.039,Cheyenne,"Cheyenne, WY",Laramie County
-93858,82009,WY,202411,1653.74,0.0153,0.0536,Cheyenne,"Cheyenne, WY",Laramie County
-93858,82009,WY,202412,1646.17,-0.0046,0.03,Cheyenne,"Cheyenne, WY",Laramie County
-93858,82009,WY,202501,1656.38,0.0062,0.0508,Cheyenne,"Cheyenne, WY",Laramie County
-93858,82009,WY,202502,1660.02,0.0022,0.0494,Cheyenne,"Cheyenne, WY",Laramie County
-93858,82009,WY,202503,1677.99,0.0108,0.0703,Cheyenne,"Cheyenne, WY",Laramie County
-93858,82009,WY,202504,1683.35,0.0032,0.0789,Cheyenne,"Cheyenne, WY",Laramie County
-93858,82009,WY,202505,1728.54,0.0268,0.0974,Cheyenne,"Cheyenne, WY",Laramie County
-93858,82009,WY,202506,1746.96,0.0107,0.1027,Cheyenne,"Cheyenne, WY",Laramie County
-93858,82009,WY,202507,1767.05,0.0115,0.0816,Cheyenne,"Cheyenne, WY",Laramie County
-93858,82009,WY,202508,1757.09,-0.0056,0.0803,Cheyenne,"Cheyenne, WY",Laramie County
-93858,82009,WY,202509,1734.86,-0.0127,0.0592,Cheyenne,"Cheyenne, WY",Laramie County
-93858,82009,WY,202510,1729.33,-0.0032,0.0617,Cheyenne,"Cheyenne, WY",Laramie County
-93858,82009,WY,202511,1709.69,-0.0114,0.0338,Cheyenne,"Cheyenne, WY",Laramie County
-93858,82009,WY,202512,1745.29,0.0208,0.0602,Cheyenne,"Cheyenne, WY",Laramie County
-93858,82009,WY,202601,1766.96,0.0124,0.0668,Cheyenne,"Cheyenne, WY",Laramie County
-93858,82009,WY,202602,1797.44,0.0172,0.0828,Cheyenne,"Cheyenne, WY",Laramie County
-93858,82009,WY,202603,1790.92,-0.0036,0.0673,Cheyenne,"Cheyenne, WY",Laramie County
-93871,82070,WY,202402,1050.8,,,Laramie,"Laramie, WY",Albany County
-93871,82070,WY,202403,1045.86,-0.0047,,Laramie,"Laramie, WY",Albany County
-93871,82070,WY,202404,1062.21,0.0156,,Laramie,"Laramie, WY",Albany County
-93871,82070,WY,202405,1054.29,-0.0075,,Laramie,"Laramie, WY",Albany County
-93871,82070,WY,202406,1044.77,-0.009,,Laramie,"Laramie, WY",Albany County
-93871,82070,WY,202407,1051.83,0.0068,,Laramie,"Laramie, WY",Albany County
-93871,82070,WY,202408,1072.51,0.0197,,Laramie,"Laramie, WY",Albany County
-93871,82070,WY,202409,1065.79,-0.0063,,Laramie,"Laramie, WY",Albany County
-93871,82070,WY,202410,1053.65,-0.0114,,Laramie,"Laramie, WY",Albany County
-93871,82070,WY,202411,1033.37,-0.0192,,Laramie,"Laramie, WY",Albany County
-93871,82070,WY,202412,1047.65,0.0138,,Laramie,"Laramie, WY",Albany County
-93871,82070,WY,202501,1082.46,0.0332,,Laramie,"Laramie, WY",Albany County
-93871,82070,WY,202502,1105.4,0.0212,0.052,Laramie,"Laramie, WY",Albany County
-93871,82070,WY,202503,1108.48,0.0028,0.0599,Laramie,"Laramie, WY",Albany County
-93871,82070,WY,202504,1103.35,-0.0046,0.0387,Laramie,"Laramie, WY",Albany County
-93871,82070,WY,202505,1097.65,-0.0052,0.0411,Laramie,"Laramie, WY",Albany County
-93871,82070,WY,202506,1104.47,0.0062,0.0571,Laramie,"Laramie, WY",Albany County
-93871,82070,WY,202507,1120.99,0.015,0.0658,Laramie,"Laramie, WY",Albany County
-93871,82070,WY,202508,1122.85,0.0017,0.0469,Laramie,"Laramie, WY",Albany County
-93871,82070,WY,202509,1122.87,0.0,0.0535,Laramie,"Laramie, WY",Albany County
-93871,82070,WY,202510,1087.2,-0.0318,0.0318,Laramie,"Laramie, WY",Albany County
-93871,82070,WY,202511,1079.53,-0.007,0.0447,Laramie,"Laramie, WY",Albany County
-93871,82070,WY,202512,1077.93,-0.0015,0.0289,Laramie,"Laramie, WY",Albany County
-93871,82070,WY,202601,1102.83,0.0231,0.0188,Laramie,"Laramie, WY",Albany County
-93871,82070,WY,202602,1124.74,0.0199,0.0175,Laramie,"Laramie, WY",Albany County
-93871,82070,WY,202603,1133.01,0.0074,0.0221,Laramie,"Laramie, WY",Albany County
-93873,82072,WY,202402,1002.55,,,Laramie,"Laramie, WY",Albany County
-93873,82072,WY,202403,1011.59,0.009,,Laramie,"Laramie, WY",Albany County
-93873,82072,WY,202404,1048.32,0.0363,,Laramie,"Laramie, WY",Albany County
-93873,82072,WY,202405,1050.28,0.0019,,Laramie,"Laramie, WY",Albany County
-93873,82072,WY,202406,1054.28,0.0038,,Laramie,"Laramie, WY",Albany County
-93873,82072,WY,202407,1051.13,-0.003,,Laramie,"Laramie, WY",Albany County
-93873,82072,WY,202408,1066.63,0.0147,,Laramie,"Laramie, WY",Albany County
-93873,82072,WY,202409,1058.25,-0.0079,,Laramie,"Laramie, WY",Albany County
-93873,82072,WY,202410,1054.59,-0.0035,,Laramie,"Laramie, WY",Albany County
-93873,82072,WY,202411,1084.01,0.0279,,Laramie,"Laramie, WY",Albany County
-93873,82072,WY,202412,1107.27,0.0215,,Laramie,"Laramie, WY",Albany County
-93873,82072,WY,202501,1112.53,0.0048,,Laramie,"Laramie, WY",Albany County
-93873,82072,WY,202502,1084.37,-0.0253,0.0816,Laramie,"Laramie, WY",Albany County
-93873,82072,WY,202503,1090.44,0.0056,0.078,Laramie,"Laramie, WY",Albany County
-93873,82072,WY,202504,1120.98,0.028,0.0693,Laramie,"Laramie, WY",Albany County
-93873,82072,WY,202505,1132.7,0.0105,0.0785,Laramie,"Laramie, WY",Albany County
-93873,82072,WY,202506,1136.69,0.0035,0.0782,Laramie,"Laramie, WY",Albany County
-93873,82072,WY,202507,1128.99,-0.0068,0.0741,Laramie,"Laramie, WY",Albany County
-93873,82072,WY,202508,1175.44,0.0411,0.102,Laramie,"Laramie, WY",Albany County
-93873,82072,WY,202509,1161.69,-0.0117,0.0977,Laramie,"Laramie, WY",Albany County
-93873,82072,WY,202510,1125.62,-0.031,0.0674,Laramie,"Laramie, WY",Albany County
-93873,82072,WY,202511,1087.32,-0.034,0.0031,Laramie,"Laramie, WY",Albany County
-93873,82072,WY,202512,1097.34,0.0092,-0.009,Laramie,"Laramie, WY",Albany County
-93873,82072,WY,202601,1130.72,0.0304,0.0163,Laramie,"Laramie, WY",Albany County
-93873,82072,WY,202602,1125.09,-0.005,0.0376,Laramie,"Laramie, WY",Albany County
-93873,82072,WY,202603,1159.16,0.0303,0.063,Laramie,"Laramie, WY",Albany County
-93896,82240,WY,202601,794.77,,,Torrington,,Goshen County
-93896,82240,WY,202603,762.5,-0.0406,,Torrington,,Goshen County
-93900,82301,WY,202512,1038.95,,,Rawlins,"Rock Springs, WY",Carbon County
-93900,82301,WY,202601,1037.18,-0.0017,,Rawlins,"Rock Springs, WY",Carbon County
-93900,82301,WY,202602,984.44,-0.0508,,Rawlins,"Rock Springs, WY",Carbon County
-93900,82301,WY,202603,1000.0,0.0158,,Rawlins,"Rock Springs, WY",Carbon County
-93936,82501,WY,202603,1075.0,,,Riverton,"Riverton, WY",Fremont County
-93946,82601,WY,202303,985.57,,,Casper,"Casper, WY",Natrona County
-93946,82601,WY,202304,973.9,-0.0118,,Casper,"Casper, WY",Natrona County
-93946,82601,WY,202305,977.65,0.0038,,Casper,"Casper, WY",Natrona County
-93946,82601,WY,202306,989.1,0.0117,,Casper,"Casper, WY",Natrona County
-93946,82601,WY,202307,999.98,0.011,,Casper,"Casper, WY",Natrona County
-93946,82601,WY,202308,1019.26,0.0193,,Casper,"Casper, WY",Natrona County
-93946,82601,WY,202309,1012.93,-0.0062,,Casper,"Casper, WY",Natrona County
-93946,82601,WY,202310,1022.7,0.0096,,Casper,"Casper, WY",Natrona County
-93946,82601,WY,202311,1020.37,-0.0023,,Casper,"Casper, WY",Natrona County
-93946,82601,WY,202312,1034.22,0.0136,,Casper,"Casper, WY",Natrona County
-93946,82601,WY,202401,1039.31,0.0049,,Casper,"Casper, WY",Natrona County
-93946,82601,WY,202402,1045.97,0.0064,,Casper,"Casper, WY",Natrona County
-93946,82601,WY,202403,1088.72,0.0409,0.1047,Casper,"Casper, WY",Natrona County
-93946,82601,WY,202404,1095.19,0.0059,0.1245,Casper,"Casper, WY",Natrona County
-93946,82601,WY,202405,1097.35,0.002,0.1224,Casper,"Casper, WY",Natrona County
-93946,82601,WY,202406,1072.26,-0.0229,0.0841,Casper,"Casper, WY",Natrona County
-93946,82601,WY,202407,1080.62,0.0078,0.0806,Casper,"Casper, WY",Natrona County
-93946,82601,WY,202408,1114.7,0.0315,0.0936,Casper,"Casper, WY",Natrona County
-93946,82601,WY,202409,1105.86,-0.0079,0.0917,Casper,"Casper, WY",Natrona County
-93946,82601,WY,202410,1122.08,0.0147,0.0972,Casper,"Casper, WY",Natrona County
-93946,82601,WY,202411,1094.76,-0.0243,0.0729,Casper,"Casper, WY",Natrona County
-93946,82601,WY,202412,1108.2,0.0123,0.0715,Casper,"Casper, WY",Natrona County
-93946,82601,WY,202501,1088.06,-0.0182,0.0469,Casper,"Casper, WY",Natrona County
-93946,82601,WY,202502,1093.8,0.0053,0.0457,Casper,"Casper, WY",Natrona County
-93946,82601,WY,202503,1086.63,-0.0066,-0.0019,Casper,"Casper, WY",Natrona County
-93946,82601,WY,202504,1116.74,0.0277,0.0197,Casper,"Casper, WY",Natrona County
-93946,82601,WY,202505,1139.24,0.0201,0.0382,Casper,"Casper, WY",Natrona County
-93946,82601,WY,202506,1152.56,0.0117,0.0749,Casper,"Casper, WY",Natrona County
-93946,82601,WY,202507,1167.86,0.0133,0.0807,Casper,"Casper, WY",Natrona County
-93946,82601,WY,202508,1173.54,0.0049,0.0528,Casper,"Casper, WY",Natrona County
-93946,82601,WY,202509,1202.18,0.0244,0.0871,Casper,"Casper, WY",Natrona County
-93946,82601,WY,202510,1170.15,-0.0266,0.0428,Casper,"Casper, WY",Natrona County
-93946,82601,WY,202511,1158.18,-0.0102,0.0579,Casper,"Casper, WY",Natrona County
-93946,82601,WY,202512,1125.92,-0.0279,0.016,Casper,"Casper, WY",Natrona County
-93946,82601,WY,202601,1134.06,0.0072,0.0423,Casper,"Casper, WY",Natrona County
-93946,82601,WY,202602,1159.54,0.0225,0.0601,Casper,"Casper, WY",Natrona County
-93946,82601,WY,202603,1184.09,0.0212,0.0897,Casper,"Casper, WY",Natrona County
-93948,82604,WY,202512,1329.8,,,Casper,"Casper, WY",Natrona County
-93948,82604,WY,202601,1342.62,0.0096,,Casper,"Casper, WY",Natrona County
-93948,82604,WY,202602,1431.6,0.0663,,Casper,"Casper, WY",Natrona County
-93948,82604,WY,202603,1431.67,0.0,,Casper,"Casper, WY",Natrona County
-93950,82609,WY,202102,978.65,,,Casper,"Casper, WY",Natrona County
-93950,82609,WY,202103,996.25,0.018,,Casper,"Casper, WY",Natrona County
-93950,82609,WY,202104,1014.97,0.0188,,Casper,"Casper, WY",Natrona County
-93950,82609,WY,202105,1039.63,0.0243,,Casper,"Casper, WY",Natrona County
-93950,82609,WY,202106,1074.39,0.0334,,Casper,"Casper, WY",Natrona County
-93950,82609,WY,202107,1116.0,0.0387,,Casper,"Casper, WY",Natrona County
-93950,82609,WY,202108,1145.42,0.0264,,Casper,"Casper, WY",Natrona County
-93950,82609,WY,202109,1144.69,-0.0006,,Casper,"Casper, WY",Natrona County
-93950,82609,WY,202110,1130.4,-0.0125,,Casper,"Casper, WY",Natrona County
-93950,82609,WY,202111,1111.31,-0.0169,,Casper,"Casper, WY",Natrona County
-93950,82609,WY,202112,1119.8,0.0076,,Casper,"Casper, WY",Natrona County
-93950,82609,WY,202201,1114.97,-0.0043,,Casper,"Casper, WY",Natrona County
-93950,82609,WY,202202,1142.76,0.0249,0.1677,Casper,"Casper, WY",Natrona County
-93950,82609,WY,202203,1146.69,0.0034,0.151,Casper,"Casper, WY",Natrona County
-93950,82609,WY,202204,1175.99,0.0256,0.1586,Casper,"Casper, WY",Natrona County
-93950,82609,WY,202205,1181.59,0.0048,0.1366,Casper,"Casper, WY",Natrona County
-93950,82609,WY,202206,1224.12,0.036,0.1394,Casper,"Casper, WY",Natrona County
-93950,82609,WY,202207,1234.06,0.0081,0.1058,Casper,"Casper, WY",Natrona County
-93950,82609,WY,202208,1216.88,-0.0139,0.0624,Casper,"Casper, WY",Natrona County
-93950,82609,WY,202209,1192.54,-0.02,0.0418,Casper,"Casper, WY",Natrona County
-93950,82609,WY,202210,1196.51,0.0033,0.0585,Casper,"Casper, WY",Natrona County
-93950,82609,WY,202211,1206.78,0.0086,0.0859,Casper,"Casper, WY",Natrona County
-93950,82609,WY,202212,1186.89,-0.0165,0.0599,Casper,"Casper, WY",Natrona County
-93950,82609,WY,202301,1161.51,-0.0214,0.0417,Casper,"Casper, WY",Natrona County
-93950,82609,WY,202302,1170.52,0.0078,0.0243,Casper,"Casper, WY",Natrona County
-93950,82609,WY,202303,1208.6,0.0325,0.054,Casper,"Casper, WY",Natrona County
-93950,82609,WY,202304,1265.5,0.0471,0.0761,Casper,"Casper, WY",Natrona County
-93950,82609,WY,202305,1304.07,0.0305,0.1037,Casper,"Casper, WY",Natrona County
-93950,82609,WY,202306,1349.83,0.0351,0.1027,Casper,"Casper, WY",Natrona County
-93950,82609,WY,202307,1379.61,0.0221,0.1179,Casper,"Casper, WY",Natrona County
-93950,82609,WY,202308,1383.56,0.0029,0.137,Casper,"Casper, WY",Natrona County
-93950,82609,WY,202309,1364.19,-0.014,0.1439,Casper,"Casper, WY",Natrona County
-93950,82609,WY,202310,1324.44,-0.0291,0.1069,Casper,"Casper, WY",Natrona County
-93950,82609,WY,202311,1274.18,-0.0379,0.0558,Casper,"Casper, WY",Natrona County
-93950,82609,WY,202312,1219.32,-0.0431,0.0273,Casper,"Casper, WY",Natrona County
-93950,82609,WY,202401,1200.87,-0.0151,0.0339,Casper,"Casper, WY",Natrona County
-93950,82609,WY,202402,1245.96,0.0376,0.0645,Casper,"Casper, WY",Natrona County
-93950,82609,WY,202403,1305.69,0.0479,0.0803,Casper,"Casper, WY",Natrona County
-93950,82609,WY,202404,1354.74,0.0376,0.0705,Casper,"Casper, WY",Natrona County
-93950,82609,WY,202405,1375.93,0.0156,0.0551,Casper,"Casper, WY",Natrona County
-93950,82609,WY,202406,1389.88,0.0101,0.0297,Casper,"Casper, WY",Natrona County
-93950,82609,WY,202407,1408.9,0.0137,0.0212,Casper,"Casper, WY",Natrona County
-93950,82609,WY,202408,1407.36,-0.0011,0.0172,Casper,"Casper, WY",Natrona County
-93950,82609,WY,202409,1393.63,-0.0098,0.0216,Casper,"Casper, WY",Natrona County
-93950,82609,WY,202410,1390.01,-0.0026,0.0495,Casper,"Casper, WY",Natrona County
-93950,82609,WY,202411,1373.13,-0.0121,0.0777,Casper,"Casper, WY",Natrona County
-93950,82609,WY,202412,1342.83,-0.0221,0.1013,Casper,"Casper, WY",Natrona County
-93950,82609,WY,202501,1291.55,-0.0382,0.0755,Casper,"Casper, WY",Natrona County
-93950,82609,WY,202502,1281.7,-0.0076,0.0287,Casper,"Casper, WY",Natrona County
-93950,82609,WY,202503,1311.1,0.0229,0.0041,Casper,"Casper, WY",Natrona County
-93950,82609,WY,202504,1359.29,0.0368,0.0034,Casper,"Casper, WY",Natrona County
-93950,82609,WY,202505,1410.02,0.0373,0.0248,Casper,"Casper, WY",Natrona County
-93950,82609,WY,202506,1434.15,0.0171,0.0318,Casper,"Casper, WY",Natrona County
-93950,82609,WY,202507,1438.66,0.0031,0.0211,Casper,"Casper, WY",Natrona County
-93950,82609,WY,202508,1427.06,-0.0081,0.014,Casper,"Casper, WY",Natrona County
-93950,82609,WY,202509,1428.29,0.0009,0.0249,Casper,"Casper, WY",Natrona County
-93950,82609,WY,202510,1412.9,-0.0108,0.0165,Casper,"Casper, WY",Natrona County
-93950,82609,WY,202511,1394.78,-0.0128,0.0158,Casper,"Casper, WY",Natrona County
-93950,82609,WY,202512,1390.48,-0.0031,0.0355,Casper,"Casper, WY",Natrona County
-93950,82609,WY,202601,1365.32,-0.0181,0.0571,Casper,"Casper, WY",Natrona County
-93950,82609,WY,202602,1354.95,-0.0076,0.0572,Casper,"Casper, WY",Natrona County
-93950,82609,WY,202603,1344.72,-0.0076,0.0256,Casper,"Casper, WY",Natrona County
-93974,82716,WY,202508,1100.77,,,Gillette,"Gillette, WY",Campbell County
-93974,82716,WY,202509,1088.76,-0.0109,,Gillette,"Gillette, WY",Campbell County
-93974,82716,WY,202510,1096.5,0.0071,,Gillette,"Gillette, WY",Campbell County
-93974,82716,WY,202511,1106.15,0.0088,,Gillette,"Gillette, WY",Campbell County
-93974,82716,WY,202512,1117.86,0.0106,,Gillette,"Gillette, WY",Campbell County
-93974,82716,WY,202601,1121.49,0.0032,,Gillette,"Gillette, WY",Campbell County
-93974,82716,WY,202602,1121.7,0.0002,,Gillette,"Gillette, WY",Campbell County
-93974,82716,WY,202603,1127.42,0.0051,,Gillette,"Gillette, WY",Campbell County
-93976,82718,WY,202512,1211.28,,,Gillette,"Gillette, WY",Campbell County
-93976,82718,WY,202601,1201.26,-0.0083,,Gillette,"Gillette, WY",Campbell County
-93976,82718,WY,202602,1229.18,0.0232,,Gillette,"Gillette, WY",Campbell County
-93976,82718,WY,202603,1225.44,-0.003,,Gillette,"Gillette, WY",Campbell County
-93986,82801,WY,202603,1590.0,,,Sheridan,"Sheridan, WY",Sheridan County
-94000,82901,WY,202005,706.25,,,Rock Springs,"Rock Springs, WY",Sweetwater County
-94000,82901,WY,202006,701.45,-0.0068,,Rock Springs,"Rock Springs, WY",Sweetwater County
-94000,82901,WY,202008,727.06,0.0365,,Rock Springs,"Rock Springs, WY",Sweetwater County
-94000,82901,WY,202009,727.01,-0.0001,,Rock Springs,"Rock Springs, WY",Sweetwater County
-94000,82901,WY,202010,714.44,-0.0173,,Rock Springs,"Rock Springs, WY",Sweetwater County
-94000,82901,WY,202011,712.08,-0.0033,,Rock Springs,"Rock Springs, WY",Sweetwater County
-94000,82901,WY,202012,712.65,0.0008,,Rock Springs,"Rock Springs, WY",Sweetwater County
-94000,82901,WY,202101,700.43,-0.0171,,Rock Springs,"Rock Springs, WY",Sweetwater County
-94000,82901,WY,202102,688.52,-0.017,,Rock Springs,"Rock Springs, WY",Sweetwater County
-94000,82901,WY,202103,687.33,-0.0017,,Rock Springs,"Rock Springs, WY",Sweetwater County
-94000,82901,WY,202104,708.04,0.0301,,Rock Springs,"Rock Springs, WY",Sweetwater County
-94000,82901,WY,202105,727.52,0.0275,,Rock Springs,"Rock Springs, WY",Sweetwater County
-94000,82901,WY,202106,757.39,0.0411,0.0724,Rock Springs,"Rock Springs, WY",Sweetwater County
-94000,82901,WY,202107,789.42,0.0423,0.1254,Rock Springs,"Rock Springs, WY",Sweetwater County
-94000,82901,WY,202108,813.74,0.0308,0.1192,Rock Springs,"Rock Springs, WY",Sweetwater County
-94000,82901,WY,202109,812.75,-0.0012,0.1179,Rock Springs,"Rock Springs, WY",Sweetwater County
-94000,82901,WY,202110,801.28,-0.0141,0.1216,Rock Springs,"Rock Springs, WY",Sweetwater County
-94000,82901,WY,202111,800.95,-0.0004,0.1248,Rock Springs,"Rock Springs, WY",Sweetwater County
-94000,82901,WY,202112,810.48,0.0119,0.1373,Rock Springs,"Rock Springs, WY",Sweetwater County
-94000,82901,WY,202202,818.55,0.01,0.1686,Rock Springs,"Rock Springs, WY",Sweetwater County
-94000,82901,WY,202203,827.66,0.0111,0.2021,Rock Springs,"Rock Springs, WY",Sweetwater County
-94000,82901,WY,202204,831.41,0.0045,0.2096,Rock Springs,"Rock Springs, WY",Sweetwater County
-94000,82901,WY,202205,847.75,0.0197,0.1973,Rock Springs,"Rock Springs, WY",Sweetwater County
-94000,82901,WY,202206,862.39,0.0173,0.1854,Rock Springs,"Rock Springs, WY",Sweetwater County
-94000,82901,WY,202207,889.9,0.0319,0.175,Rock Springs,"Rock Springs, WY",Sweetwater County
-94000,82901,WY,202208,916.44,0.0298,0.1609,Rock Springs,"Rock Springs, WY",Sweetwater County
-94000,82901,WY,202209,930.98,0.0159,0.1441,Rock Springs,"Rock Springs, WY",Sweetwater County
-94000,82901,WY,202210,929.85,-0.0012,0.1441,Rock Springs,"Rock Springs, WY",Sweetwater County
-94000,82901,WY,202211,928.28,-0.0017,0.1585,Rock Springs,"Rock Springs, WY",Sweetwater County
-94000,82901,WY,202212,928.89,0.0007,0.1597,Rock Springs,"Rock Springs, WY",Sweetwater County
-94000,82901,WY,202301,918.01,-0.0117,0.1327,Rock Springs,"Rock Springs, WY",Sweetwater County
-94000,82901,WY,202302,907.32,-0.0116,0.1084,Rock Springs,"Rock Springs, WY",Sweetwater County
-94000,82901,WY,202304,909.46,0.0024,0.0988,Rock Springs,"Rock Springs, WY",Sweetwater County
-94000,82901,WY,202305,914.32,0.0053,0.0997,Rock Springs,"Rock Springs, WY",Sweetwater County
-94000,82901,WY,202306,931.93,0.0193,0.0993,Rock Springs,"Rock Springs, WY",Sweetwater County
-94000,82901,WY,202307,945.25,0.0143,0.0961,Rock Springs,"Rock Springs, WY",Sweetwater County
-94000,82901,WY,202308,950.39,0.0054,0.068,Rock Springs,"Rock Springs, WY",Sweetwater County
-94000,82901,WY,202309,958.47,0.0085,0.0459,Rock Springs,"Rock Springs, WY",Sweetwater County
-94000,82901,WY,202310,955.06,-0.0036,0.0259,Rock Springs,"Rock Springs, WY",Sweetwater County
-94000,82901,WY,202311,948.5,-0.0069,0.0201,Rock Springs,"Rock Springs, WY",Sweetwater County
-94000,82901,WY,202312,933.91,-0.0154,0.0061,Rock Springs,"Rock Springs, WY",Sweetwater County
-94000,82901,WY,202401,898.29,-0.0381,-0.0329,Rock Springs,"Rock Springs, WY",Sweetwater County
-94000,82901,WY,202402,895.61,-0.003,-0.0244,Rock Springs,"Rock Springs, WY",Sweetwater County
-94000,82901,WY,202403,882.77,-0.0143,-0.0271,Rock Springs,"Rock Springs, WY",Sweetwater County
-94000,82901,WY,202404,906.37,0.0267,-0.0034,Rock Springs,"Rock Springs, WY",Sweetwater County
-94000,82901,WY,202405,924.35,0.0198,0.011,Rock Springs,"Rock Springs, WY",Sweetwater County
-94000,82901,WY,202406,949.74,0.0275,0.0191,Rock Springs,"Rock Springs, WY",Sweetwater County
-94000,82901,WY,202407,974.89,0.0265,0.0313,Rock Springs,"Rock Springs, WY",Sweetwater County
-94000,82901,WY,202408,996.11,0.0218,0.0481,Rock Springs,"Rock Springs, WY",Sweetwater County
-94000,82901,WY,202409,991.75,-0.0044,0.0347,Rock Springs,"Rock Springs, WY",Sweetwater County
-94000,82901,WY,202410,998.7,0.007,0.0457,Rock Springs,"Rock Springs, WY",Sweetwater County
-94000,82901,WY,202411,996.65,-0.0021,0.0508,Rock Springs,"Rock Springs, WY",Sweetwater County
-94000,82901,WY,202412,1030.64,0.0341,0.1036,Rock Springs,"Rock Springs, WY",Sweetwater County
-94000,82901,WY,202501,1026.27,-0.0042,0.1425,Rock Springs,"Rock Springs, WY",Sweetwater County
-94000,82901,WY,202502,1021.59,-0.0046,0.1407,Rock Springs,"Rock Springs, WY",Sweetwater County
-94000,82901,WY,202503,1022.28,0.0007,0.158,Rock Springs,"Rock Springs, WY",Sweetwater County
-94000,82901,WY,202504,1031.67,0.0092,0.1382,Rock Springs,"Rock Springs, WY",Sweetwater County
-94000,82901,WY,202505,1027.57,-0.004,0.1117,Rock Springs,"Rock Springs, WY",Sweetwater County
-94000,82901,WY,202506,1015.47,-0.0118,0.0692,Rock Springs,"Rock Springs, WY",Sweetwater County
-94000,82901,WY,202507,999.98,-0.0153,0.0257,Rock Springs,"Rock Springs, WY",Sweetwater County
-94000,82901,WY,202508,1005.8,0.0058,0.0097,Rock Springs,"Rock Springs, WY",Sweetwater County
-94000,82901,WY,202509,1008.57,0.0028,0.017,Rock Springs,"Rock Springs, WY",Sweetwater County
-94000,82901,WY,202510,996.84,-0.0116,-0.0019,Rock Springs,"Rock Springs, WY",Sweetwater County
-94000,82901,WY,202511,984.54,-0.0123,-0.0122,Rock Springs,"Rock Springs, WY",Sweetwater County
-94000,82901,WY,202512,969.99,-0.0148,-0.0588,Rock Springs,"Rock Springs, WY",Sweetwater County
-94000,82901,WY,202601,980.1,0.0104,-0.045,Rock Springs,"Rock Springs, WY",Sweetwater County
-94000,82901,WY,202602,996.14,0.0164,-0.0249,Rock Springs,"Rock Springs, WY",Sweetwater County
-94000,82901,WY,202603,1000.28,0.0042,-0.0215,Rock Springs,"Rock Springs, WY",Sweetwater County
-94021,83001,WY,202602,5127.91,,,Jackson,"Jackson, WY-ID",Teton County
-94021,83001,WY,202603,4862.5,-0.0518,,Jackson,"Jackson, WY-ID",Teton County
+93851,82001,WY,201605,856.77,,,Cheyenne,"Cheyenne, WY",Laramie County
+93851,82001,WY,201606,857.17,0.0005,,Cheyenne,"Cheyenne, WY",Laramie County
+93851,82001,WY,201607,851.5,-0.0066,,Cheyenne,"Cheyenne, WY",Laramie County
+93851,82001,WY,201608,856.28,0.0056,,Cheyenne,"Cheyenne, WY",Laramie County
+93851,82001,WY,201609,857.15,0.001,,Cheyenne,"Cheyenne, WY",Laramie County
+93851,82001,WY,201610,855.13,-0.0024,,Cheyenne,"Cheyenne, WY",Laramie County
+93851,82001,WY,201611,849.94,-0.0061,,Cheyenne,"Cheyenne, WY",Laramie County
+93851,82001,WY,201612,846.38,-0.0042,,Cheyenne,"Cheyenne, WY",Laramie County
+93851,82001,WY,201701,844.94,-0.0017,,Cheyenne,"Cheyenne, WY",Laramie County
+93851,82001,WY,201702,847.07,0.0025,,Cheyenne,"Cheyenne, WY",Laramie County
+93851,82001,WY,201703,850.38,0.0039,,Cheyenne,"Cheyenne, WY",Laramie County
+93851,82001,WY,201704,856.23,0.0069,,Cheyenne,"Cheyenne, WY",Laramie County
+93851,82001,WY,201705,859.82,0.0042,0.0036,Cheyenne,"Cheyenne, WY",Laramie County
+93851,82001,WY,201706,861.07,0.0015,0.0045,Cheyenne,"Cheyenne, WY",Laramie County
+93851,82001,WY,201707,855.36,-0.0066,0.0045,Cheyenne,"Cheyenne, WY",Laramie County
+93851,82001,WY,201708,859.3,0.0046,0.0035,Cheyenne,"Cheyenne, WY",Laramie County
+93851,82001,WY,201709,855.03,-0.005,-0.0025,Cheyenne,"Cheyenne, WY",Laramie County
+93851,82001,WY,201710,864.43,0.011,0.0109,Cheyenne,"Cheyenne, WY",Laramie County
+93851,82001,WY,201711,860.41,-0.0046,0.0123,Cheyenne,"Cheyenne, WY",Laramie County
+93851,82001,WY,201712,866.64,0.0072,0.0239,Cheyenne,"Cheyenne, WY",Laramie County
+93851,82001,WY,201801,863.77,-0.0033,0.0223,Cheyenne,"Cheyenne, WY",Laramie County
+93851,82001,WY,201802,864.9,0.0013,0.021,Cheyenne,"Cheyenne, WY",Laramie County
+93851,82001,WY,201803,859.89,-0.0058,0.0112,Cheyenne,"Cheyenne, WY",Laramie County
+93851,82001,WY,201804,862.95,0.0036,0.0079,Cheyenne,"Cheyenne, WY",Laramie County
+93851,82001,WY,201805,866.74,0.0044,0.0081,Cheyenne,"Cheyenne, WY",Laramie County
+93851,82001,WY,201806,869.76,0.0035,0.0101,Cheyenne,"Cheyenne, WY",Laramie County
+93851,82001,WY,201807,875.52,0.0066,0.0236,Cheyenne,"Cheyenne, WY",Laramie County
+93851,82001,WY,201808,880.48,0.0057,0.0246,Cheyenne,"Cheyenne, WY",Laramie County
+93851,82001,WY,201809,891.67,0.0127,0.0429,Cheyenne,"Cheyenne, WY",Laramie County
+93851,82001,WY,201810,886.42,-0.0059,0.0254,Cheyenne,"Cheyenne, WY",Laramie County
+93851,82001,WY,201811,889.85,0.0039,0.0342,Cheyenne,"Cheyenne, WY",Laramie County
+93851,82001,WY,201812,887.92,-0.0022,0.0246,Cheyenne,"Cheyenne, WY",Laramie County
+93851,82001,WY,201901,896.68,0.0099,0.0381,Cheyenne,"Cheyenne, WY",Laramie County
+93851,82001,WY,201902,892.94,-0.0042,0.0324,Cheyenne,"Cheyenne, WY",Laramie County
+93851,82001,WY,201903,897.91,0.0056,0.0442,Cheyenne,"Cheyenne, WY",Laramie County
+93851,82001,WY,201904,897.56,-0.0004,0.0401,Cheyenne,"Cheyenne, WY",Laramie County
+93851,82001,WY,201905,903.97,0.0071,0.0429,Cheyenne,"Cheyenne, WY",Laramie County
+93851,82001,WY,201906,909.21,0.0058,0.0454,Cheyenne,"Cheyenne, WY",Laramie County
+93851,82001,WY,201907,916.42,0.0079,0.0467,Cheyenne,"Cheyenne, WY",Laramie County
+93851,82001,WY,201908,925.18,0.0096,0.0508,Cheyenne,"Cheyenne, WY",Laramie County
+93851,82001,WY,201909,930.85,0.0061,0.0439,Cheyenne,"Cheyenne, WY",Laramie County
+93851,82001,WY,201910,934.02,0.0034,0.0537,Cheyenne,"Cheyenne, WY",Laramie County
+93851,82001,WY,201911,930.67,-0.0036,0.0459,Cheyenne,"Cheyenne, WY",Laramie County
+93851,82001,WY,201912,929.25,-0.0015,0.0465,Cheyenne,"Cheyenne, WY",Laramie County
+93851,82001,WY,202001,934.17,0.0053,0.0418,Cheyenne,"Cheyenne, WY",Laramie County
+93851,82001,WY,202002,946.93,0.0137,0.0605,Cheyenne,"Cheyenne, WY",Laramie County
+93851,82001,WY,202003,941.13,-0.0061,0.0481,Cheyenne,"Cheyenne, WY",Laramie County
+93851,82001,WY,202004,935.15,-0.0063,0.0419,Cheyenne,"Cheyenne, WY",Laramie County
+93851,82001,WY,202005,931.62,-0.0038,0.0306,Cheyenne,"Cheyenne, WY",Laramie County
+93851,82001,WY,202006,946.41,0.0159,0.0409,Cheyenne,"Cheyenne, WY",Laramie County
+93851,82001,WY,202007,959.21,0.0135,0.0467,Cheyenne,"Cheyenne, WY",Laramie County
+93851,82001,WY,202008,969.59,0.0108,0.048,Cheyenne,"Cheyenne, WY",Laramie County
+93851,82001,WY,202009,974.55,0.0051,0.047,Cheyenne,"Cheyenne, WY",Laramie County
+93851,82001,WY,202010,979.8,0.0054,0.049,Cheyenne,"Cheyenne, WY",Laramie County
+93851,82001,WY,202011,983.88,0.0042,0.0572,Cheyenne,"Cheyenne, WY",Laramie County
+93851,82001,WY,202012,1005.64,0.0221,0.0822,Cheyenne,"Cheyenne, WY",Laramie County
+93851,82001,WY,202101,1001.02,-0.0046,0.0716,Cheyenne,"Cheyenne, WY",Laramie County
+93851,82001,WY,202102,995.4,-0.0056,0.0512,Cheyenne,"Cheyenne, WY",Laramie County
+93851,82001,WY,202103,984.04,-0.0114,0.0456,Cheyenne,"Cheyenne, WY",Laramie County
+93851,82001,WY,202104,987.26,0.0033,0.0557,Cheyenne,"Cheyenne, WY",Laramie County
+93851,82001,WY,202105,1001.91,0.0148,0.0755,Cheyenne,"Cheyenne, WY",Laramie County
+93851,82001,WY,202106,1014.18,0.0122,0.0716,Cheyenne,"Cheyenne, WY",Laramie County
+93851,82001,WY,202107,1038.23,0.0237,0.0824,Cheyenne,"Cheyenne, WY",Laramie County
+93851,82001,WY,202108,1044.45,0.006,0.0772,Cheyenne,"Cheyenne, WY",Laramie County
+93851,82001,WY,202109,1059.28,0.0142,0.0869,Cheyenne,"Cheyenne, WY",Laramie County
+93851,82001,WY,202110,1069.39,0.0095,0.0914,Cheyenne,"Cheyenne, WY",Laramie County
+93851,82001,WY,202111,1084.48,0.0141,0.1022,Cheyenne,"Cheyenne, WY",Laramie County
+93851,82001,WY,202112,1080.26,-0.0039,0.0742,Cheyenne,"Cheyenne, WY",Laramie County
+93851,82001,WY,202201,1065.8,-0.0134,0.0647,Cheyenne,"Cheyenne, WY",Laramie County
+93851,82001,WY,202202,1064.93,-0.0008,0.0699,Cheyenne,"Cheyenne, WY",Laramie County
+93851,82001,WY,202203,1068.73,0.0036,0.0861,Cheyenne,"Cheyenne, WY",Laramie County
+93851,82001,WY,202204,1091.32,0.0211,0.1054,Cheyenne,"Cheyenne, WY",Laramie County
+93851,82001,WY,202205,1100.56,0.0085,0.0985,Cheyenne,"Cheyenne, WY",Laramie County
+93851,82001,WY,202206,1108.93,0.0076,0.0934,Cheyenne,"Cheyenne, WY",Laramie County
+93851,82001,WY,202207,1111.0,0.0019,0.0701,Cheyenne,"Cheyenne, WY",Laramie County
+93851,82001,WY,202208,1125.8,0.0133,0.0779,Cheyenne,"Cheyenne, WY",Laramie County
+93851,82001,WY,202209,1123.48,-0.0021,0.0606,Cheyenne,"Cheyenne, WY",Laramie County
+93851,82001,WY,202210,1125.12,0.0015,0.0521,Cheyenne,"Cheyenne, WY",Laramie County
+93851,82001,WY,202211,1111.2,-0.0124,0.0246,Cheyenne,"Cheyenne, WY",Laramie County
+93851,82001,WY,202212,1120.85,0.0087,0.0376,Cheyenne,"Cheyenne, WY",Laramie County
+93851,82001,WY,202301,1139.11,0.0163,0.0688,Cheyenne,"Cheyenne, WY",Laramie County
+93851,82001,WY,202302,1146.82,0.0068,0.0769,Cheyenne,"Cheyenne, WY",Laramie County
+93851,82001,WY,202303,1150.06,0.0028,0.0761,Cheyenne,"Cheyenne, WY",Laramie County
+93851,82001,WY,202304,1140.45,-0.0084,0.045,Cheyenne,"Cheyenne, WY",Laramie County
+93851,82001,WY,202305,1142.42,0.0017,0.038,Cheyenne,"Cheyenne, WY",Laramie County
+93851,82001,WY,202306,1148.32,0.0052,0.0355,Cheyenne,"Cheyenne, WY",Laramie County
+93851,82001,WY,202307,1151.26,0.0026,0.0362,Cheyenne,"Cheyenne, WY",Laramie County
+93851,82001,WY,202308,1162.04,0.0094,0.0322,Cheyenne,"Cheyenne, WY",Laramie County
+93851,82001,WY,202309,1159.19,-0.0025,0.0318,Cheyenne,"Cheyenne, WY",Laramie County
+93851,82001,WY,202310,1166.28,0.0061,0.0366,Cheyenne,"Cheyenne, WY",Laramie County
+93851,82001,WY,202311,1162.96,-0.0028,0.0466,Cheyenne,"Cheyenne, WY",Laramie County
+93851,82001,WY,202312,1177.27,0.0123,0.0503,Cheyenne,"Cheyenne, WY",Laramie County
+93851,82001,WY,202401,1183.76,0.0055,0.0392,Cheyenne,"Cheyenne, WY",Laramie County
+93851,82001,WY,202402,1192.99,0.0078,0.0403,Cheyenne,"Cheyenne, WY",Laramie County
+93851,82001,WY,202403,1197.15,0.0035,0.0409,Cheyenne,"Cheyenne, WY",Laramie County
+93851,82001,WY,202404,1199.35,0.0018,0.0516,Cheyenne,"Cheyenne, WY",Laramie County
+93851,82001,WY,202405,1198.08,-0.0011,0.0487,Cheyenne,"Cheyenne, WY",Laramie County
+93851,82001,WY,202406,1196.6,-0.0012,0.042,Cheyenne,"Cheyenne, WY",Laramie County
+93851,82001,WY,202407,1197.97,0.0011,0.0406,Cheyenne,"Cheyenne, WY",Laramie County
+93851,82001,WY,202408,1208.0,0.0084,0.0395,Cheyenne,"Cheyenne, WY",Laramie County
+93851,82001,WY,202409,1211.4,0.0028,0.045,Cheyenne,"Cheyenne, WY",Laramie County
+93851,82001,WY,202410,1216.5,0.0042,0.0431,Cheyenne,"Cheyenne, WY",Laramie County
+93851,82001,WY,202411,1214.63,-0.0015,0.0444,Cheyenne,"Cheyenne, WY",Laramie County
+93851,82001,WY,202412,1209.56,-0.0042,0.0274,Cheyenne,"Cheyenne, WY",Laramie County
+93851,82001,WY,202501,1206.68,-0.0024,0.0194,Cheyenne,"Cheyenne, WY",Laramie County
+93851,82001,WY,202502,1221.14,0.012,0.0236,Cheyenne,"Cheyenne, WY",Laramie County
+93851,82001,WY,202503,1236.91,0.0129,0.0332,Cheyenne,"Cheyenne, WY",Laramie County
+93851,82001,WY,202504,1256.64,0.016,0.0478,Cheyenne,"Cheyenne, WY",Laramie County
+93851,82001,WY,202505,1265.79,0.0073,0.0565,Cheyenne,"Cheyenne, WY",Laramie County
+93851,82001,WY,202506,1278.74,0.0102,0.0686,Cheyenne,"Cheyenne, WY",Laramie County
+93851,82001,WY,202507,1286.25,0.0059,0.0737,Cheyenne,"Cheyenne, WY",Laramie County
+93851,82001,WY,202508,1273.7,-0.0098,0.0544,Cheyenne,"Cheyenne, WY",Laramie County
+93851,82001,WY,202509,1267.49,-0.0049,0.0463,Cheyenne,"Cheyenne, WY",Laramie County
+93851,82001,WY,202510,1272.34,0.0038,0.0459,Cheyenne,"Cheyenne, WY",Laramie County
+93851,82001,WY,202511,1273.92,0.0012,0.0488,Cheyenne,"Cheyenne, WY",Laramie County
+93851,82001,WY,202512,1265.1,-0.0069,0.0459,Cheyenne,"Cheyenne, WY",Laramie County
+93851,82001,WY,202601,1275.31,0.0081,0.0569,Cheyenne,"Cheyenne, WY",Laramie County
+93851,82001,WY,202602,1279.25,0.0031,0.0476,Cheyenne,"Cheyenne, WY",Laramie County
+93851,82001,WY,202603,1310.06,0.0241,0.0591,Cheyenne,"Cheyenne, WY",Laramie County
+93851,82001,WY,202604,1302.81,-0.0055,0.0367,Cheyenne,"Cheyenne, WY",Laramie County
+93856,82007,WY,202110,1301.45,,,Cheyenne,"Cheyenne, WY",Laramie County
+93856,82007,WY,202111,1283.01,-0.0142,,Cheyenne,"Cheyenne, WY",Laramie County
+93856,82007,WY,202112,1258.34,-0.0192,,Cheyenne,"Cheyenne, WY",Laramie County
+93856,82007,WY,202201,1274.52,0.0129,,Cheyenne,"Cheyenne, WY",Laramie County
+93856,82007,WY,202202,1306.23,0.0249,,Cheyenne,"Cheyenne, WY",Laramie County
+93856,82007,WY,202203,1285.47,-0.0159,,Cheyenne,"Cheyenne, WY",Laramie County
+93856,82007,WY,202204,1287.22,0.0014,,Cheyenne,"Cheyenne, WY",Laramie County
+93856,82007,WY,202205,1295.43,0.0064,,Cheyenne,"Cheyenne, WY",Laramie County
+93856,82007,WY,202206,1332.06,0.0283,,Cheyenne,"Cheyenne, WY",Laramie County
+93856,82007,WY,202207,1335.54,0.0026,,Cheyenne,"Cheyenne, WY",Laramie County
+93856,82007,WY,202208,1340.54,0.0037,,Cheyenne,"Cheyenne, WY",Laramie County
+93856,82007,WY,202209,1335.91,-0.0035,,Cheyenne,"Cheyenne, WY",Laramie County
+93856,82007,WY,202210,1343.6,0.0058,0.0324,Cheyenne,"Cheyenne, WY",Laramie County
+93856,82007,WY,202211,1336.82,-0.005,0.0419,Cheyenne,"Cheyenne, WY",Laramie County
+93856,82007,WY,202212,1309.82,-0.0202,0.0409,Cheyenne,"Cheyenne, WY",Laramie County
+93856,82007,WY,202301,1318.24,0.0064,0.0343,Cheyenne,"Cheyenne, WY",Laramie County
+93856,82007,WY,202302,1330.67,0.0094,0.0187,Cheyenne,"Cheyenne, WY",Laramie County
+93856,82007,WY,202303,1368.17,0.0282,0.0643,Cheyenne,"Cheyenne, WY",Laramie County
+93856,82007,WY,202304,1351.15,-0.0124,0.0497,Cheyenne,"Cheyenne, WY",Laramie County
+93856,82007,WY,202305,1346.48,-0.0035,0.0394,Cheyenne,"Cheyenne, WY",Laramie County
+93856,82007,WY,202306,1332.52,-0.0104,0.0003,Cheyenne,"Cheyenne, WY",Laramie County
+93856,82007,WY,202307,1360.55,0.021,0.0187,Cheyenne,"Cheyenne, WY",Laramie County
+93856,82007,WY,202308,1376.81,0.012,0.0271,Cheyenne,"Cheyenne, WY",Laramie County
+93856,82007,WY,202309,1397.38,0.0149,0.046,Cheyenne,"Cheyenne, WY",Laramie County
+93856,82007,WY,202310,1394.34,-0.0022,0.0378,Cheyenne,"Cheyenne, WY",Laramie County
+93856,82007,WY,202311,1388.87,-0.0039,0.0389,Cheyenne,"Cheyenne, WY",Laramie County
+93856,82007,WY,202312,1381.89,-0.005,0.055,Cheyenne,"Cheyenne, WY",Laramie County
+93856,82007,WY,202401,1395.29,0.0097,0.0584,Cheyenne,"Cheyenne, WY",Laramie County
+93856,82007,WY,202402,1407.01,0.0084,0.0574,Cheyenne,"Cheyenne, WY",Laramie County
+93856,82007,WY,202403,1410.67,0.0026,0.0311,Cheyenne,"Cheyenne, WY",Laramie County
+93856,82007,WY,202404,1412.6,0.0014,0.0455,Cheyenne,"Cheyenne, WY",Laramie County
+93856,82007,WY,202405,1419.15,0.0046,0.054,Cheyenne,"Cheyenne, WY",Laramie County
+93856,82007,WY,202406,1433.12,0.0098,0.0755,Cheyenne,"Cheyenne, WY",Laramie County
+93856,82007,WY,202407,1434.6,0.001,0.0544,Cheyenne,"Cheyenne, WY",Laramie County
+93856,82007,WY,202408,1437.34,0.0019,0.044,Cheyenne,"Cheyenne, WY",Laramie County
+93856,82007,WY,202409,1435.89,-0.001,0.0276,Cheyenne,"Cheyenne, WY",Laramie County
+93856,82007,WY,202410,1439.92,0.0028,0.0327,Cheyenne,"Cheyenne, WY",Laramie County
+93856,82007,WY,202411,1436.46,-0.0024,0.0343,Cheyenne,"Cheyenne, WY",Laramie County
+93856,82007,WY,202412,1443.74,0.0051,0.0448,Cheyenne,"Cheyenne, WY",Laramie County
+93856,82007,WY,202501,1445.89,0.0015,0.0363,Cheyenne,"Cheyenne, WY",Laramie County
+93856,82007,WY,202502,1464.91,0.0132,0.0412,Cheyenne,"Cheyenne, WY",Laramie County
+93856,82007,WY,202503,1465.8,0.0006,0.0391,Cheyenne,"Cheyenne, WY",Laramie County
+93856,82007,WY,202504,1470.79,0.0034,0.0412,Cheyenne,"Cheyenne, WY",Laramie County
+93856,82007,WY,202505,1465.44,-0.0036,0.0326,Cheyenne,"Cheyenne, WY",Laramie County
+93856,82007,WY,202506,1470.66,0.0036,0.0262,Cheyenne,"Cheyenne, WY",Laramie County
+93856,82007,WY,202507,1482.94,0.0084,0.0337,Cheyenne,"Cheyenne, WY",Laramie County
+93856,82007,WY,202508,1502.51,0.0132,0.0453,Cheyenne,"Cheyenne, WY",Laramie County
+93856,82007,WY,202509,1519.03,0.011,0.0579,Cheyenne,"Cheyenne, WY",Laramie County
+93856,82007,WY,202510,1512.75,-0.0041,0.0506,Cheyenne,"Cheyenne, WY",Laramie County
+93856,82007,WY,202511,1526.65,0.0092,0.0628,Cheyenne,"Cheyenne, WY",Laramie County
+93856,82007,WY,202512,1522.04,-0.003,0.0542,Cheyenne,"Cheyenne, WY",Laramie County
+93856,82007,WY,202601,1527.04,0.0033,0.0561,Cheyenne,"Cheyenne, WY",Laramie County
+93856,82007,WY,202602,1514.05,-0.0085,0.0335,Cheyenne,"Cheyenne, WY",Laramie County
+93856,82007,WY,202603,1534.57,0.0136,0.0469,Cheyenne,"Cheyenne, WY",Laramie County
+93856,82007,WY,202604,1548.52,0.0091,0.0529,Cheyenne,"Cheyenne, WY",Laramie County
+93858,82009,WY,201606,1100.66,,,Cheyenne,"Cheyenne, WY",Laramie County
+93858,82009,WY,201607,1093.95,-0.0061,,Cheyenne,"Cheyenne, WY",Laramie County
+93858,82009,WY,201608,1097.8,0.0035,,Cheyenne,"Cheyenne, WY",Laramie County
+93858,82009,WY,201609,1128.06,0.0276,,Cheyenne,"Cheyenne, WY",Laramie County
+93858,82009,WY,201610,1122.2,-0.0052,,Cheyenne,"Cheyenne, WY",Laramie County
+93858,82009,WY,201611,1120.55,-0.0015,,Cheyenne,"Cheyenne, WY",Laramie County
+93858,82009,WY,201612,1111.65,-0.0079,,Cheyenne,"Cheyenne, WY",Laramie County
+93858,82009,WY,201701,1115.32,0.0033,,Cheyenne,"Cheyenne, WY",Laramie County
+93858,82009,WY,201702,1129.71,0.0129,,Cheyenne,"Cheyenne, WY",Laramie County
+93858,82009,WY,201703,1134.68,0.0044,,Cheyenne,"Cheyenne, WY",Laramie County
+93858,82009,WY,201704,1149.69,0.0132,,Cheyenne,"Cheyenne, WY",Laramie County
+93858,82009,WY,201705,1144.26,-0.0047,,Cheyenne,"Cheyenne, WY",Laramie County
+93858,82009,WY,201706,1136.1,-0.0071,0.0322,Cheyenne,"Cheyenne, WY",Laramie County
+93858,82009,WY,201707,1122.28,-0.0122,0.0259,Cheyenne,"Cheyenne, WY",Laramie County
+93858,82009,WY,201708,1131.01,0.0078,0.0302,Cheyenne,"Cheyenne, WY",Laramie County
+93858,82009,WY,201709,1135.33,0.0038,0.0064,Cheyenne,"Cheyenne, WY",Laramie County
+93858,82009,WY,201710,1141.43,0.0054,0.0171,Cheyenne,"Cheyenne, WY",Laramie County
+93858,82009,WY,201711,1145.59,0.0036,0.0223,Cheyenne,"Cheyenne, WY",Laramie County
+93858,82009,WY,201712,1133.88,-0.0102,0.02,Cheyenne,"Cheyenne, WY",Laramie County
+93858,82009,WY,201801,1131.47,-0.0021,0.0145,Cheyenne,"Cheyenne, WY",Laramie County
+93858,82009,WY,201802,1130.52,-0.0008,0.0007,Cheyenne,"Cheyenne, WY",Laramie County
+93858,82009,WY,201803,1139.42,0.0079,0.0042,Cheyenne,"Cheyenne, WY",Laramie County
+93858,82009,WY,201804,1137.51,-0.0017,-0.0106,Cheyenne,"Cheyenne, WY",Laramie County
+93858,82009,WY,201805,1140.13,0.0023,-0.0036,Cheyenne,"Cheyenne, WY",Laramie County
+93858,82009,WY,201806,1149.55,0.0083,0.0118,Cheyenne,"Cheyenne, WY",Laramie County
+93858,82009,WY,201807,1166.29,0.0146,0.0392,Cheyenne,"Cheyenne, WY",Laramie County
+93858,82009,WY,201808,1168.72,0.0021,0.0333,Cheyenne,"Cheyenne, WY",Laramie County
+93858,82009,WY,201809,1186.72,0.0154,0.0453,Cheyenne,"Cheyenne, WY",Laramie County
+93858,82009,WY,201810,1198.53,0.01,0.05,Cheyenne,"Cheyenne, WY",Laramie County
+93858,82009,WY,201811,1209.69,0.0093,0.056,Cheyenne,"Cheyenne, WY",Laramie County
+93858,82009,WY,201812,1201.8,-0.0065,0.0599,Cheyenne,"Cheyenne, WY",Laramie County
+93858,82009,WY,201901,1203.81,0.0017,0.0639,Cheyenne,"Cheyenne, WY",Laramie County
+93858,82009,WY,201902,1205.48,0.0014,0.0663,Cheyenne,"Cheyenne, WY",Laramie County
+93858,82009,WY,201903,1200.23,-0.0044,0.0534,Cheyenne,"Cheyenne, WY",Laramie County
+93858,82009,WY,201904,1201.15,0.0008,0.056,Cheyenne,"Cheyenne, WY",Laramie County
+93858,82009,WY,201905,1209.54,0.007,0.0609,Cheyenne,"Cheyenne, WY",Laramie County
+93858,82009,WY,201906,1225.63,0.0133,0.0662,Cheyenne,"Cheyenne, WY",Laramie County
+93858,82009,WY,201907,1225.31,-0.0003,0.0506,Cheyenne,"Cheyenne, WY",Laramie County
+93858,82009,WY,201908,1226.11,0.0007,0.0491,Cheyenne,"Cheyenne, WY",Laramie County
+93858,82009,WY,201909,1234.57,0.0069,0.0403,Cheyenne,"Cheyenne, WY",Laramie County
+93858,82009,WY,201910,1248.92,0.0116,0.042,Cheyenne,"Cheyenne, WY",Laramie County
+93858,82009,WY,201911,1245.75,-0.0025,0.0298,Cheyenne,"Cheyenne, WY",Laramie County
+93858,82009,WY,201912,1241.53,-0.0034,0.0331,Cheyenne,"Cheyenne, WY",Laramie County
+93858,82009,WY,202001,1260.48,0.0153,0.0471,Cheyenne,"Cheyenne, WY",Laramie County
+93858,82009,WY,202002,1278.3,0.0141,0.0604,Cheyenne,"Cheyenne, WY",Laramie County
+93858,82009,WY,202003,1283.22,0.0038,0.0691,Cheyenne,"Cheyenne, WY",Laramie County
+93858,82009,WY,202004,1272.49,-0.0084,0.0594,Cheyenne,"Cheyenne, WY",Laramie County
+93858,82009,WY,202005,1276.15,0.0029,0.0551,Cheyenne,"Cheyenne, WY",Laramie County
+93858,82009,WY,202006,1275.04,-0.0009,0.0403,Cheyenne,"Cheyenne, WY",Laramie County
+93858,82009,WY,202007,1271.29,-0.0029,0.0375,Cheyenne,"Cheyenne, WY",Laramie County
+93858,82009,WY,202008,1285.63,0.0113,0.0485,Cheyenne,"Cheyenne, WY",Laramie County
+93858,82009,WY,202009,1292.53,0.0054,0.0469,Cheyenne,"Cheyenne, WY",Laramie County
+93858,82009,WY,202010,1296.2,0.0028,0.0379,Cheyenne,"Cheyenne, WY",Laramie County
+93858,82009,WY,202011,1281.01,-0.0117,0.0283,Cheyenne,"Cheyenne, WY",Laramie County
+93858,82009,WY,202012,1284.4,0.0026,0.0345,Cheyenne,"Cheyenne, WY",Laramie County
+93858,82009,WY,202101,1285.64,0.001,0.02,Cheyenne,"Cheyenne, WY",Laramie County
+93858,82009,WY,202102,1289.72,0.0032,0.0089,Cheyenne,"Cheyenne, WY",Laramie County
+93858,82009,WY,202103,1299.87,0.0079,0.013,Cheyenne,"Cheyenne, WY",Laramie County
+93858,82009,WY,202104,1330.43,0.0235,0.0455,Cheyenne,"Cheyenne, WY",Laramie County
+93858,82009,WY,202105,1344.59,0.0106,0.0536,Cheyenne,"Cheyenne, WY",Laramie County
+93858,82009,WY,202106,1344.58,-0.0,0.0545,Cheyenne,"Cheyenne, WY",Laramie County
+93858,82009,WY,202107,1356.2,0.0086,0.0668,Cheyenne,"Cheyenne, WY",Laramie County
+93858,82009,WY,202108,1382.64,0.0195,0.0755,Cheyenne,"Cheyenne, WY",Laramie County
+93858,82009,WY,202109,1410.25,0.02,0.0911,Cheyenne,"Cheyenne, WY",Laramie County
+93858,82009,WY,202110,1418.47,0.0058,0.0943,Cheyenne,"Cheyenne, WY",Laramie County
+93858,82009,WY,202111,1389.03,-0.0208,0.0843,Cheyenne,"Cheyenne, WY",Laramie County
+93858,82009,WY,202112,1396.8,0.0056,0.0875,Cheyenne,"Cheyenne, WY",Laramie County
+93858,82009,WY,202201,1414.35,0.0126,0.1001,Cheyenne,"Cheyenne, WY",Laramie County
+93858,82009,WY,202202,1457.78,0.0307,0.1303,Cheyenne,"Cheyenne, WY",Laramie County
+93858,82009,WY,202203,1481.64,0.0164,0.1398,Cheyenne,"Cheyenne, WY",Laramie County
+93858,82009,WY,202204,1469.73,-0.008,0.1047,Cheyenne,"Cheyenne, WY",Laramie County
+93858,82009,WY,202205,1479.8,0.0069,0.1006,Cheyenne,"Cheyenne, WY",Laramie County
+93858,82009,WY,202206,1476.3,-0.0024,0.098,Cheyenne,"Cheyenne, WY",Laramie County
+93858,82009,WY,202207,1484.85,0.0058,0.0949,Cheyenne,"Cheyenne, WY",Laramie County
+93858,82009,WY,202208,1483.07,-0.0012,0.0726,Cheyenne,"Cheyenne, WY",Laramie County
+93858,82009,WY,202209,1487.48,0.003,0.0548,Cheyenne,"Cheyenne, WY",Laramie County
+93858,82009,WY,202210,1492.59,0.0034,0.0523,Cheyenne,"Cheyenne, WY",Laramie County
+93858,82009,WY,202211,1495.31,0.0018,0.0765,Cheyenne,"Cheyenne, WY",Laramie County
+93858,82009,WY,202212,1486.82,-0.0057,0.0644,Cheyenne,"Cheyenne, WY",Laramie County
+93858,82009,WY,202301,1491.66,0.0033,0.0547,Cheyenne,"Cheyenne, WY",Laramie County
+93858,82009,WY,202302,1488.37,-0.0022,0.021,Cheyenne,"Cheyenne, WY",Laramie County
+93858,82009,WY,202303,1517.04,0.0193,0.0239,Cheyenne,"Cheyenne, WY",Laramie County
+93858,82009,WY,202304,1530.75,0.009,0.0415,Cheyenne,"Cheyenne, WY",Laramie County
+93858,82009,WY,202305,1555.37,0.0161,0.0511,Cheyenne,"Cheyenne, WY",Laramie County
+93858,82009,WY,202306,1556.15,0.0005,0.0541,Cheyenne,"Cheyenne, WY",Laramie County
+93858,82009,WY,202307,1568.01,0.0076,0.056,Cheyenne,"Cheyenne, WY",Laramie County
+93858,82009,WY,202308,1575.4,0.0047,0.0623,Cheyenne,"Cheyenne, WY",Laramie County
+93858,82009,WY,202309,1574.97,-0.0003,0.0588,Cheyenne,"Cheyenne, WY",Laramie County
+93858,82009,WY,202310,1581.83,0.0044,0.0598,Cheyenne,"Cheyenne, WY",Laramie County
+93858,82009,WY,202311,1582.37,0.0003,0.0582,Cheyenne,"Cheyenne, WY",Laramie County
+93858,82009,WY,202312,1610.51,0.0178,0.0832,Cheyenne,"Cheyenne, WY",Laramie County
+93858,82009,WY,202401,1590.74,-0.0123,0.0664,Cheyenne,"Cheyenne, WY",Laramie County
+93858,82009,WY,202402,1596.13,0.0034,0.0724,Cheyenne,"Cheyenne, WY",Laramie County
+93858,82009,WY,202403,1582.9,-0.0083,0.0434,Cheyenne,"Cheyenne, WY",Laramie County
+93858,82009,WY,202404,1582.8,-0.0001,0.034,Cheyenne,"Cheyenne, WY",Laramie County
+93858,82009,WY,202405,1597.38,0.0092,0.027,Cheyenne,"Cheyenne, WY",Laramie County
+93858,82009,WY,202406,1606.11,0.0055,0.0321,Cheyenne,"Cheyenne, WY",Laramie County
+93858,82009,WY,202407,1646.23,0.025,0.0499,Cheyenne,"Cheyenne, WY",Laramie County
+93858,82009,WY,202408,1645.8,-0.0003,0.0447,Cheyenne,"Cheyenne, WY",Laramie County
+93858,82009,WY,202409,1656.09,0.0063,0.0515,Cheyenne,"Cheyenne, WY",Laramie County
+93858,82009,WY,202410,1647.57,-0.0051,0.0416,Cheyenne,"Cheyenne, WY",Laramie County
+93858,82009,WY,202411,1665.71,0.011,0.0527,Cheyenne,"Cheyenne, WY",Laramie County
+93858,82009,WY,202412,1658.45,-0.0044,0.0298,Cheyenne,"Cheyenne, WY",Laramie County
+93858,82009,WY,202501,1664.34,0.0035,0.0463,Cheyenne,"Cheyenne, WY",Laramie County
+93858,82009,WY,202502,1666.36,0.0012,0.044,Cheyenne,"Cheyenne, WY",Laramie County
+93858,82009,WY,202503,1685.23,0.0113,0.0646,Cheyenne,"Cheyenne, WY",Laramie County
+93858,82009,WY,202504,1697.2,0.0071,0.0723,Cheyenne,"Cheyenne, WY",Laramie County
+93858,82009,WY,202505,1740.82,0.0257,0.0898,Cheyenne,"Cheyenne, WY",Laramie County
+93858,82009,WY,202506,1757.5,0.0096,0.0943,Cheyenne,"Cheyenne, WY",Laramie County
+93858,82009,WY,202507,1774.7,0.0098,0.078,Cheyenne,"Cheyenne, WY",Laramie County
+93858,82009,WY,202508,1769.69,-0.0028,0.0753,Cheyenne,"Cheyenne, WY",Laramie County
+93858,82009,WY,202509,1749.09,-0.0116,0.0562,Cheyenne,"Cheyenne, WY",Laramie County
+93858,82009,WY,202510,1742.35,-0.0039,0.0575,Cheyenne,"Cheyenne, WY",Laramie County
+93858,82009,WY,202511,1722.58,-0.0113,0.0341,Cheyenne,"Cheyenne, WY",Laramie County
+93858,82009,WY,202512,1757.19,0.0201,0.0595,Cheyenne,"Cheyenne, WY",Laramie County
+93858,82009,WY,202601,1779.44,0.0127,0.0692,Cheyenne,"Cheyenne, WY",Laramie County
+93858,82009,WY,202602,1807.78,0.0159,0.0849,Cheyenne,"Cheyenne, WY",Laramie County
+93858,82009,WY,202603,1801.06,-0.0037,0.0687,Cheyenne,"Cheyenne, WY",Laramie County
+93858,82009,WY,202604,1808.12,0.0039,0.0654,Cheyenne,"Cheyenne, WY",Laramie County
+93871,82070,WY,202402,1055.11,,,Laramie,"Laramie, WY",Albany County
+93871,82070,WY,202403,1052.1,-0.0029,,Laramie,"Laramie, WY",Albany County
+93871,82070,WY,202404,1067.71,0.0148,,Laramie,"Laramie, WY",Albany County
+93871,82070,WY,202405,1060.51,-0.0067,,Laramie,"Laramie, WY",Albany County
+93871,82070,WY,202406,1053.29,-0.0068,,Laramie,"Laramie, WY",Albany County
+93871,82070,WY,202407,1061.03,0.0074,,Laramie,"Laramie, WY",Albany County
+93871,82070,WY,202408,1078.61,0.0166,,Laramie,"Laramie, WY",Albany County
+93871,82070,WY,202409,1070.27,-0.0077,,Laramie,"Laramie, WY",Albany County
+93871,82070,WY,202410,1056.73,-0.0126,,Laramie,"Laramie, WY",Albany County
+93871,82070,WY,202411,1037.22,-0.0185,,Laramie,"Laramie, WY",Albany County
+93871,82070,WY,202412,1053.25,0.0155,,Laramie,"Laramie, WY",Albany County
+93871,82070,WY,202501,1061.98,0.0083,,Laramie,"Laramie, WY",Albany County
+93871,82070,WY,202502,1085.46,0.0221,0.0288,Laramie,"Laramie, WY",Albany County
+93871,82070,WY,202503,1086.0,0.0005,0.0322,Laramie,"Laramie, WY",Albany County
+93871,82070,WY,202504,1109.01,0.0212,0.0387,Laramie,"Laramie, WY",Albany County
+93871,82070,WY,202505,1106.92,-0.0019,0.0438,Laramie,"Laramie, WY",Albany County
+93871,82070,WY,202506,1114.17,0.0065,0.0578,Laramie,"Laramie, WY",Albany County
+93871,82070,WY,202507,1127.94,0.0124,0.0631,Laramie,"Laramie, WY",Albany County
+93871,82070,WY,202508,1125.47,-0.0022,0.0434,Laramie,"Laramie, WY",Albany County
+93871,82070,WY,202509,1121.53,-0.0035,0.0479,Laramie,"Laramie, WY",Albany County
+93871,82070,WY,202510,1088.57,-0.0294,0.0301,Laramie,"Laramie, WY",Albany County
+93871,82070,WY,202511,1081.8,-0.0062,0.043,Laramie,"Laramie, WY",Albany County
+93871,82070,WY,202512,1084.17,0.0022,0.0294,Laramie,"Laramie, WY",Albany County
+93871,82070,WY,202601,1107.19,0.0212,0.0426,Laramie,"Laramie, WY",Albany County
+93871,82070,WY,202602,1127.0,0.0179,0.0383,Laramie,"Laramie, WY",Albany County
+93871,82070,WY,202603,1133.25,0.0055,0.0435,Laramie,"Laramie, WY",Albany County
+93871,82070,WY,202604,1148.69,0.0136,0.0358,Laramie,"Laramie, WY",Albany County
+93873,82072,WY,202402,956.42,,,Laramie,"Laramie, WY",Albany County
+93873,82072,WY,202403,965.08,0.0091,,Laramie,"Laramie, WY",Albany County
+93873,82072,WY,202404,1001.27,0.0375,,Laramie,"Laramie, WY",Albany County
+93873,82072,WY,202405,1004.73,0.0035,,Laramie,"Laramie, WY",Albany County
+93873,82072,WY,202406,1010.12,0.0054,,Laramie,"Laramie, WY",Albany County
+93873,82072,WY,202407,1007.3,-0.0028,,Laramie,"Laramie, WY",Albany County
+93873,82072,WY,202408,1021.48,0.0141,,Laramie,"Laramie, WY",Albany County
+93873,82072,WY,202409,1009.4,-0.0118,,Laramie,"Laramie, WY",Albany County
+93873,82072,WY,202410,1004.87,-0.0045,,Laramie,"Laramie, WY",Albany County
+93873,82072,WY,202411,1030.45,0.0255,,Laramie,"Laramie, WY",Albany County
+93873,82072,WY,202412,1051.67,0.0206,,Laramie,"Laramie, WY",Albany County
+93873,82072,WY,202501,1052.7,0.001,,Laramie,"Laramie, WY",Albany County
+93873,82072,WY,202502,1030.31,-0.0213,0.0772,Laramie,"Laramie, WY",Albany County
+93873,82072,WY,202503,1040.82,0.0102,0.0785,Laramie,"Laramie, WY",Albany County
+93873,82072,WY,202504,1073.95,0.0318,0.0726,Laramie,"Laramie, WY",Albany County
+93873,82072,WY,202505,1085.32,0.0106,0.0802,Laramie,"Laramie, WY",Albany County
+93873,82072,WY,202506,1089.66,0.004,0.0787,Laramie,"Laramie, WY",Albany County
+93873,82072,WY,202507,1082.49,-0.0066,0.0746,Laramie,"Laramie, WY",Albany County
+93873,82072,WY,202508,1125.48,0.0397,0.1018,Laramie,"Laramie, WY",Albany County
+93873,82072,WY,202509,1110.45,-0.0133,0.1001,Laramie,"Laramie, WY",Albany County
+93873,82072,WY,202510,1075.9,-0.0311,0.0707,Laramie,"Laramie, WY",Albany County
+93873,82072,WY,202511,1041.57,-0.0319,0.0108,Laramie,"Laramie, WY",Albany County
+93873,82072,WY,202512,1051.92,0.0099,0.0002,Laramie,"Laramie, WY",Albany County
+93873,82072,WY,202601,1085.01,0.0315,0.0307,Laramie,"Laramie, WY",Albany County
+93873,82072,WY,202602,1077.72,-0.0067,0.046,Laramie,"Laramie, WY",Albany County
+93873,82072,WY,202603,1110.07,0.03,0.0665,Laramie,"Laramie, WY",Albany County
+93873,82072,WY,202604,1128.17,0.0163,0.0505,Laramie,"Laramie, WY",Albany County
+93918,82414,WY,202601,1323.8,,,Cody,,Park County
+93918,82414,WY,202602,1353.1,0.0221,,Cody,,Park County
+93918,82414,WY,202604,1355.17,0.0015,,Cody,,Park County
+93936,82501,WY,202603,860.42,,,Riverton,"Riverton, WY",Fremont County
+93936,82501,WY,202604,832.5,-0.0324,,Riverton,"Riverton, WY",Fremont County
+93946,82601,WY,202303,1047.98,,,Casper,"Casper, WY",Natrona County
+93946,82601,WY,202304,1035.52,-0.0119,,Casper,"Casper, WY",Natrona County
+93946,82601,WY,202305,1043.42,0.0076,,Casper,"Casper, WY",Natrona County
+93946,82601,WY,202306,1055.75,0.0118,,Casper,"Casper, WY",Natrona County
+93946,82601,WY,202307,1067.19,0.0108,,Casper,"Casper, WY",Natrona County
+93946,82601,WY,202308,1083.52,0.0153,,Casper,"Casper, WY",Natrona County
+93946,82601,WY,202309,1077.89,-0.0052,,Casper,"Casper, WY",Natrona County
+93946,82601,WY,202310,1089.19,0.0105,,Casper,"Casper, WY",Natrona County
+93946,82601,WY,202311,1086.57,-0.0024,,Casper,"Casper, WY",Natrona County
+93946,82601,WY,202312,1099.7,0.0121,,Casper,"Casper, WY",Natrona County
+93946,82601,WY,202401,1104.38,0.0043,,Casper,"Casper, WY",Natrona County
+93946,82601,WY,202402,1111.5,0.0064,,Casper,"Casper, WY",Natrona County
+93946,82601,WY,202403,1156.37,0.0404,0.1034,Casper,"Casper, WY",Natrona County
+93946,82601,WY,202404,1162.95,0.0057,0.1231,Casper,"Casper, WY",Natrona County
+93946,82601,WY,202405,1163.83,0.0008,0.1154,Casper,"Casper, WY",Natrona County
+93946,82601,WY,202406,1138.41,-0.0218,0.0783,Casper,"Casper, WY",Natrona County
+93946,82601,WY,202407,1147.09,0.0076,0.0749,Casper,"Casper, WY",Natrona County
+93946,82601,WY,202408,1184.88,0.0329,0.0935,Casper,"Casper, WY",Natrona County
+93946,82601,WY,202409,1175.07,-0.0083,0.0902,Casper,"Casper, WY",Natrona County
+93946,82601,WY,202410,1190.71,0.0133,0.0932,Casper,"Casper, WY",Natrona County
+93946,82601,WY,202411,1163.34,-0.023,0.0707,Casper,"Casper, WY",Natrona County
+93946,82601,WY,202412,1177.56,0.0122,0.0708,Casper,"Casper, WY",Natrona County
+93946,82601,WY,202501,1158.23,-0.0164,0.0488,Casper,"Casper, WY",Natrona County
+93946,82601,WY,202502,1155.06,-0.0027,0.0392,Casper,"Casper, WY",Natrona County
+93946,82601,WY,202503,1146.55,-0.0074,-0.0085,Casper,"Casper, WY",Natrona County
+93946,82601,WY,202504,1177.2,0.0267,0.0122,Casper,"Casper, WY",Natrona County
+93946,82601,WY,202505,1207.98,0.0261,0.0379,Casper,"Casper, WY",Natrona County
+93946,82601,WY,202506,1222.13,0.0117,0.0735,Casper,"Casper, WY",Natrona County
+93946,82601,WY,202507,1237.55,0.0126,0.0789,Casper,"Casper, WY",Natrona County
+93946,82601,WY,202508,1243.54,0.0048,0.0495,Casper,"Casper, WY",Natrona County
+93946,82601,WY,202509,1274.42,0.0248,0.0845,Casper,"Casper, WY",Natrona County
+93946,82601,WY,202510,1241.81,-0.0256,0.0429,Casper,"Casper, WY",Natrona County
+93946,82601,WY,202511,1228.68,-0.0106,0.0562,Casper,"Casper, WY",Natrona County
+93946,82601,WY,202512,1194.54,-0.0278,0.0144,Casper,"Casper, WY",Natrona County
+93946,82601,WY,202601,1203.05,0.0071,0.0387,Casper,"Casper, WY",Natrona County
+93946,82601,WY,202602,1229.83,0.0223,0.0647,Casper,"Casper, WY",Natrona County
+93946,82601,WY,202603,1254.1,0.0197,0.0938,Casper,"Casper, WY",Natrona County
+93946,82601,WY,202604,1257.83,0.003,0.0685,Casper,"Casper, WY",Natrona County
+93948,82604,WY,202512,1310.92,,,Casper,"Casper, WY",Natrona County
+93948,82604,WY,202601,1322.79,0.0091,,Casper,"Casper, WY",Natrona County
+93948,82604,WY,202602,1409.3,0.0654,,Casper,"Casper, WY",Natrona County
+93948,82604,WY,202603,1410.02,0.0005,,Casper,"Casper, WY",Natrona County
+93948,82604,WY,202604,1440.0,0.0213,,Casper,"Casper, WY",Natrona County
+93950,82609,WY,202102,940.05,,,Casper,"Casper, WY",Natrona County
+93950,82609,WY,202103,957.08,0.0181,,Casper,"Casper, WY",Natrona County
+93950,82609,WY,202104,974.86,0.0186,,Casper,"Casper, WY",Natrona County
+93950,82609,WY,202105,998.53,0.0243,,Casper,"Casper, WY",Natrona County
+93950,82609,WY,202106,1031.5,0.033,,Casper,"Casper, WY",Natrona County
+93950,82609,WY,202107,1070.48,0.0378,,Casper,"Casper, WY",Natrona County
+93950,82609,WY,202108,1098.62,0.0263,,Casper,"Casper, WY",Natrona County
+93950,82609,WY,202109,1098.01,-0.0006,,Casper,"Casper, WY",Natrona County
+93950,82609,WY,202110,1086.94,-0.0101,,Casper,"Casper, WY",Natrona County
+93950,82609,WY,202111,1068.75,-0.0167,,Casper,"Casper, WY",Natrona County
+93950,82609,WY,202112,1077.33,0.008,,Casper,"Casper, WY",Natrona County
+93950,82609,WY,202201,1071.52,-0.0054,,Casper,"Casper, WY",Natrona County
+93950,82609,WY,202202,1098.29,0.025,0.1683,Casper,"Casper, WY",Natrona County
+93950,82609,WY,202203,1101.73,0.0031,0.1511,Casper,"Casper, WY",Natrona County
+93950,82609,WY,202204,1130.38,0.026,0.1595,Casper,"Casper, WY",Natrona County
+93950,82609,WY,202205,1134.59,0.0037,0.1363,Casper,"Casper, WY",Natrona County
+93950,82609,WY,202206,1174.73,0.0354,0.1389,Casper,"Casper, WY",Natrona County
+93950,82609,WY,202207,1183.43,0.0074,0.1055,Casper,"Casper, WY",Natrona County
+93950,82609,WY,202208,1167.12,-0.0138,0.0624,Casper,"Casper, WY",Natrona County
+93950,82609,WY,202209,1144.43,-0.0194,0.0423,Casper,"Casper, WY",Natrona County
+93950,82609,WY,202210,1148.48,0.0035,0.0566,Casper,"Casper, WY",Natrona County
+93950,82609,WY,202211,1159.42,0.0095,0.0848,Casper,"Casper, WY",Natrona County
+93950,82609,WY,202212,1140.56,-0.0163,0.0587,Casper,"Casper, WY",Natrona County
+93950,82609,WY,202301,1116.18,-0.0214,0.0417,Casper,"Casper, WY",Natrona County
+93950,82609,WY,202302,1124.64,0.0076,0.024,Casper,"Casper, WY",Natrona County
+93950,82609,WY,202303,1161.05,0.0324,0.0538,Casper,"Casper, WY",Natrona County
+93950,82609,WY,202304,1215.99,0.0473,0.0757,Casper,"Casper, WY",Natrona County
+93950,82609,WY,202305,1253.6,0.0309,0.1049,Casper,"Casper, WY",Natrona County
+93950,82609,WY,202306,1297.3,0.0349,0.1043,Casper,"Casper, WY",Natrona County
+93950,82609,WY,202307,1325.36,0.0216,0.1199,Casper,"Casper, WY",Natrona County
+93950,82609,WY,202308,1329.41,0.0031,0.139,Casper,"Casper, WY",Natrona County
+93950,82609,WY,202309,1311.56,-0.0134,0.146,Casper,"Casper, WY",Natrona County
+93950,82609,WY,202310,1273.55,-0.029,0.1089,Casper,"Casper, WY",Natrona County
+93950,82609,WY,202311,1223.87,-0.039,0.0556,Casper,"Casper, WY",Natrona County
+93950,82609,WY,202312,1170.72,-0.0434,0.0264,Casper,"Casper, WY",Natrona County
+93950,82609,WY,202401,1153.15,-0.015,0.0331,Casper,"Casper, WY",Natrona County
+93950,82609,WY,202402,1197.37,0.0383,0.0647,Casper,"Casper, WY",Natrona County
+93950,82609,WY,202403,1257.21,0.05,0.0828,Casper,"Casper, WY",Natrona County
+93950,82609,WY,202404,1305.02,0.038,0.0732,Casper,"Casper, WY",Natrona County
+93950,82609,WY,202405,1326.29,0.0163,0.058,Casper,"Casper, WY",Natrona County
+93950,82609,WY,202406,1337.44,0.0084,0.0309,Casper,"Casper, WY",Natrona County
+93950,82609,WY,202407,1355.13,0.0132,0.0225,Casper,"Casper, WY",Natrona County
+93950,82609,WY,202408,1350.81,-0.0032,0.0161,Casper,"Casper, WY",Natrona County
+93950,82609,WY,202409,1335.18,-0.0116,0.018,Casper,"Casper, WY",Natrona County
+93950,82609,WY,202410,1329.5,-0.0043,0.0439,Casper,"Casper, WY",Natrona County
+93950,82609,WY,202411,1312.98,-0.0124,0.0728,Casper,"Casper, WY",Natrona County
+93950,82609,WY,202412,1285.71,-0.0208,0.0982,Casper,"Casper, WY",Natrona County
+93950,82609,WY,202501,1237.96,-0.0371,0.0736,Casper,"Casper, WY",Natrona County
+93950,82609,WY,202502,1231.46,-0.0053,0.0285,Casper,"Casper, WY",Natrona County
+93950,82609,WY,202503,1261.3,0.0242,0.0033,Casper,"Casper, WY",Natrona County
+93950,82609,WY,202504,1308.95,0.0378,0.003,Casper,"Casper, WY",Natrona County
+93950,82609,WY,202505,1357.93,0.0374,0.0239,Casper,"Casper, WY",Natrona County
+93950,82609,WY,202506,1380.94,0.0169,0.0325,Casper,"Casper, WY",Natrona County
+93950,82609,WY,202507,1385.09,0.003,0.0221,Casper,"Casper, WY",Natrona County
+93950,82609,WY,202508,1373.11,-0.0087,0.0165,Casper,"Casper, WY",Natrona County
+93950,82609,WY,202509,1373.76,0.0005,0.0289,Casper,"Casper, WY",Natrona County
+93950,82609,WY,202510,1357.92,-0.0115,0.0214,Casper,"Casper, WY",Natrona County
+93950,82609,WY,202511,1339.64,-0.0135,0.0203,Casper,"Casper, WY",Natrona County
+93950,82609,WY,202512,1334.94,-0.0035,0.0383,Casper,"Casper, WY",Natrona County
+93950,82609,WY,202601,1311.56,-0.0175,0.0594,Casper,"Casper, WY",Natrona County
+93950,82609,WY,202602,1302.01,-0.0073,0.0573,Casper,"Casper, WY",Natrona County
+93950,82609,WY,202603,1293.73,-0.0064,0.0257,Casper,"Casper, WY",Natrona County
+93950,82609,WY,202604,1317.31,0.0182,0.0064,Casper,"Casper, WY",Natrona County
+93974,82716,WY,202508,1084.86,,,Gillette,"Gillette, WY",Campbell County
+93974,82716,WY,202509,1072.08,-0.0118,,Gillette,"Gillette, WY",Campbell County
+93974,82716,WY,202510,1079.77,0.0072,,Gillette,"Gillette, WY",Campbell County
+93974,82716,WY,202511,1088.48,0.0081,,Gillette,"Gillette, WY",Campbell County
+93974,82716,WY,202512,1099.37,0.01,,Gillette,"Gillette, WY",Campbell County
+93974,82716,WY,202601,1102.09,0.0025,,Gillette,"Gillette, WY",Campbell County
+93974,82716,WY,202602,1103.33,0.0011,,Gillette,"Gillette, WY",Campbell County
+93974,82716,WY,202603,1108.56,0.0047,,Gillette,"Gillette, WY",Campbell County
+93974,82716,WY,202604,1115.28,0.0061,,Gillette,"Gillette, WY",Campbell County
+93976,82718,WY,202512,1285.36,,,Gillette,"Gillette, WY",Campbell County
+93976,82718,WY,202601,1274.68,-0.0083,,Gillette,"Gillette, WY",Campbell County
+93976,82718,WY,202602,1305.01,0.0238,,Gillette,"Gillette, WY",Campbell County
+93976,82718,WY,202603,1297.27,-0.0059,,Gillette,"Gillette, WY",Campbell County
+93976,82718,WY,202604,1340.11,0.033,,Gillette,"Gillette, WY",Campbell County
+94000,82901,WY,202005,748.23,,,Rock Springs,"Rock Springs, WY",Sweetwater County
+94000,82901,WY,202006,743.14,-0.0068,,Rock Springs,"Rock Springs, WY",Sweetwater County
+94000,82901,WY,202008,770.52,0.0369,,Rock Springs,"Rock Springs, WY",Sweetwater County
+94000,82901,WY,202009,770.32,-0.0003,,Rock Springs,"Rock Springs, WY",Sweetwater County
+94000,82901,WY,202010,756.99,-0.0173,,Rock Springs,"Rock Springs, WY",Sweetwater County
+94000,82901,WY,202011,753.94,-0.004,,Rock Springs,"Rock Springs, WY",Sweetwater County
+94000,82901,WY,202012,755.27,0.0018,,Rock Springs,"Rock Springs, WY",Sweetwater County
+94000,82901,WY,202101,742.39,-0.0171,,Rock Springs,"Rock Springs, WY",Sweetwater County
+94000,82901,WY,202102,729.81,-0.0169,,Rock Springs,"Rock Springs, WY",Sweetwater County
+94000,82901,WY,202103,727.54,-0.0031,,Rock Springs,"Rock Springs, WY",Sweetwater County
+94000,82901,WY,202104,749.41,0.0301,,Rock Springs,"Rock Springs, WY",Sweetwater County
+94000,82901,WY,202105,770.07,0.0276,,Rock Springs,"Rock Springs, WY",Sweetwater County
+94000,82901,WY,202106,801.79,0.0412,0.0716,Rock Springs,"Rock Springs, WY",Sweetwater County
+94000,82901,WY,202107,835.59,0.0422,0.1244,Rock Springs,"Rock Springs, WY",Sweetwater County
+94000,82901,WY,202108,861.23,0.0307,0.1177,Rock Springs,"Rock Springs, WY",Sweetwater County
+94000,82901,WY,202109,860.39,-0.001,0.1169,Rock Springs,"Rock Springs, WY",Sweetwater County
+94000,82901,WY,202110,848.48,-0.0138,0.1209,Rock Springs,"Rock Springs, WY",Sweetwater County
+94000,82901,WY,202111,848.14,-0.0004,0.1249,Rock Springs,"Rock Springs, WY",Sweetwater County
+94000,82901,WY,202112,858.03,0.0117,0.136,Rock Springs,"Rock Springs, WY",Sweetwater County
+94000,82901,WY,202202,866.13,0.0094,0.1667,Rock Springs,"Rock Springs, WY",Sweetwater County
+94000,82901,WY,202203,875.49,0.0108,0.1996,Rock Springs,"Rock Springs, WY",Sweetwater County
+94000,82901,WY,202204,878.92,0.0039,0.2081,Rock Springs,"Rock Springs, WY",Sweetwater County
+94000,82901,WY,202205,896.13,0.0196,0.1958,Rock Springs,"Rock Springs, WY",Sweetwater County
+94000,82901,WY,202206,911.81,0.0175,0.1841,Rock Springs,"Rock Springs, WY",Sweetwater County
+94000,82901,WY,202207,941.71,0.0328,0.1745,Rock Springs,"Rock Springs, WY",Sweetwater County
+94000,82901,WY,202208,969.97,0.03,0.1608,Rock Springs,"Rock Springs, WY",Sweetwater County
+94000,82901,WY,202209,985.09,0.0156,0.1438,Rock Springs,"Rock Springs, WY",Sweetwater County
+94000,82901,WY,202210,983.38,-0.0017,0.1429,Rock Springs,"Rock Springs, WY",Sweetwater County
+94000,82901,WY,202211,981.58,-0.0018,0.1569,Rock Springs,"Rock Springs, WY",Sweetwater County
+94000,82901,WY,202212,981.75,0.0002,0.1575,Rock Springs,"Rock Springs, WY",Sweetwater County
+94000,82901,WY,202301,970.05,-0.0119,0.1306,Rock Springs,"Rock Springs, WY",Sweetwater County
+94000,82901,WY,202302,958.41,-0.012,0.1065,Rock Springs,"Rock Springs, WY",Sweetwater County
+94000,82901,WY,202304,959.97,0.0016,0.0965,Rock Springs,"Rock Springs, WY",Sweetwater County
+94000,82901,WY,202305,967.14,0.0075,0.1004,Rock Springs,"Rock Springs, WY",Sweetwater County
+94000,82901,WY,202306,986.51,0.02,0.1009,Rock Springs,"Rock Springs, WY",Sweetwater County
+94000,82901,WY,202307,1000.79,0.0145,0.0976,Rock Springs,"Rock Springs, WY",Sweetwater County
+94000,82901,WY,202308,1006.7,0.0059,0.069,Rock Springs,"Rock Springs, WY",Sweetwater County
+94000,82901,WY,202309,1015.07,0.0083,0.0465,Rock Springs,"Rock Springs, WY",Sweetwater County
+94000,82901,WY,202310,1011.14,-0.0039,0.0264,Rock Springs,"Rock Springs, WY",Sweetwater County
+94000,82901,WY,202311,1001.22,-0.0098,0.0181,Rock Springs,"Rock Springs, WY",Sweetwater County
+94000,82901,WY,202312,985.72,-0.0155,0.0042,Rock Springs,"Rock Springs, WY",Sweetwater County
+94000,82901,WY,202401,944.23,-0.0421,-0.0382,Rock Springs,"Rock Springs, WY",Sweetwater County
+94000,82901,WY,202402,941.63,-0.0027,-0.0293,Rock Springs,"Rock Springs, WY",Sweetwater County
+94000,82901,WY,202403,928.13,-0.0143,-0.0316,Rock Springs,"Rock Springs, WY",Sweetwater County
+94000,82901,WY,202404,958.05,0.0322,-0.002,Rock Springs,"Rock Springs, WY",Sweetwater County
+94000,82901,WY,202405,976.98,0.0198,0.0102,Rock Springs,"Rock Springs, WY",Sweetwater County
+94000,82901,WY,202406,1004.29,0.028,0.018,Rock Springs,"Rock Springs, WY",Sweetwater County
+94000,82901,WY,202407,1029.75,0.0253,0.0289,Rock Springs,"Rock Springs, WY",Sweetwater County
+94000,82901,WY,202408,1052.54,0.0221,0.0455,Rock Springs,"Rock Springs, WY",Sweetwater County
+94000,82901,WY,202409,1048.21,-0.0041,0.0326,Rock Springs,"Rock Springs, WY",Sweetwater County
+94000,82901,WY,202410,1055.84,0.0073,0.0442,Rock Springs,"Rock Springs, WY",Sweetwater County
+94000,82901,WY,202411,1053.61,-0.0021,0.0523,Rock Springs,"Rock Springs, WY",Sweetwater County
+94000,82901,WY,202412,1090.43,0.035,0.1062,Rock Springs,"Rock Springs, WY",Sweetwater County
+94000,82901,WY,202501,1084.2,-0.0057,0.1482,Rock Springs,"Rock Springs, WY",Sweetwater County
+94000,82901,WY,202502,1077.56,-0.0061,0.1443,Rock Springs,"Rock Springs, WY",Sweetwater County
+94000,82901,WY,202503,1074.44,-0.0029,0.1576,Rock Springs,"Rock Springs, WY",Sweetwater County
+94000,82901,WY,202504,1085.0,0.0098,0.1325,Rock Springs,"Rock Springs, WY",Sweetwater County
+94000,82901,WY,202505,1081.34,-0.0034,0.1068,Rock Springs,"Rock Springs, WY",Sweetwater County
+94000,82901,WY,202506,1069.58,-0.0109,0.065,Rock Springs,"Rock Springs, WY",Sweetwater County
+94000,82901,WY,202507,1053.1,-0.0154,0.0227,Rock Springs,"Rock Springs, WY",Sweetwater County
+94000,82901,WY,202508,1060.21,0.0067,0.0073,Rock Springs,"Rock Springs, WY",Sweetwater County
+94000,82901,WY,202509,1064.96,0.0045,0.016,Rock Springs,"Rock Springs, WY",Sweetwater County
+94000,82901,WY,202510,1053.41,-0.0108,-0.0023,Rock Springs,"Rock Springs, WY",Sweetwater County
+94000,82901,WY,202511,1040.04,-0.0127,-0.0129,Rock Springs,"Rock Springs, WY",Sweetwater County
+94000,82901,WY,202512,1023.66,-0.0157,-0.0612,Rock Springs,"Rock Springs, WY",Sweetwater County
+94000,82901,WY,202601,1030.21,0.0064,-0.0498,Rock Springs,"Rock Springs, WY",Sweetwater County
+94000,82901,WY,202602,1046.9,0.0162,-0.0284,Rock Springs,"Rock Springs, WY",Sweetwater County
+94000,82901,WY,202603,1050.64,0.0036,-0.0222,Rock Springs,"Rock Springs, WY",Sweetwater County
+94000,82901,WY,202604,1038.78,-0.0113,-0.0426,Rock Springs,"Rock Springs, WY",Sweetwater County
+94021,83001,WY,202602,5278.95,,,Jackson,"Jackson, WY-ID",Teton County
+94021,83001,WY,202603,5018.32,-0.0494,,Jackson,"Jackson, WY-ID",Teton County
+94021,83001,WY,202604,4813.89,-0.0407,,Jackson,"Jackson, WY-ID",Teton County
